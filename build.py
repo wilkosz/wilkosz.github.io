@@ -146,16 +146,16 @@ def render_portfolio(holdings, status):
     for h in holdings:
         t = takes.get(h["ticker"], {})
         rows.append(
-            "<tr><td><b>%s</b>:%s</td><td>%s</td><td>%s</td><td>%s</td><td>%s</td></tr>"
+            "<tr><td><b>%s</b>:%s</td><td>%s</td><td>%s</td></tr>"
             % (
-                e(h["ticker"]), e(h["exchange"]), e(h["name"]), e(h["sector"]),
+                e(h["ticker"]), e(h["exchange"]),
                 e(h["units"] if h.get("units") is not None else "-"),
                 ("<b>%s</b> &mdash; %s" % (e(t.get("take")), e(t.get("reason")))) if t else "-",
             )
         )
     return (
         '<table border="1" cellpadding="4" cellspacing="0">\n'
-        "<tr><th>ticker</th><th>name</th><th>sector</th><th>units</th><th>agent take</th></tr>\n"
+        "<tr><th>ticker</th><th>units</th><th>agent take</th></tr>\n"
         + "\n".join(rows)
         + "\n</table>\n"
     )

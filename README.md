@@ -29,6 +29,9 @@ From this directory in Claude Code:
 /loop 6h /market-research        # keep the session open and re-run every 6 hours
 ```
 
+Skills are discovered when a session starts, so run these from a fresh session (or use the
+long-form prompt: "read .claude/skills/market-research/SKILL.md and follow it").
+
 Instructions after the command are treated as owner instructions for that run,
 e.g. `/market-research add 10 units of NVDA` or `/market-research focus on nuclear this run`.
 
