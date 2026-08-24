@@ -1,0 +1,30 @@
+{
+  "name": "Joshua Wilkosz",
+  "tagline": "Engineer. Builder. Melbourne / Boston.",
+  "bio": "Software engineer and technology lead. Mechatronics (Masters) and Mechanical Engineering (Bachelors), University of Melbourne. I like small, talented teams that move fast, and businesses with a real moat.",
+  "builds": [
+    {
+      "name": "DocHub",
+      "url": "https://dochub.com",
+      "role": "Joint Technology Lead (2017 - present)",
+      "why": "Compliance is a fantastic moat. We move incredibly fast with a small, talented team and serve over 140 million users."
+    },
+    {
+      "name": "PurpleGrain",
+      "url": "https://purplegrain.com",
+      "role": "Founder (2023 - present)",
+      "why": "I grew up in agriculture and love supporting the industry. A marketplace connecting agricultural service providers with farmers."
+    },
+    {
+      "name": "EarthPath",
+      "url": null,
+      "role": "Founder (early)",
+      "why": "Energy resilience and eco-friendly solutions are going to be our focus as a civilisation if we are to keep living on this planet."
+    }
+  ],
+  "links": [
+    {"label": "github.com/wilkosz", "url": "https://github.com/wilkosz"},
+    {"label": "linkedin.com/in/wilkosz", "url": "https://www.linkedin.com/in/wilkosz"},
+    {"label": "joshua@wilkosz.com.au", "url": "mailto:joshua@wilkosz.com.au"}
+  ]
+}

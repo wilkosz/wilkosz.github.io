@@ -1,0 +1,530 @@
+[
+  {
+    "date": "2026-08-24",
+    "headline": "Chairman Tsai and CEO Wu buy ~$15M of shares after the offering",
+    "summary": "Joseph Tsai bought HK$81M and Eddie Wu HK$39M of stock following the slump; the same day a securities class action over MIIT ties and AI-distillation risk disclosures was flagged.",
+    "source": "https://www.bloomberg.com/news/articles/2026-08-24/alibaba-executives-buy-15-million-in-shares-after-new-offering",
+    "impact": "positive",
+    "ticker": "BABA"
+  },
+  {
+    "date": "2026-08-24",
+    "headline": "Micron drops 7.1% to $897.77 as investors de-risk high-beta tech ahead of Nvidia earnings",
+    "summary": "Selloff came despite reports that Micron's 2026 output is already sold; bulls argue higher HBM content in Vera Rubin could re-accelerate the stock after Aug 26.",
+    "source": "https://easternherald.com/2026/08/24/mu-stock-price-today-august-24-2026/",
+    "impact": "negative",
+    "ticker": "MU"
+  },
+  {
+    "date": "2026-08-24",
+    "headline": "Nvidia slides 2.3% to $209.81 ahead of Wednesday's earnings",
+    "summary": "Broad tech weakness and worries about chip price increases hitting customers pushed shares toward the company's own $91B revenue guidance narrative.",
+    "source": "https://easternherald.com/2026/08/24/nvda-stock-price-today-august-24-2026/",
+    "impact": "negative",
+    "ticker": "NVDA"
+  },
+  {
+    "date": "2026-08-24",
+    "headline": "Xiaomi launches Xring O3 chip on TSMC 3nm; also contracts O100 NPU and D100 automotive chips",
+    "summary": "Reuters sources say TSMC will build Xiaomi's new flagship processor for a folding phone (200-300K units) plus 6nm and 3nm AI/auto chips.",
+    "source": "https://finance.yahoo.com/technology/articles/xiaomi-launches-new-xring-chip-partners-with-tsmc-for-production-sources-say-062221305.html",
+    "impact": "positive",
+    "ticker": "TSM"
+  },
+  {
+    "date": "2026-08-24",
+    "headline": "TSM trades at $407.39, about 15% below its June 30 all-time high of $477.57",
+    "summary": "Shares fell from a $418.95 close on Aug 21 amid a broad semiconductor pullback ahead of Nvidia earnings; 2026 capex guidance was raised ~$8B to ~$62B midpoint with $100B more earmarked for Arizona.",
+    "source": "https://stockanalysis.com/stocks/tsm/",
+    "impact": "neutral",
+    "ticker": "TSM"
+  },
+  {
+    "date": "2026-08-24",
+    "headline": "iPhone 18 Pro and foldable 'iPhone Ultra' event expected around Sept 9; invites imminent",
+    "summary": "Bloomberg's Mark Gurman says Apple's fall event will be held on or around Wednesday Sept 9, with invitations possibly going out Aug 26; expected products include iPhone 18 Pro/Pro Max, the first foldable iPhone Ultra (limited supply), Apple Watch Series 12 and Ultra 4, and new home devices.",
+    "source": "https://www.macrumors.com/2026/08/24/iphone-18-pro-iphone-ultra-apple-event-when/",
+    "impact": "positive",
+    "ticker": "AAPL"
+  },
+  {
+    "date": "2026-08-23",
+    "headline": "Alibaba announces 710M-share placement at HK$112.70 (~HK$80B)",
+    "summary": "Placement with at least six non-US institutional investors, expected to close by Aug 26, to fund AI and cloud buildout; the raise pressured the shares.",
+    "source": "https://www.gurufocus.com/news/9048994/alibaba-baba-announces-major-share-placement-ahead-of-2026-deadline",
+    "impact": "negative",
+    "ticker": "BABA"
+  },
+  {
+    "date": "2026-08-22",
+    "headline": "OpenAI urges California to strengthen AI safety bill SB 53",
+    "summary": "Company asked lawmakers to require frontier-model incident monitoring and stronger cybersecurity protections; separately cut GPT-5.6 Sol pricing 20%+ and Luna pricing 80%.",
+    "source": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+    "impact": "neutral",
+    "ticker": "OPENAI"
+  },
+  {
+    "date": "2026-08-22",
+    "headline": "Netflix in talks to sell rival streaming subscriptions (Peacock, Fox One) in its app",
+    "summary": "Netflix has discussed offering NBCUniversal's Peacock and Fox One through its platform as it seeks to become the gateway for TV subscriptions; no deal is close. Shares rose on the report, having already gained after Netflix's 13.4% revenue growth quarter and a JPMorgan Buy rating.",
+    "source": "https://www.tipranks.com/news/netflix-stock-nflx-rises-on-report-it-may-sell-subscriptions-to-rival-streaming-services",
+    "impact": "positive",
+    "ticker": "NFLX"
+  },
+  {
+    "date": "2026-08-22",
+    "headline": "BYD unveils flagship Da Han sedan with 5-minute flash charging and 1,008 km range",
+    "summary": "At the Chengdu Auto Show BYD revealed the Da Han, a 5.26m luxury EV with a 102 kWh LFP pack that charges 10-70% in five minutes, up to 570 kW dual-motor output, LiDAR and rear-wheel steering, priced under about A$52,000; the same week it launched the Qin Max sedan and opened orders for the Sealion 08 SUV.",
+    "source": "https://thedriven.io/2026/08/22/byd-launches-its-most-luxurious-electric-sedan-with-5-minute-charging-and-1000-km-of-range/",
+    "impact": "positive",
+    "ticker": "BYD"
+  },
+  {
+    "date": "2026-08-21",
+    "headline": "Fiscal Q2 2027 preview: consensus $91.9-92.2B revenue, $2.08 EPS",
+    "summary": "Nvidia guided $91.0B plus or minus 2%; Street sits ~1% above the midpoint with data center AI accelerators the key driver. Report due after the close Aug 26.",
+    "source": "https://www.investing.com/news/stock-market-news/nvidia-fiscal-q2-2027-earnings-outlook-what-to-watch-on-august-26-93CH-4872130",
+    "impact": "neutral",
+    "ticker": "NVDA"
+  },
+  {
+    "date": "2026-08-21",
+    "headline": "Motley Fool: '2.3 trillion reasons' Nvidia could go parabolic after Aug 26",
+    "summary": "Bull case rests on hyperscaler capex commitments and the Vera Rubin ramp; stock up ~18% YTD before the recent pullback.",
+    "source": "https://www.fool.com/investing/2026/08/21/prediction-nvidia-stock-will-go-parabolic-after-aug-26-here-are-2-3-trillion-reasons-why/",
+    "impact": "positive",
+    "ticker": "NVDA"
+  },
+  {
+    "date": "2026-08-21",
+    "headline": "Robinhood jumps ~13% as tokenized-stock hopes and crypto rally add ~$12B in market value",
+    "summary": "Shares surged after CEO Vlad Tenev urged US regulators to allow onshore tokenized equity trading and reports emerged of an SEC 'innovation exemption' for 24/7 tokenized stock trading; Bitcoin's move toward $77K and a Goldman price-target hike to $123 added fuel.",
+    "source": "https://www.fool.com/investing/2026/08/21/vlad-tenev-asked-regulators-to-green-light-tokenized-stocks-robinhood-just-added-about-usd12-billion-in-market-value/",
+    "impact": "positive",
+    "ticker": "HOOD"
+  },
+  {
+    "date": "2026-08-20",
+    "headline": "Axos files Form 10-K for fiscal year ended June 30, 2026",
+    "summary": "Annual report filed with the SEC covering FY2026 performance; no surprises flagged.",
+    "source": "https://kalkinemedia.com/us/news/announcements/axos-financial-submits-2026-annual-report-detailing-fiscal-year-performance",
+    "impact": "neutral",
+    "ticker": "AXOS"
+  },
+  {
+    "date": "2026-08-20",
+    "headline": "Alibaba Q1 FY27 earnings miss: EPS $1.26 vs $1.85 consensus",
+    "summary": "Heavy AI capex and cloud investment weighed on profitability; results triggered a slide in the ADRs.",
+    "source": "https://public.com/stocks/baba/earnings",
+    "impact": "negative",
+    "ticker": "BABA"
+  },
+  {
+    "date": "2026-08-20",
+    "headline": "Goldman Sachs cuts loanDepot price target to $1 from $1.25, keeps Sell",
+    "summary": "Follows an earlier downgrade to Sell; shares trade around $0.87-$0.90.",
+    "source": "https://www.tipranks.com/stocks/ldi",
+    "impact": "negative",
+    "ticker": "LDI"
+  },
+  {
+    "date": "2026-08-20",
+    "headline": "Analyst reiterates Outperform with $855 target, says AI spending could unlock abundant revenue",
+    "summary": "Call implies ~57% upside from the Aug 18 price; stock is down ~17% YTD on AI capex concerns despite strong digital-ad results.",
+    "source": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/08/61322254/metas-ai-spending-could-unlock-abundant-revenue-analyst-says",
+    "impact": "positive",
+    "ticker": "META"
+  },
+  {
+    "date": "2026-08-20",
+    "headline": "Marvell slips 2.4% ahead of Aug 27 fiscal Q2 report amid AI-demand jitters",
+    "summary": "Consensus calls for ~$2.7B revenue and $0.93 adjusted EPS; traders are weighing the stock's high valuation after the run.",
+    "source": "https://stockstotrade.com/news/marvell-technology-inc-mrvl-news-2026_08_20/",
+    "impact": "neutral",
+    "ticker": "MRVL"
+  },
+  {
+    "date": "2026-08-20",
+    "headline": "RBC cuts Rocket price target to $15; Q3 guide of $2.5-2.7B below $2.91B consensus",
+    "summary": "Softer near-term outlook offset a Morgan Stanley upgrade to Overweight ($19 target) earlier in the month; Stephens trimmed its target to $20.",
+    "source": "https://stockstotrade.com/news/rocket-companies-inc-rkt-news-2026_08_20/",
+    "impact": "negative",
+    "ticker": "RKT"
+  },
+  {
+    "date": "2026-08-20",
+    "headline": "OpenAI is gaining on Anthropic with business users, new data indicates",
+    "summary": "Q3-to-date data shows OpenAI growing faster among business customers; comes alongside ChatGPT Ads expansion across Europe (Aug 19) and a 14x-faster GPT-5.6 Sol Ultrafast mode (Aug 18).",
+    "source": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+    "impact": "positive",
+    "ticker": "OPENAI"
+  },
+  {
+    "date": "2026-08-20",
+    "headline": "AWS commits $500M+ to student cloud and AI training; Prime Air targets ~500 cities",
+    "summary": "AWS pledged more than $500 million toward student cloud and AI skills training, while Prime Air drone delivery is expanding to nearly 500 US cities in pursuit of 1 million deliveries in 2026. BMO raised its AMZN price target the same day.",
+    "source": "https://www.aboutamazon.com/news",
+    "impact": "positive",
+    "ticker": "AMZN"
+  },
+  {
+    "date": "2026-08-20",
+    "headline": "Spotify adds $1.5B to buyback, $2.2B total committed",
+    "summary": "Spotify authorized a further $1.5 billion tranche of share repurchases, taking total committed buybacks to about $2.22 billion, following a Q2 in which it passed 300 million Premium subscribers and posted record gross margin.",
+    "source": "https://www.digitalmusicnews.com/2026/08/20/spotify-stock-repurchase-program-august-2026/",
+    "impact": "positive",
+    "ticker": "SPOT"
+  },
+  {
+    "date": "2026-08-20",
+    "headline": "Anthropic's $65B run rate now exceeds OpenAI's disclosed $40B",
+    "summary": "Analysts note Anthropic has overtaken OpenAI on last-disclosed run rate ($65B vs $40B), with Amazon and SpaceX (via a ~$45B compute agreement) seen as the biggest beneficiaries of its growth; measurement methods between the two companies may differ.",
+    "source": "https://www.fool.com/investing/2026/08/20/anthropics-revenue-run-rate-just-hit-65-billion-amazon-and-spacex-may-be-the-biggest-winners/",
+    "impact": "positive",
+    "ticker": "ANTHROPIC"
+  },
+  {
+    "date": "2026-08-19",
+    "headline": "Google gets right to buy up to $12.2B of Marvell shares in custom AI chip deal",
+    "summary": "Warrants for ~59M Marvell shares at $206.58 vest in tranches tied to roughly $120B of chip purchases, deepening Alphabet's TPU supply chain.",
+    "source": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
+    "impact": "positive",
+    "ticker": "GOOGL"
+  },
+  {
+    "date": "2026-08-19",
+    "headline": "Rocket shares rise 4.6% to $14.63",
+    "summary": "Bounce on housing data and rate-cut hopes; analysis suggests the stock is no longer an obvious bargain after a ~50% three-year gain.",
+    "source": "https://www.gurufocus.com/news/9044093/rocket-companies-inc-rkt-shares-surge-46-what-gf-score-of-56-tells-investors",
+    "impact": "positive",
+    "ticker": "RKT"
+  },
+  {
+    "date": "2026-08-19",
+    "headline": "Analysis: Stripe bought OpenRouter to own AI usage billing, not the 'singularity'",
+    "summary": "TechCrunch argues the deal is about metering and monetizing AI model consumption as a payments-infrastructure problem.",
+    "source": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+    "impact": "neutral",
+    "ticker": "STRIPE"
+  },
+  {
+    "date": "2026-08-18",
+    "headline": "Federal trial opens with 29 states alleging Meta made Facebook and Instagram addictive to teens",
+    "summary": "Trial before Judge Yvonne Gonzalez Rogers in Oakland is expected to run six weeks; Meta's filing cited a theoretical maximum penalty of $1.4T, while states say ~$200B is realistic. Shares closed at $543.67.",
+    "source": "https://www.vantagemarkets.com/market-analysis/meta-stock-price-today-august-20-2026/",
+    "impact": "negative",
+    "ticker": "META"
+  },
+  {
+    "date": "2026-08-18",
+    "headline": "Micron falls more than 5% after Monday gain",
+    "summary": "Pullback followed a strong session driven by a $10B AI lab initiative backed by Nvidia and Apple; consensus remains Strong Buy with average target ~$1,568.",
+    "source": "https://www.tipranks.com/news/why-is-micron-stock-mu-down-over-5-today-after-mondays-gain-august-18-2026",
+    "impact": "negative",
+    "ticker": "MU"
+  },
+  {
+    "date": "2026-08-18",
+    "headline": "Gemini app passes 1 billion monthly users; 'Ask Gemini in Chat' lands in Workspace Aug 26",
+    "summary": "Google said the Gemini app surpassed 1B monthly users with rising voice, camera and agentic usage, and announced Ask Gemini in Google Chat rolling out Aug 26 to search across Gmail, Drive and Calendar; Google Cloud grew 82% year over year in Q2.",
+    "source": "https://blog.mean.ceo/google-gemini-news-august-2026/",
+    "impact": "positive",
+    "ticker": "GOOGL"
+  },
+  {
+    "date": "2026-08-18",
+    "headline": "Landmark 29-state child-safety trial against Meta opens in Oakland; exposure up to $1.4T",
+    "summary": "A coalition of 29 state attorneys general began a roughly six-week federal trial alleging Meta designed Instagram and Facebook to addict teens and violated COPPA; Meta's own filing puts maximum penalties at $1.4 trillion (states suggest ~$200B is more likely). Zuckerberg and Mosseri are expected to testify; Meta's RSI fell to 35 as shares slid.",
+    "source": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
+    "impact": "negative",
+    "ticker": "META"
+  },
+  {
+    "date": "2026-08-18",
+    "headline": "Apple overhauls EU App Store fees to settle DMA dispute; new terms effective Oct 1",
+    "summary": "Apple replaced the Core Technology Fee with a 5% Core Technology Commission, set App Store commission at 26% (20%/15% for alternative payments and link-outs, 10% for small developers), and loosened rules for alternative app marketplaces, with changes taking effect October 1, 2026.",
+    "source": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
+    "impact": "neutral",
+    "ticker": "AAPL"
+  },
+  {
+    "date": "2026-08-17",
+    "headline": "Enphase shares fall 4.5% to $38.65",
+    "summary": "Stock continued its volatile downtrend; analysts trimmed price targets ~$4 on higher discount rates and cautious near-term revenue quality, though consensus remains Buy with a ~$47 target.",
+    "source": "https://www.gurufocus.com/news/9039822/enphase-energy-inc-enph-shares-fall-45-what-gf-score-of-76-tells-investors",
+    "impact": "negative",
+    "ticker": "ENPH"
+  },
+  {
+    "date": "2026-08-17",
+    "headline": "Anthropic's annualized revenue run rate tops $65B ahead of planned October IPO",
+    "summary": "Anthropic told investors its run-rate revenue reached $65 billion in July, with Q2 revenue above $11.5 billion and a first operating profit; it is reportedly targeting an October 2026 listing at $2 trillion or more. Its last round was a $65B Series H at a $965B post-money valuation (May 28, 2026), led by Altimeter, Dragoneer, Greenoaks and Sequoia.",
+    "source": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html",
+    "impact": "positive",
+    "ticker": "ANTHROPIC"
+  },
+  {
+    "date": "2026-08-16",
+    "headline": "Stripe to acquire AI gateway startup OpenRouter for more than $7B",
+    "summary": "OpenRouter routes customer requests across AI models by task and budget; the price is ~5.4x the $1.3B valuation from its May 2026 Series B.",
+    "source": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "impact": "positive",
+    "ticker": "STRIPE"
+  },
+  {
+    "date": "2026-08-16",
+    "headline": "Bloomberg: Stripe finalizes OpenRouter deal",
+    "summary": "Confirms the $7B+ acquisition alongside recent product expansions in stablecoin payouts and multicurrency settlement.",
+    "source": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+    "impact": "positive",
+    "ticker": "STRIPE"
+  },
+  {
+    "date": "2026-08-16",
+    "headline": "Cloudflare logs 13 incidents in 8 days as R2 storage falters",
+    "summary": "Between Aug 7-14 Cloudflare's status page recorded 13 separate incidents spanning R2 object storage, Workers KV, Workers AI, Durable Objects and regional network errors; one customer reported ~67GB of unrestored R2 data and no unified postmortem had been published. A further user-reported outage surfaced on Aug 22.",
+    "source": "https://shattered.io/cloudflare-outage-august-2026/",
+    "impact": "negative",
+    "ticker": "NET"
+  },
+  {
+    "date": "2026-08-14",
+    "headline": "Figure files Q2 10-Q; BofA initiates at Sell while Bernstein and others reiterate Buy",
+    "summary": "10-Q confirmed $225.6M revenue and $0.35 diluted EPS; analyst opinion diverged with Bank of America at Sell and Bernstein reaffirming Buy on Aug 21.",
+    "source": "https://www.tradingview.com/news/tradingview:40b5d61cd62e7:0-figure-technology-solutions-inc-q2-2026-revenue-225-6m-eps-0-35-10-q-summary/",
+    "impact": "neutral",
+    "ticker": "FIGR"
+  },
+  {
+    "date": "2026-08-14",
+    "headline": "Bill Ackman's Pershing Square discloses new 3.15M-share Netflix stake",
+    "summary": "Position equals 4.9% of Pershing's portfolio; shares jumped 3.3% on the 13F disclosure, notable since Ackman exited at a loss in 2022.",
+    "source": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-stock-know-072500706.html",
+    "impact": "positive",
+    "ticker": "NFLX"
+  },
+  {
+    "date": "2026-08-14",
+    "headline": "Bill Ackman's Pershing Square returns to Netflix with ~3M-share stake",
+    "summary": "Pershing Square disclosed a new Netflix position (~4.9% of its portfolio) four years after exiting at a loss, saying Netflix has 'effectively won the streaming wars'; the stock is down roughly 40% from its 52-week high, drawing value buyers.",
+    "source": "https://qz.com/bill-ackman-pershing-square-netflix-new-positions-081326",
+    "impact": "positive",
+    "ticker": "NFLX"
+  },
+  {
+    "date": "2026-08-14",
+    "headline": "SpaceX closes record $60B all-stock acquisition of Cursor, folds it into SpaceXAI",
+    "summary": "SpaceX completed its $60 billion purchase of Anysphere (announced June 16), issuing ~391M Class A shares in the largest startup acquisition on record; Cursor gains access to the Colossus GPU fleet (~200K Nvidia GPUs). Cursor's ARR passed $2B in Feb 2026 and was reported above $3B pre-close, after a $29.3B Series D in Nov 2025.",
+    "source": "https://thenextweb.com/news/spacex-cursor-acquisition-completed-gpu-fleet",
+    "impact": "positive",
+    "ticker": "CURSOR"
+  },
+  {
+    "date": "2026-08-14",
+    "headline": "BYD sets Aug 28 board meeting to approve H1 2026 interim results",
+    "summary": "BYD's board will meet on 28 August 2026 to approve and publish interim results for the six months to June 30; the stock has lagged despite a busy month of launches including the Ti 7 seven-seat SUV's UK debut at the British Motor Show.",
+    "source": "https://www.tipranks.com/news/company-announcements/byd-sets-late-august-board-meeting-to-approve-2026-interim-results",
+    "impact": "neutral",
+    "ticker": "BYD"
+  },
+  {
+    "date": "2026-08-13",
+    "headline": "Figure reports strong Q2 2026: revenue $225.6M (+113%), EPS beat",
+    "summary": "Record consumer loan marketplace volume of $4.3B, up 132% YoY and above the top of guidance; adjusted EPS of $0.37 beat the $0.25 estimate.",
+    "source": "https://investors.figure.com/news-releases/news-release-details/figure-technology-solutions-reports-strong-second-quarter-2026",
+    "impact": "positive",
+    "ticker": "FIGR"
+  },
+  {
+    "date": "2026-08-13",
+    "headline": "Figure climbed into the print after preliminary Q2 operating data topped guidance",
+    "summary": "Preliminary Q2 volume of ~$4.26B exceeded the $3.8B-$4.1B guided range, lifting shares ahead of results.",
+    "source": "https://www.quiverquant.com/news/Figure+Technology+Solutions+Climbs+Ahead+of+Q2+Report+After+Strong+Preliminary+Operating+Data",
+    "impact": "positive",
+    "ticker": "FIGR"
+  },
+  {
+    "date": "2026-08-13",
+    "headline": "Meta releases Muse Glimmer small model, teases Muse Spark 1.2",
+    "summary": "New model runs on a single consumer GPU; a more advanced Muse Spark 1.2 is 'coming soon'.",
+    "source": "https://www.benzinga.com/markets/tech/26/08/61182393/what-is-going-on-with-meta-platforms-stock-on-thursday",
+    "impact": "neutral",
+    "ticker": "META"
+  },
+  {
+    "date": "2026-08-13",
+    "headline": "Technical momentum builds as NFLX nears $77.89 resistance",
+    "summary": "Stock remains down ~15% YTD and 38.8% below its Sept 2025 high of $126.33 after in-line Q2 (EPS $0.80, revenue $12.56B) and softer Q3 outlook.",
+    "source": "https://en.cryptonomist.ch/2026/08/13/netflix-inc-stock-nears-77-89-resistance-as-ackman-takes-new-stake/",
+    "impact": "neutral",
+    "ticker": "NFLX"
+  },
+  {
+    "date": "2026-08-13",
+    "headline": "Robinhood accelerates closed-end funds giving retail access to private tech and YC startups",
+    "summary": "Robinhood laid out plans to speed launches of listed closed-end funds holding private tech stakes; Robinhood Ventures Fund II priced a ~$225-255M NYSE IPO targeting early-stage Y Combinator-linked startups, while UK crypto trading rolls out via Bitstamp.",
+    "source": "https://stockstotrade.com/news/robinhood-markets-inc-hood-news-2026_08_20/",
+    "impact": "positive",
+    "ticker": "HOOD"
+  },
+  {
+    "date": "2026-08-12",
+    "headline": "Netlist files ITC complaint against Micron, Supermicro, HPE and Lenovo over DDR5 RDIMM/MRDIMM patents",
+    "summary": "Complaint alleges infringement of four patents; the dispute has weighed on sentiment around Micron's DDR5 outlook.",
+    "source": "https://stockstotrade.com/news/micron-technology-inc-mu-news-2026_08_18-3/",
+    "impact": "negative",
+    "ticker": "MU"
+  },
+  {
+    "date": "2026-08-12",
+    "headline": "Zuckerberg publishes letter on 'the path to a positive AI future'; Meta partners with building-trades unions on AI infrastructure",
+    "summary": "Meta released a Zuckerberg letter laying out its AI vision and announced a partnership with North America's Building Trades Unions to train skilled workers for its data-center buildout, alongside new AI-glasses-only Instagram Stories formats.",
+    "source": "https://about.fb.com/news/",
+    "impact": "neutral",
+    "ticker": "META"
+  },
+  {
+    "date": "2026-08-11",
+    "headline": "Axos publishes August investor presentation highlighting Q4 FY26 metrics",
+    "summary": "Deck emphasizes 15.69% ROE, diversified asset/deposit/fee mix, and a structural cost advantage over traditional banks.",
+    "source": "https://www.tradingview.com/news/tradingview:2ea66a208d0e5:0-axos-financial-to-use-august-11-investor-presentation-q4-fy26-metrics-highlighted/",
+    "impact": "positive",
+    "ticker": "AXOS"
+  },
+  {
+    "date": "2026-08-11",
+    "headline": "Netflix U.S. upfront ad commitments for 2026 nearly double year over year",
+    "summary": "Shares rose ~2.9% to ~$76.29 intraday as advertising momentum offset worries about Q3 revenue guidance of $12.86B (11% FX-neutral growth).",
+    "source": "https://www.fxleaders.com/news/2026/08/11/netflix-stock-nflx-eyes-82-breakout-ad-growth/",
+    "impact": "positive",
+    "ticker": "NFLX"
+  },
+  {
+    "date": "2026-08-11",
+    "headline": "Spotify to label 'AI Persona' artists and exclude them from recommendations",
+    "summary": "Starting mid-September Spotify will badge AI-generated performer profiles and exclude their music from editorial, algorithmic and personalized recommendations by default, a move aimed at protecting human artists and listener trust.",
+    "source": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+    "impact": "positive",
+    "ticker": "SPOT"
+  },
+  {
+    "date": "2026-08-10",
+    "headline": "Enphase board responds to annual-meeting vote, retains Kortlang and shifts committee chairs",
+    "summary": "Board unanimously retained director Benjamin Kortlang despite the vote, moved Nominating/Governance chair to Joseph Malchow, and highlighted June appointment of data-center expert Shanker Trivedi.",
+    "source": "https://www.globenewswire.com/news-release/2026/08/10/3342226/20176/en/enphase-energy-board-of-directors-responds-to-2026-annual-meeting-vote-results-and-announces-governance-enhancements.html",
+    "impact": "neutral",
+    "ticker": "ENPH"
+  },
+  {
+    "date": "2026-08-10",
+    "headline": "Marvell jumps ~14% on new AI memory infrastructure platform",
+    "summary": "Platform targets memory bottlenecks in hyperscale and agentic AI workloads; followed by target hikes from Wells Fargo ($310), Oppenheimer ($300), Citi ($275) and Morgan Stanley ($224).",
+    "source": "https://stockstotrade.com/news/marvell-technology-inc-mrvl-news-2026_08_10/",
+    "impact": "positive",
+    "ticker": "MRVL"
+  },
+  {
+    "date": "2026-08-10",
+    "headline": "TSMC July 2026 revenue NT$467.58B, +44.7% YoY and +5.6% MoM",
+    "summary": "Monthly sales report shows continued acceleration on AI accelerator demand.",
+    "source": "https://pr.tsmc.com/english/news/3329",
+    "impact": "positive",
+    "ticker": "TSM"
+  },
+  {
+    "date": "2026-08-07",
+    "headline": "OpenAI says it slowed Astra model development over security concerns",
+    "summary": "Internal review found major advances in agentic coding and cybersecurity capabilities, prompting a pause on some aspects of the upcoming Astra model.",
+    "source": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "impact": "negative",
+    "ticker": "OPENAI"
+  },
+  {
+    "date": "2026-08-06",
+    "headline": "Rocket Q2 2026: revenue $2.78B, GAAP net income $229M, adjusted EBITDA $766M",
+    "summary": "CEO Varun Krishna cited record purchase and refinance market share in a tough spring market; adjusted net income $441M.",
+    "source": "https://www.sec.gov/Archives/edgar/data/0001805284/000180528426000082/rkt-063020268xkex991earnin.htm",
+    "impact": "positive",
+    "ticker": "RKT"
+  },
+  {
+    "date": "2026-08-06",
+    "headline": "Cloudflare Q2 2026 revenue up 36% to $696.1M",
+    "summary": "Second-quarter revenue rose 36% year over year to $696.1 million with record growth in paying customers, large customers and developers on the platform.",
+    "source": "https://www.cloudflare.com/press/press-releases/2026/cloudflare-announces-second-quarter-2026-financial-results/",
+    "impact": "positive",
+    "ticker": "NET"
+  },
+  {
+    "date": "2026-08-05",
+    "headline": "Chief scientist Jeff Dean leaves Google after 27 years; Hassabis moves to Alphabet chief scientist role",
+    "summary": "Dean and Sanjay Ghemawat left to launch Discovery Loop (backed by Alphabet); Demis Hassabis stepped down as DeepMind CEO to become chair, with Koray Kavukcuoglu running day-to-day. Shares fell ~4%.",
+    "source": "https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html",
+    "impact": "negative",
+    "ticker": "GOOGL"
+  },
+  {
+    "date": "2026-08-04",
+    "headline": "Jeff Bezos files to sell ~$4B of Amazon stock after $3T market cap milestone",
+    "summary": "Bezos disclosed a ~15M-share sale under a Rule 10b5-1 plan adopted Nov 2025, his first major sale since late 2024; shares fell more than 2% on the news.",
+    "source": "https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html",
+    "impact": "negative",
+    "ticker": "AMZN"
+  },
+  {
+    "date": "2026-08-04",
+    "headline": "New Jersey AG files antitrust suit over Amazon delivery-contractor practices",
+    "summary": "New Jersey's Attorney General sued Amazon over its delivery service partner practices, adding to regulatory overhang even as the AWS-led rally continued.",
+    "source": "https://www.vantagemarkets.com/market-analysis/amzn-stock-amazon-share-price-monthly-outlook/",
+    "impact": "negative",
+    "ticker": "AMZN"
+  },
+  {
+    "date": "2026-08-04",
+    "headline": "Enphase reinforces U.S. manufacturing across residential, commercial and AI infrastructure",
+    "summary": "Company touted domestic production footprint and new product pre-orders (IQ Battery C80, IQ Air thermostat shipping in August).",
+    "source": "https://www.globenewswire.com/news-release/2026/08/04/3338237/0/en/enphase-energy-reinforces-u-s-manufacturing-across-residential-commercial-and-ai-infrastructure.html",
+    "impact": "positive",
+    "ticker": "ENPH"
+  },
+  {
+    "date": "2026-08-04",
+    "headline": "loanDepot Q2 2026: originations $7.99B, net loss narrows to $6.6M",
+    "summary": "Revenue rose 18% to $337.3M and adjusted EBITDA improved to $20.5M as home-equity lending expanded; unit volume up 25% QoQ.",
+    "source": "https://www.stocktitan.net/news/LDI/loan-depot-inc-to-report-second-quarter-2026-financial-results-on-u659qoj1qbsy.html",
+    "impact": "positive",
+    "ticker": "LDI"
+  },
+  {
+    "date": "2026-08-03",
+    "headline": "Amazon Q2: revenue $200.6B (+20%), AWS +37.5%, capex plan raised to $220B",
+    "summary": "Q2 beat the high end of guidance on revenue and profit; operating margin 13.7% vs 11.4% a year ago, and profit was boosted by a ~$53B non-operating gain on the Anthropic stake. Shares spiked ~20% after the print.",
+    "source": "https://www.fool.com/investing/2026/08/03/whats-going-on-with-amazon-stock/",
+    "impact": "positive",
+    "ticker": "AMZN"
+  },
+  {
+    "date": "2026-08-03",
+    "headline": "Alphabet Q2: revenue $119.8B (+24% YoY), Cloud +82%, EPS $9.11",
+    "summary": "Earnings roughly tripled analyst expectations on AI-driven Cloud growth; stock popped on the print.",
+    "source": "https://www.fool.com/investing/2026/08/03/why-alphabet-stock-popped-today/",
+    "impact": "positive",
+    "ticker": "GOOGL"
+  },
+  {
+    "date": "2026-08-03",
+    "headline": "Amazon tops $3 trillion market cap for the first time",
+    "summary": "Shares hit a record $287.16 after Q2 results showed AWS growing 37% (fastest in over four years), group revenue above $200B, a $496B AWS backlog and a $53.4B pretax gain on its Anthropic stake; FY26 capex was lifted to ~$220B.",
+    "source": "https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html",
+    "impact": "positive",
+    "ticker": "AMZN"
+  },
+  {
+    "date": "2026-07-30",
+    "headline": "Axos Financial reports fiscal year 2026 results",
+    "summary": "Q4 FY26 showed asset growth of 21%, deposit growth of 18%, and net income and diluted EPS up 13% year over year; total deposits reached $24.6B with ~85% insured or collateralized.",
+    "source": "https://www.businesswire.com/news/home/20260730727486/en/Axos-Financial-Inc.-Reports-Fiscal-Year-2026-Results",
+    "impact": "positive",
+    "ticker": "AXOS"
+  }
+]

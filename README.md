@@ -1,77 +1,43 @@
-# 🚀 Joshua Wilkosz - Engineer
+# wilkosz.com.au
 
-👋 Hi! I'm an experienced **Software Engineer & Technology Lead** with expertise in **backend, full-stack & mobile development, and cloud infrastructure**. Passionate about building scalable, high-performance applications.
+Text-only personal site for Joshua Wilkosz, served by GitHub Pages from `index.html`.
+Half of the page is written by me, half by an automated market-research skill.
 
----
+## Layout
 
-## 💼 Experience
+```
+index.html            generated - do not edit by hand
+build.py              renders index.html + research/*.html from data/ (stdlib only)
+merge.py              merges one research run JSON into data/, writes research/<stamp>.md, rebuilds
+data/profile.json     who I am, what I build            (owner-maintained)
+data/holdings.json    what I'm invested in              (owner-maintained)
+data/loves.json       companies I love                  (owner-maintained)
+data/status.json      agent's take + per-holding takes  (agent-maintained)
+data/watchlist.json   agent picks                       (agent-maintained)
+data/news.json        recent news, deduped by URL       (agent-maintained)
+research/*.md         one log per research run          (agent-maintained)
+.claude/skills/market-research/SKILL.md   the research procedure
+.claude/settings.json                     bypassPermissions for this repo
+```
 
-### **Joint Technology Lead** @ [DocHub](https://dochub.com)
-*Sep 2023 - Present | Boston, MA (Hybrid)*
-- Leading technology decisions for DocHub’s platform.
-- Specializing in **Node.js, Ruby on Rails, AWS, GCP, MySQL, and Terraform**.
+## Running the research loop
 
-### **Full-Stack, Lead Backend Engineer** @ DocHub
-*Jan 2021 - Sep 2023 | Hybrid*
-- Led backend engineering efforts.
-- Worked with **Google Maps, Google Analytics, AWS, and Ember.js**.
+From this directory in Claude Code:
 
-### **Software Engineer** @ DocHub
-*May 2017 - Jan 2021 | On-site*
-- 🚀 Developed and innovated DocHub’s platform.
+```
+/market-research                 # one run: research, merge, build, commit, push
+/loop 6h /market-research        # keep the session open and re-run every 6 hours
+```
 
-### 🌱 **Founder** @ [Purplegrain](https://purplegrain.com)
-*Jan 2023 - Present | Remote (Australia)*
-- 🌾 Building a marketplace connecting agriculture service providers with farmers.
-- Tech stack: **Ruby on Rails, GCP, AWS, React Native, PostgreSQL**.
+Instructions after the command are treated as owner instructions for that run,
+e.g. `/market-research add 10 units of NVDA` or `/market-research focus on nuclear this run`.
 
-### **Graduate Software Engineer** @ Premier Technologies Pty Ltd
-*Oct 2015 - Mar 2017 | Melbourne, Australia*
-- Built secure payment solutions for international merchants & banks.
-- Developed **API integrations, client dashboards**.
-- Technologies: **Azure, MS SQL Server, JavaScript, C#**.
+## Editing my own sections
 
-### **Creator / Developer** @ Oshii Digital
-*Jan 2013 - Jul 2015 | Melbourne, Australia*
-- Created business software solutions.
-- Integrated medical management systems like Appointuit.
+Edit `data/profile.json`, `data/holdings.json` or `data/loves.json`, then:
 
-### **Engineering Internship** @ Iluka Resources
-*Dec 2011 - Mar 2012 | Hamilton, VIC*
-- Designed mineral processing equipment and safety barriers.
+```
+python3 build.py && git commit -am "update holdings" && git push
+```
 
-### 🧪 **Laboratory Assistant & Acting Shift Supervisor** @ Iluka Resources
-*Nov 2007 - Feb 2011 | Hamilton, VIC*
-- Ensured quality control for mineral refinement processes.
-
----
-
-## 🎓 Education
-
-### 🎓 **University of Melbourne**
-**Master's Degree in Mechatronics (Software, Electrical, and Mechanical)**  
-2013 - 2015
-
-### 🎓 **University of Melbourne**
-**Bachelor's Degree in Mechanical Engineering**  
-2009 - 2013
-
----
-
-## 🛠️ Skills
-- **Programming:** Node.js, Ruby on Rails, Java, JavaScript, C#
-- **Frontend & Mobile:** Ember.js, React Native
-- **Cloud & DevOps:** AWS, Google Cloud Platform (GCP), Terraform
-- **Databases:** MySQL, PostgreSQL, MS SQL Server
-- **Tools:** GitHub, Google Analytics, Google Maps
-
----
-
-## 📫 Contact
-- **LinkedIn:** [linkedin.com/in/wilkosz](https://www.linkedin.com/in/wilkosz)
-- **Website:** [wilkosz.com.au](https://wilkosz.com.au) (Personal)
-- 🐙 **GitHub:** [github.com/wilkosz](https://github.com/wilkosz)
-- **Company:** [purplegrain.com](https://purplegrain.com)
-- **Email:** [joshua@wilkosz.com.au](mailto:joshua@wilkosz.com.au)
-
-🚀 **Passionate about building great products and solving real-world problems with technology!**
+`python3 build.py --check` validates the data files without writing anything.

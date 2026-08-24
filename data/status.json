@@ -1,0 +1,102 @@
+{
+  "as_of": "2026-08-24T22:24",
+  "market_summary": "As of late August 2026, global equities sit near all-time highs on the back of an AI capex supercycle (consensus hyperscaler capex ~$733B for 2026 and ~$939B for 2027; the big four spent $166B in the June quarter alone, +87% YoY), but July delivered a sharp reality check: chip stocks shed over $1 trillion as investors questioned capex returns, with the SOX falling roughly 30% from its June peak before partially recovering. Macro is less friendly than a year ago: the Fed held in July on a 9-3 split with dissents favoring a hike, an energy shock tied to Strait of Hormuz disruptions has oil near $80 with upside risk, futures price ~65% odds of a 25bp hike in September, and tariffs remain a cost headwind for industrials (GE Vernova flagged a $100-200M hit). Power is the binding constraint on AI buildout, so gas turbines, fuel cells, nuclear PPAs and grid/storage are all seeing record backlogs, while Chinese battery and storage leaders are posting 40-90% growth despite a domestic EV price war. Nvidia reports Aug 26 and Broadcom Sept 2, the next major tests of AI sentiment; the July selloff has opened entry points in high-quality AI infrastructure names, whereas nuclear SMR pure-plays have de-rated 30-40% YTD on commercialization timelines and dilution.",
+  "takes": {
+    "AMZN": {
+      "take": "hold",
+      "reason": "Q2 beat with AWS growing 37.5% (best in 18 quarters) and 2026 capex lifted to $220B; stock has given back part of its post-earnings 20% pop amid the Bezos sale and a state antitrust suit, so hold rather than chase.",
+      "price_usd": 259.59,
+      "updated": "2026-08-24"
+    },
+    "AXOS": {
+      "take": "hold",
+      "reason": "Fiscal 2026 closed with 21% asset and 18% deposit growth, ~15.7% ROE and double-digit EPS growth; no new catalysts beyond the 10-K and investor deck, so continue holding.",
+      "price_usd": 95.96,
+      "updated": "2026-08-24"
+    },
+    "BABA": {
+      "take": "watch",
+      "reason": "Earnings missed badly (EPS $1.26 vs $1.85 consensus) and a ~HK$80B dilutive placement plus class-action suits hit the stock; insider buying by Tsai and Wu is a positive signal but wait for the placement to settle before adding.",
+      "price_usd": 119.34,
+      "updated": "2026-08-24"
+    },
+    "ENPH": {
+      "take": "watch",
+      "reason": "Shares keep sliding (~$38, well below the $47 average target) on near-term revenue-quality concerns; new products (IQ Battery C80, IQ Air) and governance fixes are incremental, so hold off on adding until demand stabilizes.",
+      "price_usd": 37.91,
+      "updated": "2026-08-24"
+    },
+    "FIGR": {
+      "take": "hold",
+      "reason": "Q2 beat on revenue and EPS with record $4.3B marketplace volume (+132% YoY) and Figure Connect at 65% of volume; analyst views are split (BofA Sell vs Bernstein Buy), so hold and let execution play out.",
+      "price_usd": 36.82,
+      "updated": "2026-08-24"
+    },
+    "GOOGL": {
+      "take": "add",
+      "reason": "Blowout Q2 (revenue +24%, Cloud +82%, EPS $9.11) and a $12.2B Marvell chip tie-up strengthen the AI story, while the ~4% dip on Jeff Dean's exit looks like a sentiment overreaction; the pullback is a reasonable entry to add.",
+      "price_usd": 344.82,
+      "updated": "2026-08-24"
+    },
+    "LDI": {
+      "take": "trim",
+      "reason": "Losses narrowed in Q2 but the stock sits under $1 with Goldman at Sell and a $1 target, raising exchange-compliance and dilution risk; reduce exposure unless rates fall sharply.",
+      "price_usd": 0.9,
+      "updated": "2026-08-24"
+    },
+    "META": {
+      "take": "hold",
+      "reason": "Stock is ~30% off its high on AI capex worries and a six-week teen-addiction trial with headline penalty risk; the core ad business is strong and analysts see upside, but wait for trial clarity before adding.",
+      "price_usd": 559.16,
+      "updated": "2026-08-24"
+    },
+    "MRVL": {
+      "take": "hold",
+      "reason": "The Google warrant deal and a new AI memory platform drove a run from the high-$170s to the mid-$230s with multiple target hikes; with fiscal Q2 earnings on Aug 27 and a stretched valuation, hold through the print rather than add.",
+      "price_usd": 237.04,
+      "updated": "2026-08-24"
+    },
+    "MU": {
+      "take": "hold",
+      "reason": "2026 output is reportedly sold out and HBM demand from Nvidia's Vera Rubin is a tailwind, but the Netlist ITC complaint and a 7% high-beta selloff into Nvidia's print add near-term volatility; hold through Aug 26.",
+      "price_usd": 897.77,
+      "updated": "2026-08-24"
+    },
+    "NFLX": {
+      "take": "add",
+      "reason": "Shares are ~39% below the 52-week high on Q3 growth deceleration to 11%, but Pershing Square's new stake and near-doubling of U.S. upfront ad commitments suggest the ad tier is scaling; valuation reset makes this an add candidate.",
+      "price_usd": 77.29,
+      "updated": "2026-08-24"
+    },
+    "NVDA": {
+      "take": "hold",
+      "reason": "Fiscal Q2 results land Aug 26 with consensus ~$92B revenue and $2.08 EPS (roughly double a year ago); the stock has slid ~2-3% into the print on AI-demand jitters, so hold and reassess on guidance.",
+      "price_usd": 209.81,
+      "updated": "2026-08-24"
+    },
+    "RKT": {
+      "take": "hold",
+      "reason": "Most profitable quarter in four years with record purchase and refi share, but Q3 revenue guide ($2.5-2.7B) missed consensus and RBC cut its target to $15; after a ~50% run the shares look fully priced, so hold.",
+      "price_usd": 14.63,
+      "updated": "2026-08-24"
+    },
+    "TSM": {
+      "take": "add",
+      "reason": "July revenue grew 44.7% YoY, 2026 growth outlook was raised to 40%+ with capex at ~$62B, and Xiaomi's 3nm Xring win adds to demand; the ~15% pullback from the June high is a buying opportunity for the AI foundry leader.",
+      "price_usd": 407.39,
+      "updated": "2026-08-24"
+    },
+    "STRIPE": {
+      "take": "hold",
+      "reason": "The $7B+ OpenRouter acquisition (a 5.4x markup on its May valuation) extends Stripe into AI model routing and metering, a logical adjacency to payments; private, so hold and monitor integration and any secondary-valuation moves.",
+      "price_usd": null,
+      "updated": "2026-08-24"
+    },
+    "OPENAI": {
+      "take": "hold",
+      "reason": "ChatGPT crossed 1B users, business adoption is outpacing Anthropic in Q3 to date, and Astra delivered a landmark math result, but the company slowed parts of Astra over security concerns and is cutting API prices sharply; private, so hold.",
+      "price_usd": null,
+      "updated": "2026-08-24"
+    }
+  }
+}

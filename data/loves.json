@@ -1,0 +1,14 @@
+[
+  {"name": "Anthropic",  "ticker": null,      "why": "The one company I would go all in on."},
+  {"name": "Stripe",     "ticker": "STRIPE",  "why": "Gold standard in software."},
+  {"name": "Cloudflare", "ticker": "NET",     "why": "Internet traffic."},
+  {"name": "Amazon",     "ticker": "AMZN",    "why": "Everything development."},
+  {"name": "Cursor",     "ticker": null,      "why": "Incredible tech."},
+  {"name": "Robinhood",  "ticker": "HOOD",    "why": "Incredible tech."},
+  {"name": "Google",     "ticker": "GOOGL",   "why": "Ubiquitous."},
+  {"name": "Meta",       "ticker": "META",    "why": "High level of engagement."},
+  {"name": "BYD",        "ticker": "1211.HK", "why": "Energy / manufacturing play."},
+  {"name": "Apple",      "ticker": "AAPL",    "why": "Always a good ecosystem."},
+  {"name": "Netflix",    "ticker": "NFLX",    "why": "Casual watch, but less and less."},
+  {"name": "Spotify",    "ticker": "SPOT",    "why": "Media (not as much)."}
+]
