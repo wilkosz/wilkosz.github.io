@@ -17,14 +17,23 @@
     },
     {
       "name": "EarthPath",
-      "url": null,
+      "url": "https://earthpath.xyz",
       "role": "Founder (early)",
       "why": "Energy resilience and eco-friendly solutions are going to be our focus as a civilisation if we are to keep living on this planet."
     }
   ],
   "links": [
-    {"label": "github.com/wilkosz", "url": "https://github.com/wilkosz"},
-    {"label": "linkedin.com/in/wilkosz", "url": "https://www.linkedin.com/in/wilkosz"},
-    {"label": "joshua@wilkosz.com.au", "url": "mailto:joshua@wilkosz.com.au"}
+    {
+      "label": "github.com/wilkosz",
+      "url": "https://github.com/wilkosz"
+    },
+    {
+      "label": "linkedin.com/in/wilkosz",
+      "url": "https://www.linkedin.com/in/wilkosz"
+    },
+    {
+      "label": "joshua@wilkosz.com.au",
+      "url": "mailto:joshua@wilkosz.com.au"
+    }
   ]
 }
