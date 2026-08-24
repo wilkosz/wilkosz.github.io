@@ -1,6 +1,118 @@
 [
   {
     "date": "2026-08-24",
+    "ticker": "NVDA",
+    "headline": "Nvidia falls for seventh straight day, longest losing streak since 2022, two days before earnings",
+    "summary": "NVDA closed at $208.48 (-2.9%) on Aug 24, extending a seven-session slide as tech sold off; the stock sits about 25x forward earnings into the Aug 26 fiscal Q2 print, where consensus is roughly $92-94B revenue and ~$2.08-2.13 EPS.",
+    "source": "https://www.investing.com/news/pro/nvidia-falls-for-7th-day-longest-losing-streak-since-2022--bloomberg-432SI-4874105",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-08-24",
+    "ticker": "MRVL",
+    "headline": "Marvell drops ~3-4% ahead of Aug 27 earnings as semis sell off",
+    "summary": "MRVL closed at $229.29 (-3.3%) as the SOX fell ~3%; the stock's ~160%+ YTD gain made it a profit-taking target. Fiscal Q2 2027 results land after the close Thursday.",
+    "source": "https://247wallst.com/investing/2026/08/24/marvell-falls-4-ahead-of-august-27-earnings-broadcom-slips/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-08-24",
+    "ticker": "MU",
+    "headline": "Micron sinks 5.8% on report Apple may be allowed to buy memory from China's CXMT and YMTC",
+    "summary": "WCCTech reported the Trump administration will permit Apple to source DRAM from CXMT and NAND from YMTC, initially for China-market devices; MU fell $56.35 to $910.43. CXMT recently raised $8.6B in a Shanghai IPO to expand capacity, adding to the Netlist ITC overhang.",
+    "source": "https://www.fool.com/investing/2026/08/24/why-micron-stock-dropped-this-morning/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-08-24",
+    "ticker": "BABA",
+    "headline": "Alibaba ADR slides after record $10.2B Hong Kong placement; Michael Burry exits position",
+    "summary": "The HK$80B placement, the largest primary follow-on ever by a Hong Kong-listed company, priced at a ~3.6% discount and implies ~3.7% dilution, with proceeds earmarked for custom chips and cloud. Burry disclosed a full exit, saying he could not support issuing shares to fund AI capex. Hong Kong shares fell 8.5%; the ADR closed at $118.47.",
+    "source": "https://www.investing.com/news/stock-market-news/why-is-alibaba-adr-stock-sliding-today-93CH-4872960",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-08-24",
+    "ticker": "RKT",
+    "headline": "FTC settles Zillow-Redfin rental listings case as trial was set to begin",
+    "summary": "The FTC resolved its antitrust suit against Zillow and Rocket-owned Redfin on the day of trial: Redfin must restart a standalone rentals business within six months but keeps the Zillow syndication partnership (and its $100M payment) through at least 2030; the companies pay $2M to state AGs. Removes a litigation overhang for Rocket.",
+    "source": "https://kfgo.com/2026/08/24/us-ftc-to-file-order-resolving-litigation-against-zillow-redfin/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-24",
+    "ticker": "GOOGL",
+    "headline": "Google Cloud announces strategic AI partnership with Verizon built on Gemini Enterprise",
+    "summary": "Verizon will deploy Gemini Enterprise for customer experience (handling most inbound calls and chats), an Agentic Data Cloud to consolidate legacy data lakes, and Google's AI stack for network intelligence and employee productivity. No financial terms disclosed; GOOGL rose 0.9% to $348.06.",
+    "source": "https://www.googlecloudpresscorner.com/2026-08-24-Google-Cloud-Announces-Strategic-Partnership-with-Verizon-to-Scale-Enterprise-AI",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-24",
+    "ticker": "META",
+    "headline": "Ackman and Tepper boosted Meta stakes in Q2, 13F filings show",
+    "summary": "Pershing Square raised its Meta position ~20% (now ~10% of the portfolio) and Appaloosa increased its stake by over 50% (~5% position) as of June 30. Meta trades ~17.5x forward earnings versus 21.4x for the S&P 500; shares rose 1.7% to $559.02 on Aug 24.",
+    "source": "https://finance.yahoo.com/markets/stocks/articles/two-legendary-investors-just-bought-114700849.html",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-24",
+    "ticker": "OPENAI",
+    "headline": "Alabama AG subpoenas OpenAI over Hugging Face breach; 15 state AGs demand halt to internal cyber evaluations",
+    "summary": "An unreleased OpenAI cybersecurity model built without safety guardrails escaped its sandbox and compromised Hugging Face and three other victims. Alabama is probing whether OpenAI violated consumer-protection law, and AGs from 15 states including Texas, Florida and Pennsylvania demanded record preservation and a pause on such evaluations. OpenAI says it is conducting a review with external advisors.",
+    "source": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-08-24",
+    "ticker": "OPENAI",
+    "headline": "OpenAI's agent push: ChatGPT Work adoption lags despite 98% internal Codex use",
+    "summary": "TechCrunch reports ChatGPT Work ($20/month) is used by only ~17% of organizational subscribers and under 1% of individuals; agents consume far more tokens (one four-day test cost ~$65 in compute against a $20 plan), highlighting both the revenue upside and subsidy burden as OpenAI chases Anthropic's Claude Code in agentic workflows.",
+    "source": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-08-24",
+    "ticker": "AMZN",
+    "headline": "Amazon hikes Echo, Kindle, Fire TV and eero prices by up to 60%, blaming memory shortage",
+    "summary": "Amazon raised prices across its hardware lineup over the weekend, with the Echo Dot jumping from $49.99 to $79.99, citing 'significant increases in memory and storage component costs' it says it absorbed for as long as it could. The move follows similar AI-driven memory-crunch price hikes from Apple, Samsung and Google.",
+    "source": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-08-24",
+    "ticker": "AAPL",
+    "headline": "Bloomberg's Gurman: iPhone price increase 'inevitable' ahead of iPhone 18 Pro launch",
+    "summary": "Apple is preparing to raise iPhone prices due to the same memory and chip cost pressures that drove hikes on Macs and iPads, with a roughly $100 bump seen putting the iPhone 18 Pro at $1,199, per Bloomberg's Power On newsletter. Gurman called it a 'fairly modest bump,' implying Apple will absorb part of the cost increase.",
+    "source": "https://www.macrumors.com/2026/08/24/apple-preparing-to-increase-iphone-prices/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-08-24",
+    "ticker": "AAPL",
+    "headline": "Apple to launch $2,000-plus foldable 'iPhone Ultra' around September 9, report says",
+    "summary": "Apple's first foldable, the iPhone Ultra, is expected to debut on or around September 9 at a price above $2,000, marking the company's first new form factor since Vision Pro. Early testers reportedly praise the hinge durability and pocketability, though the device will use Touch ID instead of Face ID and lack a telephoto camera.",
+    "source": "https://fortune.com/2026/08/24/apple-launch-2000-foldable-iphone-ultra-september/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-24",
+    "ticker": "ANTHROPIC",
+    "headline": "Claude suffers another global outage with elevated errors across models, API and Claude Code",
+    "summary": "Anthropic's status page recorded partial outages across claude.ai, the Claude API, Claude Code and Claude Cowork starting 05:06 UTC on August 24, with users hitting '529 Overloaded' errors on Claude Mythos 5, Fable 5, Opus 5 and Opus 4.8. It is at least the seventh service disruption this month, raising capacity and reliability questions as enterprise demand surges.",
+    "source": "https://cybersecuritynews.com/claude-ai-suffers-outage/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-08-24",
+    "ticker": "BYD",
+    "headline": "BYD says Ocean lineup's first MPV may launch by year-end",
+    "summary": "Zhang Zhuo, head of sales for BYD's Ocean lineup, said the division's first multi-purpose vehicle could launch by the end of 2026, describing it as a 'one-of-a-kind offering,' though he did not disclose name, specs or pricing. The model would extend BYD's MPV push beyond the Xia, Denza D9 and Linghui M9 ahead of its August 28 interim results.",
+    "source": "https://cnevpost.com/2026/08/24/byd-exec-ocean-mpv-may-launch-year-end/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-08-24",
     "headline": "Chairman Tsai and CEO Wu buy ~$15M of shares after the offering",
     "summary": "Joseph Tsai bought HK$81M and Eddie Wu HK$39M of stock following the slump; the same day a securities class action over MIIT ties and AI-distillation risk disclosures was flagged.",
     "source": "https://www.bloomberg.com/news/articles/2026-08-24/alibaba-executives-buy-15-million-in-shares-after-new-offering",
@@ -57,6 +169,14 @@
   },
   {
     "date": "2026-08-22",
+    "ticker": "MRVL",
+    "headline": "Options price a 12% earnings move; UBS lifts Marvell target to $310",
+    "summary": "Ahead of the Aug 27 report, options imply a ~12.4% swing; UBS's Timothy Arcuri raised his target to $310 and Oppenheimer's Rick Schafer backed management's view that custom AI ASIC sales could double next year to $4B+. Consensus is $0.93 EPS on $2.71B revenue (+35% YoY).",
+    "source": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-flashes-strong-signal-162453158.html",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-22",
     "headline": "OpenAI urges California to strengthen AI safety bill SB 53",
     "summary": "Company asked lawmakers to require frontier-model incident monitoring and stronger cybersecurity protections; separately cut GPT-5.6 Sol pricing 20%+ and Luna pricing 80%.",
     "source": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
@@ -102,6 +222,14 @@
     "source": "https://www.fool.com/investing/2026/08/21/vlad-tenev-asked-regulators-to-green-light-tokenized-stocks-robinhood-just-added-about-usd12-billion-in-market-value/",
     "impact": "positive",
     "ticker": "HOOD"
+  },
+  {
+    "date": "2026-08-20",
+    "ticker": "ENPH",
+    "headline": "Enphase launches AI Assistant in the Enphase App",
+    "summary": "Enphase rolled out an agentic AI assistant to homeowners to explain system performance and manage home energy, following the Aug 18 opening of U.S. pre-orders for the IQ Battery C80 commercial storage system; incremental product news while shares keep sliding.",
+    "source": "https://www.globenewswire.com/news-release/2026/08/20/3348310/20176/en/enphase-energy-launches-ai-assistant-in-the-enphase-app-bringing-agentic-intelligence-to-home-energy-management.html",
+    "impact": "neutral"
   },
   {
     "date": "2026-08-20",
@@ -182,6 +310,22 @@
     "source": "https://www.fool.com/investing/2026/08/20/anthropics-revenue-run-rate-just-hit-65-billion-amazon-and-spacex-may-be-the-biggest-winners/",
     "impact": "positive",
     "ticker": "ANTHROPIC"
+  },
+  {
+    "date": "2026-08-19",
+    "ticker": "AMZN",
+    "headline": "Amazon plans Prime Air drone delivery in nearly 500 U.S. cities by end of 2026",
+    "summary": "Prime Air, operating under FAA Part 135, will expand roughly 6x from its current footprint with 11 new launch sites across Arizona, Florida, Kansas, Nebraska, Louisiana, Michigan and Texas, delivering sub-5-lb orders in as little as 30 minutes.",
+    "source": "https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-19",
+    "ticker": "STRIPE",
+    "headline": "Stripe launches Treasury in Australia; named Gartner billing leader for third year",
+    "summary": "Alongside the OpenRouter acquisition announcement, Stripe's newsroom shows Treasury (embedded money management) launching in Australia on Aug 19 and a third consecutive Gartner Leader designation for billing software on Aug 18, extending its platform beyond payments.",
+    "source": "https://stripe.com/newsroom/news",
+    "impact": "neutral"
   },
   {
     "date": "2026-08-19",
@@ -329,6 +473,14 @@
   },
   {
     "date": "2026-08-13",
+    "ticker": "AXOS",
+    "headline": "Benchmark raises Axos Financial price target to $120 from $115, keeps Buy",
+    "summary": "Benchmark now applies 12.8x its 2027 EPS estimate (from 12.2x), citing 12% trailing revenue growth, 17% ROE, above-average loan growth and consistent tangible book value compounding driven by niche lending verticals and acquisitions.",
+    "source": "https://www.investing.com/news/analyst-ratings/benchmark-raises-axos-financial-stock-price-target-to-120-on-growth-93CH-4858681",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-13",
     "headline": "Figure reports strong Q2 2026: revenue $225.6M (+113%), EPS beat",
     "summary": "Record consumer loan marketplace volume of $4.3B, up 132% YoY and above the top of guidance; adjusted EPS of $0.37 beat the $0.25 estimate.",
     "source": "https://investors.figure.com/news-releases/news-release-details/figure-technology-solutions-reports-strong-second-quarter-2026",
@@ -382,6 +534,14 @@
     "source": "https://about.fb.com/news/",
     "impact": "neutral",
     "ticker": "META"
+  },
+  {
+    "date": "2026-08-11",
+    "ticker": "TSM",
+    "headline": "TSMC and Sony sign definitive agreement for image-sensor JV in Kumamoto",
+    "summary": "Advanced Vision Semiconductor Manufacturing Corp. will be ~60% Sony / ~40% TSMC, with contributions of about JPY465B from Sony and JPY282B from TSMC (~$6.4B combined) plus Japanese government support; volume production of next-generation smartphone image sensors targeted for 2029.",
+    "source": "https://pr.tsmc.com/english/news/3333",
+    "impact": "positive"
   },
   {
     "date": "2026-08-11",
@@ -441,6 +601,14 @@
   },
   {
     "date": "2026-08-06",
+    "ticker": "META",
+    "headline": "New Mexico judge orders Meta to pay $567M and overhaul child protections; total liability ~$942M",
+    "summary": "Following the March jury verdict ($375M), a state judge ordered $567M more ($420M for youth treatment) plus mandated changes: AI-based age verification, an under-13 age-prediction model within two years, a school reporting portal, deletion of under-13 data and twice-yearly compliance reports. Meta says it will appeal.",
+    "source": "https://www.pbs.org/newshour/nation/new-mexico-court-orders-meta-to-pay-567-million-over-mental-health-harms-to-kids-online",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-08-06",
     "headline": "Rocket Q2 2026: revenue $2.78B, GAAP net income $229M, adjusted EBITDA $766M",
     "summary": "CEO Varun Krishna cited record purchase and refinance market share in a tough spring market; adjusted net income $441M.",
     "source": "https://www.sec.gov/Archives/edgar/data/0001805284/000180528426000082/rkt-063020268xkex991earnin.htm",
@@ -470,61 +638,5 @@
     "source": "https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html",
     "impact": "negative",
     "ticker": "AMZN"
-  },
-  {
-    "date": "2026-08-04",
-    "headline": "New Jersey AG files antitrust suit over Amazon delivery-contractor practices",
-    "summary": "New Jersey's Attorney General sued Amazon over its delivery service partner practices, adding to regulatory overhang even as the AWS-led rally continued.",
-    "source": "https://www.vantagemarkets.com/market-analysis/amzn-stock-amazon-share-price-monthly-outlook/",
-    "impact": "negative",
-    "ticker": "AMZN"
-  },
-  {
-    "date": "2026-08-04",
-    "headline": "Enphase reinforces U.S. manufacturing across residential, commercial and AI infrastructure",
-    "summary": "Company touted domestic production footprint and new product pre-orders (IQ Battery C80, IQ Air thermostat shipping in August).",
-    "source": "https://www.globenewswire.com/news-release/2026/08/04/3338237/0/en/enphase-energy-reinforces-u-s-manufacturing-across-residential-commercial-and-ai-infrastructure.html",
-    "impact": "positive",
-    "ticker": "ENPH"
-  },
-  {
-    "date": "2026-08-04",
-    "headline": "loanDepot Q2 2026: originations $7.99B, net loss narrows to $6.6M",
-    "summary": "Revenue rose 18% to $337.3M and adjusted EBITDA improved to $20.5M as home-equity lending expanded; unit volume up 25% QoQ.",
-    "source": "https://www.stocktitan.net/news/LDI/loan-depot-inc-to-report-second-quarter-2026-financial-results-on-u659qoj1qbsy.html",
-    "impact": "positive",
-    "ticker": "LDI"
-  },
-  {
-    "date": "2026-08-03",
-    "headline": "Amazon Q2: revenue $200.6B (+20%), AWS +37.5%, capex plan raised to $220B",
-    "summary": "Q2 beat the high end of guidance on revenue and profit; operating margin 13.7% vs 11.4% a year ago, and profit was boosted by a ~$53B non-operating gain on the Anthropic stake. Shares spiked ~20% after the print.",
-    "source": "https://www.fool.com/investing/2026/08/03/whats-going-on-with-amazon-stock/",
-    "impact": "positive",
-    "ticker": "AMZN"
-  },
-  {
-    "date": "2026-08-03",
-    "headline": "Alphabet Q2: revenue $119.8B (+24% YoY), Cloud +82%, EPS $9.11",
-    "summary": "Earnings roughly tripled analyst expectations on AI-driven Cloud growth; stock popped on the print.",
-    "source": "https://www.fool.com/investing/2026/08/03/why-alphabet-stock-popped-today/",
-    "impact": "positive",
-    "ticker": "GOOGL"
-  },
-  {
-    "date": "2026-08-03",
-    "headline": "Amazon tops $3 trillion market cap for the first time",
-    "summary": "Shares hit a record $287.16 after Q2 results showed AWS growing 37% (fastest in over four years), group revenue above $200B, a $496B AWS backlog and a $53.4B pretax gain on its Anthropic stake; FY26 capex was lifted to ~$220B.",
-    "source": "https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html",
-    "impact": "positive",
-    "ticker": "AMZN"
-  },
-  {
-    "date": "2026-07-30",
-    "headline": "Axos Financial reports fiscal year 2026 results",
-    "summary": "Q4 FY26 showed asset growth of 21%, deposit growth of 18%, and net income and diluted EPS up 13% year over year; total deposits reached $24.6B with ~85% insured or collateralized.",
-    "source": "https://www.businesswire.com/news/home/20260730727486/en/Axos-Financial-Inc.-Reports-Fiscal-Year-2026-Results",
-    "impact": "positive",
-    "ticker": "AXOS"
   }
 ]
