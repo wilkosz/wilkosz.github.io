@@ -140,37 +140,25 @@ def render_take(status):
 
 
 def render_portfolio(holdings, status):
+    # Deliberately no price / value columns: units only, no dollar figures.
     takes = status.get("takes", {})
-    total = 0.0
-    priced = 0
     rows = []
     for h in holdings:
         t = takes.get(h["ticker"], {})
-        price = t.get("price_usd")
-        value = None
-        if price is not None and h.get("units"):
-            value = float(price) * float(h["units"])
-            total += value
-            priced += 1
         rows.append(
-            "<tr><td><b>%s</b>:%s</td><td>%s</td><td>%s</td><td>%s</td><td>%s</td><td>%s</td><td>%s</td></tr>"
+            "<tr><td><b>%s</b>:%s</td><td>%s</td><td>%s</td><td>%s</td><td>%s</td></tr>"
             % (
                 e(h["ticker"]), e(h["exchange"]), e(h["name"]), e(h["sector"]),
                 e(h["units"] if h.get("units") is not None else "-"),
-                money(price), money(value),
                 ("<b>%s</b> &mdash; %s" % (e(t.get("take")), e(t.get("reason")))) if t else "-",
             )
         )
-    table = (
+    return (
         '<table border="1" cellpadding="4" cellspacing="0">\n'
-        "<tr><th>ticker</th><th>name</th><th>sector</th><th>units</th><th>price</th><th>value</th><th>agent take</th></tr>\n"
+        "<tr><th>ticker</th><th>name</th><th>sector</th><th>units</th><th>agent take</th></tr>\n"
         + "\n".join(rows)
         + "\n</table>\n"
     )
-    if priced:
-        table += "<p>estimated value of priced public holdings: <b>%s</b> (%d of %d priced; prices are from the last research run, not live)</p>\n" % (
-            money(total), priced, len([h for h in holdings if h.get("units")]))
-    return table
 
 
 def render_watchlist(watchlist):
