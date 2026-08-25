@@ -7,6 +7,7 @@ Run file shape (all keys optional except as_of):
 {
   "as_of": "2026-08-25T08:00",            # UTC, ISO-ish
   "market_summary": "...",                 # replaces data/status.json market_summary
+  "headlines": ["..."],                    # replaces status.json headlines: what changed since last run
   "takes": {                               # merged over existing takes, keyed by holding ticker
     "AMZN": {"take": "hold|add|trim|watch", "reason": "...", "price_usd": 123.4}
   },
@@ -25,6 +26,11 @@ Run file shape (all keys optional except as_of):
     "items": [{"key": "h100_hour", "name": "...", "value": "$2.10", "trend": "down", "signal": "bearish",
                "why": "...", "watch": "...", "note": "...", "source": "https://..."}]
   },
+  "calendar": [                            # optional; upsert by key into data/calendar.json; past events pruned
+    {"key": "2026-08-26-nvda-earnings", "date": "2026-08-26", "time": "after US close", "ticker": "NVDA",
+     "title": "...", "type": "earnings|macro|central_bank|product|conference|other", "why": "...", "link": "https://..."},
+    {"key": "...", "remove": true}
+  ],
   "notes": "free-form markdown appended to the research log"
 }
 """
@@ -76,11 +82,14 @@ def main():
     watchlist = load("watchlist.json", [])
     news = load("news.json", [])
     indicators = load("indicators.json", {"as_of": None, "explainer": "", "indicators": []})
+    calendar = load("calendar.json", {"as_of": None, "events": []})
 
     # --- status
     status["as_of"] = as_of
     if run.get("market_summary"):
         status["market_summary"] = run["market_summary"].strip()
+    if run.get("headlines") is not None:
+        status["headlines"] = [str(x).strip() for x in run["headlines"] if str(x).strip()][:8]
     takes = status.setdefault("takes", {})
     for ticker, t in (run.get("takes") or {}).items():
         if ticker not in held:
@@ -161,6 +170,31 @@ def main():
         indicators["indicators"] = list(by_k.values())
         save("indicators.json", indicators)
 
+    # --- calendar
+    cal_changes = []
+    if run.get("calendar") is not None:
+        by_ev = {ev["key"]: ev for ev in calendar.get("events", [])}
+        for ev in run.get("calendar") or []:
+            if ev.get("remove"):
+                if ev["key"] in by_ev:
+                    del by_ev[ev["key"]]
+                    cal_changes.append("- removed %s" % ev["key"])
+                continue
+            prev = by_ev.get(ev["key"])
+            entry = dict(prev or {})
+            entry.update(ev)
+            by_ev[ev["key"]] = entry
+            if prev is None:
+                cal_changes.append("- added %s %s %s" % (entry.get("date"), entry.get("ticker"), entry.get("title")))
+            elif prev.get("date") != entry.get("date") or prev.get("time") != entry.get("time"):
+                cal_changes.append("- %s: %s %s -> %s %s" % (ev["key"], prev.get("date"), prev.get("time"), entry.get("date"), entry.get("time")))
+        yesterday = (datetime.strptime(day, "%Y-%m-%d") - timedelta(days=1)).strftime("%Y-%m-%d")
+        events = [ev for ev in by_ev.values() if ev["date"] >= yesterday]
+        events.sort(key=lambda ev: (ev["date"], ev["ticker"]))
+        calendar["as_of"] = day
+        calendar["events"] = events
+        save("calendar.json", calendar)
+
     save("status.json", status)
     save("watchlist.json", watchlist)
     save("news.json", news)
@@ -168,6 +202,8 @@ def main():
     # --- research log
     os.makedirs(RESEARCH, exist_ok=True)
     lines = ["# Research run %s UTC" % as_of, ""]
+    if status.get("headlines"):
+        lines += ["## What changed", ""] + ["- " + h for h in status["headlines"]] + [""]
     if status.get("market_summary"):
         lines += ["## Market summary", "", status["market_summary"], ""]
     if run.get("takes"):
@@ -186,6 +222,8 @@ def main():
     lines.append("")
     if ind_changes:
         lines += ["## Bellwether changes", ""] + ind_changes + [""]
+    if cal_changes:
+        lines += ["## Calendar changes", ""] + cal_changes + [""]
     if fresh:
         lines += ["## New news (%d)" % len(fresh), ""]
         for n in fresh:
@@ -196,7 +234,8 @@ def main():
     log_path = os.path.join(RESEARCH, "%s.md" % stamp)
     with open(log_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
-    print("wrote %s (%d new news, %d watchlist changes, %d bellwether changes)" % (os.path.relpath(log_path, ROOT), len(fresh), len(changes), len(ind_changes)))
+    print("wrote %s (%d new news, %d watchlist changes, %d bellwether changes, %d calendar changes)" % (
+        os.path.relpath(log_path, ROOT), len(fresh), len(changes), len(ind_changes), len(cal_changes)))
 
     subprocess.check_call([sys.executable, os.path.join(ROOT, "build.py")])
 

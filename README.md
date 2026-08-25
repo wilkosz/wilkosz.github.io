@@ -16,6 +16,7 @@ data/status.json      agent's take + per-holding takes  (agent-maintained)
 data/watchlist.json   agent picks                       (agent-maintained)
 data/news.json        recent news, deduped by URL       (agent-maintained)
 data/indicators.json  AI-bubble bellwether readings     (agent-maintained)
+data/calendar.json    next-fortnight events             (agent-maintained)
 research/*.md         one log per research run          (agent-maintained)
 .claude/skills/market-research/SKILL.md   the research procedure
 .claude/settings.json                     bypassPermissions for this repo

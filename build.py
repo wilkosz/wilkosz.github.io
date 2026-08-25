@@ -14,7 +14,7 @@ import html
 import json
 import os
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(ROOT, "data")
@@ -27,6 +27,8 @@ CONVICTIONS = ("high", "medium", "low")
 IMPACTS = ("positive", "negative", "neutral")
 TRENDS = ("up", "flat", "down")
 SIGNALS = ("bullish", "neutral", "bearish")
+EVENT_TYPES = ("earnings", "macro", "central_bank", "product", "conference", "other")
+CALENDAR_DAYS = 14
 MAX_NEWS_ON_PAGE = 60
 
 
@@ -61,7 +63,17 @@ def fail(msg):
     sys.exit(1)
 
 
-def validate(profile, holdings, loves, status, watchlist, news, indicators=None):
+def validate(profile, holdings, loves, status, watchlist, news, indicators=None, calendar=None):
+    for ev in (calendar or {}).get("events", []):
+        for k in ("key", "date", "time", "ticker", "title", "type", "why"):
+            if k not in ev:
+                fail("calendar.json event missing %r: %r" % (k, ev))
+        if ev["type"] not in EVENT_TYPES:
+            fail("calendar.json %s type must be one of %s" % (ev["key"], EVENT_TYPES))
+        try:
+            datetime.strptime(ev["date"], "%Y-%m-%d")
+        except ValueError:
+            fail("calendar.json bad date %r" % ev["date"])
     for i in (indicators or {}).get("indicators", []):
         for k in ("key", "name", "value", "trend", "signal", "why", "watch", "source", "updated"):
             if k not in i:
@@ -129,6 +141,7 @@ def render_nav():
         ("#portfolio", "portfolio"),
         ("#picks", "agent picks"),
         ("#bellwethers", "ai bellwethers"),
+        ("#calendar", "next fortnight"),
         ("#love", "companies i love"),
         ("#news", "news"),
         ("#research", "research log"),
@@ -147,7 +160,12 @@ def render_builds(profile):
 def render_take(status):
     as_of = status.get("as_of") or "never"
     summary = status.get("market_summary") or "No research run yet."
-    return "<p><i>last updated: %s (UTC)</i></p>\n<p>%s</p>\n" % (e(as_of), e(summary))
+    out = "<p><i>last updated: %s (UTC)</i></p>\n" % e(as_of)
+    if status.get("headlines"):
+        out += "<p><b>What changed since the last run</b></p>\n<ul>\n" + "".join(
+            "<li>%s</li>\n" % e(h) for h in status["headlines"]) + "</ul>\n"
+    out += "<p>%s</p>\n" % e(summary)
+    return out
 
 
 def render_portfolio(holdings, status):
@@ -169,7 +187,7 @@ def render_portfolio(holdings, status):
         v = values.get(h["ticker"])
         weight = ("%.1f%%" % (100.0 * v / total)) if (v is not None and total) else "-"
         rows.append(
-            "<tr><td><b>%s</b>:%s</td><td>%s</td><td>%s</td></tr>"
+            '<tr><td><b>%s</b>:%s</td><td data-label="weight">%s</td><td data-label="take">%s</td></tr>'
             % (
                 e(h["ticker"]), e(h["exchange"]), weight,
                 ("<b>%s</b> &mdash; %s" % (e(t.get("take")), e(t.get("reason")))) if t else "-",
@@ -215,6 +233,29 @@ def render_watchlist(watchlist):
     return out
 
 
+def render_calendar(cal, today):
+    start = today.strftime("%Y-%m-%d")
+    end = (today + timedelta(days=CALENDAR_DAYS)).strftime("%Y-%m-%d")
+    events = sorted([ev for ev in cal.get("events", []) if start <= ev["date"] <= end],
+                    key=lambda ev: (ev["date"], ev["ticker"]))
+    if not events:
+        return "<p>No events on file for %s to %s.</p>\n" % (start, end)
+    out = "<p><i>%s to %s (UTC dates). Times as published by the source.</i></p>\n" % (e(start), e(end))
+    current = None
+    for ev in events:
+        if ev["date"] != current:
+            if current is not None:
+                out += "</ul>\n"
+            current = ev["date"]
+            day = datetime.strptime(current, "%Y-%m-%d").strftime("%a %Y-%m-%d")
+            out += "<h3>%s</h3>\n<ul>\n" % e(day)
+        title = link(ev["link"], ev["title"]) if ev.get("link") else e(ev["title"])
+        out += "<li>[%s] <b>%s</b> %s (%s) &mdash; %s</li>\n" % (
+            e(ev["type"]), e(ev["ticker"]), title, e(ev["time"]), e(ev["why"]))
+    out += "</ul>\n"
+    return out
+
+
 def render_indicators(ind):
     items = ind.get("indicators", [])
     if not items:
@@ -227,7 +268,7 @@ def render_indicators(ind):
         "<tr><th>indicator</th><th>reading</th><th>trend</th><th>signal</th><th>why it matters / what to watch</th></tr>\n"
     )
     for i in items:
-        out += "<tr><td><b>%s</b><br><i>%s</i></td><td>%s</td><td>%s</td><td><b>%s</b></td><td>%s<br>watch: %s%s</td></tr>\n" % (
+        out += '<tr><td><b>%s</b><br><i>%s</i></td><td data-label="reading">%s</td><td data-label="trend">%s</td><td data-label="signal"><b>%s</b></td><td data-label="why">%s<br>watch: %s%s</td></tr>\n' % (
             e(i["name"]), e(i["updated"]), e(i["value"]), e(i["trend"]), e(i["signal"]),
             e(i["why"]), e(i["watch"]),
             (" &mdash; %s" % link(i["source"], "source")) if i.get("source") else "")
@@ -285,11 +326,13 @@ PAGE = """<!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>%(title)s</title>
 <style>
-body{font-family:Verdana,Geneva,sans-serif;font-size:14px;line-height:1.4;max-width:960px;margin:1em auto;padding:0 1em;color:#000;background:#fff}
-a{color:#00e}a:visited{color:#551a8b}
-table{border-collapse:collapse;font-size:13px}th{text-align:left}
+body{font-family:Verdana,Geneva,sans-serif;font-size:15px;line-height:1.45;max-width:960px;margin:1em auto;padding:0 0.8em;color:#000;background:#fff;-webkit-text-size-adjust:100%%}
+a{color:#00e;word-break:break-word}a:visited{color:#551a8b}
+table{border-collapse:collapse;font-size:14px;width:100%%}th{text-align:left}td,th{vertical-align:top;word-break:break-word}
+ul{padding-left:1.2em}li{margin-bottom:0.4em}
 pre{white-space:pre-wrap;word-wrap:break-word}
-h1,h2,h3{font-weight:bold}h1{font-size:20px}h2{font-size:16px;margin-top:2em}h3{font-size:14px}
+h1,h2,h3{font-weight:bold}h1{font-size:20px}h2{font-size:17px;margin-top:2em}h3{font-size:15px}
+@media (max-width:600px){table,thead,tbody,tr,td,th{display:block;width:auto}tr{border-bottom:2px solid #000;padding:0.4em 0}td,th{border:0!important;padding:0.1em 0}th{display:none}td[data-label]::before{content:attr(data-label) ": ";color:#555}}
 </style>
 </head>
 <body>
@@ -309,7 +352,8 @@ def build():
     watchlist = load("watchlist.json")
     news = load("news.json")
     indicators = load("indicators.json")
-    validate(profile, holdings, loves, status, watchlist, news, indicators)
+    calendar = load("calendar.json")
+    validate(profile, holdings, loves, status, watchlist, news, indicators, calendar)
     if "--check" in sys.argv:
         print("data ok: %d holdings, %d picks, %d news items" % (len(holdings), len(watchlist), len(news)))
         return
@@ -322,6 +366,7 @@ def build():
     body += section("Portfolio (what I'm invested in)", render_portfolio(holdings, status), "portfolio")
     body += section("Agent picks (researching for future growth)", render_watchlist(watchlist), "picks")
     body += section("AI bubble bellwethers (is compute being sold at a discount?)", render_indicators(indicators), "bellwethers")
+    body += section("Next fortnight (what to watch or listen to)", render_calendar(calendar, datetime.now(timezone.utc)), "calendar")
     body += section("Companies I love", render_loves(loves), "love")
     body += section("News", render_news(news), "news")
     body += section("Research log", render_research(logs), "research")
