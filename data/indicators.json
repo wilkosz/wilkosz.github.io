@@ -53,25 +53,25 @@
     {
       "key": "memory_prices",
       "name": "Server DRAM / HBM contract price momentum (QoQ) and DRAM spot",
-      "value": "+13-18% QoQ 3Q26 (after +93-98% 1Q26, +58-63% 2Q26); DDR5 16Gb spot $54.17",
+      "value": "+13-18% QoQ 3Q26 (after +93-98% 1Q26, +58-63% 2Q26); TrendForce now sees server DRAM ~+270% cumulative in 2026, HBM +70-140% in 2027; DDR5 16Gb spot $54.17 (flat)",
       "trend": "up",
       "signal": "bullish",
       "why": "Memory is the tightest physical input to AI servers (HBM is 25-30% of a Rubin rack) and contract prices are negotiated quarterly, so this is the earliest cyclical input to turn; a price rollover would precede GPU discounting.",
-      "watch": "Bearish when server DRAM or HBM contract prices go negative QoQ (TrendForce already guides 4Q26 to only +3-8%), when 2027 HBM4 contracts are signed at lower prices, or when DRAMeXchange DDR5 spot falls >20% from peak.",
-      "note": "TrendForce (Jul 9, 2026) expects server DRAM contract prices +13-18% QoQ in 3Q26 with hyperscaler long-term agreements capping increases; DRAMeXchange DDR5 16Gb spot averaged $54.17 on Aug 24, 2026. The deceleration from +93-98% in 1Q26 is the thing to watch, and consumer OEMs (Oppo, Vivo) are already rejecting Samsung's Q3 hikes.",
-      "source": "https://www.trendforce.com/presscenter/news/20260709-13140.html",
+      "watch": "Bearish when server DRAM or HBM contract prices go negative QoQ (TrendForce already guides 4Q26 to only +3-8%), when 2027 HBM4 contracts are signed at lower prices, or when DRAMeXchange DDR5 spot falls >20% from peak; also watch whether CSPs start cutting memory per system, which TrendForce now flags as their cost response.",
+      "note": "TrendForce (Aug 25, 2026) says DRAM plus NAND will absorb 47% of major CSP capex in 2026 and 68% in 2027, with CSP capex +98% in 2026 and +50% in 2027; it puts the cumulative 2026 server DRAM contract rise at ~270% (enterprise SSD ~235%) and expects HBM contract prices +70-140% in 2027, with HBM and RDIMM taking 51% of DRAM bit supply. Two early cracks: long-term agreements signed from 2Q26 carry price ceilings, and CSPs may cut memory capacity per system or lean on custom silicon. DRAMeXchange DDR5 16Gb spot averaged $54.17 on Aug 25 (0.0% d/d; DDR4 16Gb $90.56, -0.8%), unchanged from Aug 24. The 3Q26 +13-18% guide (Jul 9) still stands.",
+      "source": "https://www.trendforce.com/presscenter/news/20260825-13198.html",
       "updated": "2026-08-25"
     },
     {
       "key": "power_bottleneck",
       "name": "Power constraint: ERCOT interconnection queue, gas-turbine backlog and lead times",
-      "value": "474 GW ERCOT requests (~90% data centers); GE Vernova turbine backlog 116 GW; ~5-7 yr lead times",
+      "value": "474 GW ERCOT requests across 1,800+ projects (~427 GW data centers) vs ~193 GW installed; GE Vernova turbine backlog 116 GW; ~5-7 yr lead times",
       "trend": "up",
       "signal": "bullish",
       "why": "Power, not chips, is now the binding constraint on new capacity, which keeps installed GPUs scarce and rental prices firm; it also reveals how much announced demand is speculative once regulators force projects to prove financing.",
-      "watch": "Watch ERCOT's December audit: large queue withdrawals (BNEF flags 49.8 GW at risk) would show phantom demand; turbine slot cancellations or resales, falling data-center PPA prices, or turbine prices retreating from the $600/kW 2027 forecast would signal the build is slowing.",
-      "note": "Gov. Abbott's Aug 3, 2026 directive cited an estimated 474 GW of interconnection requests (233 GW in January), ~90% data centers, and paused approvals pending audits of ~300 projects. GE Vernova's gas-turbine backlog and slot reservations rose from 100 to 116 GW in Q2 2026 (at least 125 GW by year-end) against ~20 GW/yr output, and WoodMac sees large-turbine lead times of ~5 years with prices reaching $600/kW by 2027 (+195% vs 2019).",
-      "source": "https://www.utilitydive.com/news/texas-hits-pause-data-center-interconnections/827046/",
+      "watch": "ERCOT files its Batch Zero eligibility-verification and community-impact reports by Dec 10, 2026 for the Dec 17 PUCT open meeting, with RFIs going out Aug-Sep and cure periods Oct-Nov: large queue withdrawals (BNEF flags 49.8 GW at risk) would show phantom demand. Turbine slot cancellations or resales, falling data-center PPA prices, or turbine prices retreating from the $600/kW 2027 forecast would signal the build is slowing.",
+      "note": "ERCOT's Aug 20 presentation to the PUCT (reported Aug 21) sizes the queue at more than 1,800 large-load requests totalling ~474 GW, of which ~427 GW is data centers, against ~193 GW of installed capacity and a Jul 22 peak record of 91,089 MW; the audit covers ~250-300 Batch Zero projects, with broader Batch Zero study results not due until April 2027, and more than 20 GW of behind-the-meter capacity has been announced off-grid. Turbine side unchanged: GE Vernova 116 GW backlog plus slot reservations (53 GW firm) heading to 125 GW+ by year-end, Siemens Energy 69 GW firm, MHI 35 GW large-frame with 2028-30 delivery.",
+      "source": "https://energynewsbeat.co/electrical-generation/texas-ercot-looks-to-complete-texas-data-center-audit-by-december/",
       "updated": "2026-08-25"
     },
     {
@@ -89,13 +89,13 @@
     {
       "key": "neocloud_credit",
       "name": "Neocloud financing: CoreWeave loan/bond spreads, CDS, vendor backstops, customer concentration",
-      "value": "Jul-26 $2.6B loan at SOFR+550, 97 OID, 10.44% YTM (talk +425-450); CDS ~855bp; Apr-26 notes 9.75%",
-      "trend": "up",
+      "value": "CoreWeave Jul-26 $2.6B loan at SOFR+550, 10.44% YTM; CDS ~855bp (Jul 29); vs Nebius $5B converts settled Aug 24 at 0.50% (2030) and 4.50% (2034), 40-45% premiums",
+      "trend": "flat",
       "signal": "bearish",
       "why": "Neoclouds are the levered marginal builder of GPU capacity; their cost of debt, covenants and dependence on Nvidia backstops show whether lenders still believe rental prices will cover depreciation, and they are the first place a compute-price decline turns into forced selling.",
-      "watch": "Escalation if new deals price above SOFR+600 or 11% yields, CDS above 1,000bp, deals pulled or downsized, Nvidia's rent-back backstop extended to tier-1 neoclouds, or a top customer (CoreWeave's A/B/C are 36%/26%/10% of revenue) renegotiates; improvement if spreads retrace toward the April 9.75% level.",
-      "note": "Tech Times (Aug 3, 2026) reports CoreWeave's $2.6B loan cleared at SOFR+550 with a 1.35x DSCR covenant after a 100-125bp blowout, and its CDS topped ~855bp on Jul 29 (≈50% five-year default probability); the Q2 10-Q shows net interest expense of $640M (vs $267M), recourse debt of $31.4B and adjusted operating margin of 5% (vs 16%). Nvidia's July 1 backstop program (Sharon AI 40k GB300s over six years, Firmus 170k GPUs) rents back unused capacity for a revenue share, i.e. vendor financing.",
-      "source": "https://www.techtimes.com/articles/322772/20260803/ai-loan-investors-demand-covenants-after-coreweave-spread-blows-out-125-points.htm",
+      "watch": "Escalation if new deals price above SOFR+600 or 11% yields, CDS above 1,000bp, deals pulled or downsized, Nvidia's rent-back backstop extended to tier-1 neoclouds, or a top customer (CoreWeave's A/B/C are 36%/26%/10% of revenue) renegotiates; improvement if spreads retrace toward the April 9.75% level or if CoreWeave can tap convertible/equity-linked money on Nebius-like terms.",
+      "note": "No new CoreWeave debt print since the Aug 3 loan flex (SOFR+550, 97 OID, 1.35x DSCR covenant) or the Jul 29 CDS reading (~855bp, ~50% five-year default odds); Aug 25 news was operational (Rescale workload deal, stock +2%). The fresh datapoint is Nebius: its upsized $5.0B convertible offering (priced Aug 19, settled Aug 24) sold $3.0B of 0.50% notes due 2030 and $2.0B of 4.50% notes due 2034 at 40%/45% conversion premiums, funding data centers and GPU purchases; in July Nebius also borrowed ~$775M GPU-backed at SOFR+250. Read: equity-linked and asset-backed funding stays cheap for neoclouds with a strong stock, while CoreWeave's unsecured cost of capital is the outlier, so the stress is issuer-specific rather than sector-wide for now.",
+      "source": "https://nebius.com/newsroom/nebius-group-announces-pricing-of-upsized-private-offering-of-5-0-billion-of-convertible-senior-notes",
       "updated": "2026-08-25"
     },
     {

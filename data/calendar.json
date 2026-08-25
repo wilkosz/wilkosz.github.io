@@ -82,6 +82,16 @@
       "link": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/"
     },
     {
+      "key": "2026-08-27-au-capex-q2",
+      "date": "2026-08-27",
+      "time": "11:30 AEST",
+      "ticker": "MACRO",
+      "title": "ABS Private New Capital Expenditure, June quarter 2026 (actual and expected capex)",
+      "type": "macro",
+      "why": "Feeds the Sep 2 GDP print and the RBA's read on business investment ahead of the Sep 28-29 meeting.",
+      "link": "https://www.abs.gov.au/statistics/economy/business-indicators/private-new-capital-expenditure-and-expected-expenditure-australia"
+    },
+    {
       "key": "2026-08-27-mrvl-earnings",
       "date": "2026-08-27",
       "time": "after US close (13:45 PT / 16:45 ET call)",
@@ -162,6 +172,16 @@
       "link": "https://tradingeconomics.com/china/calendar"
     },
     {
+      "key": "2026-09-01-crdo-earnings",
+      "date": "2026-09-01",
+      "time": "after US close (14:00 PT call)",
+      "ticker": "CRDO",
+      "title": "Credo Technology Q1 FY2027 results (quarter ended Aug 1)",
+      "type": "earnings",
+      "why": "Closest public comp to Astera Labs and Marvell's connectivity lines; hyperscaler AEC/optical demand and customer concentration read.",
+      "link": "https://investors.credosemi.com/news-events/news/news-details/2026/Credo-Schedules-First-Quarter-Fiscal-Year-2027-Financial-Results-Conference-Call/default.aspx"
+    },
+    {
       "key": "2026-09-01-dell-earnings",
       "date": "2026-09-01",
       "time": "after US close (15:30 CDT call)",
@@ -212,6 +232,16 @@
       "link": "https://www.federalreserve.gov/newsevents/2026-september.htm"
     },
     {
+      "key": "2026-09-02-hpe-earnings",
+      "date": "2026-09-02",
+      "time": "after US close (15:30 CT / 16:30 ET call)",
+      "ticker": "HPE",
+      "title": "Hewlett Packard Enterprise Q3 FY2026 results (quarter ended Jul 31)",
+      "type": "earnings",
+      "why": "AI-server backlog, Blackwell shipments and server margins alongside Dell (Sep 1) and Broadcom (same night); demand read for NVDA, TSM, MU.",
+      "link": "https://www.businesswire.com/news/home/20260812715641/en/HPE-to-Present-Live-Audio-Webcast-of-Fiscal-2026-Third-Quarter-Earnings-Conference-Call"
+    },
+    {
       "key": "2026-09-02-au-gdp-q2",
       "date": "2026-09-02",
       "time": "11:30 AEST",
@@ -240,6 +270,16 @@
       "type": "macro",
       "why": "Consumer-services momentum check for BABA and SE.",
       "link": "https://tradingeconomics.com/china/calendar"
+    },
+    {
+      "key": "2026-09-03-cien-earnings",
+      "date": "2026-09-03",
+      "time": "before US open (08:30 ET call)",
+      "ticker": "CIEN",
+      "title": "Ciena fiscal Q3 2026 results (guide $1.625B +/- $50M)",
+      "type": "earnings",
+      "why": "Optical/data-centre interconnect bellwether for hyperscaler capex; cross-read for MRVL, AVGO, ALAB.",
+      "link": "https://www.ciena.com/about/newsroom/press-releases/ciena-announces-reporting-date-and-web-broadcast-for-fiscal-third-quarter-2026-results"
     },
     {
       "key": "2026-09-03-us-ism-services",
@@ -290,6 +330,16 @@
       "type": "conference",
       "why": "Major sell-side tech conference where holdings/watchlist names give intra-quarter updates; MELI fintech/credit commentary and NET AI-traffic commentary are the ones to listen for.",
       "link": "https://investor.mercadolibre.com/news-and-events"
+    },
+    {
+      "key": "2026-09-09-apple-event",
+      "date": "2026-09-09",
+      "time": "TBC (expected 10:00 PT; invite not yet sent)",
+      "ticker": "AAPL",
+      "title": "Apple September event: iPhone 18 Pro / Pro Max and foldable iPhone Ultra expected (date per Bloomberg, unconfirmed)",
+      "type": "product",
+      "why": "Loved company; TSM 2nm A20 volumes, memory content and iPhone Ultra pricing set the non-AI demand backdrop for TSM and MU.",
+      "link": "https://www.macrumors.com/2026/08/24/apple-invites-iphone-18-pro-event-soon/"
     },
     {
       "key": "2026-09-09-gs-communacopia-net",
