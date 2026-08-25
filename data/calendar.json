@@ -286,10 +286,20 @@
       "date": "2026-09-08",
       "time": "TBC (SF, PT)",
       "ticker": "MELI",
-      "title": "Goldman Sachs Communacopia + Technology Conference begins; MercadoLibre presents Sep 8 (Cloudflare Sep 9, 10:10 PT, just outside window)",
+      "title": "Goldman Sachs Communacopia + Technology Conference begins (Sep 8-10); MercadoLibre presents Sep 8 (Cloudflare Sep 9, 10:10 PT, listed separately)",
       "type": "conference",
       "why": "Major sell-side tech conference where holdings/watchlist names give intra-quarter updates; MELI fintech/credit commentary and NET AI-traffic commentary are the ones to listen for.",
       "link": "https://investor.mercadolibre.com/news-and-events"
+    },
+    {
+      "key": "2026-09-09-gs-communacopia-net",
+      "date": "2026-09-09",
+      "time": "10:10 PT",
+      "ticker": "NET",
+      "title": "Cloudflare fireside chat at Goldman Sachs Communacopia + Technology Conference (San Francisco)",
+      "type": "conference",
+      "why": "Intra-quarter update on AI-crawler/agent traffic, Workers AI and large-enterprise deal momentum; first management commentary since the Aug 6 Q2 print that sent NET up 17%. Slot carried forward from the prior calendar note (Sep 9, 10:10 PT); Cloudflare's IR events page did not render a listing on this pass, so confirm the webcast link on the day.",
+      "link": "https://cloudflare.net/events-and-presentations/default.aspx"
     }
   ]
 }

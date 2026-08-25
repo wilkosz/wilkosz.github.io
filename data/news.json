@@ -1,6 +1,102 @@
 [
   {
     "date": "2026-08-25",
+    "ticker": "MACRO",
+    "headline": "Wall Street closes higher ahead of Nvidia and PCE as oil slides 5% and yields fall",
+    "summary": "The S&P 500 rose 0.32% to 7,677, the Nasdaq 0.66% to 26,151 and the Dow 0.30% to 53,577 as tech rebounded before Nvidia's Wednesday report; WTI fell 4.9% to $80.65, the 10-year yield dropped to 4.62% and the VIX eased to 15.5. AMD (+4.9%) led on a Raymond James upgrade, Moderna jumped 14%; after hours Intuit fell ~9% on weak guidance while Zoom beat and raised. July PCE and the second Q2 GDP estimate land at 22:30 AEST Wednesday.",
+    "source": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-030-4875930",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-25",
+    "ticker": "META",
+    "headline": "Ex-Meta data scientist: only ~0.2% of teens used Instagram's break reminder; Mosseri takes the stand",
+    "summary": "In the 29-state teen social-media addiction trial in Oakland, former Instagram wellbeing-team data scientist George Volichenko testified under subpoena that roughly two in 1,000 weekly teen users activated the opt-in 'take a break' tool and that leadership rejected making it default because of fear it would dent core engagement metrics; Meta's lawyer countered that 0.2% still meant hundreds of thousands of teens. Instagram head Adam Mosseri began his testimony late Tuesday (Reuters), with the trial expected to run six to eight weeks. META still closed up 2% at $570.05.",
+    "source": "https://thenextweb.com/news/meta-trial-volichenko-take-a-break-default-rejected",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-08-25",
+    "ticker": "ANTHROPIC",
+    "headline": "Anthropic to pitch IPO investors a $30T+ addressable market on a $65B run-rate, WSJ reports",
+    "summary": "The WSJ reports Anthropic will tell prospective IPO investors its total addressable market exceeds $30 trillion, topping SpaceX's $28.5T claim, derived from 'the full scope of work that could be completed with AI models'. Q2 revenue was $11.6B, the annualized run-rate reached $65B at end-July and 2028 revenue is projected at $190-200B; an S-1 is expected within weeks for a September/early-October debut at roughly a $2T valuation, potentially raising up to $100B.",
+    "source": "https://www.investing.com/news/stock-market-news/anthropic-claims-30t-ai-market-just-12x-the-entire-tech-sector-combined-4875750",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-25",
+    "ticker": "OPENAI",
+    "headline": "OpenAI data-center chief Chris Malone exits, fourth senior departure before planned 2027 IPO",
+    "summary": "The WSJ reports Chris Malone, OpenAI's head of data centers since March 2025 and a former Meta and Google infrastructure lead, left last week, following Fidji Simo, COO Brad Lightcap and CRO Denise Dresser; the Journal called the cluster of C-suite exits unusual even by pre-IPO standards, while Greg Brockman said 'I'm a constant, Sam is a constant'. Sachin Katti now oversees infrastructure as OpenAI raises projected compute spending to ~$750B through 2030 and signs a 10GW Ohio lease with SB Energy backed by up to $105B of Nvidia guarantees.",
+    "source": "https://www.investing.com/news/stock-market-news/openai-data-center-chief-exits-as-4-executives-leave-ahead-of-2027-ipo-4875869",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-08-25",
+    "ticker": "NVDA",
+    "headline": "Perplexity and Nvidia launch 'Portable Computer', a fully local AI agent for DGX Spark and RTX machines",
+    "summary": "Perplexity released Portable Computer, an agent platform that runs models, inference and security tooling entirely on local hardware (Nvidia DGX Spark or Linux boxes with 24GB+ RTX GPUs, Windows in September) for Pro, Max and Enterprise subscribers, consuming no billing credits for local work and asking permission before escalating to cloud frontier models. Co-developed with Nvidia, which calls it evidence that 'local AI reached an inflection point', it gives DGX Spark a flagship application; separately Nvidia is reported in talks to invest in Perplexity at a $30B+ valuation.",
+    "source": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-25",
+    "ticker": "NVDA",
+    "headline": "Morgan Stanley credit desk flags ~$200B of contingent financing exposure from Nvidia's AI ecosystem support",
+    "summary": "Initiating credit coverage with a neutral view, Morgan Stanley said Nvidia's balance-sheet support for customers via residual-value structures tied to a $500B+ partnership and revenue-sharing deals could reach ~$200B of total credit exposure by end-2028, including ~$170B of contingent and off-balance-sheet obligations, so 'conventional leverage increasingly understates the credit story'; it called the $1T+ of guided GPU/XPU financing the key overhang and told bond investors to be patient despite wider spreads.",
+    "source": "https://www.investing.com/news/stock-market-news/nvidias-ai-financing-push-brings-new-credit-risks-morgan-stanley-says-4875159",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-08-25",
+    "ticker": "GOOGL",
+    "headline": "Waymo confirms Munich as first EU city, public robotaxi service targeted for late 2027",
+    "summary": "Waymo said it will begin mapping and manual driving in Munich in the coming weeks with trained specialists behind the wheel, aiming to open fully autonomous ride-hailing to the public toward the end of 2027 in its third market outside the US; the German transport ministry and Bavarian government backed the move, with co-CEO Tekedra Mawakana calling Munich 'a world-class hub for mobility and engineering'.",
+    "source": "https://waymo.com/blog/2026/08/waymo-in-munich",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-25",
+    "ticker": "RKT",
+    "headline": "Rocket Money launches Rowan, an Anthropic-powered AI agent that acts on members' finances",
+    "summary": "Rocket Companies' Rocket Money unveiled Rowan, an AI agent 'powered by Anthropic' built on a stack of agents trained on Rocket Money data, which monitors finances over text, cancels subscriptions, renegotiates bills and automates savings transfers rather than just surfacing insights; it is available to select subscribers in a new Premium Plus tier with broader rollout later in 2026, a modest new monetization lever for the personal-finance funnel feeding Rocket's mortgage business.",
+    "source": "https://www.prnewswire.com/news-releases/rocket-moneys-rowan-rewrites-what-ai-can-do-in-personal-finance-302859522.html",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-25",
+    "ticker": "MU",
+    "headline": "BofA names Nvidia, Marvell and Micron among eight 'enhanced buy' chip stocks despite ~10% SOX downside risk",
+    "summary": "Vivek Arya told clients semiconductor risk/reward is positive despite three near-term headwinds (macro and data-center backlash, circular-financing concerns, heavy positioning), naming NVDA, MRVL, MU, LRCX, AMD, INTC, ADI and ON; BofA sees ~10% further downside risk to the SOX back to its pre-ChatGPT discount, which it calls unjustified given bullish Q4/Q1 seasonality and a 20x forward multiple against a ~70% earnings CAGR through 2028.",
+    "source": "https://www.investing.com/news/stock-market-news/these-8-chip-stocks-now-offer-enhanced-buying-opportunities-bofa-says-4874921",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-25",
+    "ticker": "ENR",
+    "headline": "Siemens Energy to separate Transformation of Industry into a standalone company, retain minority stake",
+    "summary": "In an ad-hoc release at 18:25 UTC, after the Xetra close, Siemens Energy said it is starting preparations for the legal and operational separation of Transformation of Industry (steam turbines, generators, compressors; ~17,000 staff, FY25 revenue EUR 5.7B at an 11.3% margin) into an independent industrial-energy-solutions company. It intends to deconsolidate the unit while keeping a meaningful minority stake, with options ranging from external investors to a capital-markets transaction; Goldman Sachs is running the process and private-equity interest has been reported at a valuation above EUR 10B. No price or timeline was given. Shares closed +2.7% at EUR 152.76 before the release.",
+    "source": "https://www.siemens-energy.com/global/en/home/press-releases/siemens-energy-is-starting-preparations-for-business-area-transf.html",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-25",
+    "ticker": "AVGO",
+    "headline": "OpenAI's Broadcom-co-designed Jalapeno chip claims to beat Nvidia GB300 on inference efficiency",
+    "summary": "OpenAI published first results for Jalapeno, the 700W inference ASIC it co-developed with Broadcom, claiming up to 1.9x throughput per kilowatt and 3.6x lower latency than Nvidia's 1,400W GB300. It is a public validation of Broadcom's custom-XPU model a week before its Sep 2 report, though Broadcom still closed -0.6% at $356.74 (after-hours $358.00) as the market stays focused on its AI-financing exposure; the claim also raises the bar for Nvidia's Wednesday print.",
+    "source": "https://stockanalysis.com/stocks/avgo/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-25",
+    "ticker": "SE",
+    "headline": "Sea Limited rallies 6.5% to $123.18 on no company news",
+    "summary": "Sea closed +6.5% at $123.18, its best day since the Aug 11 Q2 print, with no company-specific announcement; the move tracked a broad EM/Internet bid (MercadoLibre +2.5% to $1,997) and follow-through from post-earnings target hikes at BofA ($143), Barclays ($156), Morgan Stanley ($153) and Benchmark ($175). The stock remains ~36% below its 52-week high with consensus targets near $155.",
+    "source": "https://stockanalysis.com/stocks/se/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-25",
     "ticker": "OPENAI",
     "headline": "OpenAI publishes Jalapeño chip benchmarks claiming more throughput per kilowatt than Nvidia Blackwell",
     "summary": "OpenAI released first results for its Broadcom-co-designed Jalapeño inference chip: SemiAnalysis's InferenceX benchmark shows more tokens per user and more throughput per kilowatt than current Blackwell systems, per TechCrunch. Hardware lead Richard Ho called it 'a very, very significant performance advance'. Limited deployment starts end-2026, scaling in 2027. Positive for OpenAI's cost curve, a narrative headwind for NVDA a day before earnings.",
@@ -542,101 +638,5 @@
     "source": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
     "impact": "positive",
     "ticker": "OPENAI"
-  },
-  {
-    "date": "2026-08-20",
-    "headline": "AWS commits $500M+ to student cloud and AI training; Prime Air targets ~500 cities",
-    "summary": "AWS pledged more than $500 million toward student cloud and AI skills training, while Prime Air drone delivery is expanding to nearly 500 US cities in pursuit of 1 million deliveries in 2026. BMO raised its AMZN price target the same day.",
-    "source": "https://www.aboutamazon.com/news",
-    "impact": "positive",
-    "ticker": "AMZN"
-  },
-  {
-    "date": "2026-08-20",
-    "headline": "Spotify adds $1.5B to buyback, $2.2B total committed",
-    "summary": "Spotify authorized a further $1.5 billion tranche of share repurchases, taking total committed buybacks to about $2.22 billion, following a Q2 in which it passed 300 million Premium subscribers and posted record gross margin.",
-    "source": "https://www.digitalmusicnews.com/2026/08/20/spotify-stock-repurchase-program-august-2026/",
-    "impact": "positive",
-    "ticker": "SPOT"
-  },
-  {
-    "date": "2026-08-20",
-    "headline": "Anthropic's $65B run rate now exceeds OpenAI's disclosed $40B",
-    "summary": "Analysts note Anthropic has overtaken OpenAI on last-disclosed run rate ($65B vs $40B), with Amazon and SpaceX (via a ~$45B compute agreement) seen as the biggest beneficiaries of its growth; measurement methods between the two companies may differ.",
-    "source": "https://www.fool.com/investing/2026/08/20/anthropics-revenue-run-rate-just-hit-65-billion-amazon-and-spacex-may-be-the-biggest-winners/",
-    "impact": "positive",
-    "ticker": "ANTHROPIC"
-  },
-  {
-    "date": "2026-08-19",
-    "ticker": "AMZN",
-    "headline": "Amazon plans Prime Air drone delivery in nearly 500 U.S. cities by end of 2026",
-    "summary": "Prime Air, operating under FAA Part 135, will expand roughly 6x from its current footprint with 11 new launch sites across Arizona, Florida, Kansas, Nebraska, Louisiana, Michigan and Texas, delivering sub-5-lb orders in as little as 30 minutes.",
-    "source": "https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-08-19",
-    "ticker": "STRIPE",
-    "headline": "Stripe launches Treasury in Australia; named Gartner billing leader for third year",
-    "summary": "Alongside the OpenRouter acquisition announcement, Stripe's newsroom shows Treasury (embedded money management) launching in Australia on Aug 19 and a third consecutive Gartner Leader designation for billing software on Aug 18, extending its platform beyond payments.",
-    "source": "https://stripe.com/newsroom/news",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-08-19",
-    "headline": "Google gets right to buy up to $12.2B of Marvell shares in custom AI chip deal",
-    "summary": "Warrants for ~59M Marvell shares at $206.58 vest in tranches tied to roughly $120B of chip purchases, deepening Alphabet's TPU supply chain.",
-    "source": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
-    "impact": "positive",
-    "ticker": "GOOGL"
-  },
-  {
-    "date": "2026-08-19",
-    "headline": "Rocket shares rise 4.6% to $14.63",
-    "summary": "Bounce on housing data and rate-cut hopes; analysis suggests the stock is no longer an obvious bargain after a ~50% three-year gain.",
-    "source": "https://www.gurufocus.com/news/9044093/rocket-companies-inc-rkt-shares-surge-46-what-gf-score-of-56-tells-investors",
-    "impact": "positive",
-    "ticker": "RKT"
-  },
-  {
-    "date": "2026-08-19",
-    "headline": "Analysis: Stripe bought OpenRouter to own AI usage billing, not the 'singularity'",
-    "summary": "TechCrunch argues the deal is about metering and monetizing AI model consumption as a payments-infrastructure problem.",
-    "source": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-    "impact": "neutral",
-    "ticker": "STRIPE"
-  },
-  {
-    "date": "2026-08-18",
-    "headline": "Federal trial opens with 29 states alleging Meta made Facebook and Instagram addictive to teens",
-    "summary": "Trial before Judge Yvonne Gonzalez Rogers in Oakland is expected to run six weeks; Meta's filing cited a theoretical maximum penalty of $1.4T, while states say ~$200B is realistic. Shares closed at $543.67.",
-    "source": "https://www.vantagemarkets.com/market-analysis/meta-stock-price-today-august-20-2026/",
-    "impact": "negative",
-    "ticker": "META"
-  },
-  {
-    "date": "2026-08-18",
-    "headline": "Micron falls more than 5% after Monday gain",
-    "summary": "Pullback followed a strong session driven by a $10B AI lab initiative backed by Nvidia and Apple; consensus remains Strong Buy with average target ~$1,568.",
-    "source": "https://www.tipranks.com/news/why-is-micron-stock-mu-down-over-5-today-after-mondays-gain-august-18-2026",
-    "impact": "negative",
-    "ticker": "MU"
-  },
-  {
-    "date": "2026-08-18",
-    "headline": "Gemini app passes 1 billion monthly users; 'Ask Gemini in Chat' lands in Workspace Aug 26",
-    "summary": "Google said the Gemini app surpassed 1B monthly users with rising voice, camera and agentic usage, and announced Ask Gemini in Google Chat rolling out Aug 26 to search across Gmail, Drive and Calendar; Google Cloud grew 82% year over year in Q2.",
-    "source": "https://blog.mean.ceo/google-gemini-news-august-2026/",
-    "impact": "positive",
-    "ticker": "GOOGL"
-  },
-  {
-    "date": "2026-08-18",
-    "headline": "Landmark 29-state child-safety trial against Meta opens in Oakland; exposure up to $1.4T",
-    "summary": "A coalition of 29 state attorneys general began a roughly six-week federal trial alleging Meta designed Instagram and Facebook to addict teens and violated COPPA; Meta's own filing puts maximum penalties at $1.4 trillion (states suggest ~$200B is more likely). Zuckerberg and Mosseri are expected to testify; Meta's RSI fell to 35 as shares slid.",
-    "source": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
-    "impact": "negative",
-    "ticker": "META"
   }
 ]
