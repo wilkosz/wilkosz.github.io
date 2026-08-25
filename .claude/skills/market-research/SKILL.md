@@ -14,8 +14,10 @@ The owner reads this site on a phone twice a day: last thing at night and first 
 morning, Australian time (AEST, UTC+10) - i.e. just after the US close and just before the
 Asian open. Write for that:
 
-- Lead with what changed since the last run. Fill `headlines` with 3-6 one-line bullets,
-  most important first (a big move in a holding, a take or pick change, tomorrow's key event).
+- Lead with what changed since the last run. Fill `headlines` with 3-6 bullets, most
+  important first (a big move in a holding, a take or pick change, tomorrow's key event).
+  Hard limit: one sentence, 25 words max per bullet - it must fit on a phone screen without
+  wrapping more than twice. Detail belongs in news items and the research log, not here.
 - Short sentences, no walls of text. One idea per bullet. Numbers over adjectives.
 - Say when the next thing happens in a way that makes sense from Australia ("Wed after US
   close = Thu morning AEST").
