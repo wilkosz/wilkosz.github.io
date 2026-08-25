@@ -140,25 +140,35 @@ def render_take(status):
 
 
 def render_portfolio(holdings, status):
-    # Deliberately no price / value columns: units only, no dollar figures.
+    # Shows allocation weight only (no units, prices or dollar values).
     takes = status.get("takes", {})
+    values = {}
+    for h in holdings:
+        price = takes.get(h["ticker"], {}).get("price_usd")
+        if price is not None and h.get("units"):
+            values[h["ticker"]] = float(price) * float(h["units"])
+    total = sum(values.values())
     rows = []
     for h in holdings:
         t = takes.get(h["ticker"], {})
+        v = values.get(h["ticker"])
+        weight = ("%.1f%%" % (100.0 * v / total)) if (v is not None and total) else "-"
         rows.append(
             "<tr><td><b>%s</b>:%s</td><td>%s</td><td>%s</td></tr>"
             % (
-                e(h["ticker"]), e(h["exchange"]),
-                e(h["units"] if h.get("units") is not None else "-"),
+                e(h["ticker"]), e(h["exchange"]), weight,
                 ("<b>%s</b> &mdash; %s" % (e(t.get("take")), e(t.get("reason")))) if t else "-",
             )
         )
-    return (
+    out = (
         '<table border="1" cellpadding="4" cellspacing="0">\n'
-        "<tr><th>ticker</th><th>units</th><th>agent take</th></tr>\n"
+        "<tr><th>ticker</th><th>weight</th><th>agent take</th></tr>\n"
         + "\n".join(rows)
         + "\n</table>\n"
     )
+    if total:
+        out += "<p><i>weight = share of public holdings by market value at last research-run prices; private holdings unpriced.</i></p>\n"
+    return out
 
 
 def render_watchlist(watchlist):
