@@ -20,6 +20,11 @@ Run file shape (all keys optional except as_of):
     {"date": "2026-08-25", "ticker": "NVDA", "headline": "...", "summary": "...",
      "source": "https://...", "impact": "positive|negative|neutral"}
   ],
+  "indicators": {                          # optional; upsert by key into data/indicators.json
+    "explainer": "...",                    # replaces the explainer if given
+    "items": [{"key": "h100_hour", "name": "...", "value": "$2.10", "trend": "down", "signal": "bearish",
+               "why": "...", "watch": "...", "note": "...", "source": "https://..."}]
+  },
   "notes": "free-form markdown appended to the research log"
 }
 """
@@ -70,6 +75,7 @@ def main():
     status = load("status.json", {"as_of": None, "market_summary": "", "takes": {}})
     watchlist = load("watchlist.json", [])
     news = load("news.json", [])
+    indicators = load("indicators.json", {"as_of": None, "explainer": "", "indicators": []})
 
     # --- status
     status["as_of"] = as_of
@@ -134,6 +140,27 @@ def main():
     news.sort(key=lambda n: n["date"], reverse=True)
     news = news[:MAX_NEWS_ITEMS]
 
+    # --- indicators
+    ind_changes = []
+    ind_run = run.get("indicators") or {}
+    if ind_run:
+        indicators["as_of"] = day
+        if ind_run.get("explainer"):
+            indicators["explainer"] = ind_run["explainer"].strip()
+        by_k = {i["key"]: i for i in indicators.get("indicators", [])}
+        for i in ind_run.get("items") or []:
+            prev = by_k.get(i["key"])
+            entry = dict(prev or {})
+            entry.update(i)
+            entry["updated"] = day
+            by_k[i["key"]] = entry
+            if prev is None:
+                ind_changes.append("- added %s: %s (%s, %s)" % (i["key"], entry.get("value"), entry.get("trend"), entry.get("signal")))
+            elif prev.get("value") != entry.get("value") or prev.get("signal") != entry.get("signal"):
+                ind_changes.append("- %s: %s/%s -> %s/%s" % (i["key"], prev.get("value"), prev.get("signal"), entry.get("value"), entry.get("signal")))
+        indicators["indicators"] = list(by_k.values())
+        save("indicators.json", indicators)
+
     save("status.json", status)
     save("watchlist.json", watchlist)
     save("news.json", news)
@@ -157,6 +184,8 @@ def main():
     for w in watchlist:
         lines.append("- %s:%s %s - %s (%s) - %s" % (w["ticker"], w["exchange"], w["name"], w["status"], w["conviction"], w["thesis"]))
     lines.append("")
+    if ind_changes:
+        lines += ["## Bellwether changes", ""] + ind_changes + [""]
     if fresh:
         lines += ["## New news (%d)" % len(fresh), ""]
         for n in fresh:
@@ -167,7 +196,7 @@ def main():
     log_path = os.path.join(RESEARCH, "%s.md" % stamp)
     with open(log_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
-    print("wrote %s (%d new news, %d watchlist changes)" % (os.path.relpath(log_path, ROOT), len(fresh), len(changes)))
+    print("wrote %s (%d new news, %d watchlist changes, %d bellwether changes)" % (os.path.relpath(log_path, ROOT), len(fresh), len(changes), len(ind_changes)))
 
     subprocess.check_call([sys.executable, os.path.join(ROOT, "build.py")])
 

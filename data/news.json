@@ -1,5 +1,69 @@
 [
   {
+    "date": "2026-08-25",
+    "ticker": "TSM",
+    "headline": "Nikkei exclusive: TSMC supplier Nichias to build plant in Taiwan for critical chipmaking 'tubes'",
+    "summary": "Japan's Nichias, with Gold Stone Development, will build a Taiwan plant for special plastic components used in chip fabrication to avoid the supply disruptions that hampered TSMC's expansions in recent years; a small supply-chain localization step. TSMC shares slipped 0.4% to NT$2,365 in early Tuesday trade as the Taiex opened lower.",
+    "source": "https://asia.nikkei.com/business/technology/exclusive-tsmc-supplier-nichias-to-build-key-chipmaking-tubes-in-taiwan",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-08-24",
+    "ticker": "MRVL",
+    "headline": "Wells Fargo raises Marvell target to $310 ahead of Thursday's fiscal Q2 report",
+    "summary": "After Monday's close Wells Fargo lifted its Marvell price target to $310 (consensus ~$256) citing custom AI silicon demand; the stock is up ~170% YTD into the Aug 27 print, where consensus is ~$2.71B revenue and $0.93 EPS and options imply a ~12% move.",
+    "source": "https://www.tipranks.com/news/marvell-stock-mrvl-wells-fargo-raises-price-target-to-310-ahead-of-q2-earnings",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-24",
+    "ticker": "NVDA",
+    "headline": "Nvidia trades at ~24x forward earnings into Aug 26 print; JPMorgan notes guidance beats have averaged 4% but shares fell after each",
+    "summary": "Yahoo Finance flags that Nvidia's forward P/E has compressed to ~24x (vs ~21x for the S&P 500) after seven straight down days; JPMorgan's Harlan Sur says revenue guidance beat consensus by an average 4% over the past four quarters yet the stock typically slid 3-5% in the following weeks, so a bigger catalyst (China, Rubin, share retention vs custom ASICs) is needed for a re-rating.",
+    "source": "https://finance.yahoo.com/markets/stocks/article/nvidias-valuation-looks-surprisingly-cheap-heading-into-earnings-could-it-be-an-issue-for-the-stock-191738544.html",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-08-24",
+    "ticker": "NVDA",
+    "headline": "Bloomberg: Nvidia's ~90% accelerator share faces hyperscaler ASICs, AMD and 150+ startups as market heads toward $1.4T",
+    "summary": "Bloomberg's pre-earnings look at the competitive landscape: Nvidia is expected to post ~$92B quarterly revenue at ~75% gross margin, but Amazon (Jassy: 'quite excited' about Trainium), AMD ($6.7B data-center revenue last quarter), Huawei in China and 150+ chip startups are all chasing an AI accelerator market projected at $1.4T by 2030; one CEO quoted says nobody is a real competitor until they reach a tenth of Nvidia's revenue.",
+    "source": "https://finance.yahoo.com/technology/ai/articles/nvidia-trillion-dollar-chip-market-120003930.html",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-08-24",
+    "ticker": "NFLX",
+    "headline": "Netflix reshuffles advertising leadership; VP of ads product Jon Whitticom departs",
+    "summary": "Business Insider obtained an internal memo from Netflix's ads chief announcing a reorganization of the advertising division, with Jon Whitticom, who joined in 2023 to build the ads product, leaving; the ad tier is a key leg of the bull case, so execution continuity is worth monitoring.",
+    "source": "https://www.businessinsider.com/netflix-shakes-up-advertising-leadership-read-memo-2026-8",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-08-24",
+    "ticker": "GOOGL",
+    "headline": "Google plans to move all Pixel phone, watch and earbud manufacturing out of China by 2027",
+    "summary": "Per a Nikkei Asia report picked up by Fox Business on Aug 24, Google will shift all Pixel hardware production to Vietnam and India starting in 2027, extending the Pixel 11 Vietnam model; Pixel shipments (12M last year) are planned to grow 8-10% this year, and the move reduces tariff exposure relative to Apple.",
+    "source": "https://www.foxbusiness.com/markets/google-plans-move-all-pixel-manufacturing-out-china-2027",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-08-24",
+    "ticker": "AMZN",
+    "headline": "Amazon's 'Project Tetromino' envisions AI-automated delivery stations processing packages 2.5x faster",
+    "summary": "A Business Insider report on an internal planning document says Amazon is designing next-generation delivery stations that use AI and robotics to sort and stage packages at roughly 2.5 times current throughput, with a pilot facility targeted for 2028; Amazon said the project is early-stage and disputed the document's timeline and financial projections.",
+    "source": "https://www.pymnts.com/amazon/2026/amazon-envisions-next-generation-automated-stations-to-process-packages-2-5-times-faster/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-24",
+    "ticker": "OPENAI",
+    "headline": "Altman concedes he overestimated the speed of AI disruption, now sees AGI by end of 2028",
+    "summary": "On the Founders podcast (aired Aug 23), Sam Altman said he 'was wrong about a few things' on speed because 'the economy just has so much inertia', that he expected more AI-native software startups by now, and that by end-2028 most of humanity's intellectual capacity could reside in data centers; a tempered adoption narrative from OpenAI's CEO as it pushes agents.",
+    "source": "https://finance.yahoo.com/technology/ai/articles/sam-altman-concedes-overestimated-ai-213000863.html",
+    "impact": "neutral"
+  },
+  {
     "date": "2026-08-24",
     "ticker": "NVDA",
     "headline": "Nvidia falls for seventh straight day, longest losing streak since 2022, two days before earnings",
@@ -574,69 +638,5 @@
     "source": "https://www.globenewswire.com/news-release/2026/08/10/3342226/20176/en/enphase-energy-board-of-directors-responds-to-2026-annual-meeting-vote-results-and-announces-governance-enhancements.html",
     "impact": "neutral",
     "ticker": "ENPH"
-  },
-  {
-    "date": "2026-08-10",
-    "headline": "Marvell jumps ~14% on new AI memory infrastructure platform",
-    "summary": "Platform targets memory bottlenecks in hyperscale and agentic AI workloads; followed by target hikes from Wells Fargo ($310), Oppenheimer ($300), Citi ($275) and Morgan Stanley ($224).",
-    "source": "https://stockstotrade.com/news/marvell-technology-inc-mrvl-news-2026_08_10/",
-    "impact": "positive",
-    "ticker": "MRVL"
-  },
-  {
-    "date": "2026-08-10",
-    "headline": "TSMC July 2026 revenue NT$467.58B, +44.7% YoY and +5.6% MoM",
-    "summary": "Monthly sales report shows continued acceleration on AI accelerator demand.",
-    "source": "https://pr.tsmc.com/english/news/3329",
-    "impact": "positive",
-    "ticker": "TSM"
-  },
-  {
-    "date": "2026-08-07",
-    "headline": "OpenAI says it slowed Astra model development over security concerns",
-    "summary": "Internal review found major advances in agentic coding and cybersecurity capabilities, prompting a pause on some aspects of the upcoming Astra model.",
-    "source": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-    "impact": "negative",
-    "ticker": "OPENAI"
-  },
-  {
-    "date": "2026-08-06",
-    "ticker": "META",
-    "headline": "New Mexico judge orders Meta to pay $567M and overhaul child protections; total liability ~$942M",
-    "summary": "Following the March jury verdict ($375M), a state judge ordered $567M more ($420M for youth treatment) plus mandated changes: AI-based age verification, an under-13 age-prediction model within two years, a school reporting portal, deletion of under-13 data and twice-yearly compliance reports. Meta says it will appeal.",
-    "source": "https://www.pbs.org/newshour/nation/new-mexico-court-orders-meta-to-pay-567-million-over-mental-health-harms-to-kids-online",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-08-06",
-    "headline": "Rocket Q2 2026: revenue $2.78B, GAAP net income $229M, adjusted EBITDA $766M",
-    "summary": "CEO Varun Krishna cited record purchase and refinance market share in a tough spring market; adjusted net income $441M.",
-    "source": "https://www.sec.gov/Archives/edgar/data/0001805284/000180528426000082/rkt-063020268xkex991earnin.htm",
-    "impact": "positive",
-    "ticker": "RKT"
-  },
-  {
-    "date": "2026-08-06",
-    "headline": "Cloudflare Q2 2026 revenue up 36% to $696.1M",
-    "summary": "Second-quarter revenue rose 36% year over year to $696.1 million with record growth in paying customers, large customers and developers on the platform.",
-    "source": "https://www.cloudflare.com/press/press-releases/2026/cloudflare-announces-second-quarter-2026-financial-results/",
-    "impact": "positive",
-    "ticker": "NET"
-  },
-  {
-    "date": "2026-08-05",
-    "headline": "Chief scientist Jeff Dean leaves Google after 27 years; Hassabis moves to Alphabet chief scientist role",
-    "summary": "Dean and Sanjay Ghemawat left to launch Discovery Loop (backed by Alphabet); Demis Hassabis stepped down as DeepMind CEO to become chair, with Koray Kavukcuoglu running day-to-day. Shares fell ~4%.",
-    "source": "https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html",
-    "impact": "negative",
-    "ticker": "GOOGL"
-  },
-  {
-    "date": "2026-08-04",
-    "headline": "Jeff Bezos files to sell ~$4B of Amazon stock after $3T market cap milestone",
-    "summary": "Bezos disclosed a ~15M-share sale under a Rule 10b5-1 plan adopted Nov 2025, his first major sale since late 2024; shares fell more than 2% on the news.",
-    "source": "https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html",
-    "impact": "negative",
-    "ticker": "AMZN"
   }
 ]

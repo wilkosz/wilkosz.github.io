@@ -49,6 +49,11 @@ You are the research agent behind wilkosz.com.au. Each run you refresh the site'
      new catalyst?), then hunt for new high-growth candidates across the four themes.
      Prefer real revenue growth + durable moat; label speculative names low conviction.
      Never add a ticker that is already a holding.
+   - **AI bubble bellwethers**: refresh every indicator in `data/indicators.json` (same
+     `key`s) with the latest observable reading, trend and signal - GPU rental $/hour,
+     $/GW build cost, hyperscaler capex vs revenue, neocloud financing, HBM pricing, etc.
+     Only change the explainer if the picture has actually changed. A new indicator is fine
+     if it is observable from public data and clearly better than one already there.
    - **Macro**: 3-5 sentences on the backdrop that matters for these themes right now
      (rates, AI capex, semis, energy policy, China).
 
@@ -68,14 +73,22 @@ You are the research agent behind wilkosz.com.au. Each run you refresh the site'
        {"date": "YYYY-MM-DD", "ticker": "NVDA", "headline": "...", "summary": "...",
         "source": "https://...", "impact": "positive"}
      ],
+     "indicators": {"explainer": "optional", "items": [
+       {"key": "h100_hour", "name": "...", "value": "$2.10", "trend": "down", "signal": "bearish",
+        "why": "...", "watch": "...", "note": "...", "source": "https://..."}]},
      "notes": "anything worth recording for the log: what you looked at, what you skipped, open questions"
    }
    ```
    Enumerations - sector: `AI|Internet|Machinery|Energy`; status: `buy|accumulate|watch|avoid`;
-   conviction: `high|medium|low`; take: `hold|add|trim|watch`; impact: `positive|negative|neutral`.
+   conviction: `high|medium|low`; take: `hold|add|trim|watch`; impact: `positive|negative|neutral`;
+   trend: `up|flat|down`; signal: `bullish|neutral|bearish` (from the AI-infra investor's view:
+   bullish = supply-constrained, bearish = compute being discounted).
    Use holding tickers exactly as in `holdings.json` (private: `STRIPE`, `OPENAI`);
    for loved private companies use `ANTHROPIC`, `CURSOR`. Include takes for **all** holdings
    every run (price refresh), even if the take is unchanged.
+   For private holdings (`cost_usd` / `cost_date` in `holdings.json`) add `"mark_multiple"`:
+   latest reported valuation divided by the valuation at `cost_date` (e.g. `2.27`), plus the
+   source in the reason. Only change it when a new round / tender / secondary mark is reported.
 
 4. **Merge, build, verify**
    ```bash

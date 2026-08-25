@@ -25,6 +25,8 @@ TAKES = ("hold", "add", "trim", "watch")
 STATUSES = ("buy", "accumulate", "watch", "avoid")
 CONVICTIONS = ("high", "medium", "low")
 IMPACTS = ("positive", "negative", "neutral")
+TRENDS = ("up", "flat", "down")
+SIGNALS = ("bullish", "neutral", "bearish")
 MAX_NEWS_ON_PAGE = 60
 
 
@@ -59,7 +61,15 @@ def fail(msg):
     sys.exit(1)
 
 
-def validate(profile, holdings, loves, status, watchlist, news):
+def validate(profile, holdings, loves, status, watchlist, news, indicators=None):
+    for i in (indicators or {}).get("indicators", []):
+        for k in ("key", "name", "value", "trend", "signal", "why", "watch", "source", "updated"):
+            if k not in i:
+                fail("indicators.json %s missing %r" % (i.get("key"), k))
+        if i["trend"] not in TRENDS:
+            fail("indicators.json %s trend must be one of %s" % (i["key"], TRENDS))
+        if i["signal"] not in SIGNALS:
+            fail("indicators.json %s signal must be one of %s" % (i["key"], SIGNALS))
     for h in holdings:
         for k in ("ticker", "exchange", "name", "units", "sector"):
             if k not in h:
@@ -118,6 +128,7 @@ def render_nav():
         ("#take", "agent's take"),
         ("#portfolio", "portfolio"),
         ("#picks", "agent picks"),
+        ("#bellwethers", "ai bellwethers"),
         ("#love", "companies i love"),
         ("#news", "news"),
         ("#research", "research log"),
@@ -144,9 +155,13 @@ def render_portfolio(holdings, status):
     takes = status.get("takes", {})
     values = {}
     for h in holdings:
-        price = takes.get(h["ticker"], {}).get("price_usd")
+        t = takes.get(h["ticker"], {})
+        price = t.get("price_usd")
         if price is not None and h.get("units"):
             values[h["ticker"]] = float(price) * float(h["units"])
+        elif h.get("cost_usd"):
+            # private: cost basis x latest valuation mark (1.0 if the agent has not marked it yet)
+            values[h["ticker"]] = float(h["cost_usd"]) * float(t.get("mark_multiple") or 1.0)
     total = sum(values.values())
     rows = []
     for h in holdings:
@@ -167,7 +182,7 @@ def render_portfolio(holdings, status):
         + "\n</table>\n"
     )
     if total:
-        out += "<p><i>weight = share of public holdings by market value at last research-run prices; private holdings unpriced.</i></p>\n"
+        out += "<p><i>weight = share of portfolio by estimated value: public holdings at last research-run prices, private holdings at cost marked to the latest reported valuation.</i></p>\n"
     return out
 
 
@@ -197,6 +212,26 @@ def render_watchlist(watchlist):
                 )
             )
         out += "</ul>\n"
+    return out
+
+
+def render_indicators(ind):
+    items = ind.get("indicators", [])
+    if not items:
+        return "<p>No indicator data yet.</p>\n"
+    out = ""
+    if ind.get("explainer"):
+        out += "<p>%s</p>\n" % e(ind["explainer"])
+    out += (
+        '<table border="1" cellpadding="4" cellspacing="0">\n'
+        "<tr><th>indicator</th><th>reading</th><th>trend</th><th>signal</th><th>why it matters / what to watch</th></tr>\n"
+    )
+    for i in items:
+        out += "<tr><td><b>%s</b><br><i>%s</i></td><td>%s</td><td>%s</td><td><b>%s</b></td><td>%s<br>watch: %s%s</td></tr>\n" % (
+            e(i["name"]), e(i["updated"]), e(i["value"]), e(i["trend"]), e(i["signal"]),
+            e(i["why"]), e(i["watch"]),
+            (" &mdash; %s" % link(i["source"], "source")) if i.get("source") else "")
+    out += "</table>\n<p><i>signal is from the AI-infrastructure investor's view: bullish = still supply-constrained, bearish = compute being discounted / oversupplied.</i></p>\n"
     return out
 
 
@@ -273,7 +308,8 @@ def build():
     status = load("status.json")
     watchlist = load("watchlist.json")
     news = load("news.json")
-    validate(profile, holdings, loves, status, watchlist, news)
+    indicators = load("indicators.json")
+    validate(profile, holdings, loves, status, watchlist, news, indicators)
     if "--check" in sys.argv:
         print("data ok: %d holdings, %d picks, %d news items" % (len(holdings), len(watchlist), len(news)))
         return
@@ -285,6 +321,7 @@ def build():
     body += section("Agent's take", render_take(status), "take")
     body += section("Portfolio (what I'm invested in)", render_portfolio(holdings, status), "portfolio")
     body += section("Agent picks (researching for future growth)", render_watchlist(watchlist), "picks")
+    body += section("AI bubble bellwethers (is compute being sold at a discount?)", render_indicators(indicators), "bellwethers")
     body += section("Companies I love", render_loves(loves), "love")
     body += section("News", render_news(news), "news")
     body += section("Research log", render_research(logs), "research")

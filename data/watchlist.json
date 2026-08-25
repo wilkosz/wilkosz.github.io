@@ -20,14 +20,14 @@
     "name": "Broadcom",
     "sector": "AI",
     "status": "accumulate",
-    "conviction": "high",
-    "thesis": "Broadcom is the leading custom AI accelerator (XPU) and AI networking supplier to hyperscalers, guiding Q3 FY26 AI semiconductor revenue to ~$16B (>200% YoY) and total revenue to $29.4B (+84%), with a stated path to >$100B of AI revenue in 2027. The stock is ~21% below its June high after the July semiconductor selloff, giving a better entry into a franchise with multi-year committed custom-silicon programs plus a sticky VMware software annuity.",
-    "risks": "Margin mix shift toward lower-margin XPUs and customer concentration (a handful of hyperscalers) leave results sensitive to any AI capex digestion; shares fell 2.6% on Aug 24 to ~$359, below the 200-day average, after an analyst target cut citing competition, so the Sep 2 print is a make-or-break near-term event.",
+    "conviction": "medium",
+    "thesis": "Broadcom is the leading custom AI accelerator (XPU) and AI networking supplier to hyperscalers, guiding Q3 FY26 AI semiconductor revenue to ~$16B (>200% YoY) and total revenue to $29.4B (+84%), with a stated path to >$100B of AI revenue in 2027. The stock is ~23% below its June high after the July semiconductor selloff, giving a better entry into a franchise with multi-year committed custom-silicon programs plus a sticky VMware software annuity.",
+    "risks": "New on Aug 24: credit markets are repricing Broadcom's off-balance-sheet AI financing. It has already backstopped most of a $35B debt package (Apollo/Blackstone capital) for custom chips leased to Anthropic and is negotiating a further ~$60B SPV chip-financing plan in which it may guarantee part of the senior tranche; Bank of America puts potential exposure at up to ~$370B by 2029. Five-year CDS widened ~28bp in a day and 2031 bond yields are up ~14bp in August, and shares fell 2.6% to $358.76, below the 200-day average. Add that to XPU margin mix and hyperscaler concentration and the Sep 2 print becomes a make-or-break event; conviction cut from high to medium until the guarantee structure is better disclosed.",
     "price_usd": 359,
-    "catalyst": "Q3 FY2026 earnings on 2026-09-02 (after close)",
-    "source": "https://www.broadcom.com/company/news/financial-releases/64621",
+    "catalyst": "Q3 FY2026 earnings on 2026-09-02 (after close); Nvidia read-through 2026-08-26",
+    "source": "https://blockonomi.com/broadcom-avgo-stock-retreats-as-credit-risk-climbs-on-ai-chip-financing-deals/",
     "added": "2026-08-24",
-    "updated": "2026-08-24"
+    "updated": "2026-08-25"
   },
   {
     "ticker": "SKHY",
@@ -36,13 +36,13 @@
     "sector": "AI",
     "status": "accumulate",
     "conviction": "medium",
-    "thesis": "SK hynix supplies more than half of the world's HBM and just posted record Q2 2026 results: revenue KRW 79.3T (+257% YoY) and operating income KRW 60.5T (+557% YoY) at a 76% operating margin, with HBM4 mass shipments ramping in H2. On Aug 19 it accelerated a KRW 40T buyback-and-cancel program (24.07M shares, 3.3% of the count, executed over ~3 months from Aug 20) and lifted its shareholder-return target to over 50% of FCF, backed by ~KRW 69T of net cash; the July 2026 Nasdaq ADR broadens the investor base.",
-    "risks": "Memory is deeply cyclical and the ADR fell 4.9% on Aug 24 on reports Apple may qualify Chinese memory and a weak Samsung return plan; more importantly for ADR buyers, the US ADR traded at a ~60% premium to currency-adjusted Seoul shares in late July, a structural gap that can close against ADR holders regardless of fundamentals. Downgraded from buy/high to accumulate/medium until the premium narrows or the Nvidia print clears the sector.",
+    "thesis": "SK hynix supplies more than half of the world's HBM and just posted record Q2 2026 results: revenue KRW 79.3T (+257% YoY) and operating income KRW 60.5T (+557% YoY) at a 76% operating margin, with HBM4 mass shipments ramping in H2. On Aug 19 it accelerated a KRW 40T buyback-and-cancel program (24.07M shares, 3.3% of the count, executed over ~3 months from Aug 20) and lifted its shareholder-return target to over 50% of FCF, backed by ~KRW 69T of net cash; it is also weighing a first Japanese memory fab (Miyagi), and the July 2026 Nasdaq ADR broadens the investor base.",
+    "risks": "Overnight the union narrowly rejected (50.1% against) the tentative 2026 wage deal because most performance bonuses would have been paid in stock rather than cash, sending both sides back to the table; Seoul shares fell 4.5% to KRW 1,594,500 on Aug 25 after the ADR dropped 6% to $155.37 on Aug 24. Memory is deeply cyclical, Apple may qualify Chinese memory, and more importantly for ADR buyers the US ADR has traded at a large premium to currency-adjusted Seoul shares, a gap that can close against ADR holders regardless of fundamentals. Held at accumulate/medium until the labor talks settle and the Nvidia print clears the sector.",
     "price_usd": 155,
-    "catalyst": "Nvidia earnings 2026-08-26; buyback execution Aug-Nov 2026; Q3 2026 earnings ~2026-10-27 (est.)",
-    "source": "https://news.skhynix.com/en/share-buyback-and-retirement/",
+    "catalyst": "Nvidia earnings 2026-08-26; renewed union wage talks; buyback execution Aug-Nov 2026; Q3 2026 earnings ~2026-10-27 (est.)",
+    "source": "https://www.kedglobal.com/korean-chipmakers/newsView/ked202608250003",
     "added": "2026-08-24",
-    "updated": "2026-08-24"
+    "updated": "2026-08-25"
   },
   {
     "ticker": "3750",
@@ -51,13 +51,13 @@
     "sector": "Energy",
     "status": "buy",
     "conviction": "high",
-    "thesis": "CATL is the world's largest battery maker (~40% global EV battery share) and the clear leader in grid storage: H1 2026 revenue rose 55% to RMB 277B and net profit 42% to RMB 43.3B, with energy storage revenue up 88% to RMB 53B (nearly 20% of sales) as global storage deployments surge. It raised ~$5B in Hong Kong in April, announced a large buyback in July, Moody's moved its A3 outlook to positive in August, and the stock trades ~20% below its 52-week high at ~HK$638 with scale, cost and chemistry (sodium-ion, LFP) advantages competitors cannot match.",
-    "risks": "The Chinese EV price war is compressing customer margins and could spill into battery pricing; US/EU tariffs and FEOC restrictions limit access to Western markets, and HK-listed China exposure carries geopolitical and governance discount risk.",
-    "price_usd": 82,
+    "thesis": "CATL is the world's largest battery maker (~40% global EV battery share) and the clear leader in grid storage: H1 2026 revenue rose 55% to RMB 277B and net profit 42% to RMB 43.3B, with energy storage revenue up 88% to RMB 53B (nearly 20% of sales) as global storage deployments surge. It raised ~$5B in Hong Kong in April, announced a large buyback in July, Moody's moved its A3 outlook to positive in August, and on Aug 25 it agreed to pay RMB 2.56B (~$370M) for a 24.9% stake in Qiyuan Green Power, China's largest heavy-truck battery-swapping operator (1,600+ stations in 208 cities), making CATL the largest shareholder and the dominant player in commercial-vehicle swapping. The stock is little changed at ~HK$632 (-1% on Aug 25), ~20% below its 52-week high, with scale, cost and chemistry (sodium-ion, LFP) advantages competitors cannot match.",
+    "risks": "The Chinese EV price war is compressing customer margins and could spill into battery pricing; US/EU tariffs and FEOC restrictions limit access to Western markets, HK-listed China exposure carries geopolitical and governance discount risk, and the Qiyuan stake was bought at a ~120% premium to book, a reminder that infrastructure bets can dilute returns.",
+    "price_usd": 81,
     "catalyst": "Q3 2026 results ~2026-10-20 (est.)",
-    "source": "https://cnevpost.com/2026/07/24/catl-h1-profit-share-buyback/",
+    "source": "https://carnewschina.com/2026/08/25/catl-becomes-chinas-largest-heavy-duty-truck-battery-swapping-operator-after-acquiring-state-owned-network-stake/",
     "added": "2026-08-24",
-    "updated": "2026-08-24"
+    "updated": "2026-08-25"
   },
   {
     "ticker": "BE",
@@ -81,13 +81,13 @@
     "sector": "Energy",
     "status": "accumulate",
     "conviction": "medium",
-    "thesis": "Siemens Energy is Europe's answer to GE Vernova: gas turbines, grid technologies (transformers, HVDC, switchgear) and wind. Fiscal Q3 2026 (June quarter) orders hit a record EUR 17.9B (book-to-bill 1.57), revenue grew 18.5% comparable to EUR 11.4B, profit before special items more than tripled to EUR 1.62B, pre-tax free cash flow rose to EUR 2.3B and the order backlog reached EUR 162B, with the Grid Technologies backlog alone at a record EUR 51B on transformer demand from US data centers; FY26 guidance was confirmed toward the upper end of the 10-12% margin range and Siemens Gamesa posted its first positive quarter in 15. Shares are ~22% below their 52-week high at ~EUR 149 and the company began OTCQX trading in the US in late July.",
-    "risks": "A break-up debate (board meets Aug 25 on a possible spin-off; Goldman engaged on a steam-turbine stake sale) is an overhang, the stock still trades at ~50x trailing earnings, and wind remains a low-margin execution risk; EUR-denominated with European grid and Middle East power exposure.",
-    "price_usd": 172,
-    "catalyst": "Board decision on spin-off 2026-08-25; Q4 FY2026 results mid-November 2026 (est.)",
-    "source": "https://www.siemens-energy.com/global/en/home/investor-relations.html",
+    "thesis": "Siemens Energy is Europe's answer to GE Vernova: gas turbines, grid technologies (transformers, HVDC, switchgear) and wind. Fiscal Q3 2026 (June quarter) orders hit a record EUR 17.9B (book-to-bill 1.57), revenue grew 18.5% comparable to EUR 11.4B, profit before special items more than tripled to EUR 1.62B, pre-tax free cash flow rose to EUR 2.3B and the order backlog reached EUR 162B, with the Grid Technologies backlog alone at a record EUR 51B on transformer demand from US data centers; FY26 guidance was confirmed toward the upper end of the 10-12% margin range and Siemens Gamesa posted its first positive quarter in 15. Bloomberg reported on Aug 24 that the company has engaged Goldman Sachs to sell a stake in the steam-turbine business, the first concrete portfolio move ahead of today's supervisory board meeting on a possible spin-off, and the CEO said the data-center power boom will last. Shares fell 3.0% to EUR 148.74 on Aug 24 as the EUR 1B buyback concluded, ~23% below the 52-week high.",
+    "risks": "The Aug 25 board decision is binary for sentiment: a clean separation plan could re-rate the grid business, but a muddled outcome or a low-priced steam-turbine sale would extend the overhang; the stock still trades at ~50x trailing earnings, wind remains a low-margin execution risk, and it is EUR-denominated with European grid and Middle East power exposure. No board announcement had been published as of Asia morning Aug 25.",
+    "price_usd": 173,
+    "catalyst": "Supervisory board decision on spin-off / portfolio 2026-08-25; Q4 FY2026 results mid-November 2026 (est.)",
+    "source": "https://www.google.com/finance/quote/ENR:ETR",
     "added": "2026-08-24",
-    "updated": "2026-08-24"
+    "updated": "2026-08-25"
   },
   {
     "ticker": "GEV",
@@ -186,13 +186,13 @@
     "sector": "Machinery",
     "status": "buy",
     "conviction": "high",
-    "thesis": "Keyence is the picks-and-shovels supplier of machine vision, sensors and measurement systems for factory automation and the emerging humanoid/robotics supply chain; fiscal Q1 (June 2026 quarter) sales rose 33% to JPY 347B and net income 51% to JPY 139B, with overseas sales +39% (Asia +50%, Americas +31%). Operating margins above 50%, a 95% equity ratio and a direct-sales model with no factories give it one of the most durable moats in industrial tech; shares hit an all-time high in mid-August and have since pulled back ~7% to ~JPY 80,900 with the global tech selloff, a better entry.",
+    "thesis": "Keyence is the picks-and-shovels supplier of machine vision, sensors and measurement systems for factory automation and the emerging humanoid/robotics supply chain; fiscal Q1 (June 2026 quarter) sales rose 33% to JPY 347B and net income 51% to JPY 139B, with overseas sales +39% (Asia +50%, Americas +31%). Operating margins above 50%, a 95% equity ratio and a direct-sales model with no factories give it one of the most durable moats in industrial tech; shares hit an all-time high in mid-August and have since pulled back ~7% to ~JPY 80,900 (flat on Aug 25 morning, no company news overnight) with the global tech selloff, a better entry.",
     "risks": "Trades at a premium multiple that discounts continued 30%+ growth; a China capex slowdown, yen appreciation (USD/JPY ~159 flatters current results), or a global manufacturing downturn would hit both growth and the multiple.",
-    "price_usd": 509,
+    "price_usd": 508,
     "catalyst": "Fiscal Q2 results ~2026-10-23 (est.)",
     "source": "https://www.google.com/finance/quote/6861:TYO",
     "added": "2026-08-24",
-    "updated": "2026-08-24"
+    "updated": "2026-08-25"
   },
   {
     "ticker": "ASML",

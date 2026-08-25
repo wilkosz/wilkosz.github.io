@@ -1,18 +1,120 @@
 [
-  {"ticker": "AMZN",   "exchange": "US", "name": "Amazon",                     "units": 13,  "sector": "Internet"},
-  {"ticker": "AXOS",   "exchange": "US", "name": "Axos Financial",             "units": 6,   "sector": "Internet"},
-  {"ticker": "BABA",   "exchange": "US", "name": "Alibaba",                    "units": 10,  "sector": "AI"},
-  {"ticker": "ENPH",   "exchange": "US", "name": "Enphase Energy",             "units": 50,  "sector": "Energy"},
-  {"ticker": "FIGR",   "exchange": "US", "name": "Figure Technology Solutions","units": 230, "sector": "Internet"},
-  {"ticker": "GOOGL",  "exchange": "US", "name": "Alphabet",                   "units": 4,   "sector": "AI"},
-  {"ticker": "LDI",    "exchange": "US", "name": "loanDepot",                  "units": 380, "sector": "Internet"},
-  {"ticker": "META",   "exchange": "US", "name": "Meta Platforms",             "units": 12,  "sector": "AI"},
-  {"ticker": "MRVL",   "exchange": "US", "name": "Marvell Technology",         "units": 5,   "sector": "AI"},
-  {"ticker": "MU",     "exchange": "US", "name": "Micron Technology",          "units": 3,   "sector": "AI"},
-  {"ticker": "NFLX",   "exchange": "US", "name": "Netflix",                    "units": 10,  "sector": "Internet"},
-  {"ticker": "NVDA",   "exchange": "US", "name": "NVIDIA",                     "units": 5,   "sector": "AI"},
-  {"ticker": "RKT",    "exchange": "US", "name": "Rocket Companies",           "units": 34,  "sector": "Internet"},
-  {"ticker": "TSM",    "exchange": "US", "name": "Taiwan Semiconductor",       "units": 2,   "sector": "AI"},
-  {"ticker": "STRIPE", "exchange": "private", "name": "Stripe",                "units": null, "sector": "Internet"},
-  {"ticker": "OPENAI", "exchange": "private", "name": "OpenAI",                "units": null, "sector": "AI"}
+  {
+    "ticker": "AMZN",
+    "exchange": "US",
+    "name": "Amazon",
+    "units": 13,
+    "sector": "Internet"
+  },
+  {
+    "ticker": "AXOS",
+    "exchange": "US",
+    "name": "Axos Financial",
+    "units": 6,
+    "sector": "Internet"
+  },
+  {
+    "ticker": "BABA",
+    "exchange": "US",
+    "name": "Alibaba",
+    "units": 10,
+    "sector": "AI"
+  },
+  {
+    "ticker": "ENPH",
+    "exchange": "US",
+    "name": "Enphase Energy",
+    "units": 50,
+    "sector": "Energy"
+  },
+  {
+    "ticker": "FIGR",
+    "exchange": "US",
+    "name": "Figure Technology Solutions",
+    "units": 230,
+    "sector": "Internet"
+  },
+  {
+    "ticker": "GOOGL",
+    "exchange": "US",
+    "name": "Alphabet",
+    "units": 4,
+    "sector": "AI"
+  },
+  {
+    "ticker": "LDI",
+    "exchange": "US",
+    "name": "loanDepot",
+    "units": 380,
+    "sector": "Internet"
+  },
+  {
+    "ticker": "META",
+    "exchange": "US",
+    "name": "Meta Platforms",
+    "units": 12,
+    "sector": "AI"
+  },
+  {
+    "ticker": "MRVL",
+    "exchange": "US",
+    "name": "Marvell Technology",
+    "units": 5,
+    "sector": "AI"
+  },
+  {
+    "ticker": "MU",
+    "exchange": "US",
+    "name": "Micron Technology",
+    "units": 3,
+    "sector": "AI"
+  },
+  {
+    "ticker": "NFLX",
+    "exchange": "US",
+    "name": "Netflix",
+    "units": 10,
+    "sector": "Internet"
+  },
+  {
+    "ticker": "NVDA",
+    "exchange": "US",
+    "name": "NVIDIA",
+    "units": 5,
+    "sector": "AI"
+  },
+  {
+    "ticker": "RKT",
+    "exchange": "US",
+    "name": "Rocket Companies",
+    "units": 34,
+    "sector": "Internet"
+  },
+  {
+    "ticker": "TSM",
+    "exchange": "US",
+    "name": "Taiwan Semiconductor",
+    "units": 2,
+    "sector": "AI"
+  },
+  {
+    "ticker": "STRIPE",
+    "exchange": "private",
+    "name": "Stripe",
+    "units": null,
+    "sector": "Internet",
+    "cost_usd": 10000,
+    "cost_date": "2024-11",
+    "note": "MicroVentures SPV"
+  },
+  {
+    "ticker": "OPENAI",
+    "exchange": "private",
+    "name": "OpenAI",
+    "units": null,
+    "sector": "AI",
+    "cost_usd": 15000,
+    "cost_date": "2024-11",
+    "note": "MicroVentures SPV"
+  }
 ]

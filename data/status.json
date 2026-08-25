@@ -1,102 +1,104 @@
 {
-  "as_of": "2026-08-24T22:45",
-  "market_summary": "Risk-off into the week's two big events: on Mon Aug 24 the S&P 500 fell 0.3% to 7,653 and the Nasdaq 0.8% to 25,980 (the Dow rose 0.3% on financials), the Philadelphia Semiconductor index dropped 2.6% to three-week lows and Nvidia lost 2.9% to ~$208, extending last week's first weekly declines since late July (S&P -1.4%, Nasdaq -2.1%). Drivers are macro rather than AI-specific: Trump announced 50% tariffs on Canadian cars and parts from Jan 1 after talks collapsed, Treasury Secretary Bessent is detailing 'economic D-Day' sanctions on Iran's trade partners, WTI crude jumped ~7% last week to ~$85-87, and the 10-year sits near 4.7% with the 30-year above 5%, which raises the cost of capital for capex-heavy energy and neocloud names (Nebius fell ~4% as it closed an upsized $5.75B convertible). Memory was the weakest AI sub-sector (Micron -5.8%, SK hynix ADR -4.9%) on reports Apple may source Chinese memory and a lukewarm Samsung shareholder-return plan, while rate-sensitive Internet names such as Spotify and Robinhood held up. Nvidia reports fiscal Q2 2027 on Wed Aug 26 after the close: consensus is $91.9B revenue and $2.08 EPS against a $91B +/-2% guide, with Q3 guidance (consensus ~$104B), the ~73.5% gross margin, Rubin timing and H20/China orders the swing factors; the stock is ~20% below its high and its last four beats were all sold, so a clean beat-and-raise would be the first real test of whether the July semis drawdown is over for AVGO, ALAB, SKHY, ASML and TSM-adjacent names. Also on deck: July PCE on Wed, Marvell earnings Thu, and new Fed Chair Kevin Warsh's first Jackson Hole keynote on Fri Aug 28 ahead of the Sept 16 FOMC; for Energy and Machinery investors the Iran/oil and Canada-tariff headlines matter more than the Fed this week.",
+  "as_of": "2026-08-25T02:54",
+  "market_summary": "Asia is trading cautiously but not panicking on Tuesday morning: the Nikkei is flat at ~65,510, the Hang Seng is off 0.2% at ~25,480, the ASX 200 is up 0.5% on Woodside and Coles results, while the Kospi is the outlier, down ~2% at ~6,560 as SK hynix falls 4.5% after its union rejected a wage deal and chip names de-risk ahead of Nvidia. Wall Street closed lower on Monday (S&P 500 -0.3% to 7,653, Nasdaq -0.8% to 25,980) with semis and Sandisk (-6.5%) leading the decline as Iran headlines and rising Broadcom credit-risk chatter weighed; overnight US futures are flat (S&P e-mini ~7,670, Nasdaq 100 +0.1%). For our list the near-term events are Siemens Energy's supervisory board meeting today on a possible break-up (no announcement yet as of Asia morning), July PCE inflation on Wednesday, Nvidia's print after Wednesday's close (consensus EPS ~$2.10; read-through for SK hynix, Astera, Teradyne, Broadcom), Marvell on Thursday, and Powell at Jackson Hole on Friday, with the Bank of Korea also meeting this week.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "Closed Aug 24 at $262.07 (+1.3%) with the P/E near a decade low and AWS growing 37%, but the $220B capex plan, Bezos selling and state antitrust suits keep a lid on the multiple, so hold rather than chase.",
+      "reason": "Closed Aug 24 at $262.07 (+1.3%) with the P/E near a decade low and AWS growing 37%; a reported 'Tetromino' plan for AI-automated delivery stations (2.5x throughput, pilot in 2028) is a long-dated margin lever, but the $220B capex plan, Bezos selling and state antitrust suits keep a lid on the multiple, so hold rather than chase.",
       "price_usd": 262.07,
-      "updated": "2026-08-24"
+      "updated": "2026-08-25"
     },
     "AXOS": {
       "take": "hold",
       "reason": "No new catalysts since the 10-K; Benchmark's Aug 13 target hike to $120 (Buy) on above-peer growth and 17% ROE supports continuing to hold at ~$97.",
       "price_usd": 96.94,
-      "updated": "2026-08-24"
+      "updated": "2026-08-25"
     },
     "BABA": {
       "take": "watch",
-      "reason": "The record HK$80B ($10.2B) placement at a 3.6% discount (~3.7% dilution) and Michael Burry's full exit keep pressure on the ADR ($118.47); insider buying is encouraging but wait for the stock to base before adding.",
+      "reason": "The record HK$80B ($10.2B) placement at a 3.6% discount (~3.7% dilution) and Michael Burry's full exit keep pressure on the ADR ($118.47); Hong Kong shares are only stabilizing (+0.4% to HK$112.90 Tuesday morning) and insider buying is encouraging, but wait for the stock to base before adding.",
       "price_usd": 118.47,
-      "updated": "2026-08-24"
+      "updated": "2026-08-25"
     },
     "ENPH": {
       "take": "watch",
       "reason": "Fell another 3.7% to $37.18 on Aug 24 with no fundamental catalyst; the AI assistant and commercial battery launches are incremental, so stay on the sidelines until residential demand stabilizes.",
       "price_usd": 37.18,
-      "updated": "2026-08-24"
+      "updated": "2026-08-25"
     },
     "FIGR": {
       "take": "hold",
       "reason": "Quiet tape ($38.64, -1.2%) after the Q2 beat and Bernstein's reiterated Buy; no new material news, so hold and let marketplace volume execution play out.",
       "price_usd": 38.64,
-      "updated": "2026-08-24"
+      "updated": "2026-08-25"
     },
     "GOOGL": {
       "take": "add",
-      "reason": "Shares rose 0.9% to $348.06 on Aug 24 as Google Cloud announced a strategic Gemini Enterprise partnership with Verizon, another proof point for Cloud's +82% growth; the post-Jeff-Dean dip remains a reasonable entry.",
+      "reason": "Shares rose 0.9% to $348.06 on Aug 24 as Google Cloud announced a strategic Gemini Enterprise partnership with Verizon, another proof point for Cloud's +82% growth, and a Nikkei report that all Pixel production leaves China by 2027 trims tariff risk; the post-Jeff-Dean dip remains a reasonable entry.",
       "price_usd": 348.06,
-      "updated": "2026-08-24"
+      "updated": "2026-08-25"
     },
     "LDI": {
       "take": "trim",
       "reason": "Stock is stuck at $0.89, below the $1 NYSE threshold, with Goldman at Sell and a $1 target; exchange-compliance and dilution risk argue for reducing exposure.",
       "price_usd": 0.891,
-      "updated": "2026-08-24"
+      "updated": "2026-08-25"
     },
     "META": {
       "take": "hold",
       "reason": "Up 1.7% to $559.02 as Ackman and Tepper disclosed larger stakes, but the $942M New Mexico liability, the ongoing California teen-addiction trial and $125-145B capex keep the stock ~29% off its high; hold pending trial clarity.",
       "price_usd": 559.02,
-      "updated": "2026-08-24"
+      "updated": "2026-08-25"
     },
     "MRVL": {
       "take": "hold",
-      "reason": "Fell 3.3% to $229.29 into Thursday's print as the SOX sold off; options imply a ~12% move on Aug 27 against consensus of ~$2.71B revenue and $0.93 EPS, and with the stock up ~160% YTD the bar is high, so hold through the report.",
+      "reason": "Fell 3.3% to $229.29 into Thursday's print as the SOX sold off, though Wells Fargo lifted its target to $310 after the close; options imply a ~12% move on Aug 27 against consensus of ~$2.71B revenue and $0.93 EPS, and with the stock up ~160% YTD the bar is high, so hold through the report.",
       "price_usd": 229.29,
-      "updated": "2026-08-24"
+      "updated": "2026-08-25"
     },
     "MU": {
       "take": "hold",
       "reason": "Dropped 5.8% to $910.43 on a report the administration will let Apple buy DRAM/NAND from CXMT and YMTC for China-market devices, stacking on the Netlist ITC case; HBM sold out through 2027 keeps the thesis intact but expect volatility through Nvidia's print.",
       "price_usd": 910.43,
-      "updated": "2026-08-24"
+      "updated": "2026-08-25"
     },
     "NFLX": {
       "take": "add",
-      "reason": "Edged up 0.5% to $80.01 and is showing relative strength in Communication Services; still ~37% below the 52-week high with ad-tier and bundling optionality, so the valuation reset remains an add opportunity.",
+      "reason": "Edged up 0.5% to $80.01 and is showing relative strength in Communication Services; an ads-leadership reshuffle (VP of ads product Jon Whitticom departing) is worth watching but does not change the thesis, and at ~37% below the 52-week high with ad-tier and bundling optionality the valuation reset remains an add opportunity.",
       "price_usd": 80.01,
-      "updated": "2026-08-24"
+      "updated": "2026-08-25"
     },
     "NVDA": {
       "take": "hold",
-      "reason": "Closed at $208.48 after a seventh straight decline (longest losing streak since 2022) ahead of the Aug 26 report, where consensus sits near $92-94B revenue and ~$2.08-2.13 EPS; sentiment is de-risked but hold and reassess on guidance.",
+      "reason": "Closed at $208.48 after a seventh straight decline (longest losing streak since 2022) ahead of the Aug 26 report, where consensus sits near $92-94B revenue and ~$2.08-2.13 EPS; at ~24x forward earnings sentiment is de-risked, but the last four beats were sold, so hold and reassess on guidance.",
       "price_usd": 208.48,
-      "updated": "2026-08-24"
+      "updated": "2026-08-25"
     },
     "RKT": {
       "take": "hold",
       "reason": "Rose 1.2% to $14.09 after the FTC settled its Zillow/Redfin rental-listings case on the morning of trial, removing a legal overhang while letting the Zillow partnership run through 2030; after the earlier ~50% run the shares still look fully priced, so hold.",
       "price_usd": 14.09,
-      "updated": "2026-08-24"
+      "updated": "2026-08-25"
     },
     "TSM": {
       "take": "add",
-      "reason": "Slipped 2.1% to $410.12 with the semi sell-off, but 40%+ 2026 growth guidance, Xiaomi's 3nm Xring and the Sony image-sensor JV underline demand breadth; the pullback from the June high remains a buying opportunity.",
+      "reason": "Slipped 2.1% to $410.12 with the semi sell-off (Taipei shares -0.4% Tuesday morning), but 40%+ 2026 growth guidance, Xiaomi's 3nm Xring and the Sony image-sensor JV underline demand breadth; the pullback from the June high remains a buying opportunity.",
       "price_usd": 410.12,
-      "updated": "2026-08-24"
+      "updated": "2026-08-25"
     },
     "STRIPE": {
       "take": "hold",
-      "reason": "Beyond the OpenRouter deal, Stripe launched Treasury in Australia and was named a Gartner billing leader; steady expansion with no valuation-changing news, so hold the private position.",
+      "reason": "Beyond the OpenRouter deal, Stripe launched Treasury in Australia and was named a Gartner billing leader; steady expansion with no valuation-changing news, so hold the private position. Marked at 2.27x cost: latest valuation ~$159B (2026-02) vs ~$70B at entry (https://techcrunch.com/2026/02/24/stripes-valuation-soars-74-to-159-billion/).",
       "price_usd": null,
-      "updated": "2026-08-24"
+      "updated": "2026-08-25",
+      "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "Alabama's AG subpoenaed OpenAI and 15 state AGs demanded it halt internal cyber evaluations after an unreleased cyber model breached Hugging Face, adding regulatory risk on top of slow agent adoption (17% of org subscribers use ChatGPT Work); private, so hold but monitor the probe.",
+      "reason": "Alabama's AG subpoenaed OpenAI and 15 state AGs demanded it halt internal cyber evaluations after an unreleased cyber model breached Hugging Face, and Altman now concedes he overestimated the speed of AI disruption (AGI pushed to end-2028), adding regulatory and adoption-pace risk; private, so hold but monitor the probe. Marked at 5.43x cost: latest valuation ~$852B (2026-08) vs ~$157B at entry (https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/).",
       "price_usd": null,
-      "updated": "2026-08-24"
+      "updated": "2026-08-25",
+      "mark_multiple": 5.43
     }
   }
 }
