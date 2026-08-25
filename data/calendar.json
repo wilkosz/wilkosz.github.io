@@ -84,12 +84,12 @@
     {
       "key": "2026-08-27-mrvl-earnings",
       "date": "2026-08-27",
-      "time": "after US close",
+      "time": "after US close (13:45 PT / 16:45 ET call)",
       "ticker": "MRVL",
       "title": "Marvell Q2 FY2027 results",
       "type": "earnings",
-      "why": "Custom-silicon and optics read-through for the AI networking basket (AVGO, ALAB) one day after NVDA.",
-      "link": "https://stockanalysis.com/stocks/mrvl/"
+      "why": "Custom-silicon and optics read-through for the AI networking basket (AVGO, ALAB) one day after NVDA; Marvell also confirmed an Investor Day on Oct 6, 2026 in New York (outside window).",
+      "link": "https://investor.marvell.com/news-events/press-releases/detail/1029/marvell-technology-inc-announces-conference-call-to-review-second-quarter-of-fiscal-year-2027-financial-results-announces-investor-day-on-october-6-2026"
     },
     {
       "key": "2026-08-28-byd-interim-results",

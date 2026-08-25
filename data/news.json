@@ -1,11 +1,115 @@
 [
   {
     "date": "2026-08-25",
+    "ticker": "NVDA",
+    "headline": "Options price a 5.4% (~$280B) Nvidia earnings move, the smallest implied swing in three years",
+    "summary": "Reuters/ORATS data show options imply a 5.4% move either way after Wednesday's report, below the 12-quarter average of 7.4% and the 6.5% priced ahead of May; ORATS' Matt Amberson called it 'some complacency' and Susquehanna's Chris Murphy said the era of 10-20% post-earnings jumps 'is kind of over'. Focus is on chip demand, margins and hyperscaler capex guidance. NVDA is indicated +1% pre-market at $210.67 after seven straight declines.",
+    "source": "https://www.investing.com/news/stock-market-news/nvidia-shares-set-for-280-billion-price-swing-after-earnings-options-show-4874471",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-08-25",
+    "ticker": "NVDA",
+    "headline": "US futures rise ahead of Nvidia as Bessent's Iran 'economic onslaught' stops short of penalties",
+    "summary": "Treasury Secretary Bessent warned countries to cut Iran ties or lose dollar-system access but imposed no new penalties, so Brent slipped to $91.58 and risk appetite recovered: Dow +0.2%, S&P 500 +0.3%, Nasdaq 100 +0.6% pre-market, STOXX 600 +0.3%. Threatened 50% US tariffs on Canada were deferred several weeks. Jackson Hole starts Thursday with Fed Chair Warsh speaking Friday and July PCE due this week.",
+    "source": "https://www.investing.com/news/economy-news/us-widens-iran-sanctions-bitcoin-tops-80000--whats-moving-markets-4874596",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-25",
+    "ticker": "MU",
+    "headline": "SK hynix union rejects wage deal by 25 votes; shares still close +0.4% as both sides return to talks",
+    "summary": "Of 15,045 votes (93.8% turnout), 50.08% opposed a tentative deal offering a 6.3% raise and a profit-share bonus paid 40% cash/60% shares; members objected to the stock-heavy structure. Management and the union will resume negotiations, with an industry source expecting a swift settlement rather than escalation, and no strike was mentioned. SK hynix closed +0.42% at KRW1,678,000 after an early drop, with the Kospi +0.7%. Read-through for Micron: rival labor friction is a minor supply-side wrinkle, not a demand signal.",
+    "source": "https://www.koreaherald.com/article/10851492",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-08-25",
+    "ticker": "MU",
+    "headline": "Lynx Equity calls Micron's CXMT/Apple selloff an overreaction; MU +1.7% pre-market",
+    "summary": "Lynx's KC Rajkumar argued the report that Apple may source DRAM/NAND from CXMT and YMTC poses little real threat: CXMT is qualified only for one low-volume Mac model, not iPhones, and its poor LPDDR5X yields make it 'structurally incapable' of supplying Apple at scale, while YMTC is not qualified for any Apple product and allocates newer NAND domestically. Micron is indicated +1.7% at $925.80 after Monday's 5.8% drop.",
+    "source": "https://www.investing.com/news/stock-market-news/analyst-calls-mu-sndk-premarket-drop-on-cxmt-apple-report-an-overreaction-4873492",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-25",
+    "ticker": "TSM",
+    "headline": "TSMC Taipei shares rebound 1.05% as Asia chip stocks steady ahead of Nvidia; ADR +0.9% pre-market",
+    "summary": "Asian markets recovered from Monday's tech selloff with investors 'more selective' on chips into Nvidia's report: TSMC closed +1.05% at NT$2,400 and the TAIEX +0.9% after hitting a two-week low intraday, Nikkei +0.58%, Kospi +0.68%, Hang Seng -0.08%, Shanghai +0.19%. TSM ADRs are indicated +0.9% at $413.80 after falling 2.1% on Aug 24.",
+    "source": "https://www.investing.com/news/stock-market-news/asian-stocks-fall-as-tech-jitters-iran-sanctions-cloud-nvidia-outlook-4874458",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-25",
+    "ticker": "BABA",
+    "headline": "Alibaba Hong Kong shares +1.5% to HK$114.20 in second day of stabilization, but ADR -1.25% pre-market",
+    "summary": "After Monday's ~10% drop on the HK$80B ($10.2B) placement to fund AI, 9988.HK rose 1.5% to HK$114.20 at Tuesday's close, helped by the chairman and CEO buying HK$120M of shares. The US ADR is nonetheless indicated -1.25% at $116.99, so the stock has not yet built a base.",
+    "source": "https://stockanalysis.com/quote/hkg/9988/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-08-25",
+    "ticker": "META",
+    "headline": "Meta to launch 'Hatch' consumer AI agent within weeks, 'Watermelon' model targeted for October",
+    "summary": "The Information, citing internal documents, reports Meta will release Hatch, the consumer version of its OpenClaw AI agent, as soon as the next several weeks and is targeting October for its next model, Watermelon; Meta has considered tiered pricing for the agent as part of Zuckerberg's push to monetize AI beyond advertising. META is +0.6% pre-market at $562.25 as the California teen-addiction trial enters its second week focused on Instagram's design.",
+    "source": "https://www.theinformation.com/articles/meta-plans-launch-hatch-ai-agent-platform-coming-weeks",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-25",
+    "ticker": "ENR",
+    "headline": "Siemens Energy +1.8% as supervisory board deliberates Goldman-run steam-turbine stake sale; no decision published yet",
+    "summary": "Shares rose to EUR 151.45 (day range 150.46-152.20) after Bloomberg reported Goldman Sachs has been hired to sell a stake in the steam-turbine unit. German press says the supervisory board is meeting today on the multi-billion-euro division sale and broader separation, but no ad-hoc announcement or press release had appeared on the company's IR or press pages as of 08:45 UTC. Consensus target ~EUR 197; next results Nov 11.",
+    "source": "https://www.investing.com/equities/siemens-energy-ag",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-25",
+    "ticker": "SKHY",
+    "headline": "SK hynix reverses 4.5% morning drop to close +0.4% in Seoul; Kospi swings from -4% to +0.7%; Needham lifts ADR target to $220",
+    "summary": "After the union narrowly rejected the tentative wage deal (60% of bonuses in treasury shares), SK hynix fell to KRW 1,594,500 intraday but closed at KRW 1,678,000 as the KRW 40T buyback and domestic buying absorbed foreign selling; the Kospi closed at 6,742.73. Needham raised its SKHY target to $220 from $200, and the ADR is +2.3% pre-market at ~$159 after a 4.9% drop to $155.37 on Aug 24. Management and the union return to the bargaining table.",
+    "source": "https://stockanalysis.com/stocks/skhy/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-25",
+    "ticker": "BE",
+    "headline": "Bloom Energy +5% pre-market after Nancy Pelosi discloses first-ever Bloom purchase",
+    "summary": "A congressional filing shows Pelosi bought roughly $3-4.25M of Bloom Energy stock and options (up to $13.5M combined with Intel), her first Bloom trade, and retail traders bid the stock to ~$214.70 pre-market from a $204.02 close. Coverage ties the buy to the AI power boom; a class action (lead-plaintiff deadline Sep 28) remains a background risk.",
+    "source": "https://stockanalysis.com/stocks/be/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-25",
+    "ticker": "MACRO",
+    "headline": "Asia rebounds into Nvidia: Kospi +0.7%, Nikkei +0.5%, ASX +0.7%, Taiex +0.9%, Hang Seng flat; Europe and US futures higher as Iran sanction threats fizzle",
+    "summary": "Nvidia closed -2.9% at $208.48 (seventh straight drop) but is +1% pre-market; options imply a ~$280B swing on Wednesday's print, where consensus looks for ~$92B revenue and ~$104-105B Q3 guidance. July PCE lands the same day (core was 3.3% YoY in June; Fed minutes kept a hike alive) and Chair Warsh gives his first Jackson Hole speech Friday with the 10-year near 4.7%. Brent slipped ~2% to ~$92 as markets shrugged off new US sanctions on Iran. Keyence closed +1.7% at JPY 82,250 and CATL -2.7% at HK$621 with no company news.",
+    "source": "https://stockanalysis.com/stocks/nvda/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-08-25",
     "ticker": "TSM",
     "headline": "Nikkei exclusive: TSMC supplier Nichias to build plant in Taiwan for critical chipmaking 'tubes'",
     "summary": "Japan's Nichias, with Gold Stone Development, will build a Taiwan plant for special plastic components used in chip fabrication to avoid the supply disruptions that hampered TSMC's expansions in recent years; a small supply-chain localization step. TSMC shares slipped 0.4% to NT$2,365 in early Tuesday trade as the Taiex opened lower.",
     "source": "https://asia.nikkei.com/business/technology/exclusive-tsmc-supplier-nichias-to-build-key-chipmaking-tubes-in-taiwan",
     "impact": "neutral"
+  },
+  {
+    "date": "2026-08-24",
+    "ticker": "NET",
+    "headline": "Cloudflare -4.4% to $280.35 in software/cloud selloff; no company news",
+    "summary": "Cloudflare fell alongside Datadog (-3%) and Nebius (-4%, as its $5B convertible settled) in a broad software and AI-infrastructure pullback ahead of Nvidia earnings. GuruFocus still rates the shares overvalued after the drop; Wall Street consensus target is ~$334. No change to fundamentals or guidance.",
+    "source": "https://stockanalysis.com/stocks/net/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-08-24",
+    "ticker": "HOOD",
+    "headline": "Robinhood -4.2% to $103.62 as last week's 13% crypto-regulation rally is partly unwound",
+    "summary": "After surging ~13-15% last week on Trump-driven crypto regulation clarity and a bitcoin move toward $77K, HOOD gave back 4.2% on Aug 24 on profit-taking and debate over whether clearer rules squeeze crypto trading revenue. Bitcoin has since slipped to ~$64.7K but the stock is indicated +2.4% pre-market at ~$106; CEO Tenev continues to push tokenization and prediction markets as the fastest-growing line.",
+    "source": "https://stockanalysis.com/stocks/hood/",
+    "impact": "negative"
   },
   {
     "date": "2026-08-24",
@@ -534,109 +638,5 @@
     "source": "https://www.tipranks.com/news/company-announcements/byd-sets-late-august-board-meeting-to-approve-2026-interim-results",
     "impact": "neutral",
     "ticker": "BYD"
-  },
-  {
-    "date": "2026-08-13",
-    "ticker": "AXOS",
-    "headline": "Benchmark raises Axos Financial price target to $120 from $115, keeps Buy",
-    "summary": "Benchmark now applies 12.8x its 2027 EPS estimate (from 12.2x), citing 12% trailing revenue growth, 17% ROE, above-average loan growth and consistent tangible book value compounding driven by niche lending verticals and acquisitions.",
-    "source": "https://www.investing.com/news/analyst-ratings/benchmark-raises-axos-financial-stock-price-target-to-120-on-growth-93CH-4858681",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-08-13",
-    "headline": "Figure reports strong Q2 2026: revenue $225.6M (+113%), EPS beat",
-    "summary": "Record consumer loan marketplace volume of $4.3B, up 132% YoY and above the top of guidance; adjusted EPS of $0.37 beat the $0.25 estimate.",
-    "source": "https://investors.figure.com/news-releases/news-release-details/figure-technology-solutions-reports-strong-second-quarter-2026",
-    "impact": "positive",
-    "ticker": "FIGR"
-  },
-  {
-    "date": "2026-08-13",
-    "headline": "Figure climbed into the print after preliminary Q2 operating data topped guidance",
-    "summary": "Preliminary Q2 volume of ~$4.26B exceeded the $3.8B-$4.1B guided range, lifting shares ahead of results.",
-    "source": "https://www.quiverquant.com/news/Figure+Technology+Solutions+Climbs+Ahead+of+Q2+Report+After+Strong+Preliminary+Operating+Data",
-    "impact": "positive",
-    "ticker": "FIGR"
-  },
-  {
-    "date": "2026-08-13",
-    "headline": "Meta releases Muse Glimmer small model, teases Muse Spark 1.2",
-    "summary": "New model runs on a single consumer GPU; a more advanced Muse Spark 1.2 is 'coming soon'.",
-    "source": "https://www.benzinga.com/markets/tech/26/08/61182393/what-is-going-on-with-meta-platforms-stock-on-thursday",
-    "impact": "neutral",
-    "ticker": "META"
-  },
-  {
-    "date": "2026-08-13",
-    "headline": "Technical momentum builds as NFLX nears $77.89 resistance",
-    "summary": "Stock remains down ~15% YTD and 38.8% below its Sept 2025 high of $126.33 after in-line Q2 (EPS $0.80, revenue $12.56B) and softer Q3 outlook.",
-    "source": "https://en.cryptonomist.ch/2026/08/13/netflix-inc-stock-nears-77-89-resistance-as-ackman-takes-new-stake/",
-    "impact": "neutral",
-    "ticker": "NFLX"
-  },
-  {
-    "date": "2026-08-13",
-    "headline": "Robinhood accelerates closed-end funds giving retail access to private tech and YC startups",
-    "summary": "Robinhood laid out plans to speed launches of listed closed-end funds holding private tech stakes; Robinhood Ventures Fund II priced a ~$225-255M NYSE IPO targeting early-stage Y Combinator-linked startups, while UK crypto trading rolls out via Bitstamp.",
-    "source": "https://stockstotrade.com/news/robinhood-markets-inc-hood-news-2026_08_20/",
-    "impact": "positive",
-    "ticker": "HOOD"
-  },
-  {
-    "date": "2026-08-12",
-    "headline": "Netlist files ITC complaint against Micron, Supermicro, HPE and Lenovo over DDR5 RDIMM/MRDIMM patents",
-    "summary": "Complaint alleges infringement of four patents; the dispute has weighed on sentiment around Micron's DDR5 outlook.",
-    "source": "https://stockstotrade.com/news/micron-technology-inc-mu-news-2026_08_18-3/",
-    "impact": "negative",
-    "ticker": "MU"
-  },
-  {
-    "date": "2026-08-12",
-    "headline": "Zuckerberg publishes letter on 'the path to a positive AI future'; Meta partners with building-trades unions on AI infrastructure",
-    "summary": "Meta released a Zuckerberg letter laying out its AI vision and announced a partnership with North America's Building Trades Unions to train skilled workers for its data-center buildout, alongside new AI-glasses-only Instagram Stories formats.",
-    "source": "https://about.fb.com/news/",
-    "impact": "neutral",
-    "ticker": "META"
-  },
-  {
-    "date": "2026-08-11",
-    "ticker": "TSM",
-    "headline": "TSMC and Sony sign definitive agreement for image-sensor JV in Kumamoto",
-    "summary": "Advanced Vision Semiconductor Manufacturing Corp. will be ~60% Sony / ~40% TSMC, with contributions of about JPY465B from Sony and JPY282B from TSMC (~$6.4B combined) plus Japanese government support; volume production of next-generation smartphone image sensors targeted for 2029.",
-    "source": "https://pr.tsmc.com/english/news/3333",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-08-11",
-    "headline": "Axos publishes August investor presentation highlighting Q4 FY26 metrics",
-    "summary": "Deck emphasizes 15.69% ROE, diversified asset/deposit/fee mix, and a structural cost advantage over traditional banks.",
-    "source": "https://www.tradingview.com/news/tradingview:2ea66a208d0e5:0-axos-financial-to-use-august-11-investor-presentation-q4-fy26-metrics-highlighted/",
-    "impact": "positive",
-    "ticker": "AXOS"
-  },
-  {
-    "date": "2026-08-11",
-    "headline": "Netflix U.S. upfront ad commitments for 2026 nearly double year over year",
-    "summary": "Shares rose ~2.9% to ~$76.29 intraday as advertising momentum offset worries about Q3 revenue guidance of $12.86B (11% FX-neutral growth).",
-    "source": "https://www.fxleaders.com/news/2026/08/11/netflix-stock-nflx-eyes-82-breakout-ad-growth/",
-    "impact": "positive",
-    "ticker": "NFLX"
-  },
-  {
-    "date": "2026-08-11",
-    "headline": "Spotify to label 'AI Persona' artists and exclude them from recommendations",
-    "summary": "Starting mid-September Spotify will badge AI-generated performer profiles and exclude their music from editorial, algorithmic and personalized recommendations by default, a move aimed at protecting human artists and listener trust.",
-    "source": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-    "impact": "positive",
-    "ticker": "SPOT"
-  },
-  {
-    "date": "2026-08-10",
-    "headline": "Enphase board responds to annual-meeting vote, retains Kortlang and shifts committee chairs",
-    "summary": "Board unanimously retained director Benjamin Kortlang despite the vote, moved Nominating/Governance chair to Joseph Malchow, and highlighted June appointment of data-center expert Shanker Trivedi.",
-    "source": "https://www.globenewswire.com/news-release/2026/08/10/3342226/20176/en/enphase-energy-board-of-directors-responds-to-2026-annual-meeting-vote-results-and-announces-governance-enhancements.html",
-    "impact": "neutral",
-    "ticker": "ENPH"
   }
 ]

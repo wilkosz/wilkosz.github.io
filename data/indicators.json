@@ -5,13 +5,13 @@
     {
       "key": "h100_rental",
       "name": "H100 rental price, $/GPU-hour (Silicon Data index; 1-yr contract and spot)",
-      "value": "$2.53/hr index; 1-yr contract $2.35 (Mar-26) vs $1.70 (Oct-25); spot ~$4",
+      "value": "$2.65/hr index (+1.5% 7d); 1-yr contract $2.35 (Mar-26) vs $1.70 (Oct-25); spot ~$4",
       "trend": "up",
       "signal": "bullish",
       "why": "This is the marginal clearing price of installed AI compute and the most direct public read on whether capacity is being discounted; it is published daily and becomes a CME-listed futures contract on Oct 5, 2026.",
       "watch": "Bearish flip if the Silicon Data H100 index holds below ~$2.00/hr for a month, if spot trades below the one-year contract rate (inversion), or if the CME H100 curve lists in steep (>15%) backwardation; the Oct-2025 trough of $1.70 is the floor to remember.",
-      "note": "Silicon Data's SDH100RT read $2.53/GPU-hr on Aug 24, 2026 (flat over 7 days); SemiAnalysis's one-year contract index rose ~40% from $1.70 (Oct 2025) to $2.35 (Mar 2026) and Gavin Baker/Crypto Briefing (Aug 4) put spot at nearly $4 vs under $2 seven months earlier. GetDeploying's broad index is +3.1% over 12 months but -2.9% over the last four weeks, so the surge has plateaued rather than reversed.",
-      "source": "https://www.silicondata.com/products/silicon-index/h100",
+      "note": "Silicon Data's index listing read SDH100RT at $2.65/GPU-hr on Aug 25, 2026, up 1.5% over 7 days (A100 $1.59 +3.6%, B200 $5.67 +0.4%, H200 $3.10); the H100 product page's FAQ copy still quotes $2.53, so the $2.53 reading of Aug 24 appears to have been stale static text. SemiAnalysis's one-year contract index rose ~40% from $1.70 (Oct 2025) to $2.35 (Mar 2026) and Gavin Baker/Crypto Briefing (Aug 4) put spot at nearly $4 vs under $2 seven months earlier; SFCompute's burst marketplace quotes H100s at ~$1.99/hr, so short-burst spot on that venue sits below the index. RunPod still lists H100 SXM at $2.69 community / $3.29 secure and Lambda $3.99-4.29 on-demand.",
+      "source": "https://www.silicondata.com/products/silicon-index",
       "updated": "2026-08-25"
     },
     {
