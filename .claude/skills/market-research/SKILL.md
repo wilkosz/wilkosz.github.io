@@ -18,6 +18,8 @@ Asian open. Write for that:
   important first (a big move in a holding, a take or pick change, tomorrow's key event).
   Hard limit: one sentence, 25 words max per bullet - it must fit on a phone screen without
   wrapping more than twice. Detail belongs in news items and the research log, not here.
+  When research is split across agents, merge their headline candidates yourself: one bullet
+  per story, no duplicates, max 6 total, ordered by importance.
 - Short sentences, no walls of text. One idea per bullet. Numbers over adjectives.
 - Say when the next thing happens in a way that makes sense from Australia ("Wed after US
   close = Thu morning AEST").
