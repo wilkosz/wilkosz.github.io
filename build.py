@@ -187,7 +187,7 @@ def render_portfolio(holdings, status):
         v = values.get(h["ticker"])
         weight = ("%.1f%%" % (100.0 * v / total)) if (v is not None and total) else "-"
         rows.append(
-            '<tr><td><b>%s</b>:%s</td><td data-label="weight">%s</td><td data-label="take">%s</td></tr>'
+            '<tr><td><b>%s</b>:%s</td><td data-label="weight" class="nw">%s</td><td data-label="take">%s</td></tr>'
             % (
                 e(h["ticker"]), e(h["exchange"]), weight,
                 ("<b>%s</b> &mdash; %s" % (e(t.get("take")), e(t.get("reason")))) if t else "-",
@@ -268,7 +268,7 @@ def render_indicators(ind):
         "<tr><th>indicator</th><th>reading</th><th>trend</th><th>signal</th><th>why it matters / what to watch</th></tr>\n"
     )
     for i in items:
-        out += '<tr><td><b>%s</b><br><i>%s</i></td><td data-label="reading">%s</td><td data-label="trend">%s</td><td data-label="signal"><b>%s</b></td><td data-label="why">%s<br>watch: %s%s</td></tr>\n' % (
+        out += '<tr><td><b>%s</b><br><i>%s</i></td><td data-label="reading">%s</td><td data-label="trend" class="nw">%s</td><td data-label="signal" class="nw"><b>%s</b></td><td data-label="why">%s<br>watch: %s%s</td></tr>\n' % (
             e(i["name"]), e(i["updated"]), e(i["value"]), e(i["trend"]), e(i["signal"]),
             e(i["why"]), e(i["watch"]),
             (" &mdash; %s" % link(i["source"], "source")) if i.get("source") else "")
@@ -328,11 +328,11 @@ PAGE = """<!DOCTYPE html>
 <style>
 body{font-family:Verdana,Geneva,sans-serif;font-size:15px;line-height:1.45;max-width:960px;margin:1em auto;padding:0 0.8em;color:#000;background:#fff;-webkit-text-size-adjust:100%%}
 a{color:#00e;word-break:break-word}a:visited{color:#551a8b}
-table{border-collapse:collapse;font-size:14px;width:100%%}th{text-align:left}td,th{vertical-align:top;word-break:break-word}
+table{border-collapse:collapse;font-size:14px;width:100%%}th{text-align:left}td,th{vertical-align:top}td.nw{white-space:nowrap}
 ul{padding-left:1.2em}li{margin-bottom:0.4em}
 pre{white-space:pre-wrap;word-wrap:break-word}
 h1,h2,h3{font-weight:bold}h1{font-size:20px}h2{font-size:17px;margin-top:2em}h3{font-size:15px}
-@media (max-width:600px){table,thead,tbody,tr,td,th{display:block;width:auto}tr{border-bottom:2px solid #000;padding:0.4em 0}td,th{border:0!important;padding:0.1em 0}th{display:none}td[data-label]::before{content:attr(data-label) ": ";color:#555}}
+@media (max-width:600px){table,thead,tbody,tr,td,th{display:block;width:auto}tr{border-bottom:2px solid #000;padding:0.4em 0}td,th{border:0!important;padding:0.1em 0}th{display:none}td.nw{white-space:normal}td[data-label]::before{content:attr(data-label) ": ";color:#555}}
 </style>
 </head>
 <body>
