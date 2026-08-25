@@ -1,1 +1,295 @@
-{"as_of": null, "events": []}
+{
+  "as_of": "2026-08-25",
+  "events": [
+    {
+      "key": "2026-08-25-hotchips-final-day",
+      "date": "2026-08-25",
+      "time": "all day PT",
+      "ticker": "Hot Chips",
+      "title": "Hot Chips 2026 final day (Stanford, Aug 23-25)",
+      "type": "conference",
+      "why": "Silicon-level disclosures on next-gen accelerators, memory and interconnect feed directly into the NVDA/AVGO/MRVL/MU/ALAB/SKHY thesis.",
+      "link": "https://hotchips.org/"
+    },
+    {
+      "key": "2026-08-25-us-consumer-confidence",
+      "date": "2026-08-25",
+      "time": "10:00 ET",
+      "ticker": "MACRO",
+      "title": "Conference Board Consumer Confidence (August)",
+      "type": "macro",
+      "why": "Consumer read for AMZN/META/GOOGL ad and retail demand and for mortgage/credit names (RKT, LDI, AXOS).",
+      "link": "https://www.conference-board.org/topics/consumer-confidence"
+    },
+    {
+      "key": "2026-08-25-rba-minutes",
+      "date": "2026-08-25",
+      "time": "11:30 AEST",
+      "ticker": "RBA",
+      "title": "RBA minutes of the 10-11 August Monetary Policy Board meeting",
+      "type": "central_bank",
+      "why": "Sets the tone for AUD and local rates ahead of the 28-29 Sep decision; next Board meeting is outside this window.",
+      "link": "https://www.rba.gov.au/schedules-events/"
+    },
+    {
+      "key": "2026-08-26-crm-earnings",
+      "date": "2026-08-26",
+      "time": "after US close",
+      "ticker": "CRM",
+      "title": "Salesforce Q2 FY27 results (macro read)",
+      "type": "earnings",
+      "why": "Enterprise software/AI-agent demand signal for GOOGL/AMZN cloud and the broader SaaS tape (NET, HOOD multiples).",
+      "link": "https://investor.salesforce.com/events-and-presentations/default.aspx"
+    },
+    {
+      "key": "2026-08-26-au-monthly-cpi",
+      "date": "2026-08-26",
+      "time": "11:30 AEST",
+      "ticker": "MACRO",
+      "title": "Australia monthly CPI indicator (July)",
+      "type": "macro",
+      "why": "Drives RBA pricing and AUD/USD, which sets the AUD-translated value of the US-heavy portfolio.",
+      "link": "https://www.abs.gov.au/release-calendar/future-releases"
+    },
+    {
+      "key": "2026-08-26-us-gdp-pce",
+      "date": "2026-08-26",
+      "time": "08:30 ET",
+      "ticker": "MACRO",
+      "title": "US Q2 GDP second estimate + July Personal Income & Outlays (PCE inflation)",
+      "type": "macro",
+      "why": "Core PCE is the Fed's preferred gauge and lands two days before Warsh's Jackson Hole keynote; sets the rate backdrop for long-duration tech.",
+      "link": "https://www.bea.gov/news/schedule"
+    },
+    {
+      "key": "2026-08-26-nvda-earnings",
+      "date": "2026-08-26",
+      "time": "after US close (14:00 PT call)",
+      "ticker": "NVDA",
+      "title": "NVIDIA Q2 FY2027 results and call",
+      "type": "earnings",
+      "why": "Largest holding and the AI-capex bellwether; data-center guide and Rubin ramp commentary move NVDA, AVGO, MRVL, TSM, MU, ALAB and SKHY together.",
+      "link": "https://investor.nvidia.com/events-and-presentations/events-and-presentations/default.aspx"
+    },
+    {
+      "key": "2026-08-27-jackson-hole-opens",
+      "date": "2026-08-27",
+      "time": "evening MT (Aug 27-29)",
+      "ticker": "FED",
+      "title": "Kansas City Fed Jackson Hole Economic Policy Symposium opens; theme 'Financial Innovation: Implications for Payments and Policy'",
+      "type": "conference",
+      "why": "Payments/stablecoin-focused theme is directly relevant to FIGR, HOOD, AXOS and Stripe; sets global rate expectations into the Sep 15-16 FOMC.",
+      "link": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/"
+    },
+    {
+      "key": "2026-08-27-mrvl-earnings",
+      "date": "2026-08-27",
+      "time": "after US close",
+      "ticker": "MRVL",
+      "title": "Marvell Q2 FY2027 results",
+      "type": "earnings",
+      "why": "Custom-silicon and optics read-through for the AI networking basket (AVGO, ALAB) one day after NVDA.",
+      "link": "https://stockanalysis.com/stocks/mrvl/"
+    },
+    {
+      "key": "2026-08-28-byd-interim-results",
+      "date": "2026-08-28",
+      "time": "TBC (HK)",
+      "ticker": "BYD",
+      "title": "BYD (1211.HK) 2026 interim results",
+      "type": "earnings",
+      "why": "EV price war, margin and overseas volumes read-through for CATL (3750) and the China consumer/industrial complex; date from stockanalysis, time not published.",
+      "link": "https://stockanalysis.com/quote/hkg/1211/"
+    },
+    {
+      "key": "2026-08-28-bowman-fireside",
+      "date": "2026-08-28",
+      "time": "12:45 ET",
+      "ticker": "FED",
+      "title": "Fed Vice Chair for Supervision Bowman fireside chat (virtual)",
+      "type": "central_bank",
+      "why": "Bank supervision and capital comments matter for AXOS, HOOD, FIGR, RKT and LDI.",
+      "link": "https://www.federalreserve.gov/newsevents/2026-august.htm"
+    },
+    {
+      "key": "2026-08-28-warsh-keynote",
+      "date": "2026-08-28",
+      "time": "10:00 ET",
+      "ticker": "FED",
+      "title": "Fed Chair Kevin Warsh keynote at Jackson Hole (livestream youtube.com/KansasCityFed)",
+      "type": "central_bank",
+      "why": "The single biggest rates catalyst of the fortnight; any signal on September easing or balance-sheet policy reprices growth equities and the USD.",
+      "link": "https://www.federalreserve.gov/newsevents/2026-august.htm"
+    },
+    {
+      "key": "2026-08-28-bls-benchmark-revision",
+      "date": "2026-08-28",
+      "time": "10:00 ET",
+      "ticker": "MACRO",
+      "title": "BLS preliminary benchmark revision to payrolls (Mar 2026)",
+      "type": "macro",
+      "why": "Last year's revision was -911K; a large negative print again would strengthen the case for cuts and weaken the labour backdrop for credit names.",
+      "link": "https://www.bls.gov/schedule/news_release/"
+    },
+    {
+      "key": "2026-08-28-umich-sentiment-final",
+      "date": "2026-08-28",
+      "time": "10:00 ET",
+      "ticker": "MACRO",
+      "title": "University of Michigan consumer sentiment, final August",
+      "type": "macro",
+      "why": "Inflation-expectations component feeds the Fed narrative the same morning as the Warsh keynote.",
+      "link": "http://www.sca.isr.umich.edu/"
+    },
+    {
+      "key": "2026-08-31-china-nbs-pmi",
+      "date": "2026-08-31",
+      "time": "TBC (CST)",
+      "ticker": "CHINA",
+      "title": "China NBS manufacturing and non-manufacturing PMI (August)",
+      "type": "macro",
+      "why": "Official activity gauge for BABA, SE, CATL/BYD demand and for AUD via commodities; date per TradingEconomics (NBS calendar page not reachable).",
+      "link": "https://tradingeconomics.com/china/calendar"
+    },
+    {
+      "key": "2026-09-01-china-ratingdog-mfg-pmi",
+      "date": "2026-09-01",
+      "time": "TBC (CST)",
+      "ticker": "CHINA",
+      "title": "RatingDog (ex-Caixin) China manufacturing PMI (August)",
+      "type": "macro",
+      "why": "Private-sector cross-check on the NBS print for BABA/SE/CATL exposure.",
+      "link": "https://tradingeconomics.com/china/calendar"
+    },
+    {
+      "key": "2026-09-01-dell-earnings",
+      "date": "2026-09-01",
+      "time": "after US close (15:30 CDT call)",
+      "ticker": "DELL",
+      "title": "Dell Technologies Q2 FY27 results (macro read)",
+      "type": "earnings",
+      "why": "AI-server backlog and shipment numbers are a direct demand check on NVDA/AVGO/MRVL/MU/SKHY.",
+      "link": "https://investors.delltechnologies.com/news-events/upcoming-events"
+    },
+    {
+      "key": "2026-09-01-us-ism-manufacturing",
+      "date": "2026-09-01",
+      "time": "10:00 ET",
+      "ticker": "MACRO",
+      "title": "ISM Manufacturing PMI (August)",
+      "type": "macro",
+      "why": "New orders and prices-paid components are the cleanest read on the industrial/AI-infrastructure build (GEV, BE, TER, ENR); time per TradingEconomics.",
+      "link": "https://tradingeconomics.com/united-states/calendar"
+    },
+    {
+      "key": "2026-09-01-us-jolts",
+      "date": "2026-09-01",
+      "time": "10:00 ET",
+      "ticker": "MACRO",
+      "title": "JOLTS job openings (July)",
+      "type": "macro",
+      "why": "First labour print of the week that ends with payrolls; openings trend informs Fed cut odds.",
+      "link": "https://www.bls.gov/schedule/2026/09_sched.htm"
+    },
+    {
+      "key": "2026-09-02-avgo-earnings",
+      "date": "2026-09-02",
+      "time": "after US close (17:00 ET call)",
+      "ticker": "AVGO",
+      "title": "Broadcom Q3 FY2026 results and call",
+      "type": "earnings",
+      "why": "Custom AI accelerator (XPU) and networking guide is the key watchlist catalyst and a read-across to MRVL, ALAB and NVDA.",
+      "link": "https://investors.broadcom.com/events/event-details/q3-2026-broadcom-earnings-conference-call"
+    },
+    {
+      "key": "2026-09-02-fed-beige-book",
+      "date": "2026-09-02",
+      "time": "14:00 ET",
+      "ticker": "FED",
+      "title": "Fed Beige Book",
+      "type": "central_bank",
+      "why": "Last scheduled Fed communication before the pre-FOMC blackout ahead of the 15-16 Sep meeting; regional colour on AI data-centre capex and consumer credit.",
+      "link": "https://www.federalreserve.gov/newsevents/2026-september.htm"
+    },
+    {
+      "key": "2026-09-02-au-gdp-q2",
+      "date": "2026-09-02",
+      "time": "11:30 AEST",
+      "ticker": "MACRO",
+      "title": "Australian National Accounts: GDP June quarter 2026",
+      "type": "macro",
+      "why": "Growth print that shapes the RBA's 28-29 Sep decision and AUD.",
+      "link": "https://www.abs.gov.au/statistics/economy/national-accounts/australian-national-accounts-national-income-expenditure-and-product/latest-release"
+    },
+    {
+      "key": "2026-09-02-us-adp",
+      "date": "2026-09-02",
+      "time": "08:15 ET",
+      "ticker": "MACRO",
+      "title": "ADP private payrolls (August)",
+      "type": "macro",
+      "why": "Preview of Friday's jobs report; time per TradingEconomics.",
+      "link": "https://tradingeconomics.com/united-states/calendar"
+    },
+    {
+      "key": "2026-09-03-china-ratingdog-services-pmi",
+      "date": "2026-09-03",
+      "time": "TBC (CST)",
+      "ticker": "CHINA",
+      "title": "RatingDog China services PMI (August)",
+      "type": "macro",
+      "why": "Consumer-services momentum check for BABA and SE.",
+      "link": "https://tradingeconomics.com/china/calendar"
+    },
+    {
+      "key": "2026-09-03-us-ism-services",
+      "date": "2026-09-03",
+      "time": "10:00 ET",
+      "ticker": "MACRO",
+      "title": "ISM Services PMI (August); also Q2 productivity (revised) and July trade balance at 08:30 ET",
+      "type": "macro",
+      "why": "Services activity and prices set the inflation tone into CPI on Sep 11; time per TradingEconomics.",
+      "link": "https://tradingeconomics.com/united-states/calendar"
+    },
+    {
+      "key": "2026-09-04-us-jobs-report",
+      "date": "2026-09-04",
+      "time": "08:30 ET",
+      "ticker": "MACRO",
+      "title": "Employment Situation (August payrolls, unemployment rate)",
+      "type": "macro",
+      "why": "Final jobs print before the Sep 15-16 FOMC; decides whether the market prices a cut and drives the USD/AUD cross.",
+      "link": "https://www.bls.gov/schedule/2026/09_sched.htm"
+    },
+    {
+      "key": "2026-09-07-us-labor-day",
+      "date": "2026-09-07",
+      "time": "all day",
+      "ticker": "MACRO",
+      "title": "US Labor Day: NYSE/Nasdaq closed",
+      "type": "other",
+      "why": "No US cash session; ASX trades normally, so AU-listed exposure moves without a US lead.",
+      "link": "https://www.nyse.com/markets/hours-calendars"
+    },
+    {
+      "key": "2026-09-08-china-trade",
+      "date": "2026-09-08",
+      "time": "TBC (CST)",
+      "ticker": "CHINA",
+      "title": "China trade balance, exports and imports (August)",
+      "type": "macro",
+      "why": "Export strength and chip/commodity import data inform CATL/BYD, TSM and AUD; date per TradingEconomics.",
+      "link": "https://tradingeconomics.com/china/calendar"
+    },
+    {
+      "key": "2026-09-08-gs-communacopia-meli",
+      "date": "2026-09-08",
+      "time": "TBC (SF, PT)",
+      "ticker": "MELI",
+      "title": "Goldman Sachs Communacopia + Technology Conference begins; MercadoLibre presents Sep 8 (Cloudflare Sep 9, 10:10 PT, just outside window)",
+      "type": "conference",
+      "why": "Major sell-side tech conference where holdings/watchlist names give intra-quarter updates; MELI fintech/credit commentary and NET AI-traffic commentary are the ones to listen for.",
+      "link": "https://investor.mercadolibre.com/news-and-events"
+    }
+  ]
+}
