@@ -1,89 +1,89 @@
 {
-  "as_of": "2026-08-25T08:49",
-  "market_summary": "Asia closed better than it opened: the Kospi swung from -4% intraday to +0.7% (6,743) as Samsung and SK hynix buybacks absorbed foreign selling, the Nikkei rose 0.5% to 65,856, the Taiex closed +0.9%, the ASX 200 gained 0.7% to 9,165 after the RBA held rates, and the Hang Seng finished flat at 25,511 (CATL -2.7% to HK$621) after Monday's Alibaba-led rout. Europe is modestly higher mid-session (DAX +0.3% at ~26,237, Euro Stoxx 50 +0.3%, FTSE +0.1%) as US-Iran sanction threats fizzle and Brent slips ~2% to about $92, while US futures point to a rebound (S&P +0.3%, Nasdaq 100 +0.5%) with Nvidia +1% pre-market at ~$210.7 after closing -2.9% at $208.48, its seventh straight decline. The setup into Nvidia's print (Wed after the US close, Thu 7am AEST) is nervous but de-risked: consensus looks for ~$92B of quarterly revenue and ~$104-105B Q3 guidance, and options imply a roughly $280B (~5.5%) market-cap swing, which will set the tone for SK hynix, Broadcom, Teradyne and Astera Labs. July PCE also lands Wednesday US time with core running 3.3% YoY and the last Fed minutes keeping a hike on the table, and Chair Warsh's first Jackson Hole speech on Friday (Sat morning AEST) is the week's other binary; the 10-year is near 4.7%, so a hot PCE or hawkish Warsh would hit long-duration growth names hardest.",
+  "as_of": "2026-08-25T14:55",
+  "market_summary": "Wall Street opened higher as tech rebounded into Nvidia: S&P 500 +0.2% at ~7,665 and Nasdaq +0.4% at ~26,090 in the first hour, with oil -3% below $90 after markets shrugged off new US sanctions on Iran, and a soft Conference Board consumer confidence print (89.4 vs 90.2 expected, Expectations Index down to 68.2, a seven-month low) did little damage. Europe is heading into the close firmer (STOXX 600 +0.4% at ~657, DAX +0.6% at ~26,280) as the Iran risk premium eased, and Siemens Energy led our list at +3.2% on the EUR 10B+ steam-turbine sale reports. Robinhood (+6%) and Bloom Energy (+3.6%) were the only watchlist names moving more than 3%; Broadcom, Cloudflare, GE Vernova and Teradyne were flat. While you sleep the US session finishes (~6:00am AEST) and any Siemens Energy ad-hoc could land overnight; Wednesday brings July PCE (core expected 0.2% m/m, 3.3% y/y) and the second Q2 GDP estimate at 22:30 AEST, then Nvidia (consensus revenue ~$92B) and Salesforce report after the US close, roughly 6:30am AEST Thursday, which will set the tone for the whole AI complex on the list.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "Flat pre-market ($262.83) after closing Aug 24 at $262.07 (+1.3%) with the P/E near a decade low and AWS growing 37%; the reported 'Tetromino' plan for AI-automated delivery stations (2.5x throughput, pilot in 2028) is a long-dated margin lever, but the $220B capex plan, Bezos selling and state antitrust suits keep a lid on the multiple, so hold rather than chase.",
-      "price_usd": 262.83,
+      "reason": "Slipped 0.4% to $260.92 in the first hour after closing Aug 24 at $262.07 (+1.3%) with the P/E near a decade low and AWS growing 37%; the reported 'Tetromino' plan for AI-automated delivery stations (2.5x throughput, pilot in 2028) is a long-dated margin lever, but the $220B capex plan, Bezos selling and state antitrust suits keep a lid on the multiple, so hold rather than chase.",
+      "price_usd": 260.92,
       "updated": "2026-08-25"
     },
     "AXOS": {
       "take": "hold",
-      "reason": "No new catalysts since the 10-K; Benchmark's Aug 13 target hike to $120 (Buy) on above-peer growth and 17% ROE supports continuing to hold at ~$97.",
-      "price_usd": 96.94,
+      "reason": "Up 1.1% to $98.01 after announcing a dual listing on NYSE Texas, a cosmetic change; Benchmark's Aug 13 target hike to $120 (Buy) on above-peer growth and 17% ROE supports continuing to hold.",
+      "price_usd": 98.01,
       "updated": "2026-08-25"
     },
     "BABA": {
       "take": "watch",
-      "reason": "The record HK$80B ($10.2B) placement at a 3.6% discount (~3.7% dilution) and Michael Burry's full exit keep pressure on the ADR, which is indicated -1.25% pre-market at $116.99 even though Hong Kong shares rose 1.5% to HK$114.20 on Tuesday for a second day of stabilization; insider buying is encouraging, but wait for the stock to base before adding.",
-      "price_usd": 116.99,
+      "reason": "The ADR is +0.35% at $118.88 as insiders lean in against the record HK$80B ($10.2B) placement: Jack Ma bought more than HK$600M of shares over consecutive days (SCMP) and chair Joe Tsai added another 720,000 Hong Kong shares on Tuesday, while BofA kept Buy/$172; the ~3.7% dilution and Michael Burry's exit still argue for waiting for the stock to base before adding.",
+      "price_usd": 118.88,
       "updated": "2026-08-25"
     },
     "ENPH": {
       "take": "watch",
-      "reason": "Bouncing 1.5% pre-market to $37.73 after a 3.7% drop on Aug 24 with no fundamental catalyst; the AI assistant and IQ Battery C80 commercial launches are incremental, so stay on the sidelines until residential demand stabilizes.",
-      "price_usd": 37.73,
+      "reason": "Flat at $37.02 (-0.4%) after a 3.7% drop on Aug 24 with no fundamental catalyst; the AI assistant, IQ Battery C80 and a Dutch net-metering campaign are incremental, so stay on the sidelines until residential demand stabilizes.",
+      "price_usd": 37.02,
       "updated": "2026-08-25"
     },
     "FIGR": {
       "take": "hold",
-      "reason": "Quiet tape ($38.71 pre-market after $38.64 close) after the Q2 beat and Bernstein's reiterated Buy; no new material news, so hold and let marketplace volume execution play out.",
-      "price_usd": 38.71,
+      "reason": "Up 3.4% to $39.97 after EDX Markets integrated Figure's YLDS stablecoin as institutional collateral and a treasury asset, another distribution win on top of the Q2 beat (marketplace volume +132% to $4.3B) and Bernstein's $70 target; hold and let execution play out.",
+      "price_usd": 39.97,
       "updated": "2026-08-25"
     },
     "GOOGL": {
       "take": "add",
-      "reason": "Shares rose 0.9% to $348.06 on Aug 24 ($348.50 pre-market) as Google Cloud announced a strategic Gemini Enterprise partnership with Verizon, another proof point for Cloud's +82% growth, and a Nikkei report that all Pixel production leaves China by 2027 trims tariff risk; the post-Jeff-Dean dip remains a reasonable entry.",
-      "price_usd": 348.5,
+      "reason": "Marginally lower at $347.24 (-0.2%) after Google Cloud launched Gemini Enterprise for Financial Services and for Legal, with Moody's plugging ratings data in via an MCP server and Weil signing on, a day after the Verizon partnership; these vertical enterprise wins support Cloud's +82% growth, Pixel production leaving China by 2027 trims tariff risk, and the post-Jeff-Dean dip remains a reasonable entry.",
+      "price_usd": 347.24,
       "updated": "2026-08-25"
     },
     "LDI": {
       "take": "trim",
-      "reason": "Stock is stuck at $0.89, below the $1 NYSE threshold, with Goldman at Sell and a $1 target; exchange-compliance and dilution risk argue for reducing exposure.",
-      "price_usd": 0.891,
+      "reason": "Bounced 3% to $0.92 but remains below the $1 NYSE threshold after the formal non-compliance notice, with Goldman at Sell and a $1 target; exchange-compliance and dilution risk argue for reducing exposure.",
+      "price_usd": 0.92,
       "updated": "2026-08-25"
     },
     "META": {
       "take": "hold",
-      "reason": "Up 1.7% to $559.02 on Aug 24 and another 0.6% pre-market ($562.25) after The Information reported the Hatch consumer AI agent launches within weeks with a tiered paid plan and the 'Watermelon' model in October, a first real step to monetizing AI beyond ads; but the $942M New Mexico liability, the California teen-addiction trial (now in week 2) and $125-145B capex keep the stock ~29% off its high, so hold pending trial clarity.",
-      "price_usd": 562.25,
+      "reason": "Up 1% to $564.58 in early trade as William Blair flagged a $100B+ opportunity in Meta's business AI agents, building on The Information's report that the Hatch consumer agent launches within weeks with a paid tier; but the California teen-addiction trial is in week two with testimony turning to Instagram's design (and a whistleblower saying Zuckerberg chose growth over kids' safety), the $942M New Mexico liability and $125-145B capex keep the stock ~29% off its high, so hold pending trial clarity.",
+      "price_usd": 564.58,
       "updated": "2026-08-25"
     },
     "MRVL": {
       "take": "hold",
-      "reason": "Rebounding 2% pre-market to $234.00 after falling 3.3% on Aug 24 with the SOX; Wells Fargo lifted its target to $310, options imply a ~12% move on Thursday's print (Fri ~6:30am AEST) against consensus of ~$2.71B revenue and $0.93 EPS, and with the stock up ~160% YTD the bar is high, so hold through the report.",
-      "price_usd": 234.0,
+      "reason": "Surged 6.2% to $243.47 in the first hour as Rosenblatt initiated at Buy with a $300 target and Susquehanna lifted its target to $265 (Wells Fargo $310 on Monday), all citing the Google warrant deal covering roughly $120B of custom AI product business through 2033; options still imply a ~12% move on Thursday's print (Fri ~6:30am AEST) against ~$2.71B revenue and $0.93 EPS consensus, and with the stock up ~160% YTD the bar is high, so hold through the report.",
+      "price_usd": 243.47,
       "updated": "2026-08-25"
     },
     "MU": {
       "take": "hold",
-      "reason": "Up 1.7% pre-market to $925.80 after Monday's 5.8% drop on the CXMT/YMTC-for-Apple report, which Lynx Equity called an overreaction (CXMT is qualified only for one low-volume Mac and has poor LPDDR5X yields); SK hynix's union rejecting its wage deal by 25 votes adds a small supply-side wrinkle at a rival, HBM remains sold out through 2027, but expect volatility through Nvidia's print.",
-      "price_usd": 925.8,
+      "reason": "Up 1.8% to $926.78 after Monday's 5.8% drop on the CXMT/YMTC-for-Apple report, which Lynx Equity called an overreaction; Mizuho trimmed its target to $1,300 from $1,375 but kept Outperform, Barron's argues Micron will miss part of a 50% memory-price rise because of long-term contracts, HBM remains sold out through 2027, and expect volatility through Nvidia's print.",
+      "price_usd": 926.78,
       "updated": "2026-08-25"
     },
     "NFLX": {
       "take": "add",
-      "reason": "Edged up 0.5% to $80.01 on Aug 24 (flat pre-market at $79.86) and is showing relative strength in Communication Services; an ads-leadership reshuffle (VP of ads product Jon Whitticom departing) is worth watching but does not change the thesis, and at ~37% below the 52-week high with ad-tier and bundling optionality the valuation reset remains an add opportunity.",
-      "price_usd": 79.86,
+      "reason": "Up 1.7% to $81.39 after Wolfe Research raised its target to $95 from $84 (22x 2028 EPS of $4.41), arguing Q2's soft engagement was a release-schedule issue and that returning titles set up stronger second-half results; an ads-leadership reshuffle is worth watching but does not change the thesis, and at ~37% below the 52-week high with ad-tier and bundling optionality the valuation reset remains an add opportunity.",
+      "price_usd": 81.39,
       "updated": "2026-08-25"
     },
     "NVDA": {
       "take": "hold",
-      "reason": "Indicated +1% pre-market at $210.67 after a seventh straight decline to $208.48; options price only a 5.4% (~$280B) move on the Aug 26 report, below the 12-quarter average of 7.4%, which says positioning is calm rather than panicked, and with consensus near $92-94B revenue and ~$2.08-2.13 EPS at ~24x forward the stock needs a clean beat-and-raise on guidance, so hold and reassess after the print.",
-      "price_usd": 210.67,
+      "reason": "Up 1.5% to $211.66 in the first hour, snapping a seven-day losing streak, as Raymond James lifted its target to $352 from $330 and framed Nvidia's CPU franchise as strategically important in a server-CPU market it sees reaching $201B by 2030; the offset is OpenAI's Jalapeño chip, whose SemiAnalysis benchmarks claim more tokens per user and more throughput per kilowatt than Blackwell, with volume deployment in 2027. Options price a 5.4% (~$280B) move on Wednesday's report (Thu ~6:30am AEST) against ~$92B revenue consensus, so hold and reassess after the print.",
+      "price_usd": 211.66,
       "updated": "2026-08-25"
     },
     "RKT": {
       "take": "hold",
-      "reason": "Rose 1.2% to $14.09 after the FTC settled its Zillow/Redfin rental-listings case on the morning of trial, removing a legal overhang while letting the Zillow partnership run through 2030; after the earlier ~50% run the shares still look fully priced, so hold.",
-      "price_usd": 14.09,
+      "reason": "Eased 0.6% to $14.00 after Monday's FTC settlement of the Zillow/Redfin rental-listings case removed a legal overhang while letting the Zillow partnership run through 2030; the 10-year yield dipping to 4.65% helps at the margin, but after the earlier ~50% run the shares still look fully priced, so hold.",
+      "price_usd": 14.0,
       "updated": "2026-08-25"
     },
     "TSM": {
       "take": "add",
-      "reason": "Taipei shares rebounded 1.05% to NT$2,400 on Tuesday (TAIEX +0.9%) and the ADR is +0.9% pre-market at $413.80 after Monday's 2.1% drop; 40%+ 2026 growth guidance, Xiaomi's 3nm Xring and the Sony image-sensor JV underline demand breadth, and the pullback from the June high remains a buying opportunity.",
-      "price_usd": 413.8,
+      "reason": "Up 1.5% to $416.19 after Taipei shares rebounded 1.05% to NT$2,400; Apple's new M6 is described as a 2nm chip, the first mass-market 2nm silicon from TSMC's sole-source customer, and with 40%+ 2026 growth guidance, Xiaomi's 3nm Xring and the Sony image-sensor JV underlining demand breadth, the pullback from the June high remains a buying opportunity.",
+      "price_usd": 416.19,
       "updated": "2026-08-25"
     },
     "STRIPE": {
@@ -95,19 +95,19 @@
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "Alabama's AG subpoenaed OpenAI and 15 state AGs demanded it halt internal cyber evaluations after an unreleased cyber model breached Hugging Face, and Altman now concedes he overestimated the speed of AI disruption (AGI pushed to end-2028), adding regulatory and adoption-pace risk; private, so hold but monitor the probe. Marked at 5.43x cost: latest valuation ~$852B (2026-08) vs ~$157B at entry (https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/).",
+      "reason": "OpenAI published first Jalapeño results: SemiAnalysis's InferenceX benchmark shows the Broadcom-co-designed inference chip delivering more tokens per user and more throughput per kilowatt than Nvidia Blackwell systems, with limited deployment from end-2026 and scale in 2027, a meaningful step toward lowering its compute bill; that offsets the Alabama AG subpoena and 15-state demand over the Hugging Face cyber-model breach and Altman's admission he overestimated AI's disruption pace. Private, so hold. Marked at 5.43x cost: latest valuation ~$852B (2026-08) vs ~$157B at entry (https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/).",
       "price_usd": null,
       "updated": "2026-08-25",
       "mark_multiple": 5.43
     }
   },
   "headlines": [
-    "NVDA +1% pre-market to ~$210.7 after seven straight down days; options price only a 5.4% (~$280B) move on the print, which lands Wed after the US close = Thu ~6:30am AEST, the smallest implied swing in 3 years, so the bar is 'beat and raise'.",
-    "MU +1.7% pre-market ($925.80) as Lynx Equity called Monday's CXMT/Apple selloff an overreaction; SK hynix's union rejected its wage deal by 25 votes but shares still closed +0.4% and both sides go back to the table, no strike talk.",
-    "Asia and Europe steadied: TSMC Taipei +1.05% (TAIEX +0.9%), Nikkei +0.6%, Kospi +0.7%, STOXX 600 +0.3% after Bessent's Iran 'economic onslaught' stopped short of actual penalties; US futures green (Nasdaq 100 +0.6%), TSM ADR +0.9% pre-market.",
-    "META +0.6% pre-market ($562) after The Information reported the Hatch consumer AI agent launches within weeks with a tiered paid plan and the 'Watermelon' model targeted for October; the California teen-addiction trial enters week 2. BABA HK +1.5% but the ADR is -1.25% pre-market.",
-    "Kospi reversed a 4% intraday plunge to close +0.7% at 6,743; SK hynix ended +0.4% in Seoul (KRW 1,678,000) after a 4.5% morning drop on the union vote, and the SKHY ADR is +2.3% pre-market at $159 with Needham lifting its target to $220.",
-    "Siemens Energy is +1.8% at EUR 151.45 while its supervisory board meets on the Goldman-run steam-turbine stake sale; no decision or ad-hoc release had been published as of 08:45 UTC, so the binary catalyst is still live into the European close.",
-    "Risk appetite is recovering into Nvidia: S&P/Nasdaq futures +0.3%/+0.5%, Europe higher as Iran sanction threats fizzle (Brent ~$92, -2%), Nvidia +1% pre-market after a seven-day losing streak, and Bloom Energy +5% pre-market on Nancy Pelosi's disclosed $3-4M purchase."
+    "MRVL +6% to $243 as Google's $120B warrant deal draws Rosenblatt ($300) and Susquehanna ($265) target hikes ahead of Friday 6:30am AEST earnings.",
+    "NVDA +1.5% to $211.66 on Raymond James's $352 target, but OpenAI's Jalapeño chip benchmarks claim more throughput per kilowatt than Blackwell; earnings Thu 6:30am AEST.",
+    "Consumer confidence slipped to 89.4 (90.2 expected) but stocks opened higher with 10-year at 4.65% and oil down 2.5%; NFLX +1.7% on Wolfe's $95 target.",
+    "BABA ADR +0.4% after Jack Ma bought HK$600M+ of shares and Tsai added 720k; Apple's 2nm M6 launch is a TSMC proof point, TSM +1.5%.",
+    "Conference Board consumer confidence fell to 89.4 in August (consensus 90.2), a seven-month low, with the Expectations Index sliding to 68.2.",
+    "Siemens Energy reportedly seeks EUR 10B+ for a majority stake in its steam-turbine unit, with CVC, EQT, Bain, Brookfield and KKR circling.",
+    "Oil fell ~3% to a one-week low below $90 as markets read new US Iran sanctions as economic, not military, pressure."
   ]
 }
