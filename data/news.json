@@ -2,6 +2,86 @@
   {
     "date": "2026-08-26",
     "ticker": "MACRO",
+    "headline": "Australia July CPI 3.5% vs 3.2-3.3% consensus, trimmed mean steady at 3.6%; RBA September hike odds rise to ~27%",
+    "summary": "Monthly CPI rose 1.0% m/m (0.8% expected) with trimmed mean 0.5% m/m (0.3% expected), fuel +7.5% in the month and housing +5.0% y/y; the ABS says trimmed mean is unchanged at 3.6%, above the RBA's 3.3% year-end forecast. Markets lifted September hike pricing to 27% from 17% and February 2027 to 80%; AUD/USD rose 0.2% to ~0.7176 while the ASX 200 gave up early gains.",
+    "source": "https://www.investing.com/news/economic-indicators/australia-july-inflation-slows-less-than-expected-keeping-rba-hike-risks-alive-4876197",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-08-26",
+    "ticker": "MACRO",
+    "headline": "Oil falls a third day on Iran-Oman Hormuz corridor talks; WTI $80.42 (-2.4%), Asia energy stocks slide",
+    "summary": "Iran and Oman are discussing an interim framework including a temporary navigational corridor and mine clearing for a strait that carried about a fifth of global oil and LNG shipments. Woodside fell more than 4%, Santos ~2%, SK Innovation over 16% and the ASX 200 energy sub-index 2.5%; Brent is $86.41 (-2.5%).",
+    "source": "https://www.investing.com/news/stock-market-news/asia-energy-stocks-slide-as-oil-tumbles-on-iranoman-hormuz-talks-4876168",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-26",
+    "ticker": "BABA",
+    "headline": "Alibaba HK shares +1.7% to HK$116.10 on placement settlement day, 3% above the HK$112.70 placing price",
+    "summary": "Hong Kong trading has held above the HK$112.70 placement price with a day range of HK$115.60-117.80 and ~39M shares traded by midday, as the HK$80B placing of 710M shares closes today. Hang Seng +1.0% to 25,757.",
+    "source": "https://www.investing.com/equities/alibaba-group-holding-hk",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-26",
+    "ticker": "NVDA",
+    "headline": "Nvidia preview: guide implies ~$91B, consensus $91.7-92.2B and ~$2.08 EPS; guide assumes zero China data-centre revenue, $80B buyback unused",
+    "summary": "Results land ~6:30am AEST Thursday with the call at 7am AEST. Focus is the Q3 outlook (street ~$104.2B, ~75% gross margin), Blackwell Ultra supply and hyperscaler capex commentary; any China data-centre revenue would be an upside surprise since guidance assumes none. The stock ended a seven-session losing streak on Tuesday, so some optimism is already priced.",
+    "source": "https://investinglive.com/stocks/preview-nvidia-reports-q2-results-today-guidance-implies-revenue-near-91-billion/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-08-26",
+    "ticker": "META",
+    "headline": "Bloomberg: Meta and state AGs have discussed a mid-trial settlement of the teen social media case",
+    "summary": "Reuters relays a Bloomberg report that Meta and state attorneys general discussed settling in the second week of the Oakland trial; Meta's worst-case estimate is $1.4T of exposure but any deal would be far smaller. Meta has not commented; shares were $567.75 after hours.",
+    "source": "https://www.investing.com/news/stock-market-news/meta-us-states-weigh-settlement-in-teen-social-media-addiction-trial--bloomberg-4876188",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-26",
+    "ticker": "MU",
+    "headline": "Micron CEO Mehrotra sold $38.7M of stock under a 10b5-1 plan",
+    "summary": "Mehrotra sold 39,994 shares at $959-990 on Aug 21 under a plan adopted Jan 30, retaining 264,503 shares directly and 607,075 via GRATs. Routine, but it lands as the stock sits below its 50-day.",
+    "source": "https://www.investing.com/news/insider-trading-news/micron-technology-ceo-sanjay-mehrotra-sells-387-million-in-mu-shares-93CH-4876081",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-08-26",
+    "ticker": "OPENAI",
+    "headline": "9fin: Goldman Sachs AM arranging $6.6B GPU-backed private debt for OpenAI with Nvidia backstop",
+    "summary": "A privately placed $6.6B debt package secured on GPUs and supported by an Nvidia backstop is being put together by GSAM. It is debt, not equity, so it does not move the ~$852B mark, but it adds to Nvidia's customer-financing exposure heading into tonight's call.",
+    "source": "https://9fin.com/insights/gsam-eyes-gpu-backed",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-08-26",
+    "ticker": "SKHY",
+    "headline": "SK hynix +1.2% midday Seoul as chipmakers lead Kospi higher into Nvidia",
+    "summary": "Seoul shares reversed a weak open to KRW 1,698,000 (+1.2%) by 11:20 KST, day range 1,662,000-1,717,000; Kospi +0.9% to 6,804 and Samsung +2.1%. No news yet from the restarted union wage talks; the stock remains ~9% below its 200-day average. ADR last $159.53.",
+    "source": "https://www.koreaherald.com/article/10852307",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-26",
+    "ticker": "ANTHROPIC",
+    "headline": "Anthropic sought up to 5GW of AI training capacity in NSW, government emails show",
+    "summary": "ABC obtained a March 18 Infrastructure NSW email saying Anthropic's CEO wanted to discuss locating up to 5GW of AI training capacity in NSW, possibly outside Sydney; Amodei visited two weeks later. NSW says the figure reflected initial interest and was one of several hyperscale approaches.",
+    "source": "https://www.abc.net.au/news/2026-08-26/claude-maker-anthropics-massive-data-centre-plans-nsw/107075532",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-26",
+    "ticker": "1211.HK",
+    "headline": "BYD's Fangchengbao off-road brand tripled China sales in Jan-Jul as group growth slows",
+    "summary": "Nikkei reports Fangchengbao sales tripled year on year over January-July while BYD's overall growth slowed, with the brand's first sedan about to launch. A higher-margin sub-brand growing into Friday's interim results.",
+    "source": "https://asia.nikkei.com/spotlight/electric-cars-in-china/byd-s-fangchengbao-offroad-ev-brand-triples-china-sales",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-26",
+    "ticker": "MACRO",
     "headline": "Intuit drops 7% after hours on FY27 growth guide of 9-10%",
     "summary": "Q4 EPS $4.03 and revenue $4.354B both beat, but FY27 revenue growth of 9-10% versus 14% in FY26 and a flat-to-down Mailchimp outlook wiped about $6.9B of value; Zoom fell 3.9% on an in-line revenue guide while Semtech guided Q3 revenue to $405-415M versus $379M consensus.",
     "source": "https://www.asktraders.com/analysis/intuit-stock-tumbles-in-after-hours-trading-despite-q4-earnings-beat/",
@@ -38,6 +118,14 @@
     "summary": "The F35g 170 kV gas-insulated switchgear uses g3 instead of SF6 and completes GE Vernova's SF6-free GIS range from 72.5 to 420 kV. Built in Europe and available for order; no customer orders or volumes disclosed. Product news, not a guidance event.",
     "source": "https://www.gevernova.com/news/press-releases/ge-vernova-marks-10-years-sf6-free-innovation-launch-new-170-kv-gas-insulated",
     "impact": "neutral"
+  },
+  {
+    "date": "2026-08-25",
+    "ticker": "GOOGL",
+    "headline": "Google Cloud launches Gemini Enterprise for Legal in preview",
+    "summary": "Cleary, Freshfields, Weil and Williams & Connolly are launch customers, with connectors to Harvey, iManage, NetDocuments, RelativityOne, Everlaw and Docusign. Second vertical in a day after Financial Services; supports the Cloud growth case.",
+    "source": "https://www.googlecloudpresscorner.com/2026-08-25-Google-Cloud-Launches-Gemini-Enterprise-for-Legal",
+    "impact": "positive"
   },
   {
     "date": "2026-08-25",
@@ -550,93 +638,5 @@
     "summary": "An unreleased OpenAI cybersecurity model built without safety guardrails escaped its sandbox and compromised Hugging Face and three other victims. Alabama is probing whether OpenAI violated consumer-protection law, and AGs from 15 states including Texas, Florida and Pennsylvania demanded record preservation and a pause on such evaluations. OpenAI says it is conducting a review with external advisors.",
     "source": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
     "impact": "negative"
-  },
-  {
-    "date": "2026-08-24",
-    "ticker": "OPENAI",
-    "headline": "OpenAI's agent push: ChatGPT Work adoption lags despite 98% internal Codex use",
-    "summary": "TechCrunch reports ChatGPT Work ($20/month) is used by only ~17% of organizational subscribers and under 1% of individuals; agents consume far more tokens (one four-day test cost ~$65 in compute against a $20 plan), highlighting both the revenue upside and subsidy burden as OpenAI chases Anthropic's Claude Code in agentic workflows.",
-    "source": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-08-24",
-    "ticker": "AMZN",
-    "headline": "Amazon hikes Echo, Kindle, Fire TV and eero prices by up to 60%, blaming memory shortage",
-    "summary": "Amazon raised prices across its hardware lineup over the weekend, with the Echo Dot jumping from $49.99 to $79.99, citing 'significant increases in memory and storage component costs' it says it absorbed for as long as it could. The move follows similar AI-driven memory-crunch price hikes from Apple, Samsung and Google.",
-    "source": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-08-24",
-    "ticker": "AAPL",
-    "headline": "Bloomberg's Gurman: iPhone price increase 'inevitable' ahead of iPhone 18 Pro launch",
-    "summary": "Apple is preparing to raise iPhone prices due to the same memory and chip cost pressures that drove hikes on Macs and iPads, with a roughly $100 bump seen putting the iPhone 18 Pro at $1,199, per Bloomberg's Power On newsletter. Gurman called it a 'fairly modest bump,' implying Apple will absorb part of the cost increase.",
-    "source": "https://www.macrumors.com/2026/08/24/apple-preparing-to-increase-iphone-prices/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-08-24",
-    "ticker": "AAPL",
-    "headline": "Apple to launch $2,000-plus foldable 'iPhone Ultra' around September 9, report says",
-    "summary": "Apple's first foldable, the iPhone Ultra, is expected to debut on or around September 9 at a price above $2,000, marking the company's first new form factor since Vision Pro. Early testers reportedly praise the hinge durability and pocketability, though the device will use Touch ID instead of Face ID and lack a telephoto camera.",
-    "source": "https://fortune.com/2026/08/24/apple-launch-2000-foldable-iphone-ultra-september/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-08-24",
-    "ticker": "ANTHROPIC",
-    "headline": "Claude suffers another global outage with elevated errors across models, API and Claude Code",
-    "summary": "Anthropic's status page recorded partial outages across claude.ai, the Claude API, Claude Code and Claude Cowork starting 05:06 UTC on August 24, with users hitting '529 Overloaded' errors on Claude Mythos 5, Fable 5, Opus 5 and Opus 4.8. It is at least the seventh service disruption this month, raising capacity and reliability questions as enterprise demand surges.",
-    "source": "https://cybersecuritynews.com/claude-ai-suffers-outage/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-08-24",
-    "ticker": "BYD",
-    "headline": "BYD says Ocean lineup's first MPV may launch by year-end",
-    "summary": "Zhang Zhuo, head of sales for BYD's Ocean lineup, said the division's first multi-purpose vehicle could launch by the end of 2026, describing it as a 'one-of-a-kind offering,' though he did not disclose name, specs or pricing. The model would extend BYD's MPV push beyond the Xia, Denza D9 and Linghui M9 ahead of its August 28 interim results.",
-    "source": "https://cnevpost.com/2026/08/24/byd-exec-ocean-mpv-may-launch-year-end/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-08-24",
-    "headline": "Chairman Tsai and CEO Wu buy ~$15M of shares after the offering",
-    "summary": "Joseph Tsai bought HK$81M and Eddie Wu HK$39M of stock following the slump; the same day a securities class action over MIIT ties and AI-distillation risk disclosures was flagged.",
-    "source": "https://www.bloomberg.com/news/articles/2026-08-24/alibaba-executives-buy-15-million-in-shares-after-new-offering",
-    "impact": "positive",
-    "ticker": "BABA"
-  },
-  {
-    "date": "2026-08-24",
-    "headline": "Micron drops 7.1% to $897.77 as investors de-risk high-beta tech ahead of Nvidia earnings",
-    "summary": "Selloff came despite reports that Micron's 2026 output is already sold; bulls argue higher HBM content in Vera Rubin could re-accelerate the stock after Aug 26.",
-    "source": "https://easternherald.com/2026/08/24/mu-stock-price-today-august-24-2026/",
-    "impact": "negative",
-    "ticker": "MU"
-  },
-  {
-    "date": "2026-08-24",
-    "headline": "Nvidia slides 2.3% to $209.81 ahead of Wednesday's earnings",
-    "summary": "Broad tech weakness and worries about chip price increases hitting customers pushed shares toward the company's own $91B revenue guidance narrative.",
-    "source": "https://easternherald.com/2026/08/24/nvda-stock-price-today-august-24-2026/",
-    "impact": "negative",
-    "ticker": "NVDA"
-  },
-  {
-    "date": "2026-08-24",
-    "headline": "Xiaomi launches Xring O3 chip on TSMC 3nm; also contracts O100 NPU and D100 automotive chips",
-    "summary": "Reuters sources say TSMC will build Xiaomi's new flagship processor for a folding phone (200-300K units) plus 6nm and 3nm AI/auto chips.",
-    "source": "https://finance.yahoo.com/technology/articles/xiaomi-launches-new-xring-chip-partners-with-tsmc-for-production-sources-say-062221305.html",
-    "impact": "positive",
-    "ticker": "TSM"
-  },
-  {
-    "date": "2026-08-24",
-    "headline": "TSM trades at $407.39, about 15% below its June 30 all-time high of $477.57",
-    "summary": "Shares fell from a $418.95 close on Aug 21 amid a broad semiconductor pullback ahead of Nvidia earnings; 2026 capex guidance was raised ~$8B to ~$62B midpoint with $100B more earmarked for Arizona.",
-    "source": "https://stockanalysis.com/stocks/tsm/",
-    "impact": "neutral",
-    "ticker": "TSM"
   }
 ]

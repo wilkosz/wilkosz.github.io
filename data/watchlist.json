@@ -12,7 +12,7 @@
     "catalyst": "Q3 2026 earnings ~2026-11-03 (est.)",
     "source": "https://stockanalysis.com/stocks/alab/",
     "added": "2026-08-24",
-    "updated": "2026-08-25"
+    "updated": "2026-08-26"
   },
   {
     "ticker": "AVGO",
@@ -27,7 +27,7 @@
     "catalyst": "Q3 FY2026 earnings on 2026-09-02 (after close); Nvidia read-through 2026-08-26",
     "source": "https://stockanalysis.com/stocks/avgo/",
     "added": "2026-08-24",
-    "updated": "2026-08-25"
+    "updated": "2026-08-26"
   },
   {
     "ticker": "CRDO",
@@ -42,7 +42,7 @@
     "catalyst": "Q1 FY2027 earnings 2026-09-01 (after close); Marvell 2026-08-27 and Broadcom 2026-09-02 read-through",
     "source": "https://investors.credosemi.com/news-events/news/news-details/2026/Credo-Technology-Group-Holding-Ltd-Reports-Fourth-Quarter-and-Fiscal-Year-2026-Financial-Results/default.aspx",
     "added": "2026-08-25",
-    "updated": "2026-08-25"
+    "updated": "2026-08-26"
   },
   {
     "ticker": "SKHY",
@@ -51,13 +51,13 @@
     "sector": "AI",
     "status": "accumulate",
     "conviction": "medium",
-    "thesis": "SK hynix supplies more than half of the world's HBM and just posted record Q2 2026 results: revenue KRW 79.3T (+257% YoY) and operating income KRW 60.5T (+557% YoY) at a 76% operating margin, with HBM4 mass shipments ramping in H2. On Aug 19 it accelerated a KRW 40T buyback-and-cancel program (24.07M shares, 3.3% of the count, executed over ~3 months from Aug 20) and lifted its shareholder-return target to over 50% of FCF, backed by ~KRW 69T of net cash; it is also weighing a first Japanese memory fab (Miyagi), and the July 2026 Nasdaq ADR broadens the investor base. On Aug 25 the Seoul shares reversed a 4.5% morning drop to close +0.4% at KRW 1,678,000 as the buyback and domestic buying absorbed foreign selling and the Kospi swung from -4% to +0.7%; Needham lifted its ADR target to $220 from $200, and the ADR closed +2.7% at $159.53 on Aug 25 (after-hours $159.27), recovering more than half of Monday's 4.9% drop.",
-    "risks": "The union narrowly rejected (50.1% against) the tentative 2026 wage deal (6.3% raise) because 60% of performance bonuses would have been paid in treasury shares rather than cash, so both sides go back to the table and a strike threat cannot be excluded during the HBM4 ramp. Korea JoongAng Daily (Aug 25 evening) says talks restart from scratch after two months of negotiation, and a newly formed integrated union (launched Aug 13 with 3,400+ members) is demanding the previous cash-only bonus formula, so any settlement is likely to cost more cash and take longer; Seoul reopens at 10:00 AEST Wednesday. Memory is deeply cyclical, Apple may qualify Chinese memory, and the US ADR has traded at a large premium to currency-adjusted Seoul shares, a gap that can close against ADR holders regardless of fundamentals. Tech Times reported on Aug 25 that Washington is pressing Samsung and SK hynix to build US memory fabs, which would add capex and political risk on top of the Indiana packaging plant. Held at accumulate/medium until the labor talks settle and the Nvidia print clears the sector.",
+    "thesis": "SK hynix supplies more than half of the world's HBM and just posted record Q2 2026 results: revenue KRW 79.3T (+257% YoY) and operating income KRW 60.5T (+557% YoY) at a 76% operating margin, with HBM4 mass shipments ramping in H2. On Aug 19 it accelerated a KRW 40T buyback-and-cancel program (24.07M shares, 3.3% of the count, executed over ~3 months from Aug 20) and lifted its shareholder-return target to over 50% of FCF, backed by ~KRW 69T of net cash; it is also weighing a first Japanese memory fab (Miyagi), and the July 2026 Nasdaq ADR broadens the investor base. On Aug 25 the Seoul shares reversed a 4.5% morning drop to close +0.4% at KRW 1,678,000 as the buyback and domestic buying absorbed foreign selling and the Kospi swung from -4% to +0.7%; Needham lifted its ADR target to $220 from $200, and the ADR closed +2.7% at $159.53 on Aug 25 (after-hours $159.27), recovering more than half of Monday's 4.9% drop. On Aug 26 the Seoul shares opened lower and then rose 1.2% to KRW 1,698,000 by 11:20 KST (day range 1,662,000-1,717,000) with the Kospi +0.9% and Samsung Electronics +2.1% as chipmakers were bought ahead of the Nvidia print; the stock is still ~9% below its 200-day average (~KRW 1,874,000).",
+    "risks": "The union narrowly rejected (50.1% against) the tentative 2026 wage deal (6.3% raise) because 60% of performance bonuses would have been paid in treasury shares rather than cash, so both sides go back to the table and a strike threat cannot be excluded during the HBM4 ramp. Korea JoongAng Daily (Aug 25 evening) says talks restart from scratch after two months of negotiation, and a newly formed integrated union (launched Aug 13 with 3,400+ members) is demanding the previous cash-only bonus formula, so any settlement is likely to cost more cash and take longer; there was no settlement news by midday Wednesday in Seoul. Memory is deeply cyclical, Apple may qualify Chinese memory, and the US ADR has traded at a large premium to currency-adjusted Seoul shares, a gap that can close against ADR holders regardless of fundamentals. Tech Times reported on Aug 25 that Washington is pressing Samsung and SK hynix to build US memory fabs, which would add capex and political risk on top of the Indiana packaging plant. Held at accumulate/medium until the labor talks settle and the Nvidia print clears the sector.",
     "price_usd": 160,
     "catalyst": "Nvidia earnings 2026-08-26; renewed union wage talks; buyback execution Aug-Nov 2026; Q3 2026 earnings ~2026-10-27 (est.)",
-    "source": "https://www.koreajoongangdaily.com/business/massive-bonus-narrow-loss-sk-hynix-union-vote-sends-wage-deal-back-to-square-one/12843228",
+    "source": "https://www.koreaherald.com/article/10852307",
     "added": "2026-08-24",
-    "updated": "2026-08-25"
+    "updated": "2026-08-26"
   },
   {
     "ticker": "3750",
@@ -66,13 +66,13 @@
     "sector": "Energy",
     "status": "buy",
     "conviction": "high",
-    "thesis": "CATL is the world's largest battery maker (~40% global EV battery share) and the clear leader in grid storage: H1 2026 revenue rose 55% to RMB 277B and net profit 42% to RMB 43.3B, with energy storage revenue up 88% to RMB 53B (nearly 20% of sales) as global storage deployments surge. It raised ~$5B in Hong Kong in April, announced a large buyback in July, Moody's moved its A3 outlook to positive in August, and on Aug 25 it agreed to pay RMB 2.56B (~$370M) for a 24.9% stake in Qiyuan Green Power, China's largest heavy-truck battery-swapping operator (1,600+ stations in 208 cities), making CATL the largest shareholder and the dominant player in commercial-vehicle swapping. The stock closed -2.7% at HK$621.00 on Aug 25 (Seres-backed Aiva is reportedly exploring joining CATL's swap network), ~22% below its 52-week high, with scale, cost and chemistry (sodium-ion, LFP) advantages competitors cannot match.",
+    "thesis": "CATL is the world's largest battery maker (~40% global EV battery share) and the clear leader in grid storage: H1 2026 revenue rose 55% to RMB 277B and net profit 42% to RMB 43.3B, with energy storage revenue up 88% to RMB 53B (nearly 20% of sales) as global storage deployments surge. It raised ~$5B in Hong Kong in April, announced a large buyback in July, Moody's moved its A3 outlook to positive in August, and on Aug 25 it agreed to pay RMB 2.56B (~$370M) for a 24.9% stake in Qiyuan Green Power, China's largest heavy-truck battery-swapping operator (1,600+ stations in 208 cities), making CATL the largest shareholder and the dominant player in commercial-vehicle swapping. The stock closed -2.7% at HK$621.00 on Aug 25 (Seres-backed Aiva is reportedly exploring joining CATL's swap network) and was trading +1.5% at HK$630.50 at 10:25 HKT on Aug 26 (day range HK$616.50-632.00) with the Hang Seng +1.0%, on no new company news; it is ~21% below its 52-week high, with scale, cost and chemistry (sodium-ion, LFP) advantages competitors cannot match.",
     "risks": "The Chinese EV price war is compressing customer margins and could spill into battery pricing; US/EU tariffs and FEOC restrictions limit access to Western markets, HK-listed China exposure carries geopolitical and governance discount risk, and the Qiyuan stake was bought at a ~120% premium to book, a reminder that infrastructure bets can dilute returns.",
-    "price_usd": 79,
+    "price_usd": 81,
     "catalyst": "Q3 2026 results ~2026-10-20 (est.)",
-    "source": "https://carnewschina.com/2026/08/25/catl-becomes-chinas-largest-heavy-duty-truck-battery-swapping-operator-after-acquiring-state-owned-network-stake/",
+    "source": "https://finance.yahoo.com/quote/3750.HK/",
     "added": "2026-08-24",
-    "updated": "2026-08-25"
+    "updated": "2026-08-26"
   },
   {
     "ticker": "BE",
@@ -87,7 +87,7 @@
     "catalyst": "Nvidia earnings 2026-08-26 (AI-power read-through); Q3 2026 earnings ~2026-10-29 (est.)",
     "source": "https://stockanalysis.com/stocks/be/",
     "added": "2026-08-24",
-    "updated": "2026-08-25"
+    "updated": "2026-08-26"
   },
   {
     "ticker": "ENR",
@@ -102,7 +102,7 @@
     "catalyst": "Transformation of Industry separation (announced 2026-08-25): investor/IPO route, valuation and timeline; Q4 FY2026 results 2026-11-11",
     "source": "https://www.tradegatebsx.com/orderbuch.php?isin=DE000ENER6Y0",
     "added": "2026-08-24",
-    "updated": "2026-08-25"
+    "updated": "2026-08-26"
   },
   {
     "ticker": "GEV",
@@ -117,7 +117,7 @@
     "catalyst": "Q3 2026 earnings on 2026-10-21",
     "source": "https://www.gevernova.com/news/press-releases/ge-vernova-marks-10-years-sf6-free-innovation-launch-new-170-kv-gas-insulated",
     "added": "2026-08-24",
-    "updated": "2026-08-25"
+    "updated": "2026-08-26"
   },
   {
     "ticker": "HOOD",
@@ -132,7 +132,7 @@
     "catalyst": "Q3 2026 earnings ~2026-11-04 (est.); Clarity Act progress in Congress",
     "source": "https://www.cryptotimes.io/2026/08/25/robinhood-stock-hood-rises-6-as-prediction-markets-draw-wall-street/",
     "added": "2026-08-24",
-    "updated": "2026-08-25"
+    "updated": "2026-08-26"
   },
   {
     "ticker": "MELI",
@@ -147,7 +147,7 @@
     "catalyst": "Q3 2026 earnings early November 2026 (est.)",
     "source": "https://finance.yahoo.com/markets/stocks/articles/meli-q2-deep-dive-engagement-134122477.html",
     "added": "2026-08-24",
-    "updated": "2026-08-25"
+    "updated": "2026-08-26"
   },
   {
     "ticker": "NET",
@@ -162,7 +162,7 @@
     "catalyst": "Q3 2026 earnings on 2026-10-29 (after close)",
     "source": "https://stockanalysis.com/stocks/net/",
     "added": "2026-08-24",
-    "updated": "2026-08-25"
+    "updated": "2026-08-26"
   },
   {
     "ticker": "SE",
@@ -177,7 +177,7 @@
     "catalyst": "Q3 2026 earnings, mid-November 2026 (est.)",
     "source": "https://www.stocktitan.net/sec-filings/SE/6-k-sea-ltd-current-report-foreign-issuer-115ff38c6c98.html",
     "added": "2026-08-24",
-    "updated": "2026-08-25"
+    "updated": "2026-08-26"
   },
   {
     "ticker": "6861",
@@ -186,13 +186,13 @@
     "sector": "Machinery",
     "status": "buy",
     "conviction": "high",
-    "thesis": "Keyence is the picks-and-shovels supplier of machine vision, sensors and measurement systems for factory automation and the emerging humanoid/robotics supply chain; fiscal Q1 (June 2026 quarter) sales rose 33% to JPY 347B and net income 51% to JPY 139B, with overseas sales +39% (Asia +50%, Americas +31%). Operating margins above 50%, a 95% equity ratio and a direct-sales model with no factories give it one of the most durable moats in industrial tech; shares hit an all-time high in mid-August, pulled back ~7% with the global tech selloff, and closed +1.7% at JPY 82,250 on Aug 25 (no company news), still ~5% below the record, a better entry.",
+    "thesis": "Keyence is the picks-and-shovels supplier of machine vision, sensors and measurement systems for factory automation and the emerging humanoid/robotics supply chain; fiscal Q1 (June 2026 quarter) sales rose 33% to JPY 347B and net income 51% to JPY 139B, with overseas sales +39% (Asia +50%, Americas +31%). Operating margins above 50%, a 95% equity ratio and a direct-sales model with no factories give it one of the most durable moats in industrial tech; shares hit an all-time high in mid-August, pulled back ~7% with the global tech selloff, closed +1.7% at JPY 82,250 on Aug 25 and were trading -0.8% at JPY 81,600 at 11:14 JST on Aug 26 while the Nikkei rose 0.7% to ~65,560 (no company news; Goldman added it to its APAC Conviction List in early August), about 6% below the record, a better entry.",
     "risks": "Trades at a premium multiple that discounts continued 30%+ growth; a China capex slowdown, yen appreciation (USD/JPY ~159 flatters current results), or a global manufacturing downturn would hit both growth and the multiple.",
-    "price_usd": 517,
+    "price_usd": 513,
     "catalyst": "Fiscal Q2 results ~2026-10-23 (est.)",
-    "source": "https://www.google.com/finance/quote/6861:TYO",
+    "source": "https://stockanalysis.com/quote/tyo/6861/",
     "added": "2026-08-24",
-    "updated": "2026-08-25"
+    "updated": "2026-08-26"
   },
   {
     "ticker": "ASML",
@@ -207,7 +207,7 @@
     "catalyst": "Q3 2026 earnings on 2026-10-14 (before open)",
     "source": "https://www.asml.com/en/news/press-releases/2026/q2-2026-financial-results",
     "added": "2026-08-24",
-    "updated": "2026-08-25"
+    "updated": "2026-08-26"
   },
   {
     "ticker": "TER",
@@ -222,6 +222,6 @@
     "catalyst": "Nvidia earnings 2026-08-26 (read-through); Q3 2026 earnings late October 2026 (est.)",
     "source": "https://stockanalysis.com/stocks/ter/financials/?p=quarterly",
     "added": "2026-08-24",
-    "updated": "2026-08-25"
+    "updated": "2026-08-26"
   }
 ]

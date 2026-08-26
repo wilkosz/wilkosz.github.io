@@ -1,112 +1,112 @@
 {
-  "as_of": "2026-08-25T22:38",
-  "market_summary": "US futures are flat (S&P ~7,692) after Tuesday's gains; after hours Intuit fell 7% on a 9-10% FY27 growth guide, Zoom -3.9%, and Semtech guided Q3 revenue to $405-415M against $379M consensus. The 10-year is 4.63%, WTI $81 after Iran and Oman proposed a temporary Hormuz shipping corridor, bitcoin ~$78,600 and AUD/USD ~0.716. Asia set-up: Nikkei futures +0.2% at ~66,020, ASX 200 futures +0.3% after Tuesday's 9,165 close; Alibaba's HK$80B placement settles today and SK hynix wage talks restart from scratch. Australian July CPI lands 11:30 AEST (consensus headline 3.2-3.3% from 3.8%, trimmed mean 3.5%; RBA at 4.35% with ~13% odds of a September hike). Tonight 22:30 AEST: July PCE (core 0.2% m/m, 3.3% y/y consensus) and the Q2 GDP second estimate; then Nvidia ~6:30am AEST Thursday (consensus $92.2B revenue, $2.09 EPS, Q3 guide bar ~$104B, first Rubin shipments) alongside Salesforce, CrowdStrike and Synopsys, and Fed chair Warsh at Jackson Hole at 12am AEST Saturday.",
+  "as_of": "2026-08-26T02:53",
+  "market_summary": "Australia's July CPI ran hot: headline 3.5% y/y (consensus 3.2-3.3%, June 3.8%) and trimmed mean steady at 3.6%; September RBA hike pricing rose to ~27% from 17%, AUD/USD 0.718, and the ASX 200 faded to flat at 9,160 with energy -2.5%. Asia is mixed into Nvidia: Kospi +1.6% (Samsung +1.0%, SK hynix +1.2%), Taiex +0.6%, Hang Seng +1.0% with Alibaba HK$116.10 (+1.7%) as its HK$80B placement settles, Nikkei flat. S&P futures -0.2%, Nasdaq futures -0.4%, 10-year 4.64%, WTI $80.48 (-2.3%) on Iran-Oman talks over a temporary Hormuz corridor, bitcoin ~$78,900. Bloomberg reports Meta and the state AGs have discussed a mid-trial settlement of the teen-harm case. Tonight 22:30 AEST: July PCE (core 3.3% y/y consensus) and the Q2 GDP revision; then Nvidia ~6:30am AEST Thursday (consensus $92.2B revenue, ~$2.08 EPS, Q3 bar ~$104B, guide assumes no China data-centre revenue), Marvell ~6:30am AEST Friday and Warsh at Jackson Hole 12am AEST Saturday.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "Closed down 0.4% at $261.06 and $260.89 after hours, no overnight catalyst. New PYMNTS data puts Amazon at 17.8% of US clothing spend in 2026 (8.5% in 2019) versus Walmart's 6.0%, with $55.5B of apparel sales in H1, useful for the retail margin story but secondary to AWS. With $220B capex, Bezos selling and state antitrust suits still capping the multiple, hold.",
+      "reason": "Closed down 0.4% at $261.06 and $260.89 after hours; nothing new overnight (the only AWS item circulating is an April recap of the Bahrain drone strike, not a fresh event). PYMNTS puts Amazon at 17.8% of US clothing spend versus Walmart's 6.0%, but AWS is what matters. With $220B capex, Bezos selling and state antitrust suits capping the multiple, hold.",
       "price_usd": 261.06,
-      "updated": "2026-08-25"
+      "updated": "2026-08-26"
     },
     "AXOS": {
       "take": "hold",
-      "reason": "Closed up 1.9% at $98.82, flat after hours, with nothing new after Tuesday's NYSE Texas dual-listing announcement. Benchmark's $120 target (Aug 17) and 17% ROE support continuing to hold.",
+      "reason": "Closed up 1.9% at $98.82, flat after hours, and quiet overnight after Tuesday's NYSE Texas dual-listing. Benchmark's $120 target (Aug 17) and 17% ROE support holding.",
       "price_usd": 98.82,
-      "updated": "2026-08-25"
+      "updated": "2026-08-26"
     },
     "BABA": {
       "take": "watch",
-      "reason": "ADR closed up 0.8% at $119.44 ($119.52 after hours); the HK$80B placement of 710M shares at HK$112.70 is due to close today, Wednesday, so Hong Kong trading from 11:30 AEST shows whether insider buying (Ma >HK$600M, Tsai and Wu HK$202M) holds the line. HK close Tuesday was HK$114.20, only 1.3% above the placement price; wait for a base before adding.",
+      "reason": "ADR closed up 0.8% at $119.44. Hong Kong 9988 is trading HK$116.00, up 1.6%, at 10:26 HKT as the HK$80B placement settles today, with the Hang Seng up 1% and an intraday high of HK$117.80; that is 2.9% above the HK$112.70 placing price after Jack Ma (>HK$600M) and Joe Tsai (another 720,000 shares, HK$81.7M) bought Tuesday. The placement is absorbing for now, but one session is not a base; keep watching for a hold above HK$117-118 before adding.",
       "price_usd": 119.44,
-      "updated": "2026-08-25"
+      "updated": "2026-08-26"
     },
     "ENPH": {
       "take": "watch",
-      "reason": "Closed up 0.5% at $37.35 and $37.26 after hours with no new news overnight. Q3 revenue guide is $290-320M, below last year, and the Dutch net-metering campaign, AI assistant and IQ Battery C80 are incremental, so stay on the sidelines until residential demand stabilizes.",
+      "reason": "Closed up 0.5% at $37.35 and $37.26 after hours, nothing new overnight. Q3 revenue guide of $290-320M is below last year and the Dutch net-metering push, AI assistant and IQ Battery C80 are incremental, so stay on the sidelines until residential demand stabilises.",
       "price_usd": 37.35,
-      "updated": "2026-08-25"
+      "updated": "2026-08-26"
     },
     "FIGR": {
       "take": "hold",
-      "reason": "Closed up 6.5% at $41.14, giving back 0.5% to $40.94 after hours, with no follow-on news after the EDX Markets YLDS collateral integration. Q2 revenue +121% to $198.8M and marketplace volume +132% to $4.3B underpin Bernstein's $70 target; hold and let execution play out.",
+      "reason": "Closed up 6.5% at $41.14 ($40.94 after hours), no follow-on news after the EDX Markets YLDS collateral integration. Q2 revenue +121% to $198.8M and marketplace volume +132% to $4.3B underpin Bernstein's $70 target; hold and let execution play out.",
       "price_usd": 41.14,
-      "updated": "2026-08-25"
+      "updated": "2026-08-26"
     },
     "GOOGL": {
       "take": "add",
-      "reason": "Closed down 0.3% at $346.96 and $347.20 after hours. Overnight additions are small: Ask Gemini in Google Chat rolls out to Workspace customers from Aug 26 and a distributed-database vendor (Rezolv AI) was selected by Google. The bigger drivers are unchanged: Cloud +82%, Waymo's Munich launch for 2027, Morgan Stanley's ~$200B TPU cloud-revenue case, and the stock sitting ~3% under its 50-day average near $358, so the post-Jeff-Dean dip remains an entry.",
+      "reason": "Closed down 0.3% at $346.96 and $347.20 after hours. New overnight: Google Cloud launched Gemini Enterprise for Legal in preview with Cleary, Freshfields, Weil and Williams & Connolly as customers and Harvey, iManage, NetDocuments and Relativity as connectors, alongside Tuesday's Financial Services vertical. Drivers unchanged: Cloud +82%, Morgan Stanley's ~$200B TPU cloud case, and the stock ~3% under its 50-day near $358, so the dip remains an entry.",
       "price_usd": 346.96,
-      "updated": "2026-08-25"
+      "updated": "2026-08-26"
     },
     "LDI": {
       "take": "trim",
-      "reason": "Closed up 3.7% at $0.92 and $0.94 after hours, still below the $1 NYSE threshold with a six-month cure window running from the Aug 21 notice. Goldman is at Sell with a $1 target; exchange-compliance and reverse-split or dilution risk argue for reducing exposure.",
+      "reason": "Closed up 3.7% at $0.92 ($0.94 after hours), still under the $1 NYSE threshold with a six-month cure window from the Aug 21 notice; nothing new overnight. Goldman is at Sell with a $1 target; compliance and reverse-split or dilution risk argue for reducing exposure.",
       "price_usd": 0.92,
-      "updated": "2026-08-25"
+      "updated": "2026-08-26"
     },
     "META": {
       "take": "hold",
-      "reason": "Closed up 2% at $570.05, easing to $568.01 after hours. In the 29-state trial Adam Mosseri denied any policy of suppressing child-safety risks, but Instagram's product-design director Francesco Fogu conceded that data showing teens saw 1.5x more bullying, suicide, hate and violent content than adults was removed from a 2023 safety presentation, and that 'take a break' adoption would suffer without being default. Trial runs through September with penalties up to ~$200B sought; with $125-145B capex and the stock ~26% down YTD, hold pending trial clarity.",
+      "reason": "Closed up 2% at $570.05, then $567.75 after hours. New overnight: Bloomberg reports Meta and the state attorneys general have discussed a mid-trial settlement in the second week of the Oakland teen-harm trial; Meta's own worst-case estimate is $1.4T of exposure, Bloomberg says any deal would be substantially smaller, and Meta has not commented. Earlier Tuesday Mosseri conceded few teens knew about 'Take a Break' and that Instagram struggled for years to get them to use it, while denying any suppression of risks. A settlement would lift the biggest overhang on a stock ~26% down YTD with $125-145B capex; hold until terms surface.",
       "price_usd": 570.05,
-      "updated": "2026-08-25"
+      "updated": "2026-08-26"
     },
     "MRVL": {
       "take": "hold",
-      "reason": "Closed up 4.8% at $240.38 and ticked to $241.52 after hours after Rosenblatt (Buy, $300), Susquehanna ($265) and Wells Fargo ($310) target moves tied to the Google warrant deal (240 tranches vesting per $500M of custom-silicon purchases, ~$120B through FY2033). Thursday's print (Fri ~6:30am AEST) faces ~$2.71B revenue and $0.93 EPS consensus, but the real bar is Q3 guidance versus the $3.03B street number; with the stock up ~160% YTD and options implying a ~12% move, hold through the report.",
+      "reason": "Closed up 4.8% at $240.38 ($241.52 after hours) on Rosenblatt $300, Susquehanna $265, HSBC $325 and Wells Fargo $310 target moves tied to the Google warrant deal; nothing new overnight. Thursday's print (Fri ~6:30am AEST) faces ~$2.71B revenue and $0.93 EPS consensus, but the bar is Q3 guidance versus the $3.03B street number; with the stock up ~160% YTD and options implying a ~12% move, hold through the report.",
       "price_usd": 240.38,
-      "updated": "2026-08-25"
+      "updated": "2026-08-26"
     },
     "MU": {
       "take": "hold",
-      "reason": "Closed up 2.5% at $932.97 ($935.00 after hours), still about 3% below the 50-day average after Monday's CXMT/YMTC-for-Apple drop; Gartner's Aug 24 update sees memory revenue at $837B in 2026 (DRAM +247%) and above $1T in 2027 with new fabs not rebalancing supply through 2027, which supports the HBM sold-out story even as Mizuho trimmed its target to $1,300 and Barron's argues long-term contracts cap Micron's share of a 50% price rise. Nvidia's print tonight is the next swing factor, so hold.",
+      "reason": "Closed up 2.5% at $932.97 ($935.00 after hours). New overnight: CEO Sanjay Mehrotra sold 39,994 shares for $38.7M at $959-990 on Aug 21 under a January 10b5-1 plan, keeping 264,503 shares directly and 607,075 via GRATs, a routine sale not a signal. Korea read-through is mildly positive: SK hynix +1.2% and Samsung +1.0% at 11:18 KST with the Kospi up ~0.9% early. Gartner's $837B 2026 memory revenue call and the HBM sold-out story hold; Nvidia's print tonight is the swing factor, so hold.",
       "price_usd": 932.97,
-      "updated": "2026-08-25"
+      "updated": "2026-08-26"
     },
     "NFLX": {
       "take": "add",
-      "reason": "Closed up 2.8% at $82.23 ($82.16 after hours) on Wolfe's $95 target (22x 2028 EPS of $4.41) and its read that Q2's soft engagement was a scheduling issue; nothing new overnight. Still ~36% below the 52-week high with ad-tier, NFL and rival-streamer hosting optionality, so the valuation reset remains an add.",
+      "reason": "Closed up 2.8% at $82.23 ($82.16 after hours) on Wolfe's $95 target (22x 2028 EPS of $4.41); overnight adds only a GTA VI extended-look premiere and the Shonda Rhimes five-year renewal. Still ~36% below the 52-week high with ad-tier, NFL and Peacock/Fox One hosting optionality, so the valuation reset remains an add.",
       "price_usd": 82.23,
-      "updated": "2026-08-25"
+      "updated": "2026-08-26"
     },
     "NVDA": {
       "take": "hold",
-      "reason": "Closed up 2.2% at $213.05 and $214.17 after hours ahead of the print (Thu ~6:30am AEST). Consensus is ~$92.2B revenue (vs $91B +/-2% guide, ex-China) and ~$2.06-2.09 EPS, with the street looking for a Q3 guide near $104.2B (+83% y/y) and ~75% gross margin; Morgan Stanley pegs Rubin at nearly $9B of Q3 sales, while analysts want detail on custom-chip competition (Jalapeno, TPUs), buyback framework, memory cost pass-through and the ~$500B customer-financing exposure. Options imply a 5-6% move, the smallest into an Nvidia print in years; hold and reassess after guidance.",
+      "reason": "Closed up 2.2% at $213.05 ($214.17 after hours) into the print (Thu ~6:30am AEST); S&P futures 7,677 (-0.2%) and Nasdaq futures -0.4% overnight, Nikkei -0.4%. Fresh notes are all bullish: BMO reiterated Buy with $340, Raymond James $352, BofA calls the valuation compelling. Consensus $92.2B revenue and ~$2.09 EPS, Q3 guide bar ~$104.2B at ~75% gross margin, Rubin ~$9B of Q3 per Morgan Stanley, and questions on the $500B customer financing and $105B OpenAI lease guarantee; options imply 5-6%. Hold and reassess after guidance.",
       "price_usd": 213.05,
-      "updated": "2026-08-25"
+      "updated": "2026-08-26"
     },
     "RKT": {
       "take": "hold",
-      "reason": "Closed up 1.5% at $14.30, unchanged after hours, with no news since the Rowan AI-agent launch for Rocket Money's Premium Plus tier; the 10-year at 4.62% helps refi volume at the margin, but after the ~50% run and Q2's 9.6% post-earnings drop the shares look fully priced, so hold.",
+      "reason": "Closed up 1.5% at $14.30, unchanged after hours and quiet overnight; the 10-year at 4.63% helps refi at the margin, but after the ~50% run and Q2's 9.6% post-earnings drop the shares look fully priced, so hold.",
       "price_usd": 14.3,
-      "updated": "2026-08-25"
+      "updated": "2026-08-26"
     },
     "TSM": {
       "take": "add",
-      "reason": "Closed up 1.8% at $417.41 ($417.76 after hours) after Taipei shares rose 1.05% to NT$2,400 on Tuesday; Taipei had not yet opened at 08:30 AEST, and Wednesday's session will trade off Nvidia positioning before the print. No new company news overnight; with 40%+ 2026 growth guidance, Apple's 2nm M6 and up-to-10% 2027 price rises, the pullback from the June high remains a buying opportunity.",
+      "reason": "Closed up 1.8% at $417.41 ($417.76 after hours). Taipei is quiet ahead of Nvidia: 2330 at NT$2,405, +0.2%, at 10:29 local after dipping 0.4% at the open; no new company news. With 40%+ 2026 growth guidance, Apple's 2nm M6 and up-to-10% 2027 price rises, the pullback from the June NT$2,535 high remains a buying opportunity.",
       "price_usd": 417.41,
-      "updated": "2026-08-25"
+      "updated": "2026-08-26"
     },
     "STRIPE": {
       "take": "hold",
-      "reason": "No new valuation event: the OpenRouter acquisition (~$7B), Treasury in Australia and the Gartner billing-leader rating are steady expansion, not a mark change, so hold the private position. Marked at 2.27x cost: latest valuation ~$159B (2026-02) vs ~$70B at entry (https://techcrunch.com/2026/02/24/stripes-valuation-soars-74-to-159-billion/).",
+      "reason": "No new valuation event overnight; the OpenRouter acquisition (~$7B), Treasury in Australia and the Singapore payment-method expansion are steady growth, not a mark change, so hold the private position. Marked at 2.27x cost: latest valuation ~$159B (2026-02) vs ~$70B at entry (https://techcrunch.com/2026/02/24/stripes-valuation-soars-74-to-159-billion/).",
       "price_usd": null,
-      "updated": "2026-08-25",
+      "updated": "2026-08-26",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "Nothing new overnight beyond the o3 retirement from ChatGPT on Aug 26; the open questions remain the four senior departures ahead of a 2027 IPO, ~$750B of planned compute spend through 2030 backed partly by Nvidia guarantees, and whether Jalapeno's per-watt benchmarks translate to 2027 volume. Nvidia's call tonight may add colour on the $105B Ohio guarantee. Private, so hold. Marked at 5.43x cost: latest valuation ~$852B (2026-08) vs ~$157B at entry (https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/).",
+      "reason": "New overnight: 9fin reports Goldman Sachs Asset Management is arranging a $6.6B privately placed, GPU-backed debt package for OpenAI with an Nvidia backstop, debt rather than equity, so no mark change. Open questions remain the senior departures ahead of a 2027 IPO, ~$750B of planned compute spend and whether Jalapeno's per-watt claims translate to 2027 volume; Nvidia's call tonight may add colour on the $105B Ohio guarantee. Private, so hold. Marked at 5.43x cost: latest valuation ~$852B (2026-08) vs ~$157B at entry (https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/).",
       "price_usd": null,
-      "updated": "2026-08-25",
+      "updated": "2026-08-26",
       "mark_multiple": 5.43
     }
   },
   "headlines": [
-    "Nvidia reports ~6:30am AEST Thursday: consensus $92.2B revenue, $2.09 EPS, Q3 guide bar ~$104B; NVDA $214.17 after hours, options imply 5-6%.",
-    "Tonight 22:30 AEST: July PCE (core 0.2% m/m consensus) and Q2 GDP revision; Australian July CPI 11:30 AEST, consensus 3.2-3.3% from 3.8%.",
-    "Watchlist: Credo (CRDO) added, FY26 revenue tripled, reports Sep 1; Spotify dropped as the slowest grower, stays on loves.",
-    "Meta trial: Instagram design chief conceded teen harmful-content data was cut from a 2023 safety deck, Mosseri denied suppression; META $568 after hours.",
-    "After hours: Intuit -7% on a 9-10% FY27 growth guide; S&P futures flat, WTI $81 as Iran and Oman float a Hormuz corridor.",
-    "TrendForce: memory to absorb 68% of hyperscaler capex in 2027, server DRAM ~+270% in 2026; Gartner sees $837B memory revenue in 2026."
+    "AU July CPI hot: 3.5% vs 3.2-3.3% consensus, trimmed mean 3.6%; September RBA hike odds ~27% from 17%, ASX 200 flat at 9,160.",
+    "Bloomberg: Meta and state AGs have discussed a mid-trial settlement of the teen-harm case; META $567.75 after hours, take stays hold.",
+    "Nvidia ~6:30am AEST Thursday: consensus $92.2B revenue, Q3 bar ~$104B; S&P futures -0.2%, Nasdaq -0.4% ahead of PCE 22:30 AEST.",
+    "Asia mixed into Nvidia: Kospi +1.6% (SK hynix +1.2%), Hang Seng +1%, Alibaba HK$116 (+1.7%) as its HK$80B placement settles.",
+    "WTI $80.48 (-2.3%) on Iran-Oman Hormuz corridor talks; ASX energy -2.5%, 10-year 4.64%, AUD 0.718.",
+    "OpenAI: Goldman Sachs AM arranging $6.6B of GPU-backed debt with an Nvidia backstop (9fin); Anthropic sought up to 5GW in NSW (ABC)."
   ]
 }

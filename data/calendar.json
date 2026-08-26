@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-25",
+  "as_of": "2026-08-26",
   "events": [
     {
       "key": "2026-08-25-hotchips-final-day",
@@ -44,12 +44,12 @@
     {
       "key": "2026-08-26-au-monthly-cpi",
       "date": "2026-08-26",
-      "time": "11:30 AEST",
+      "time": "11:30 AEST (released)",
       "ticker": "MACRO",
-      "title": "Australia monthly CPI indicator (July)",
+      "title": "Australia CPI July: 3.5% y/y (vs 3.2% consensus, 3.8% prior); trimmed mean 3.6%; +1.0% m/m original, +0.6% s.a.",
       "type": "macro",
-      "why": "Drives RBA pricing and AUD/USD, which sets the AUD-translated value of the US-heavy portfolio.",
-      "link": "https://www.abs.gov.au/release-calendar/future-releases"
+      "why": "Upside surprise on fuel and travel; markets now price RBA hike risk into the 28-29 Sep meeting, supporting AUD and weighing on the AUD-translated US book.",
+      "link": "https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/latest-release"
     },
     {
       "key": "2026-08-26-us-gdp-pce",
@@ -60,6 +60,16 @@
       "type": "macro",
       "why": "Core PCE is the Fed's preferred gauge and lands two days before Warsh's Jackson Hole keynote; sets the rate backdrop for long-duration tech.",
       "link": "https://www.bea.gov/news/schedule"
+    },
+    {
+      "key": "2026-08-26-us-treasury-5y-auction",
+      "date": "2026-08-26",
+      "time": "13:00 ET (2y FRN 11:30 ET)",
+      "ticker": "MACRO",
+      "title": "US Treasury $70B 5-year note auction (plus $28B 2-year FRN)",
+      "type": "macro",
+      "why": "Belly-of-the-curve demand check hours before NVDA prints and the same morning as GDP/PCE; a tail would lift yields into Warsh's Friday keynote. Amounts per TreasuryDirect; 13:00 ET is the standard note auction close.",
+      "link": "https://www.treasurydirect.gov/auctions/upcoming/"
     },
     {
       "key": "2026-08-26-nvda-earnings",
@@ -92,6 +102,16 @@
       "link": "https://www.abs.gov.au/statistics/economy/business-indicators/private-new-capital-expenditure-and-expected-expenditure-australia"
     },
     {
+      "key": "2026-08-27-us-treasury-7y-auction",
+      "date": "2026-08-27",
+      "time": "13:00 ET",
+      "ticker": "MACRO",
+      "title": "US Treasury $44B 7-year note auction",
+      "type": "macro",
+      "why": "Completes the 2/5/7-year cycle before Jackson Hole; weak coverage would pressure long-duration tech multiples. Amount per TreasuryDirect; 13:00 ET is the standard note auction close.",
+      "link": "https://www.treasurydirect.gov/auctions/upcoming/"
+    },
+    {
       "key": "2026-08-27-mrvl-earnings",
       "date": "2026-08-27",
       "time": "after US close (13:45 PT / 16:45 ET call)",
@@ -102,14 +122,24 @@
       "link": "https://investor.marvell.com/news-events/press-releases/detail/1029/marvell-technology-inc-announces-conference-call-to-review-second-quarter-of-fiscal-year-2027-financial-results-announces-investor-day-on-october-6-2026"
     },
     {
+      "key": "2026-08-27-samsung-galaxy-event",
+      "date": "2026-08-27",
+      "time": "12:00 UTC (22:00 AEST / 08:00 ET), livestream",
+      "ticker": "Samsung",
+      "title": "Samsung Galaxy Event August 2026: Galaxy S26 FE expected (Exynos 2500, ~$799)",
+      "type": "product",
+      "why": "Minor: mid-range handset refresh; only relevance is memory content and pricing signal for MU/SKHY into a tight DRAM market.",
+      "link": "https://www.engadget.com/2240584/samsung-galaxy-event-august-27/"
+    },
+    {
       "key": "2026-08-28-byd-interim-results",
       "date": "2026-08-28",
-      "time": "TBC (HK)",
+      "time": "TBC (HK, board meeting 28 Aug; typically after HK close)",
       "ticker": "BYD",
-      "title": "BYD (1211.HK) 2026 interim results",
+      "title": "BYD (1211.HK) 2026 interim results: board meeting confirmed for 28 Aug 2026 (six months to 30 Jun)",
       "type": "earnings",
-      "why": "EV price war, margin and overseas volumes read-through for CATL (3750) and the China consumer/industrial complex; date from stockanalysis, time not published.",
-      "link": "https://stockanalysis.com/quote/hkg/1211/"
+      "why": "Date now confirmed via BYD's HKEX board-meeting notice (reported by TipRanks/Globe and Mail); release time still not published. Margin vs record exports is the key read for CATL (3750) and the China EV complex.",
+      "link": "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/3847625/byd-sets-late-august-board-meeting-to-approve-2026-interim-results/"
     },
     {
       "key": "2026-08-28-bowman-fireside",
@@ -260,6 +290,16 @@
       "type": "macro",
       "why": "Preview of Friday's jobs report; time per TradingEconomics.",
       "link": "https://tradingeconomics.com/united-states/calendar"
+    },
+    {
+      "key": "2026-09-02-semicon-taiwan",
+      "date": "2026-09-02",
+      "time": "all day CST (Sep 2-4; forums from Aug 31)",
+      "ticker": "TSM",
+      "title": "SEMICON Taiwan 2026, Taipei Nangang Exhibition Center (Sep 2-4)",
+      "type": "conference",
+      "why": "Advanced packaging (CoWoS/panel-level), HBM and 2nm supply-chain commentary from TSMC ecosystem vendors; read-across for TSM, MU, SKHY, AVGO and NVDA capacity constraints.",
+      "link": "https://en.sedaily.com/finance/2026/08/26/lg-chem-to-showcase-ai-chip-packaging-materials-at-semicon"
     },
     {
       "key": "2026-09-03-china-ratingdog-services-pmi",
