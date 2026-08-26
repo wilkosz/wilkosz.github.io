@@ -382,6 +382,16 @@
       "link": "https://www.macrumors.com/2026/08/24/apple-invites-iphone-18-pro-event-soon/"
     },
     {
+      "key": "2026-09-09-us-treasury-10y-auction",
+      "date": "2026-09-09",
+      "time": "13:00 ET",
+      "ticker": "MACRO",
+      "title": "US Treasury 10-year note auction (3-year on Sep 8, 30-year on Sep 10; amounts announced Sep 3)",
+      "type": "macro",
+      "why": "Long-end demand check the same day as the expected Apple event and NET's Communacopia slot, two days before CPI; time per TradingEconomics (17:00 GMT).",
+      "link": "https://tradingeconomics.com/united-states/calendar"
+    },
+    {
       "key": "2026-09-09-gs-communacopia-net",
       "date": "2026-09-09",
       "time": "10:10 PT",
@@ -390,6 +400,26 @@
       "type": "conference",
       "why": "Intra-quarter update on AI-crawler/agent traffic, Workers AI and large-enterprise deal momentum; first management commentary since the Aug 6 Q2 print that sent NET up 17%. Slot carried forward from the prior calendar note (Sep 9, 10:10 PT); Cloudflare's IR events page did not render a listing on this pass, so confirm the webcast link on the day.",
       "link": "https://cloudflare.net/events-and-presentations/default.aspx"
+    },
+    {
+      "key": "2026-09-10-us-ppi",
+      "date": "2026-09-10",
+      "time": "08:30 ET",
+      "ticker": "MACRO",
+      "title": "US PPI August and weekly jobless claims (30-year bond auction 13:00 ET); CPI follows Sep 11, outside this window",
+      "type": "macro",
+      "why": "Last inflation input before CPI on Sep 11 and the Sep 15-16 FOMC; PPI components feed the Fed's PCE estimate. Date/time per TradingEconomics (bls.gov schedule not reachable).",
+      "link": "https://tradingeconomics.com/united-states/calendar"
+    },
+    {
+      "key": "2026-09-10-orcl-earnings",
+      "date": "2026-09-10",
+      "time": "TBC (expected after US close; date not yet confirmed by Oracle)",
+      "ticker": "ORCL",
+      "title": "Oracle Q1 FY2027 results (macro read; Sep 10 per Seeking Alpha preview, Oracle has not announced the date)",
+      "type": "earnings",
+      "why": "Oracle's RPO ($638B, +363%) is the backlog leg of the capex-vs-backlog bellwether; OCI growth, capex and OpenAI-contract commentary read across to NVDA, AVGO, MRVL and the neocloud credit picture.",
+      "link": "https://investor.oracle.com/investor-news/default.aspx"
     }
   ]
 }

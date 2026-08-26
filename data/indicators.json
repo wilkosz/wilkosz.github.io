@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-25",
+  "as_of": "2026-08-26",
   "explainer": "The single best AI-bubble bellwether is the rental price of an installed Nvidia GPU, measured in dollars per GPU-hour, and specifically the H100: it is the daily marginal clearing price for AI compute, it is published by independent indexes (Silicon Data's SDH100RT, SemiAnalysis's one-year contract index), and from October 5, 2026 it becomes a CME futures contract, so the market will show a forward curve as well as spot. Right now it is saying the opposite of discounting: the Silicon Data index sits at $2.53/hr, one-year contract rates rose about 40% from $1.70 to $2.35 between October 2025 and March 2026, spot has run at roughly twice contract, and a four-year-old chip is renting for more than it did a year ago while CoreWeave says it has contracted 2020-vintage GPUs out to 2029 at full price. Pair it with three things: neocloud credit spreads (CoreWeave's July loan cleared at SOFR+550 for a 10.44% yield with maintenance covenants, and its CDS implies roughly a coin-flip default probability), which is the financing leg and the one signal already flashing red; server DRAM and HBM contract-price momentum (+13-18% QoQ in 3Q26 after +93-98% in 1Q26, with 4Q26 guided to only +3-8%), because memory is the first physical input that will roll over; and hyperscaler backlog growth versus capex growth (Microsoft commercial RPO +84%, Oracle RPO +363%, roughly $2.4 trillion of committed cloud backlog against about $1 trillion of 2026 capex), because the bubble only deflates if the buyers stop signing. Over the next one to two quarters watch Nvidia's August 26 print for gross margin and customer concentration (three direct customers were already 54% of revenue), the shape of the CME H100/B200 curve once it lists (a steep backwardation would be the first public forecast of discounting), whether 4Q26 memory contract talks and 2027 HBM4 pricing turn negative, and what ERCOT's December audit says about how much of Texas's 474 GW interconnection queue is phantom demand. The threshold that would flip the call is simple: the H100 index sustained below about $2.00/hr, or spot trading below the one-year contract rate, while Blackwell and Rubin volumes keep arriving; until then compute is being sold at a premium, not a discount, and the risk lives in who is borrowing to build it rather than in the price of the product.",
   "indicators": [
     {
@@ -17,14 +17,14 @@
     {
       "key": "b200_rental",
       "name": "B200 / Blackwell rental price, $/GPU-hour (on-demand)",
-      "value": "$5.50-6.80/hr at neoclouds (RunPod $5.98-6.79, Lambda $6.69); ~$5 in Jan-26",
+      "value": "$5.50-7.00/hr at neoclouds (RunPod B200 $5.98-6.79, Lambda $6.69-6.99); RunPod B300 $6.94-7.89; Silicon Data B200 index $5.66; ~$5 in Jan-26",
       "trend": "up",
       "signal": "bullish",
       "why": "Blackwell is where new supply lands, so this is the first place a glut would show; if B200 rates fell toward H100 rates while Rubin ships, capacity would be outrunning demand.",
       "watch": "Bearish if tier-1 neocloud B200 on-demand drops below ~$4.50/hr, if the B200/H100 price ratio compresses below ~2x, or if lead times for 8-GPU Blackwell nodes fall to same-week availability.",
-      "note": "Per Silicon Data (via Wccftech, Aug 3, 2026) B200 rates moved from just under $5/hr in January to $5.50-5.80; RunPod lists $5.98 community / $6.79 secure and Lambda $6.69 (8x nodes) on Aug 24, and GetDeploying's GPU-cloud median is $7.88 vs $15.18 at hyperscalers. SemiAnalysis (Apr 2) reported all capacity coming online through Aug-Sep 2026 was already booked.",
-      "source": "https://wccftech.com/what-gpu-depreciation-nvidia-a100-h100-and-h200-gpu-rental-rates-continue-to-price-upwards-as-b200s-hover-at-just-shy-of-6-hour/",
-      "updated": "2026-08-25"
+      "note": "Aug 27 (AEST) price-page check: RunPod B200 unchanged at $5.98 community / $6.79 secure and now lists B300 at $6.94 / $7.89 (H200 $3.59 / $4.59, H100 SXM $2.69 / $3.29); Lambda B200 SXM6 $6.69 (8x) to $6.99 (1x), H100 SXM $3.99-4.29, unchanged. Silicon Data's B200 index reads $5.66 (+0.2% 7d) against its H100 index at $2.68, so the B200/H100 ratio holds at ~2.1x and B300 lists at a ~16% premium to B200. Per Silicon Data (via Wccftech, Aug 3) B200 rates moved from just under $5/hr in January to $5.50-5.80; SemiAnalysis (Apr 2) reported all capacity coming online through Aug-Sep 2026 was already booked.",
+      "source": "https://www.runpod.io/pricing",
+      "updated": "2026-08-26"
     },
     {
       "key": "hopper_residual",
@@ -53,14 +53,14 @@
     {
       "key": "memory_prices",
       "name": "Server DRAM / HBM contract price momentum (QoQ) and DRAM spot",
-      "value": "+13-18% QoQ 3Q26 (after +93-98% 1Q26, +58-63% 2Q26); TrendForce now sees server DRAM ~+270% cumulative in 2026, HBM +70-140% in 2027; DDR5 16Gb spot $54.17 (flat)",
+      "value": "+13-18% QoQ 3Q26 (after +93-98% 1Q26, +58-63% 2Q26), 4Q26 guided +3-8%; Korea DRAM export price $92,183/kg (+401% y/y); 2027 HBM contract seen +50% to +79%; DDR5 16Gb spot $54.00 (-0.3% d/d)",
       "trend": "up",
       "signal": "bullish",
       "why": "Memory is the tightest physical input to AI servers (HBM is 25-30% of a Rubin rack) and contract prices are negotiated quarterly, so this is the earliest cyclical input to turn; a price rollover would precede GPU discounting.",
       "watch": "Bearish when server DRAM or HBM contract prices go negative QoQ (TrendForce already guides 4Q26 to only +3-8%), when 2027 HBM4 contracts are signed at lower prices, or when DRAMeXchange DDR5 spot falls >20% from peak; also watch whether CSPs start cutting memory per system, which TrendForce now flags as their cost response.",
-      "note": "TrendForce (Aug 25, 2026) says DRAM plus NAND will absorb 47% of major CSP capex in 2026 and 68% in 2027, with CSP capex +98% in 2026 and +50% in 2027; it puts the cumulative 2026 server DRAM contract rise at ~270% (enterprise SSD ~235%) and expects HBM contract prices +70-140% in 2027, with HBM and RDIMM taking 51% of DRAM bit supply. Two early cracks: long-term agreements signed from 2Q26 carry price ceilings, and CSPs may cut memory capacity per system or lean on custom silicon. DRAMeXchange DDR5 16Gb spot averaged $54.17 on Aug 25 (0.0% d/d; DDR4 16Gb $90.56, -0.8%), unchanged from Aug 24. The 3Q26 +13-18% guide (Jul 9) still stands.",
-      "source": "https://www.trendforce.com/presscenter/news/20260825-13198.html",
-      "updated": "2026-08-25"
+      "note": "Two fresh datapoints. TrendForce (Aug 26, citing Korea's TRASS customs data) puts South Korea's DRAM export price at $92,183/kg for Aug 1-20, up 401% y/y and 12.5x from the trough three years and seven months ago, with DRAM export value +505% to $9.8B; retail DDR5 32GB kits are ~$350 in the US vs $100-200 a year ago. TrendForce (Aug 25) says Nvidia's >15% price rise applies to Vera Rubin and Grace Blackwell servers from early 2027, that Korean coverage (Bloter) expects 2027 HBM contract prices up more than 50%, and that UBS models HBM4/HBM4e ASPs +79% vs 2026, while DDR5 has nearly quadrupled in a year and 64GB RDIMM now out-earns HBM per wafer. Spot is pausing, not turning: DRAMeXchange DDR5 16Gb averaged $54.00 on Aug 26 (-0.31% d/d, from $54.17), DDR4 16Gb $91.05 (+0.54%), NAND MLC 64Gb $36.59 (+2.34%). The 3Q26 +13-18% guide (Jul 9) and the ~270% cumulative 2026 server DRAM rise still stand.",
+      "source": "https://www.trendforce.com/news/2026/08/26/news-south-koreas-dram-prices-reportedly-soar-12-5-fold-in-3-years-outpacing-gold/",
+      "updated": "2026-08-26"
     },
     {
       "key": "power_bottleneck",
