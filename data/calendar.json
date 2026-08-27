@@ -1,36 +1,6 @@
 {
-  "as_of": "2026-08-26",
+  "as_of": "2026-08-27",
   "events": [
-    {
-      "key": "2026-08-25-hotchips-final-day",
-      "date": "2026-08-25",
-      "time": "all day PT",
-      "ticker": "Hot Chips",
-      "title": "Hot Chips 2026 final day (Stanford, Aug 23-25)",
-      "type": "conference",
-      "why": "Silicon-level disclosures on next-gen accelerators, memory and interconnect feed directly into the NVDA/AVGO/MRVL/MU/ALAB/SKHY thesis.",
-      "link": "https://hotchips.org/"
-    },
-    {
-      "key": "2026-08-25-us-consumer-confidence",
-      "date": "2026-08-25",
-      "time": "10:00 ET",
-      "ticker": "MACRO",
-      "title": "Conference Board Consumer Confidence (August)",
-      "type": "macro",
-      "why": "Consumer read for AMZN/META/GOOGL ad and retail demand and for mortgage/credit names (RKT, LDI, AXOS).",
-      "link": "https://www.conference-board.org/topics/consumer-confidence"
-    },
-    {
-      "key": "2026-08-25-rba-minutes",
-      "date": "2026-08-25",
-      "time": "11:30 AEST",
-      "ticker": "RBA",
-      "title": "RBA minutes of the 10-11 August Monetary Policy Board meeting",
-      "type": "central_bank",
-      "why": "Sets the tone for AUD and local rates ahead of the 28-29 Sep decision; next Board meeting is outside this window.",
-      "link": "https://www.rba.gov.au/schedules-events/"
-    },
     {
       "key": "2026-08-26-crm-earnings",
       "date": "2026-08-26",
@@ -374,12 +344,12 @@
     {
       "key": "2026-09-09-apple-event",
       "date": "2026-09-09",
-      "time": "TBC (expected 10:00 PT; invite not yet sent)",
+      "time": "10:00 PT (03:00 AEST Sep 10)",
       "ticker": "AAPL",
-      "title": "Apple September event: iPhone 18 Pro / Pro Max and foldable iPhone Ultra expected (date per Bloomberg, unconfirmed)",
+      "title": "Apple 'Surprise and Shine' event: iPhone 18 Pro / Pro Max and foldable iPhone Ultra expected (invite sent Aug 26)",
       "type": "product",
-      "why": "Loved company; TSM 2nm A20 volumes, memory content and iPhone Ultra pricing set the non-AI demand backdrop for TSM and MU.",
-      "link": "https://www.macrumors.com/2026/08/24/apple-invites-iphone-18-pro-event-soon/"
+      "why": "Loved company and first launch under CEO John Ternus; TSM 2nm A20 volumes, memory content and iPhone Ultra pricing set the non-AI demand backdrop for TSM and MU.",
+      "link": "https://www.apple.com/apple-events/"
     },
     {
       "key": "2026-09-09-us-treasury-10y-auction",
@@ -402,6 +372,16 @@
       "link": "https://cloudflare.net/events-and-presentations/default.aspx"
     },
     {
+      "key": "2026-09-10-adbe-earnings",
+      "date": "2026-09-10",
+      "time": "TBC (expected after US close)",
+      "ticker": "ADBE",
+      "title": "Adobe Q3 FY2026 results (macro read; date per Investing.com, not yet confirmed by Adobe)",
+      "type": "earnings",
+      "why": "Read on whether AI is monetising or cannibalising seat-based software after the Salesforce beat; sets the SaaS tape for NET and HOOD multiples the day before CPI.",
+      "link": "https://www.investing.com/equities/adobe-sys-inc-earnings"
+    },
+    {
       "key": "2026-09-10-us-ppi",
       "date": "2026-09-10",
       "time": "08:30 ET",
@@ -420,6 +400,26 @@
       "type": "earnings",
       "why": "Oracle's RPO ($638B, +363%) is the backlog leg of the capex-vs-backlog bellwether; OCI growth, capex and OpenAI-contract commentary read across to NVDA, AVGO, MRVL and the neocloud credit picture.",
       "link": "https://investor.oracle.com/investor-news/default.aspx"
+    },
+    {
+      "key": "2026-09-11-us-cpi",
+      "date": "2026-09-11",
+      "time": "08:30 ET",
+      "ticker": "MACRO",
+      "title": "US CPI August (headline and core)",
+      "type": "macro",
+      "why": "Last inflation print before the Sep 15-16 FOMC; July CPI was 3.4% y/y and July PCE 3.7%, so a hot number would price out a September cut. Date/time per TradingEconomics (bls.gov schedule returned 403 on this pass).",
+      "link": "https://tradingeconomics.com/united-states/inflation-cpi"
+    },
+    {
+      "key": "2026-09-11-umich-sentiment-prelim",
+      "date": "2026-09-11",
+      "time": "TBC",
+      "ticker": "MACRO",
+      "title": "University of Michigan consumer sentiment, preliminary September",
+      "type": "macro",
+      "why": "Inflation-expectations read the same morning as CPI; date follows the usual second-Friday pattern (UMich site so far lists only the Aug 28 final), and the Fed is in pre-FOMC blackout so no speakers that day.",
+      "link": "http://www.sca.isr.umich.edu/"
     }
   ]
 }

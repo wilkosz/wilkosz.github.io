@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-26",
+  "as_of": "2026-08-27",
   "explainer": "The single best AI-bubble bellwether is the rental price of an installed Nvidia GPU, measured in dollars per GPU-hour, and specifically the H100: it is the daily marginal clearing price for AI compute, it is published by independent indexes (Silicon Data's SDH100RT, SemiAnalysis's one-year contract index), and from October 5, 2026 it becomes a CME futures contract, so the market will show a forward curve as well as spot. Right now it is saying the opposite of discounting: the Silicon Data index sits at $2.53/hr, one-year contract rates rose about 40% from $1.70 to $2.35 between October 2025 and March 2026, spot has run at roughly twice contract, and a four-year-old chip is renting for more than it did a year ago while CoreWeave says it has contracted 2020-vintage GPUs out to 2029 at full price. Pair it with three things: neocloud credit spreads (CoreWeave's July loan cleared at SOFR+550 for a 10.44% yield with maintenance covenants, and its CDS implies roughly a coin-flip default probability), which is the financing leg and the one signal already flashing red; server DRAM and HBM contract-price momentum (+13-18% QoQ in 3Q26 after +93-98% in 1Q26, with 4Q26 guided to only +3-8%), because memory is the first physical input that will roll over; and hyperscaler backlog growth versus capex growth (Microsoft commercial RPO +84%, Oracle RPO +363%, roughly $2.4 trillion of committed cloud backlog against about $1 trillion of 2026 capex), because the bubble only deflates if the buyers stop signing. Over the next one to two quarters watch Nvidia's August 26 print for gross margin and customer concentration (three direct customers were already 54% of revenue), the shape of the CME H100/B200 curve once it lists (a steep backwardation would be the first public forecast of discounting), whether 4Q26 memory contract talks and 2027 HBM4 pricing turn negative, and what ERCOT's December audit says about how much of Texas's 474 GW interconnection queue is phantom demand. The threshold that would flip the call is simple: the H100 index sustained below about $2.00/hr, or spot trading below the one-year contract rate, while Blackwell and Rubin volumes keep arriving; until then compute is being sold at a premium, not a discount, and the risk lives in who is borrowing to build it rather than in the price of the product.",
   "indicators": [
     {
@@ -101,14 +101,14 @@
     {
       "key": "nvidia_dc",
       "name": "Nvidia data-center revenue growth, gross margin and customer concentration",
-      "value": "DC rev $75.2B +92% YoY (Q1 FY27); GAAP GM 74.9%; Q2 guide $91B, GM 75%; top-3 direct customers 54% of revenue",
+      "value": "DC rev $89.0B +117% YoY, +18% QoQ (Q2 FY27); GAAP and non-GAAP GM 75.0%; Q3 guide $108B +/-2% at 74% GM, Q4 GM trough 71-72%; FY28 prelim +~70%, supply-constrained; DSO 60 days (was 45); no China DC compute in outlook",
       "trend": "up",
-      "signal": "neutral",
+      "signal": "bullish",
       "why": "Nvidia's margin is the purest read on whether GPUs are being discounted at the source, and its concentration plus growing vendor-financing (backstops, campus guarantees) shows how much of demand is circular.",
-      "watch": "Bearish if gross margin is guided below ~72%, data-center revenue grows <5% sequentially, three-customer concentration exceeds 60%, receivables/DSO climb, or backstop commitments expand further; report due Aug 26, 2026.",
-      "note": "Q1 FY27 (quarter ended Apr 26, 2026): revenue $81.6B (+85%), data-center $75.2B (+92%), GAAP gross margin 74.9%, Q2 outlook $91.0B ±2% at 74.9-75.0% GM; the 10-Q discloses three direct customers at 21%, 17% and 16% of revenue. Nvidia is now guaranteeing the 4.25 IT-GW first phase of OpenAI's Ohio campus and investing $1.5B in SB Energy (Aug 17).",
-      "source": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2027",
-      "updated": "2026-08-25"
+      "watch": "Bearish if gross margin is guided below ~72% for more than one quarter, data-center revenue grows <5% sequentially, three-customer concentration exceeds 60% in the 10-Q, DSO climbs past 60 days, or backstop commitments expand beyond the $108.5B disclosed; Q3 FY27 report due ~Nov 2026.",
+      "note": "Q2 FY27 (quarter ended Jul 26, 2026): revenue $96.2B (+106%), data center $89.0B (+117%; hyperscale $49B, AI clouds/enterprise $40B), networking a record +18% q/q, GAAP/non-GAAP GM 75.0%, non-GAAP EPS $2.22, $26.0B returned with $99B authorization left. Q3 outlook $108B +/-2% at 74.0% GM with zero China data-center compute; management says supply (wafers, memory, power) caps FY28 growth at ~70% against ~100% demand growth, Vera Rubin (started production August) is ~20% of Q3 data-center revenue, and the margin dip to 71-72% in Q4 is memory cost, not GPU discounting, with price increases planned for Q1 FY28. Circular-financing scrutiny is the offset: DSO 60 days, ~$99B of equity stakes, nearly $50B committed to frontier labs, $108.5B of revenue guarantees ($105B OpenAI); the 10-Q with customer concentration is not yet filed.",
+      "source": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027",
+      "updated": "2026-08-27"
     }
   ]
 }
