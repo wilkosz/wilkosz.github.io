@@ -5,26 +5,26 @@
     {
       "key": "h100_rental",
       "name": "H100 rental price, $/GPU-hour (Silicon Data index; 1-yr contract and spot)",
-      "value": "$2.68/hr index (0.0% 7d); 1-yr contract $2.35 (Mar-26) vs $1.70 (Oct-25); spot ~$4",
+      "value": "$2.67/hr index (+0.4% 7d); 1-yr contract $2.35 (Mar-26) vs $1.70 (Oct-25); spot ~$4",
       "trend": "up",
       "signal": "bullish",
       "why": "This is the marginal clearing price of installed AI compute and the most direct public read on whether capacity is being discounted; it is published daily and becomes a CME-listed futures contract on Oct 5, 2026.",
       "watch": "Bearish flip if the Silicon Data H100 index holds below ~$2.00/hr for a month, if spot trades below the one-year contract rate (inversion), or if the CME H100 curve lists in steep (>15%) backwardation; the Oct-2025 trough of $1.70 is the floor to remember.",
-      "note": "Silicon Data's index listing read SDH100RT at $2.68/GPU-hr on Aug 26, 2026 (AEST), flat over 7 days, up from the $2.65 (+1.5% 7d) reading of Aug 25 (A100 $1.61 +2.4%, B200 $5.66 +0.2%, MI300X $2.65 +0.4%); the product page's FAQ copy still quotes a stale $2.53. SemiAnalysis's one-year contract index rose ~40% from $1.70 (Oct 2025) to $2.35 (Mar 2026) and Gavin Baker/Crypto Briefing (Aug 4) put spot at nearly $4 vs under $2 seven months earlier; SFCompute's burst marketplace quotes H100s at ~$1.99/hr, so short-burst spot on that venue sits below the index. RunPod still lists H100 SXM at $2.69 community / $3.29 secure (H100 PCIe $1.99 / $2.89) and Lambda $3.99-4.29 on-demand, unchanged.",
+      "note": "Silicon Data's index listing read SDH100RT at $2.67/GPU-hr on Aug 28, 2026 (AEST), +0.4% over 7 days, one cent below the $2.68 (flat 7d) reading of Aug 26 and still above the $2.65 of Aug 25; companions: A100 $1.61 (+2.4%), B200 $5.65 (+0.4%), MI300X $2.65 (+0.4%), LLM token-expenditure index $1.06 (+2.4%). The 7-day trend has now been flat-to-up for a week with the index holding $2.65-2.68, a third above the $2.00 flip level. On-demand list prices unchanged: RunPod H100 SXM $2.69 community / $3.29 secure (PCIe $1.99 / $2.89), Lambda H100 SXM $3.99 (8x) to $4.29 (1x). SemiAnalysis's one-year contract index rose ~40% from $1.70 (Oct 2025) to $2.35 (Mar 2026) and spot was reported near $4 in early August; the product page's FAQ still quotes a stale $2.53.",
       "source": "https://www.silicondata.com/products/silicon-index",
-      "updated": "2026-08-25"
+      "updated": "2026-08-27"
     },
     {
       "key": "b200_rental",
       "name": "B200 / Blackwell rental price, $/GPU-hour (on-demand)",
-      "value": "$5.50-7.00/hr at neoclouds (RunPod B200 $5.98-6.79, Lambda $6.69-6.99); RunPod B300 $6.94-7.89; Silicon Data B200 index $5.66; ~$5 in Jan-26",
+      "value": "$5.50-7.00/hr at neoclouds (RunPod B200 $5.98-6.79, Lambda $6.69-6.99); RunPod B300 $6.94-7.89; Silicon Data B200 index $5.65; ~$5 in Jan-26",
       "trend": "up",
       "signal": "bullish",
       "why": "Blackwell is where new supply lands, so this is the first place a glut would show; if B200 rates fell toward H100 rates while Rubin ships, capacity would be outrunning demand.",
       "watch": "Bearish if tier-1 neocloud B200 on-demand drops below ~$4.50/hr, if the B200/H100 price ratio compresses below ~2x, or if lead times for 8-GPU Blackwell nodes fall to same-week availability.",
-      "note": "Aug 27 (AEST) price-page check: RunPod B200 unchanged at $5.98 community / $6.79 secure and now lists B300 at $6.94 / $7.89 (H200 $3.59 / $4.59, H100 SXM $2.69 / $3.29); Lambda B200 SXM6 $6.69 (8x) to $6.99 (1x), H100 SXM $3.99-4.29, unchanged. Silicon Data's B200 index reads $5.66 (+0.2% 7d) against its H100 index at $2.68, so the B200/H100 ratio holds at ~2.1x and B300 lists at a ~16% premium to B200. Per Silicon Data (via Wccftech, Aug 3) B200 rates moved from just under $5/hr in January to $5.50-5.80; SemiAnalysis (Apr 2) reported all capacity coming online through Aug-Sep 2026 was already booked.",
-      "source": "https://www.runpod.io/pricing",
-      "updated": "2026-08-26"
+      "note": "Aug 28 (AEST) price-page check: Lambda B200 SXM6 $6.69 (8x) / $6.79 (4x) / $6.89 (2x) / $6.99 (1x), H100 SXM $3.99-4.29, GH200 $2.29, A100 80GB $2.79 (8x), all unchanged; RunPod B200 $5.98 community / $6.79 secure, B300 $6.94 / $7.89, H200 $3.59 / $4.59, H100 SXM $2.69 / $3.29, A100 SXM $1.39 / $1.59, unchanged. Silicon Data's B200 index reads $5.65 (+0.4% 7d) against its H100 index at $2.67, so the B200/H100 ratio holds at ~2.1x; B300 lists at a ~16% premium to B200. Context unchanged: Silicon Data (via Wccftech, Aug 3) had B200 rates moving from just under $5/hr in January to $5.50-5.80, and Nvidia said on its Aug 26 call that Blackwell and early Rubin supply is sold out with supply, not demand, capping FY28 growth at ~70%.",
+      "source": "https://lambda.ai/service/gpu-cloud",
+      "updated": "2026-08-27"
     },
     {
       "key": "hopper_residual",
@@ -53,14 +53,14 @@
     {
       "key": "memory_prices",
       "name": "Server DRAM / HBM contract price momentum (QoQ) and DRAM spot",
-      "value": "+13-18% QoQ 3Q26 (after +93-98% 1Q26, +58-63% 2Q26), 4Q26 guided +3-8%; Korea DRAM export price $92,183/kg (+401% y/y); 2027 HBM contract seen +50% to +79%; DDR5 16Gb spot $54.00 (-0.3% d/d)",
+      "value": "+13-18% QoQ 3Q26 (after +93-98% 1Q26, +58-63% 2Q26), 4Q26 guided +3-8%; 2027 HBM contract seen +70-140% (TrendForce); memory = 68% of major CSP capex in 2027 (47% in 2026); Nvidia supply commitments $279B (+134% q/q, mostly memory); DDR5 16Gb spot $53.93 (-0.1% d/d)",
       "trend": "up",
       "signal": "bullish",
       "why": "Memory is the tightest physical input to AI servers (HBM is 25-30% of a Rubin rack) and contract prices are negotiated quarterly, so this is the earliest cyclical input to turn; a price rollover would precede GPU discounting.",
       "watch": "Bearish when server DRAM or HBM contract prices go negative QoQ (TrendForce already guides 4Q26 to only +3-8%), when 2027 HBM4 contracts are signed at lower prices, or when DRAMeXchange DDR5 spot falls >20% from peak; also watch whether CSPs start cutting memory per system, which TrendForce now flags as their cost response.",
-      "note": "Two fresh datapoints. TrendForce (Aug 26, citing Korea's TRASS customs data) puts South Korea's DRAM export price at $92,183/kg for Aug 1-20, up 401% y/y and 12.5x from the trough three years and seven months ago, with DRAM export value +505% to $9.8B; retail DDR5 32GB kits are ~$350 in the US vs $100-200 a year ago. TrendForce (Aug 25) says Nvidia's >15% price rise applies to Vera Rubin and Grace Blackwell servers from early 2027, that Korean coverage (Bloter) expects 2027 HBM contract prices up more than 50%, and that UBS models HBM4/HBM4e ASPs +79% vs 2026, while DDR5 has nearly quadrupled in a year and 64GB RDIMM now out-earns HBM per wafer. Spot is pausing, not turning: DRAMeXchange DDR5 16Gb averaged $54.00 on Aug 26 (-0.31% d/d, from $54.17), DDR4 16Gb $91.05 (+0.54%), NAND MLC 64Gb $36.59 (+2.34%). The 3Q26 +13-18% guide (Jul 9) and the ~270% cumulative 2026 server DRAM rise still stand.",
-      "source": "https://www.trendforce.com/news/2026/08/26/news-south-koreas-dram-prices-reportedly-soar-12-5-fold-in-3-years-outpacing-gold/",
-      "updated": "2026-08-26"
+      "note": "Three fresh datapoints. (1) TrendForce's Aug 25 press release says DRAM plus NAND will absorb 68% of major CSP capex in 2027, up from 47% in 2026, with CSP capex +98% in 2026 and a further +50% in 2027; it models server DRAM contract prices +270% across 2026 (after +64% in 2H25), enterprise SSD +235%, and 2027 HBM contract prices +70% to +140%, with HBM plus RDIMM taking 51% of DRAM bits in 2026 and server DRAM/HBM bit supply +27% in 2027. (2) Nvidia's Q2 FY27 filing (via TrendForce/WSJ, Aug 27) shows supply commitments of $279B, up 134% from $119B a quarter earlier, 'driven largely by higher memory procurement', split $92B rest of FY27, $87B FY28, $88B FY29; management expects the memory bottleneck to last through at least FY28 and guided Q4 gross margin to 71-72% on memory cost, with an NVHBM stack (+30% bandwidth, -15% power) as its response. (3) Spot is drifting, not breaking: DRAMeXchange DDR5 16Gb averaged $53.93 on Aug 27 (-0.12% d/d, third straight small decline from $54.17), DDR4 16Gb $91.05 (flat), DDR4 8Gb $44.01 (+0.86%), NAND MLC 64Gb $36.59 (+2.34%). Korea's Aug 1-20 DRAM export price of $92,183/kg (+401% y/y) and the 3Q26 +13-18% contract guide still stand.",
+      "source": "https://www.trendforce.com/presscenter/news/20260825-13198.html",
+      "updated": "2026-08-27"
     },
     {
       "key": "power_bottleneck",
@@ -77,37 +77,37 @@
     {
       "key": "capex_vs_backlog",
       "name": "Hyperscaler capex vs cloud backlog (RPO) growth, and capex as % of cloud revenue",
-      "value": "2026 capex ≈ $1.0T (102% of cloud revenue); backlog ≈ $2.4T (MSFT $678B +84%, ORCL $638B +363%, GOOG Cloud $514B, AWS $496B)",
+      "value": "2026 capex ≈ $1.0T (102% of cloud revenue); backlog ≈ $2.4T (MSFT $678B +84%, ORCL $638B +363%, GOOG Cloud $514B, AWS $496B); AWS Nvidia GPU commitment 3M+ (1M 2026 + 2M 2027-28); Nvidia supply commitments $279B",
       "trend": "up",
       "signal": "neutral",
       "why": "Capex is the supply side and RPO is the contracted demand side; as long as backlog grows faster than capex the build is pre-sold, but capex above 100% of cloud revenue with negative free cash flow means the cycle is now funded by debt and equity and is sensitive to any demand wobble.",
       "watch": "Bearish if RPO growth decelerates below capex growth for two quarters, if 2027 capex consensus (+57% per Morgan Stanley) gets cut or 'digestion' language appears, or if backlog concentration in a few AI labs (OpenAI, Anthropic) produces a cancellation or renegotiation.",
-      "note": "UBS (via 24/7 Wall St, Aug 22, 2026) estimates hyperscaler capex of $1.009T in 2026, about 102% of cloud revenue, easing to 99% in 2027; company guides are Amazon $220B, Alphabet up to $205B, Meta $130-145B, with Microsoft at $115.9B for FY26. Amazon's TTM free cash flow was -$7.6B and Alphabet raised $49.6B of equity in Q2, while Oracle notes $75B of its RPO is prepaid or customer-supplied hardware.",
-      "source": "https://247wallst.com/investing/2026/08/22/ais-absurd-spending-boom-hyperscalers-are-spending-102-of-cloud-revenue-on-capex/",
-      "updated": "2026-08-25"
+      "note": "Two supply-side prints moved the capex leg on Aug 26-27. AWS and Nvidia announced 2 million additional GPUs for deployment in 2027-2028 (Blackwell Ultra, Rubin, Rubin Ultra, plus RTX PRO Blackwell for G7 instances; 100,000 earmarked for US federal and national-security workloads) on top of the 1 million-plus announced at GTC 2026 for 2026, so AWS's Nvidia commitment has roughly tripled; no dollar value was disclosed and Amazon's $220B 2026 capex guide is unchanged. Nvidia's own supply commitments jumped to $279B from $119B a quarter earlier (+134%), spread $92B rest of FY27, $87B FY28, $88B FY29, largely memory, and TrendForce now models CSP capex +98% in 2026 and +50% in 2027 with memory taking 68% of it. The demand leg is getting more circular rather than broader: Nvidia says roughly 25% of FY28 revenue will come from labs it finances, it has nearly $50B invested in labs, ~12 GW of OpenAI commitments through 2030, and $500B+ of outside capital from Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR that is still 'subject to definitive agreements'. UBS's $1.009T 2026 capex (102% of cloud revenue), Amazon's -$7.6B TTM free cash flow and Alphabet's $49.6B Q2 equity raise are unchanged; the RPO side updates with Oracle (~Sep 10) and Microsoft (late Oct).",
+      "source": "https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai",
+      "updated": "2026-08-27"
     },
     {
       "key": "neocloud_credit",
       "name": "Neocloud financing: CoreWeave loan/bond spreads, CDS, vendor backstops, customer concentration",
-      "value": "CoreWeave Jul-26 $2.6B loan at SOFR+550, 10.44% YTM; CDS ~855bp (Jul 29); vs Nebius $5B converts settled Aug 24 at 0.50% (2030) and 4.50% (2034), 40-45% premiums",
+      "value": "CoreWeave Jul-26 $2.6B loan at SOFR+550, 10.44% YTM; CDS ~855bp (Jul 29); Nebius $5.75B converts closed Aug 24 (0.50% 2030 / 4.50% 2034, greenshoe fully exercised); Nvidia: ~25% of FY28 revenue from labs it finances, ~12 GW OpenAI + ~2 GW second-lab credit support",
       "trend": "flat",
       "signal": "bearish",
       "why": "Neoclouds are the levered marginal builder of GPU capacity; their cost of debt, covenants and dependence on Nvidia backstops show whether lenders still believe rental prices will cover depreciation, and they are the first place a compute-price decline turns into forced selling.",
       "watch": "Escalation if new deals price above SOFR+600 or 11% yields, CDS above 1,000bp, deals pulled or downsized, Nvidia's rent-back backstop extended to tier-1 neoclouds, or a top customer (CoreWeave's A/B/C are 36%/26%/10% of revenue) renegotiates; improvement if spreads retrace toward the April 9.75% level or if CoreWeave can tap convertible/equity-linked money on Nebius-like terms.",
-      "note": "No new CoreWeave debt print since the Aug 3 loan flex (SOFR+550, 97 OID, 1.35x DSCR covenant) or the Jul 29 CDS reading (~855bp, ~50% five-year default odds); Aug 25 news was operational (Rescale workload deal, stock +2%). The fresh datapoint is Nebius: its upsized $5.0B convertible offering (priced Aug 19, settled Aug 24) sold $3.0B of 0.50% notes due 2030 and $2.0B of 4.50% notes due 2034 at 40%/45% conversion premiums, funding data centers and GPU purchases; in July Nebius also borrowed ~$775M GPU-backed at SOFR+250. Read: equity-linked and asset-backed funding stays cheap for neoclouds with a strong stock, while CoreWeave's unsecured cost of capital is the outlier, so the stress is issuer-specific rather than sector-wide for now.",
-      "source": "https://nebius.com/newsroom/nebius-group-announces-pricing-of-upsized-private-offering-of-5-0-billion-of-convertible-senior-notes",
-      "updated": "2026-08-25"
+      "note": "No new CoreWeave debt print (last: Aug 3 loan flex at SOFR+550, 97 OID, 1.35x DSCR covenant; CDS ~855bp on Jul 29); Aug 27 news was a $21.3M share sale by CDO Brannin McBee and a Time 100 profile. Fresh prints are all on the cheaper end of the stack. Nebius closed its convertible on Aug 24 at ~$5.75B gross, up from the $5.0B priced on Aug 19, because initial purchasers took their full $450M (2030 notes) and $300M (2034 notes) options: $3.45B of 0.50% notes due 2030 and $2.30B of 4.50% notes due 2034, plus an exchange of $400M each of 2029 and 2031 converts into ~15.8M Class A shares. Nscale closed a $790M Norway data-centre project financing (Latham advised, Aug 26) and signed a reported ~$45B six-year, 460 MW West Virginia capacity deal with Anthropic for 2027 delivery on Nvidia chips. The vendor-financing leg got quantified on Nvidia's Aug 26 call: nearly $50B invested in labs, ~12 GW of OpenAI compute commitments through 2030 (first 4.25 GW phase with SB Energy on sites that will host only Nvidia equipment), ~2 GW of credit support to a second lab, and roughly 25% of FY28 revenue expected from labs Nvidia finances; CFO Kress's defence is that outside lenders underwrite independently and the equipment is portable if a lab defaults. Read: equity-linked and project money remains cheap for neoclouds with strong stocks or an anchor tenant, CoreWeave's unsecured cost stays the outlier, and the circularity risk now sits on Nvidia's balance sheet in dollars, which is a bigger number than any neocloud spread.",
+      "source": "https://nebius.com/newsroom/nebius-group-announces-closing-of-private-offering-of-convertible-senior-notes-with-aggregate-gross-proceeds-of-approximately-5-75-billion",
+      "updated": "2026-08-27"
     },
     {
       "key": "nvidia_dc",
       "name": "Nvidia data-center revenue growth, gross margin and customer concentration",
-      "value": "DC rev $89.0B +117% YoY, +18% QoQ (Q2 FY27); GAAP and non-GAAP GM 75.0%; Q3 guide $108B +/-2% at 74% GM, Q4 GM trough 71-72%; FY28 prelim +~70%, supply-constrained; DSO 60 days (was 45); no China DC compute in outlook",
+      "value": "DC rev $89.0B +117% YoY, +18% QoQ (Q2 FY27); GAAP and non-GAAP GM 75.0%; Q3 guide $108B +/-2% at 74% GM, Q4 GM trough 71-72%; FY28 prelim +~70%, supply-constrained through FY28; supply commitments $279B (+134% q/q); DSO 60 days (was 45); ~25% of FY28 revenue from financed labs; no China DC compute in outlook",
       "trend": "up",
       "signal": "bullish",
       "why": "Nvidia's margin is the purest read on whether GPUs are being discounted at the source, and its concentration plus growing vendor-financing (backstops, campus guarantees) shows how much of demand is circular.",
       "watch": "Bearish if gross margin is guided below ~72% for more than one quarter, data-center revenue grows <5% sequentially, three-customer concentration exceeds 60% in the 10-Q, DSO climbs past 60 days, or backstop commitments expand beyond the $108.5B disclosed; Q3 FY27 report due ~Nov 2026.",
-      "note": "Q2 FY27 (quarter ended Jul 26, 2026): revenue $96.2B (+106%), data center $89.0B (+117%; hyperscale $49B, AI clouds/enterprise $40B), networking a record +18% q/q, GAAP/non-GAAP GM 75.0%, non-GAAP EPS $2.22, $26.0B returned with $99B authorization left. Q3 outlook $108B +/-2% at 74.0% GM with zero China data-center compute; management says supply (wafers, memory, power) caps FY28 growth at ~70% against ~100% demand growth, Vera Rubin (started production August) is ~20% of Q3 data-center revenue, and the margin dip to 71-72% in Q4 is memory cost, not GPU discounting, with price increases planned for Q1 FY28. Circular-financing scrutiny is the offset: DSO 60 days, ~$99B of equity stakes, nearly $50B committed to frontier labs, $108.5B of revenue guarantees ($105B OpenAI); the 10-Q with customer concentration is not yet filed.",
-      "source": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027",
+      "note": "Q2 FY27 (quarter ended Jul 26, 2026): revenue $96.2B (+106%), data center $89.0B (+117%; hyperscale $49B, AI clouds/enterprise $40B), networking a record +18% q/q, GAAP/non-GAAP GM 75.0%, non-GAAP EPS $2.22, Q3 outlook $108B +/-2% at 74.0% GM with zero China data-center compute (first H200s shipped to China but excluded from guidance). Day-two detail from the filing (TrendForce/WSJ, Aug 27): supply commitments $279B vs $119B a quarter earlier (+134%), 'driven largely by higher memory procurement', with $92B falling in the rest of FY27, $87B in FY28 and $88B in FY29; management expects the memory bottleneck to persist through at least FY28, is answering with an NVHBM stack (+30% bandwidth, -15% power, up to 25% more compute-die area), and frames the Q4 71-72% margin trough as memory cost with price increases planned for Q1 FY28. Circular-financing scrutiny is the offset: DSO 60 days, ~$99B of equity stakes, nearly $50B into frontier labs, $108.5B of revenue guarantees ($105B OpenAI), ~12 GW of OpenAI commitments through 2030, ~2 GW of credit support to a second lab, ~25% of FY28 revenue expected from labs Nvidia finances, and a $500B+ outside-capital programme still subject to definitive agreements; the 10-Q with customer concentration is not yet filed. AWS's 2M-GPU add for 2027-28 is the largest single demand print since the quarter closed.",
+      "source": "https://www.trendforce.com/news/2026/08/27/news-nvidias-supply-commitments-soar-to-279b-as-memory-costs-surge-new-nvhbm-boosts-bandwidth-30-cuts-power-15/",
       "updated": "2026-08-27"
     }
   ]

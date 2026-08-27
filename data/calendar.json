@@ -392,6 +392,16 @@
       "link": "https://tradingeconomics.com/united-states/calendar"
     },
     {
+      "key": "2026-09-10-ecb-decision",
+      "date": "2026-09-10",
+      "time": "TBC (decision usually 14:15 CET / 22:15 AEST, press conference 14:45 CET)",
+      "ticker": "MACRO",
+      "title": "ECB Governing Council monetary policy decision and Lagarde press conference (meeting hosted by the Bundesbank in Berlin, Sep 9-10)",
+      "type": "central_bank",
+      "why": "Falls one day before US CPI and five days before the Sep 15-16 FOMC; ECB officials have been signalling a possible hike, so it sets the global rates tone for the week.",
+      "link": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html"
+    },
+    {
       "key": "2026-09-10-orcl-earnings",
       "date": "2026-09-10",
       "time": "TBC (expected after US close; date not yet confirmed by Oracle)",

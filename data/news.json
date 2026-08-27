@@ -1,6 +1,174 @@
 [
   {
     "date": "2026-08-27",
+    "ticker": "MACRO",
+    "headline": "Nvidia +7% in cash trade, chip rally narrow: MRVL +5.7%, AVGO +3.2%, MU -1.1%",
+    "summary": "NVDA traded $224-225 (+7%) an hour into Thursday's session on the $108B Q3 guide and ~70% FY28 growth call; SOX +1.8%, Nasdaq 100 +1.2%, S&P 500 +0.5%, Dow +0.2%, Russell 2000 flat. Memory and AMD lagged, so this is a Nvidia-and-custom-silicon move, not a broad one.",
+    "source": "https://www.investing.com/news/stock-market-news/nvidia-revenue-forecast-lifts-us-chip-stocks-93CH-4879711",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-27",
+    "ticker": "MACRO",
+    "headline": "Jobless claims 203k vs 208k expected, prior 207k",
+    "summary": "Initial claims for the week to Aug 22 fell to 203,000 against a 208,000 consensus, another sign the labour market is not loosening; with July PCE at 3.7% it keeps the hike case alive going into Warsh's speech.",
+    "source": "https://www.investing.com/news/economic-indicators/jobless-claims-fall-beating-forecasts-and-previous-figures-93CH-4879335",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-08-27",
+    "ticker": "MACRO",
+    "headline": "Jackson Hole opens with Schmid hinting at hikes; September hike priced at 31%",
+    "summary": "KC Fed's Schmid said he does not know what current policy is restricting and inflation is 'still stubborn'; Boston's Collins said Wednesday tightening 'soon' would be appropriate without progress. Fed funds futures show a 68.6% hold / 31.4% hike for Sept 16 and a hike favoured by December; Warsh is expected to give no detailed forward guidance.",
+    "source": "https://www.investing.com/news/economy-news/feds-schmid-says-rates-not-restraining-economy-hints-at-hikes-4879088",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-08-27",
+    "ticker": "MACRO",
+    "headline": "US weighs new semiconductor tariffs covering servers, laptops and consoles (Politico)",
+    "summary": "The administration is considering sweeping chip tariffs extended to products containing semiconductors, with a phase-in and relief tied to investment in US fabs per Lutnick; no rate given and the White House called the reporting speculation. A cost risk for AI server builds if it lands.",
+    "source": "https://www.investing.com/news/world-news/us-weighs-a-new-round-of-tariffs-on-semiconductors-politico-reports-4878694",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-08-27",
+    "ticker": "NVDA",
+    "headline": "Raymond James lifts Nvidia target to $515 from $352 as the Street reprices after the print",
+    "summary": "Raymond James kept Strong Buy and cited the FY28 70% outlook and $26B of Q2 shareholder returns; Truist ($346), Wedbush ($345), RBC ($330), Stifel ($315), UBS ($300) and Needham ($300) also raised. Stock +7.3% intraday at $224.88.",
+    "source": "https://www.investing.com/news/analyst-ratings/raymond-james-raises-nvidia-stock-price-target-on-strong-outlook-93CH-4879439",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-27",
+    "ticker": "NVDA",
+    "headline": "Nvidia reportedly agrees to buy Hugging Face for $12.9B",
+    "summary": "The Information reported the deal Aug 26 and Reuters followed; neither company has confirmed and Nvidia declined comment. Price implies ~86x an estimated $150M ARR and would move Nvidia into model distribution.",
+    "source": "https://finance.yahoo.com/technology/ai/articles/nvidia-reported-12-9b-hugging-143406687.html",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-08-27",
+    "ticker": "MRVL",
+    "headline": "Marvell pre-print: JPMorgan looks for a Q3 guide near $3.1B vs the $3.03B bar",
+    "summary": "Kalshi puts 83% odds on an EPS beat of $0.93; focus is custom XPU pipeline (50+ opportunities, $75B before the Google deal), Trainium ramp and Celestial AI optics. Stock faded to +0.4% intraday from a +4% premarket.",
+    "source": "https://finance.yahoo.com/markets/stocks/articles/marvell-earnings-prediction-market-preview-143107326.html",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-08-27",
+    "ticker": "MU",
+    "headline": "Micron locked in ~$100B of floor-priced memory contracts during the shortage",
+    "summary": "Trefis: 16 take-or-pay deals cover ~20% of DRAM and a third of NAND volume over ~5 years, 14 with price floors and $22B of customer deposits, but prices on existing products are capped at CQ2-2026 levels. MU -1.1% intraday after a +3% open.",
+    "source": "https://finance.yahoo.com/markets/stocks/articles/micron-spent-memory-shortage-signing-140154724.html",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-08-27",
+    "ticker": "STRIPE",
+    "headline": "Stripe to acquire startup-legal platform Clerky",
+    "summary": "Clerky says it has agreed to join Stripe with the same team and focus; terms undisclosed. Clerky startups account for 23% of Silicon Valley seed and pre-seed financings and have raised over $140B.",
+    "source": "https://www.clerky.com/blog/clerky-is-joining-stripe",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-27",
+    "ticker": "OPENAI",
+    "headline": "Georgia PSC approves 3,200MW Georgia Power contract for OpenAI's Effingham County data center",
+    "summary": "OpenAI fully funds the infrastructure and commits up to 1,000MW of flexible demand response; Georgia Power says the portfolio saves ~$950M a year by 2029, about $15 a month for a typical household.",
+    "source": "https://www.atlantanewsfirst.com/2026/08/27/georgia-powers-openai-contract-effingham-county-approved-expected-lower-residential-bills/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-27",
+    "ticker": "META",
+    "headline": "Citi: teen settlement less painful than feared, Buy $800; KeyBanc $780, UBS $715, Truist cuts to $763",
+    "summary": "Citi expects a ~$10B Q3 accrual on the $18B deal with 52 AGs, far below the $200B-$1.4T once contemplated, with teens under 1% of revenue and average teen Instagram use ~1 hour vs the new 2-hour cap. New Mexico's appeal and ~1,200 school-district cases remain.",
+    "source": "https://www.investing.com/news/stock-market-news/could-metas-teen-settlement-be-less-painful-than-feared-citi-weighs-in-4879260",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-27",
+    "ticker": "BABA",
+    "headline": "Alibaba ADR -3.3% in morning trade after HK$80B placing closes; Baird and Citi trim targets, JPMorgan lifts to $210",
+    "summary": "710M shares were issued at HK$112.70; Baird cut its target to $160 from $164 and Citi to $190 from $192, while JPMorgan raised to $210 Overweight. The move is company-driven with the S&P up and Nasdaq +1%; 9988.HK closed HK$115.50 (-0.9%).",
+    "source": "https://www.investing.com/news/stock-market-news/why-is-alibaba-stock-sliding-today-93CH-4879685",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-08-27",
+    "ticker": "BABA",
+    "headline": "Alibaba Cloud launches two Brazil data centres, its second Latin American market",
+    "summary": "The sites serve local enterprises with cloud and agentic AI services and take Alibaba Cloud to 106 availability zones in 31 regions, following Mexico in 2025 and under the US$56B AI infrastructure pledge.",
+    "source": "https://www.scmp.com/tech/big-tech/article/3365491/alibaba-pushes-south-americas-ai-market-launch-brazil-data-centres",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-27",
+    "ticker": "GOOGL",
+    "headline": "Wolfe names Alphabet a top 2027 pick: Outperform, $460 target, 2027 revenue raised 10% to $595B",
+    "summary": "Shweta Khajuria lifted 2027 EPS to $15.89 and models Google Cloud revenue +125% y/y in Q3 vs 87% consensus after Q2's +82% and 35.6% operating margin.",
+    "source": "https://www.investing.com/news/analyst-ratings/wolfe-research-raises-alphabet-stock-estimates-on-cloud-growth-93CH-4878935",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-27",
+    "ticker": "GOOGL",
+    "headline": "OSHA data: 16 Waymo test-driver injuries in 2024-25 as robotaxis scale, TechCrunch reports",
+    "summary": "Waymo contractor Transdev logged 5 injuries in 2024 and 11 in 2025 across SF, LA and Phoenix, mostly hard-braking sprains and whiplash with up to 175 days off; Zoox had up to 8. Waymo says safety of its team is paramount.",
+    "source": "https://techcrunch.com/2026/08/27/sprains-pain-and-whiplash-waymo-and-zoox-test-drivers-are-getting-hurt-as-robotaxis-scale/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-08-27",
+    "ticker": "ANTHROPIC",
+    "headline": "Salesforce books $2.6B gain on its Anthropic stake; Claudeforce open beta in September",
+    "summary": "Salesforce Q2 revenue $11.35B (+11%), FY27 guide raised to $46.1-46.4B, net income $3.53B helped by a $2.6B mark-up on its Anthropic position; shares +21% Thursday. Claudeforce puts Salesforce data and 37 prebuilt sales skills inside Claude (pilot now, open beta September). Salesforce is expected to spend ~$300M on Anthropic tokens in 2026.",
+    "source": "https://finance.yahoo.com/technology/ai/articles/salesforce-q2-earnings-beat-claudeforce-133344189.html",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-27",
+    "ticker": "NET",
+    "headline": "Cloudflare +6% as software re-rates on Salesforce, CrowdStrike and Okta beats",
+    "summary": "CrowdStrike +17% (record $333M net new ARR, FY27 guide raised), Salesforce +21%, Okta +21%, Palo Alto +10%; Cloudflare rode the rotation to $302.87 at 10:37 ET, above its after-hours level. No Cloudflare-specific news; the next company catalyst is the Sep 9 Goldman fireside.",
+    "source": "https://www.investing.com/news/stock-market-news/crowdstrike-shares-jump-on-earnings-beat-raised-outlook-4877850",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-27",
+    "ticker": "SKHY",
+    "headline": "SK hynix breaks ground on $4B+ Indiana HBM packaging and R&D site",
+    "summary": "Purdue Research Park facility with a next-gen HBM packaging line; cleanroom from H2 2028, ~7,000 direct and indirect jobs, $458M CHIPS grant plus up to $500M loans. Puts capacity near Nvidia, Microsoft and Google; SK hynix holds ~58% of HBM revenue. Seoul close KRW 1,730,000 (+2.5%) after a +5.9% intraday high faded.",
+    "source": "https://www.investing.com/news/stock-market-news/sk-hynix-holds-groundbreaking-ceremony-for-4-billion-indiana-ai-chip-packaging-facility-4879737",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-27",
+    "ticker": "ENR",
+    "headline": "US order bars Chinese-linked grid equipment above 69 kV; Citi calls it a net positive for Siemens Energy",
+    "summary": "Executive order blocks import and installation of transformers, breakers, inverters, UPS, generators, turbines, battery storage and control systems from covered foreign entities (effectively China). Citi sees less competition and pricing room for Siemens Energy (moderate net positive) and Wartsila storage; Siemens' Charlotte plant delivers large transformers only from late 2027. Also supportive for GE Vernova as US incumbent.",
+    "source": "https://www.investing.com/news/stock-market-news/white-house-order-restricts-foreign-electrical-grid-equipment-citi-comments-93CH-4878697",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-27",
+    "ticker": "AAPL",
+    "headline": "Apple trims ~100 Siri and machine-learning roles as it rebuilds the assistant; stock flat at $313",
+    "summary": "Over 200 cuts across Vision Pro and Siri-related software, about 100 in the legacy Siri/ML teams, with the new on-device architecture kept. Apple sat out the Nvidia rally (-0.15% at 10:39 ET) ahead of the Sep 9 event; IDC expects 10M+ foldable iPhones in year one. The chip-tariff report is a margin risk on top of Cook's memory-cost warning.",
+    "source": "https://247wallst.com/investing/2026/08/27/apple-is-cutting-jobs-from-the-teams-fixing-siri-is-its-ai-comeback-already-in-trouble/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-08-27",
+    "ticker": "1211.HK",
+    "headline": "BYD -1.5% to HK$91.25 into Friday's interim results; flash-charging network hits 10,000 stations",
+    "summary": "Shares closed HK$91.25 on Aug 27 ahead of the H1 report on Aug 28. BYD's 1.5 MW flash-charging network reaches 10,000 stations on Aug 28 (from 5,000 in April; 20,000 targeted by year-end) and the Sealion 08 launches Sep 2. No verified sell-side consensus for H1 revenue or profit was found; the debate is record exports versus domestic price-war margins.",
+    "source": "https://cnevpost.com/2026/08/27/byd-flash-charging-10000-stations-aug-28-2026/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-08-27",
     "ticker": "MU",
     "headline": "Asia chip read-through: SK hynix +3.3%, Samsung +2.4%, Kioxia +5.9%, TSMC +0.6%; Micron +3.4% overnight",
     "summary": "Memory names led Asia on Thursday after Nvidia said memory pricing is extreme and headed higher into next year: SK hynix KRW 1,743,000 (+3.3%, up to +4.4% intraday), Samsung KRW 267,750 (+2.4%), Kioxia +5.9%, Kospi +1.8-2%; TSMC NT$2,430 (+0.6%), Advantest -2.2%, Nikkei -0.2%. US overnight: MU $970.20 (+3.4%), MRVL +3.9%, CRDO +3.6%, ALAB +2.8%, AVGO +1.3%, TSM ADR +1.5%, SMCI +2.6%.",
@@ -37,6 +205,14 @@
     "headline": "SK hynix +5% after hours and +3% in Seoul as Nvidia guides Q3 to ~$108B",
     "summary": "Nvidia's Q2: revenue $96.2B (+106%), data center $89B (+117%), Q3 guide $108B vs $104.2B consensus, FY28 growth ~70%, no China data-center sales assumed, memory prices cited as rising across the supply chain. SKHY ADR closed -1.0% at $158.02, then $165.92 (+5.0%) after hours; Seoul shares +3.3% at KRW 1,743,000 by 11:22 KST (high +5.9%), Samsung +2-3%, Kioxia +5.9%, Kospi +1.8-2%. BofA started the ADR at Buy, modelling ~KRW 100T of shareholder returns. Wage talks with the union still unsettled.",
     "source": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-rising-today-93CH-4878271",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-08-26",
+    "ticker": "ANTHROPIC",
+    "headline": "Anthropic signs $45B, six-year compute lease with Nscale in West Virginia",
+    "summary": "TechCrunch (citing a source; Bloomberg first reported) says Anthropic will rent $45B of capacity over six years at Nscale's West Virginia campus, built on Nvidia Vera Rubin systems and live from late 2027; other outlets put it at ~460 MW. It follows $10B with Volta, $5B with AMD, ~$1.25B/month from SpaceX and a 5 GW Amazon expansion in eight months. Neither company has formally confirmed.",
+    "source": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
     "impact": "positive"
   },
   {
@@ -461,182 +637,6 @@
     "headline": "Marvell Q2 preview: Q3 guide vs $3.03B consensus is the swing factor, not the $2.71B Q2 number",
     "summary": "Q2 FY27 consensus sits at $2.708B revenue (0.3% above the guide midpoint) and ~$0.93 EPS; the street wants Q3 guidance above $3.03B (+13% q/q) and higher FY27/FY28 targets. Google's 58.97M warrants at $206.58 vest one tranche per $500M of custom-product purchases, 240 tranches through FY2033.",
     "source": "https://www.tradingkey.com/analysis/stocks/us-stocks/262130808-marvell-mrvl-q2-earnings-q3-guidance-data-center-google-warrant-tradingkey",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-08-25",
-    "ticker": "ANTHROPIC",
-    "headline": "Claude Cowork now shares memory with Claude chat",
-    "summary": "Anthropic merged the memory system across Claude chat and Cowork, so project context given in one carries into the other. On by default for Free, Pro and Max on web, desktop and mobile; sensitive topics excluded unless users opt in. Same day, Anthropic put up $5M in grants for open-source wellbeing evaluations (applications close Sep 21).",
-    "source": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-08-25",
-    "ticker": "HOOD",
-    "headline": "Robinhood closes up 8.2% at $112.09 on crypto rebound and prediction-market note",
-    "summary": "Bitcoin briefly crossed $81,000 and a Bernstein note pointing to ~$240B of 2026 prediction-market volume (and $1T by 2030) pulled attention to Robinhood, now Kalshi's anchor partner with 1,000+ contracts listed. Volume 9.9M shares, roughly 3x normal.",
-    "source": "https://www.cryptotimes.io/2026/08/25/robinhood-stock-hood-rises-6-as-prediction-markets-draw-wall-street/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-08-25",
-    "ticker": "1211.HK",
-    "headline": "BYD to launch Sealion 08 flagship SUV on Sep 2, priced 230-280k yuan",
-    "summary": "Mid-to-large SUV in EV (up to 115 kWh, 900 km CLTC) and PHEV (275-300 km electric-only) forms, second-gen Blade battery and flash charging. The Sealion line did 227,415 units Jan-Jul, 10.2% of group sales. Shares closed HK$93.60 (+0.9%) ahead of Friday's interim results.",
-    "source": "https://cnevpost.com/2026/08/25/byd-to-launch-sealion-08-sept-2-2026/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-08-25",
-    "ticker": "AAPL",
-    "headline": "Apple Maps ads now showing to users in the US and Canada",
-    "summary": "Apple confirmed ads began appearing in Maps search results and a new Suggested Places section over the last few days, with delivery ramping to all users in the coming weeks. Ads carry a blue 'Ad' badge; Apple says location and ad data are not tied to the Apple Account. Adds a new services line alongside the M6 Mac mini / M5 Ultra Mac Studio pre-orders (ship Sep 22).",
-    "source": "https://9to5mac.com/2026/08/25/apple-maps-launches-ads-on-iphone-heres-whats-new/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-08-25",
-    "ticker": "SPOT",
-    "headline": "Spotify bundles fandom features into Premium; shares +2.7% to $552.57",
-    "summary": "SongDNA credits explorer, a weekly Concerts Near You playlist, lyric translation, music videos in the US/Canada, and 'Reserved' (two pre-sale tour tickets held for an artist's top fans, Premium 18+ US/Canada). No new paid tier announced. Spotify says 100M+ subscribers have used SongDNA.",
-    "source": "https://newsroom.spotify.com/2026-08-25/fandom-features-updates/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-08-25",
-    "ticker": "SKHY",
-    "headline": "SK hynix wage talks restart from scratch; new union wants cash-only bonus",
-    "summary": "The tentative deal (6.3% raise, 60% of bonus in shares) failed by 25 votes of 15,045 cast, 93.8% turnout. Korea JoongAng Daily says labor and management return to the table after two months of talks, while a new integrated union formed Aug 13 with 3,400+ members is demanding the old cash-only formula. No strike call yet.",
-    "source": "https://www.koreajoongangdaily.com/business/massive-bonus-narrow-loss-sk-hynix-union-vote-sends-wage-deal-back-to-square-one/12843228",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-08-25",
-    "ticker": "MACRO",
-    "headline": "Wall Street closes higher ahead of Nvidia and PCE as oil slides 5% and yields fall",
-    "summary": "The S&P 500 rose 0.32% to 7,677, the Nasdaq 0.66% to 26,151 and the Dow 0.30% to 53,577 as tech rebounded before Nvidia's Wednesday report; WTI fell 4.9% to $80.65, the 10-year yield dropped to 4.62% and the VIX eased to 15.5. AMD (+4.9%) led on a Raymond James upgrade, Moderna jumped 14%; after hours Intuit fell ~9% on weak guidance while Zoom beat and raised. July PCE and the second Q2 GDP estimate land at 22:30 AEST Wednesday.",
-    "source": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-030-4875930",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-08-25",
-    "ticker": "META",
-    "headline": "Ex-Meta data scientist: only ~0.2% of teens used Instagram's break reminder; Mosseri takes the stand",
-    "summary": "In the 29-state teen social-media addiction trial in Oakland, former Instagram wellbeing-team data scientist George Volichenko testified under subpoena that roughly two in 1,000 weekly teen users activated the opt-in 'take a break' tool and that leadership rejected making it default because of fear it would dent core engagement metrics; Meta's lawyer countered that 0.2% still meant hundreds of thousands of teens. Instagram head Adam Mosseri began his testimony late Tuesday (Reuters), with the trial expected to run six to eight weeks. META still closed up 2% at $570.05.",
-    "source": "https://thenextweb.com/news/meta-trial-volichenko-take-a-break-default-rejected",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-08-25",
-    "ticker": "ANTHROPIC",
-    "headline": "Anthropic to pitch IPO investors a $30T+ addressable market on a $65B run-rate, WSJ reports",
-    "summary": "The WSJ reports Anthropic will tell prospective IPO investors its total addressable market exceeds $30 trillion, topping SpaceX's $28.5T claim, derived from 'the full scope of work that could be completed with AI models'. Q2 revenue was $11.6B, the annualized run-rate reached $65B at end-July and 2028 revenue is projected at $190-200B; an S-1 is expected within weeks for a September/early-October debut at roughly a $2T valuation, potentially raising up to $100B.",
-    "source": "https://www.investing.com/news/stock-market-news/anthropic-claims-30t-ai-market-just-12x-the-entire-tech-sector-combined-4875750",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-08-25",
-    "ticker": "OPENAI",
-    "headline": "OpenAI data-center chief Chris Malone exits, fourth senior departure before planned 2027 IPO",
-    "summary": "The WSJ reports Chris Malone, OpenAI's head of data centers since March 2025 and a former Meta and Google infrastructure lead, left last week, following Fidji Simo, COO Brad Lightcap and CRO Denise Dresser; the Journal called the cluster of C-suite exits unusual even by pre-IPO standards, while Greg Brockman said 'I'm a constant, Sam is a constant'. Sachin Katti now oversees infrastructure as OpenAI raises projected compute spending to ~$750B through 2030 and signs a 10GW Ohio lease with SB Energy backed by up to $105B of Nvidia guarantees.",
-    "source": "https://www.investing.com/news/stock-market-news/openai-data-center-chief-exits-as-4-executives-leave-ahead-of-2027-ipo-4875869",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-08-25",
-    "ticker": "NVDA",
-    "headline": "Perplexity and Nvidia launch 'Portable Computer', a fully local AI agent for DGX Spark and RTX machines",
-    "summary": "Perplexity released Portable Computer, an agent platform that runs models, inference and security tooling entirely on local hardware (Nvidia DGX Spark or Linux boxes with 24GB+ RTX GPUs, Windows in September) for Pro, Max and Enterprise subscribers, consuming no billing credits for local work and asking permission before escalating to cloud frontier models. Co-developed with Nvidia, which calls it evidence that 'local AI reached an inflection point', it gives DGX Spark a flagship application; separately Nvidia is reported in talks to invest in Perplexity at a $30B+ valuation.",
-    "source": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-08-25",
-    "ticker": "NVDA",
-    "headline": "Morgan Stanley credit desk flags ~$200B of contingent financing exposure from Nvidia's AI ecosystem support",
-    "summary": "Initiating credit coverage with a neutral view, Morgan Stanley said Nvidia's balance-sheet support for customers via residual-value structures tied to a $500B+ partnership and revenue-sharing deals could reach ~$200B of total credit exposure by end-2028, including ~$170B of contingent and off-balance-sheet obligations, so 'conventional leverage increasingly understates the credit story'; it called the $1T+ of guided GPU/XPU financing the key overhang and told bond investors to be patient despite wider spreads.",
-    "source": "https://www.investing.com/news/stock-market-news/nvidias-ai-financing-push-brings-new-credit-risks-morgan-stanley-says-4875159",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-08-25",
-    "ticker": "GOOGL",
-    "headline": "Waymo confirms Munich as first EU city, public robotaxi service targeted for late 2027",
-    "summary": "Waymo said it will begin mapping and manual driving in Munich in the coming weeks with trained specialists behind the wheel, aiming to open fully autonomous ride-hailing to the public toward the end of 2027 in its third market outside the US; the German transport ministry and Bavarian government backed the move, with co-CEO Tekedra Mawakana calling Munich 'a world-class hub for mobility and engineering'.",
-    "source": "https://waymo.com/blog/2026/08/waymo-in-munich",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-08-25",
-    "ticker": "RKT",
-    "headline": "Rocket Money launches Rowan, an Anthropic-powered AI agent that acts on members' finances",
-    "summary": "Rocket Companies' Rocket Money unveiled Rowan, an AI agent 'powered by Anthropic' built on a stack of agents trained on Rocket Money data, which monitors finances over text, cancels subscriptions, renegotiates bills and automates savings transfers rather than just surfacing insights; it is available to select subscribers in a new Premium Plus tier with broader rollout later in 2026, a modest new monetization lever for the personal-finance funnel feeding Rocket's mortgage business.",
-    "source": "https://www.prnewswire.com/news-releases/rocket-moneys-rowan-rewrites-what-ai-can-do-in-personal-finance-302859522.html",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-08-25",
-    "ticker": "MU",
-    "headline": "BofA names Nvidia, Marvell and Micron among eight 'enhanced buy' chip stocks despite ~10% SOX downside risk",
-    "summary": "Vivek Arya told clients semiconductor risk/reward is positive despite three near-term headwinds (macro and data-center backlash, circular-financing concerns, heavy positioning), naming NVDA, MRVL, MU, LRCX, AMD, INTC, ADI and ON; BofA sees ~10% further downside risk to the SOX back to its pre-ChatGPT discount, which it calls unjustified given bullish Q4/Q1 seasonality and a 20x forward multiple against a ~70% earnings CAGR through 2028.",
-    "source": "https://www.investing.com/news/stock-market-news/these-8-chip-stocks-now-offer-enhanced-buying-opportunities-bofa-says-4874921",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-08-25",
-    "ticker": "ENR",
-    "headline": "Siemens Energy to separate Transformation of Industry into a standalone company, retain minority stake",
-    "summary": "In an ad-hoc release at 18:25 UTC, after the Xetra close, Siemens Energy said it is starting preparations for the legal and operational separation of Transformation of Industry (steam turbines, generators, compressors; ~17,000 staff, FY25 revenue EUR 5.7B at an 11.3% margin) into an independent industrial-energy-solutions company. It intends to deconsolidate the unit while keeping a meaningful minority stake, with options ranging from external investors to a capital-markets transaction; Goldman Sachs is running the process and private-equity interest has been reported at a valuation above EUR 10B. No price or timeline was given. Shares closed +2.7% at EUR 152.76 before the release.",
-    "source": "https://www.siemens-energy.com/global/en/home/press-releases/siemens-energy-is-starting-preparations-for-business-area-transf.html",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-08-25",
-    "ticker": "AVGO",
-    "headline": "OpenAI's Broadcom-co-designed Jalapeno chip claims to beat Nvidia GB300 on inference efficiency",
-    "summary": "OpenAI published first results for Jalapeno, the 700W inference ASIC it co-developed with Broadcom, claiming up to 1.9x throughput per kilowatt and 3.6x lower latency than Nvidia's 1,400W GB300. It is a public validation of Broadcom's custom-XPU model a week before its Sep 2 report, though Broadcom still closed -0.6% at $356.74 (after-hours $358.00) as the market stays focused on its AI-financing exposure; the claim also raises the bar for Nvidia's Wednesday print.",
-    "source": "https://stockanalysis.com/stocks/avgo/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-08-25",
-    "ticker": "SE",
-    "headline": "Sea Limited rallies 6.5% to $123.18 on no company news",
-    "summary": "Sea closed +6.5% at $123.18, its best day since the Aug 11 Q2 print, with no company-specific announcement; the move tracked a broad EM/Internet bid (MercadoLibre +2.5% to $1,997) and follow-through from post-earnings target hikes at BofA ($143), Barclays ($156), Morgan Stanley ($153) and Benchmark ($175). The stock remains ~36% below its 52-week high with consensus targets near $155.",
-    "source": "https://stockanalysis.com/stocks/se/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-08-25",
-    "ticker": "OPENAI",
-    "headline": "OpenAI publishes Jalapeño chip benchmarks claiming more throughput per kilowatt than Nvidia Blackwell",
-    "summary": "OpenAI released first results for its Broadcom-co-designed Jalapeño inference chip: SemiAnalysis's InferenceX benchmark shows more tokens per user and more throughput per kilowatt than current Blackwell systems, per TechCrunch. Hardware lead Richard Ho called it 'a very, very significant performance advance'. Limited deployment starts end-2026, scaling in 2027. Positive for OpenAI's cost curve, a narrative headwind for NVDA a day before earnings.",
-    "source": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-08-25",
-    "ticker": "MRVL",
-    "headline": "Marvell jumps 6% as Rosenblatt ($300) and Susquehanna ($265) raise targets on Google warrant deal",
-    "summary": "Marvell rose 6.7% in morning trade to ~$243, reversing Monday's 4.7% drop, after Rosenblatt initiated at Buy with a $300 target and Susquehanna lifted its target to $265 from $230, following Wells Fargo's move to $310. Analysts cite Alphabet's warrant for ~59M shares tied to roughly $120B of custom AI product business through 2033 (inference accelerators, storage controllers) and 25%+ sequential optical growth. Fiscal Q2 results land Thursday after the close (Fri ~6:30am AEST).",
-    "source": "https://www.investing.com/news/stock-market-news/why-is-marvell-technology-stock-surging-today-93CH-4875594",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-08-25",
-    "ticker": "NVDA",
-    "headline": "Nvidia snaps seven-day slide as Raymond James lifts target to $352 on server-CPU growth",
-    "summary": "Nvidia opened +1.4-1.5% at ~$211.66 after Raymond James raised its price target to $352 from $330, calling the CPU franchise 'strategically important' to Nvidia's ecosystem and forecasting a $201B AI server CPU market by 2030 (44% CAGR); the firm upgraded AMD to Strong Buy in the same note. Consensus for Wednesday's report is ~$92B revenue, with options pricing a ~5.4% move.",
-    "source": "https://www.investing.com/news/stock-market-news/top-semiconductor-stocks-for-ai-server-cpu-growth-says-raymond-james-93CH-4875588",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-08-25",
-    "ticker": "MACRO",
-    "headline": "Consumer confidence dips to 89.4 as expectations sink, but stocks open higher on falling oil and yields",
-    "summary": "The Conference Board index fell 0.8 points to 89.4 in August (90.2-90.3 expected); the Expectations Index dropped 5.8 points to 68.2 while Present Situation rose 6.8 to 121.2 as 'jobs plentiful' improved to 27%. Stocks shrugged it off: at 10:15 ET the S&P 500 was +0.2% at 7,670, Nasdaq +0.6%, Dow +0.1%, the 10-year eased to 4.65% and Brent fell 2.5% to $88. PCE lands Wednesday and Warsh speaks at Jackson Hole on Friday.",
-    "source": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-as-investors-brace-for-nvidia-results-fed-signals-4874359",
     "impact": "neutral"
   }
 ]
