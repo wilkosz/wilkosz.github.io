@@ -1,435 +1,135 @@
 {
-  "as_of": "2026-08-27",
+  "as_of": "2026-09-15",
   "events": [
     {
-      "key": "2026-08-26-crm-earnings",
-      "date": "2026-08-26",
-      "time": "after US close",
-      "ticker": "CRM",
-      "title": "Salesforce Q2 FY27 results (macro read)",
+      "key": "2026-09-16-fomc-decision",
+      "date": "2026-09-16",
+      "time": "14:00 ET statement, 14:30 ET presser (4:00am/4:30am AEST Thu)",
+      "ticker": "FED",
+      "title": "FOMC decision, Summary of Economic Projections and Chair Warsh press conference (meeting Sep 15-16)",
+      "type": "central_bank",
+      "why": "The rates catalyst of the fortnight: dot plot plus Warsh's first post-Jackson Hole presser decide whether a cut cycle starts; prices every long-duration position in the book.",
+      "link": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+    },
+    {
+      "key": "2026-09-16-us-retail-sales",
+      "date": "2026-09-16",
+      "time": "08:30 ET (22:30 AEST)",
+      "ticker": "MACRO",
+      "title": "US retail sales, August",
+      "type": "macro",
+      "why": "Consumer pulse lands hours before the FOMC statement the same day; feeds AMZN/MELI/SE reads and the soft-landing narrative.",
+      "link": "https://tradingeconomics.com/united-states/retail-sales"
+    },
+    {
+      "key": "2026-09-17-us-housing-claims",
+      "date": "2026-09-17",
+      "time": "08:30 ET claims + housing starts; 10:00 ET pending home sales",
+      "ticker": "MACRO",
+      "title": "US jobless claims, August housing starts, and NAR August pending home sales",
+      "type": "macro",
+      "why": "First rate-sensitive activity data after the FOMC; direct read for RKT and LDI volumes. Note: NAR's 2026 schedule shows no existing-home-sales release this window.",
+      "link": "https://tradingeconomics.com/united-states/housing-starts"
+    },
+    {
+      "key": "2026-09-18-boj-decision",
+      "date": "2026-09-18",
+      "time": "TBC (statement ~midday JST / ~13:00 AEST; meeting Sep 17-18)",
+      "ticker": "BOJ",
+      "title": "Bank of Japan monetary policy decision",
+      "type": "central_bank",
+      "why": "Two days after the FOMC; any hike or JGB shift moves the yen carry trade that funds global tech positioning.",
+      "link": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm"
+    },
+    {
+      "key": "2026-09-18-triple-witching",
+      "date": "2026-09-18",
+      "time": "US cash session (expiries at open and close)",
+      "ticker": "MACRO",
+      "title": "Triple witching: quarterly index futures/options and stock-option expiry plus S&P rebalance",
+      "type": "other",
+      "why": "Biggest volume day of the quarter two days after the FOMC; can exaggerate moves in crowded AI names without news.",
+      "link": "https://www.investopedia.com/terms/t/triplewitchinghour.asp"
+    },
+    {
+      "key": "2026-09-22-treasury-2-5-7y-auctions",
+      "date": "2026-09-22",
+      "time": "TBC",
+      "ticker": "MACRO",
+      "title": "US Treasury 2-year (Sep 22), 5-year (Sep 23) and 7-year (Sep 24) note auctions - standard month-end cycle, amounts announced Sep 17",
+      "type": "macro",
+      "why": "First coupon supply test of the post-FOMC curve; a tail would pressure long-duration tech multiples. Dates follow the standard cycle, per TreasuryDirect upcoming-auctions page (13:00 ET typical close).",
+      "link": "https://www.treasurydirect.gov/auctions/upcoming/"
+    },
+    {
+      "key": "2026-09-23-meta-connect",
+      "date": "2026-09-23",
+      "time": "Sep 23-24 (keynote day 1, PT)",
+      "ticker": "META",
+      "title": "Meta Connect 2026: new smart glasses teased, Llama and AI roadmap",
+      "type": "product",
+      "why": "Holding; glasses/AI-device traction and any capex or superintelligence-lab commentary move META and the AI-infra basket.",
+      "link": "https://www.meta.com/connect/"
+    },
+    {
+      "key": "2026-09-24-cost-earnings",
+      "date": "2026-09-24",
+      "time": "TBC",
+      "ticker": "COST",
+      "title": "Costco Q4 FY2026 results (expected date - typically last Thursday of September; not yet confirmed by Costco IR)",
       "type": "earnings",
-      "why": "Enterprise software/AI-agent demand signal for GOOGL/AMZN cloud and the broader SaaS tape (NET, HOOD multiples).",
-      "link": "https://investor.salesforce.com/events-and-presentations/default.aspx"
+      "why": "Macro read on the US consumer; August comps +8.4% set a high bar, and membership/traffic colour frames retail into the holidays.",
+      "link": "https://investor.costco.com/"
     },
     {
-      "key": "2026-08-26-au-monthly-cpi",
-      "date": "2026-08-26",
-      "time": "11:30 AEST (released)",
+      "key": "2026-09-24-us-claims-new-home-sales",
+      "date": "2026-09-24",
+      "time": "08:30 ET claims; 10:00 ET new home sales",
       "ticker": "MACRO",
-      "title": "Australia CPI July: 3.5% y/y (vs 3.2% consensus, 3.8% prior); trimmed mean 3.6%; +1.0% m/m original, +0.6% s.a.",
+      "title": "US jobless claims and August new home sales",
       "type": "macro",
-      "why": "Upside surprise on fuel and travel; markets now price RBA hike risk into the 28-29 Sep meeting, supporting AUD and weighing on the AUD-translated US book.",
-      "link": "https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/latest-release"
+      "why": "Labour and housing checkpoints in the post-FOMC drift; claims trend decides whether the cut narrative holds into the PCE print.",
+      "link": "https://tradingeconomics.com/united-states/new-home-sales"
     },
     {
-      "key": "2026-08-26-us-gdp-pce",
-      "date": "2026-08-26",
-      "time": "08:30 ET",
+      "key": "2026-09-25-us-durables-umich",
+      "date": "2026-09-25",
+      "time": "08:30 ET durables; 10:00 ET UMich final",
       "ticker": "MACRO",
-      "title": "US Q2 GDP second estimate + July Personal Income & Outlays (PCE inflation)",
+      "title": "US durable goods orders (August) and University of Michigan sentiment, final September",
       "type": "macro",
-      "why": "Core PCE is the Fed's preferred gauge and lands two days before Warsh's Jackson Hole keynote; sets the rate backdrop for long-duration tech.",
+      "why": "Core capital goods orders are the cleanest non-AI capex read (TER, Keyence comps); UMich prelim printed a weak 47.8 with sticky inflation expectations.",
+      "link": "https://tradingeconomics.com/united-states/durable-goods-orders"
+    },
+    {
+      "key": "2026-09-29-rba-decision",
+      "date": "2026-09-29",
+      "time": "14:30 AEST",
+      "ticker": "RBA",
+      "title": "RBA Monetary Policy Board decision (meeting Sep 28-29)",
+      "type": "central_bank",
+      "why": "After July CPI surprised at 3.5% markets price live hike risk; the AUD move translates the whole US book on the morning after.",
+      "link": "https://www.rba.gov.au/schedules-events/board-meeting-schedules.html"
+    },
+    {
+      "key": "2026-09-30-us-pce-gdp3",
+      "date": "2026-09-30",
+      "time": "08:30 ET (22:30 AEST)",
+      "ticker": "MACRO",
+      "title": "August PCE inflation + Q2 GDP third estimate (both moved to Sep 30 per BEA schedule; one day past this window, kept for visibility)",
+      "type": "macro",
+      "why": "The Fed's preferred inflation gauge is the first big test of whatever the Sep 16 dots promised; sets the tone into October.",
       "link": "https://www.bea.gov/news/schedule"
     },
     {
-      "key": "2026-08-26-us-treasury-5y-auction",
-      "date": "2026-08-26",
-      "time": "13:00 ET (2y FRN 11:30 ET)",
-      "ticker": "MACRO",
-      "title": "US Treasury $70B 5-year note auction (plus $28B 2-year FRN)",
-      "type": "macro",
-      "why": "Belly-of-the-curve demand check hours before NVDA prints and the same morning as GDP/PCE; a tail would lift yields into Warsh's Friday keynote. Amounts per TreasuryDirect; 13:00 ET is the standard note auction close.",
-      "link": "https://www.treasurydirect.gov/auctions/upcoming/"
-    },
-    {
-      "key": "2026-08-26-nvda-earnings",
-      "date": "2026-08-26",
-      "time": "after US close (14:00 PT call)",
-      "ticker": "NVDA",
-      "title": "NVIDIA Q2 FY2027 results and call",
-      "type": "earnings",
-      "why": "Largest holding and the AI-capex bellwether; data-center guide and Rubin ramp commentary move NVDA, AVGO, MRVL, TSM, MU, ALAB and SKHY together.",
-      "link": "https://investor.nvidia.com/events-and-presentations/events-and-presentations/default.aspx"
-    },
-    {
-      "key": "2026-08-27-jackson-hole-opens",
-      "date": "2026-08-27",
-      "time": "evening MT (Aug 27-29)",
-      "ticker": "FED",
-      "title": "Kansas City Fed Jackson Hole Economic Policy Symposium opens; theme 'Financial Innovation: Implications for Payments and Policy'",
-      "type": "conference",
-      "why": "Payments/stablecoin-focused theme is directly relevant to FIGR, HOOD, AXOS and Stripe; sets global rate expectations into the Sep 15-16 FOMC.",
-      "link": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/"
-    },
-    {
-      "key": "2026-08-27-au-capex-q2",
-      "date": "2026-08-27",
-      "time": "11:30 AEST",
-      "ticker": "MACRO",
-      "title": "ABS Private New Capital Expenditure, June quarter 2026 (actual and expected capex)",
-      "type": "macro",
-      "why": "Feeds the Sep 2 GDP print and the RBA's read on business investment ahead of the Sep 28-29 meeting.",
-      "link": "https://www.abs.gov.au/statistics/economy/business-indicators/private-new-capital-expenditure-and-expected-expenditure-australia"
-    },
-    {
-      "key": "2026-08-27-us-treasury-7y-auction",
-      "date": "2026-08-27",
-      "time": "13:00 ET",
-      "ticker": "MACRO",
-      "title": "US Treasury $44B 7-year note auction",
-      "type": "macro",
-      "why": "Completes the 2/5/7-year cycle before Jackson Hole; weak coverage would pressure long-duration tech multiples. Amount per TreasuryDirect; 13:00 ET is the standard note auction close.",
-      "link": "https://www.treasurydirect.gov/auctions/upcoming/"
-    },
-    {
-      "key": "2026-08-27-mrvl-earnings",
-      "date": "2026-08-27",
-      "time": "after US close (13:45 PT / 16:45 ET call)",
-      "ticker": "MRVL",
-      "title": "Marvell Q2 FY2027 results",
-      "type": "earnings",
-      "why": "Custom-silicon and optics read-through for the AI networking basket (AVGO, ALAB) one day after NVDA; Marvell also confirmed an Investor Day on Oct 6, 2026 in New York (outside window).",
-      "link": "https://investor.marvell.com/news-events/press-releases/detail/1029/marvell-technology-inc-announces-conference-call-to-review-second-quarter-of-fiscal-year-2027-financial-results-announces-investor-day-on-october-6-2026"
-    },
-    {
-      "key": "2026-08-27-samsung-galaxy-event",
-      "date": "2026-08-27",
-      "time": "12:00 UTC (22:00 AEST / 08:00 ET), livestream",
-      "ticker": "Samsung",
-      "title": "Samsung Galaxy Event August 2026: Galaxy S26 FE expected (Exynos 2500, ~$799)",
-      "type": "product",
-      "why": "Minor: mid-range handset refresh; only relevance is memory content and pricing signal for MU/SKHY into a tight DRAM market.",
-      "link": "https://www.engadget.com/2240584/samsung-galaxy-event-august-27/"
-    },
-    {
-      "key": "2026-08-28-byd-interim-results",
-      "date": "2026-08-28",
-      "time": "TBC (HK, board meeting 28 Aug; typically after HK close)",
-      "ticker": "BYD",
-      "title": "BYD (1211.HK) 2026 interim results: board meeting confirmed for 28 Aug 2026 (six months to 30 Jun)",
-      "type": "earnings",
-      "why": "Date now confirmed via BYD's HKEX board-meeting notice (reported by TipRanks/Globe and Mail); release time still not published. Margin vs record exports is the key read for CATL (3750) and the China EV complex.",
-      "link": "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/3847625/byd-sets-late-august-board-meeting-to-approve-2026-interim-results/"
-    },
-    {
-      "key": "2026-08-28-bowman-fireside",
-      "date": "2026-08-28",
-      "time": "12:45 ET",
-      "ticker": "FED",
-      "title": "Fed Vice Chair for Supervision Bowman fireside chat (virtual)",
-      "type": "central_bank",
-      "why": "Bank supervision and capital comments matter for AXOS, HOOD, FIGR, RKT and LDI.",
-      "link": "https://www.federalreserve.gov/newsevents/2026-august.htm"
-    },
-    {
-      "key": "2026-08-28-warsh-keynote",
-      "date": "2026-08-28",
-      "time": "10:00 ET",
-      "ticker": "FED",
-      "title": "Fed Chair Kevin Warsh keynote at Jackson Hole (livestream youtube.com/KansasCityFed)",
-      "type": "central_bank",
-      "why": "The single biggest rates catalyst of the fortnight; any signal on September easing or balance-sheet policy reprices growth equities and the USD.",
-      "link": "https://www.federalreserve.gov/newsevents/2026-august.htm"
-    },
-    {
-      "key": "2026-08-28-bls-benchmark-revision",
-      "date": "2026-08-28",
-      "time": "10:00 ET",
-      "ticker": "MACRO",
-      "title": "BLS preliminary benchmark revision to payrolls (Mar 2026)",
-      "type": "macro",
-      "why": "Last year's revision was -911K; a large negative print again would strengthen the case for cuts and weaken the labour backdrop for credit names.",
-      "link": "https://www.bls.gov/schedule/news_release/"
-    },
-    {
-      "key": "2026-08-28-umich-sentiment-final",
-      "date": "2026-08-28",
-      "time": "10:00 ET",
-      "ticker": "MACRO",
-      "title": "University of Michigan consumer sentiment, final August",
-      "type": "macro",
-      "why": "Inflation-expectations component feeds the Fed narrative the same morning as the Warsh keynote.",
-      "link": "http://www.sca.isr.umich.edu/"
-    },
-    {
-      "key": "2026-08-31-china-nbs-pmi",
-      "date": "2026-08-31",
-      "time": "TBC (CST)",
-      "ticker": "CHINA",
-      "title": "China NBS manufacturing and non-manufacturing PMI (August)",
-      "type": "macro",
-      "why": "Official activity gauge for BABA, SE, CATL/BYD demand and for AUD via commodities; date per TradingEconomics (NBS calendar page not reachable).",
-      "link": "https://tradingeconomics.com/china/calendar"
-    },
-    {
-      "key": "2026-09-01-china-ratingdog-mfg-pmi",
-      "date": "2026-09-01",
-      "time": "TBC (CST)",
-      "ticker": "CHINA",
-      "title": "RatingDog (ex-Caixin) China manufacturing PMI (August)",
-      "type": "macro",
-      "why": "Private-sector cross-check on the NBS print for BABA/SE/CATL exposure.",
-      "link": "https://tradingeconomics.com/china/calendar"
-    },
-    {
-      "key": "2026-09-01-crdo-earnings",
-      "date": "2026-09-01",
-      "time": "after US close (14:00 PT call)",
-      "ticker": "CRDO",
-      "title": "Credo Technology Q1 FY2027 results (quarter ended Aug 1)",
-      "type": "earnings",
-      "why": "Closest public comp to Astera Labs and Marvell's connectivity lines; hyperscaler AEC/optical demand and customer concentration read.",
-      "link": "https://investors.credosemi.com/news-events/news/news-details/2026/Credo-Schedules-First-Quarter-Fiscal-Year-2027-Financial-Results-Conference-Call/default.aspx"
-    },
-    {
-      "key": "2026-09-01-dell-earnings",
-      "date": "2026-09-01",
-      "time": "after US close (15:30 CDT call)",
-      "ticker": "DELL",
-      "title": "Dell Technologies Q2 FY27 results (macro read)",
-      "type": "earnings",
-      "why": "AI-server backlog and shipment numbers are a direct demand check on NVDA/AVGO/MRVL/MU/SKHY.",
-      "link": "https://investors.delltechnologies.com/news-events/upcoming-events"
-    },
-    {
-      "key": "2026-09-01-us-ism-manufacturing",
-      "date": "2026-09-01",
-      "time": "10:00 ET",
-      "ticker": "MACRO",
-      "title": "ISM Manufacturing PMI (August)",
-      "type": "macro",
-      "why": "New orders and prices-paid components are the cleanest read on the industrial/AI-infrastructure build (GEV, BE, TER, ENR); time per TradingEconomics.",
-      "link": "https://tradingeconomics.com/united-states/calendar"
-    },
-    {
-      "key": "2026-09-01-us-jolts",
-      "date": "2026-09-01",
-      "time": "10:00 ET",
-      "ticker": "MACRO",
-      "title": "JOLTS job openings (July)",
-      "type": "macro",
-      "why": "First labour print of the week that ends with payrolls; openings trend informs Fed cut odds.",
-      "link": "https://www.bls.gov/schedule/2026/09_sched.htm"
-    },
-    {
-      "key": "2026-09-02-avgo-earnings",
-      "date": "2026-09-02",
-      "time": "after US close (17:00 ET call)",
-      "ticker": "AVGO",
-      "title": "Broadcom Q3 FY2026 results and call",
-      "type": "earnings",
-      "why": "Custom AI accelerator (XPU) and networking guide is the key watchlist catalyst and a read-across to MRVL, ALAB and NVDA.",
-      "link": "https://investors.broadcom.com/events/event-details/q3-2026-broadcom-earnings-conference-call"
-    },
-    {
-      "key": "2026-09-02-fed-beige-book",
-      "date": "2026-09-02",
-      "time": "14:00 ET",
-      "ticker": "FED",
-      "title": "Fed Beige Book",
-      "type": "central_bank",
-      "why": "Last scheduled Fed communication before the pre-FOMC blackout ahead of the 15-16 Sep meeting; regional colour on AI data-centre capex and consumer credit.",
-      "link": "https://www.federalreserve.gov/newsevents/2026-september.htm"
-    },
-    {
-      "key": "2026-09-02-hpe-earnings",
-      "date": "2026-09-02",
-      "time": "after US close (15:30 CT / 16:30 ET call)",
-      "ticker": "HPE",
-      "title": "Hewlett Packard Enterprise Q3 FY2026 results (quarter ended Jul 31)",
-      "type": "earnings",
-      "why": "AI-server backlog, Blackwell shipments and server margins alongside Dell (Sep 1) and Broadcom (same night); demand read for NVDA, TSM, MU.",
-      "link": "https://www.businesswire.com/news/home/20260812715641/en/HPE-to-Present-Live-Audio-Webcast-of-Fiscal-2026-Third-Quarter-Earnings-Conference-Call"
-    },
-    {
-      "key": "2026-09-02-au-gdp-q2",
-      "date": "2026-09-02",
-      "time": "11:30 AEST",
-      "ticker": "MACRO",
-      "title": "Australian National Accounts: GDP June quarter 2026",
-      "type": "macro",
-      "why": "Growth print that shapes the RBA's 28-29 Sep decision and AUD.",
-      "link": "https://www.abs.gov.au/statistics/economy/national-accounts/australian-national-accounts-national-income-expenditure-and-product/latest-release"
-    },
-    {
-      "key": "2026-09-02-us-adp",
-      "date": "2026-09-02",
-      "time": "08:15 ET",
-      "ticker": "MACRO",
-      "title": "ADP private payrolls (August)",
-      "type": "macro",
-      "why": "Preview of Friday's jobs report; time per TradingEconomics.",
-      "link": "https://tradingeconomics.com/united-states/calendar"
-    },
-    {
-      "key": "2026-09-02-semicon-taiwan",
-      "date": "2026-09-02",
-      "time": "all day CST (Sep 2-4; forums from Aug 31)",
-      "ticker": "TSM",
-      "title": "SEMICON Taiwan 2026, Taipei Nangang Exhibition Center (Sep 2-4)",
-      "type": "conference",
-      "why": "Advanced packaging (CoWoS/panel-level), HBM and 2nm supply-chain commentary from TSMC ecosystem vendors; read-across for TSM, MU, SKHY, AVGO and NVDA capacity constraints.",
-      "link": "https://en.sedaily.com/finance/2026/08/26/lg-chem-to-showcase-ai-chip-packaging-materials-at-semicon"
-    },
-    {
-      "key": "2026-09-03-china-ratingdog-services-pmi",
-      "date": "2026-09-03",
-      "time": "TBC (CST)",
-      "ticker": "CHINA",
-      "title": "RatingDog China services PMI (August)",
-      "type": "macro",
-      "why": "Consumer-services momentum check for BABA and SE.",
-      "link": "https://tradingeconomics.com/china/calendar"
-    },
-    {
-      "key": "2026-09-03-cien-earnings",
-      "date": "2026-09-03",
-      "time": "before US open (08:30 ET call)",
-      "ticker": "CIEN",
-      "title": "Ciena fiscal Q3 2026 results (guide $1.625B +/- $50M)",
-      "type": "earnings",
-      "why": "Optical/data-centre interconnect bellwether for hyperscaler capex; cross-read for MRVL, AVGO, ALAB.",
-      "link": "https://www.ciena.com/about/newsroom/press-releases/ciena-announces-reporting-date-and-web-broadcast-for-fiscal-third-quarter-2026-results"
-    },
-    {
-      "key": "2026-09-03-us-ism-services",
-      "date": "2026-09-03",
-      "time": "10:00 ET",
-      "ticker": "MACRO",
-      "title": "ISM Services PMI (August); also Q2 productivity (revised) and July trade balance at 08:30 ET",
-      "type": "macro",
-      "why": "Services activity and prices set the inflation tone into CPI on Sep 11; time per TradingEconomics.",
-      "link": "https://tradingeconomics.com/united-states/calendar"
-    },
-    {
-      "key": "2026-09-04-us-jobs-report",
-      "date": "2026-09-04",
-      "time": "08:30 ET",
-      "ticker": "MACRO",
-      "title": "Employment Situation (August payrolls, unemployment rate)",
-      "type": "macro",
-      "why": "Final jobs print before the Sep 15-16 FOMC; decides whether the market prices a cut and drives the USD/AUD cross.",
-      "link": "https://www.bls.gov/schedule/2026/09_sched.htm"
-    },
-    {
-      "key": "2026-09-07-us-labor-day",
-      "date": "2026-09-07",
-      "time": "all day",
-      "ticker": "MACRO",
-      "title": "US Labor Day: NYSE/Nasdaq closed",
-      "type": "other",
-      "why": "No US cash session; ASX trades normally, so AU-listed exposure moves without a US lead.",
-      "link": "https://www.nyse.com/markets/hours-calendars"
-    },
-    {
-      "key": "2026-09-08-china-trade",
-      "date": "2026-09-08",
-      "time": "TBC (CST)",
-      "ticker": "CHINA",
-      "title": "China trade balance, exports and imports (August)",
-      "type": "macro",
-      "why": "Export strength and chip/commodity import data inform CATL/BYD, TSM and AUD; date per TradingEconomics.",
-      "link": "https://tradingeconomics.com/china/calendar"
-    },
-    {
-      "key": "2026-09-08-gs-communacopia-meli",
-      "date": "2026-09-08",
-      "time": "TBC (SF, PT)",
-      "ticker": "MELI",
-      "title": "Goldman Sachs Communacopia + Technology Conference begins (Sep 8-10); MercadoLibre presents Sep 8 (Cloudflare Sep 9, 10:10 PT, listed separately)",
-      "type": "conference",
-      "why": "Major sell-side tech conference where holdings/watchlist names give intra-quarter updates; MELI fintech/credit commentary and NET AI-traffic commentary are the ones to listen for.",
-      "link": "https://investor.mercadolibre.com/news-and-events"
-    },
-    {
-      "key": "2026-09-09-apple-event",
-      "date": "2026-09-09",
-      "time": "10:00 PT (03:00 AEST Sep 10)",
-      "ticker": "AAPL",
-      "title": "Apple 'Surprise and Shine' event: iPhone 18 Pro / Pro Max and foldable iPhone Ultra expected (invite sent Aug 26)",
-      "type": "product",
-      "why": "Loved company and first launch under CEO John Ternus; TSM 2nm A20 volumes, memory content and iPhone Ultra pricing set the non-AI demand backdrop for TSM and MU.",
-      "link": "https://www.apple.com/apple-events/"
-    },
-    {
-      "key": "2026-09-09-us-treasury-10y-auction",
-      "date": "2026-09-09",
-      "time": "13:00 ET",
-      "ticker": "MACRO",
-      "title": "US Treasury 10-year note auction (3-year on Sep 8, 30-year on Sep 10; amounts announced Sep 3)",
-      "type": "macro",
-      "why": "Long-end demand check the same day as the expected Apple event and NET's Communacopia slot, two days before CPI; time per TradingEconomics (17:00 GMT).",
-      "link": "https://tradingeconomics.com/united-states/calendar"
-    },
-    {
-      "key": "2026-09-09-gs-communacopia-net",
-      "date": "2026-09-09",
-      "time": "10:10 PT",
-      "ticker": "NET",
-      "title": "Cloudflare fireside chat at Goldman Sachs Communacopia + Technology Conference (San Francisco)",
-      "type": "conference",
-      "why": "Intra-quarter update on AI-crawler/agent traffic, Workers AI and large-enterprise deal momentum; first management commentary since the Aug 6 Q2 print that sent NET up 17%. Slot carried forward from the prior calendar note (Sep 9, 10:10 PT); Cloudflare's IR events page did not render a listing on this pass, so confirm the webcast link on the day.",
-      "link": "https://cloudflare.net/events-and-presentations/default.aspx"
-    },
-    {
-      "key": "2026-09-10-adbe-earnings",
-      "date": "2026-09-10",
+      "key": "2026-09-30-mu-earnings",
+      "date": "2026-09-30",
       "time": "TBC (expected after US close)",
-      "ticker": "ADBE",
-      "title": "Adobe Q3 FY2026 results (macro read; date per Investing.com, not yet confirmed by Adobe)",
+      "ticker": "MU",
+      "title": "Micron fiscal Q4 2026 results (date per Aug 26 company notice; one day past this window, kept for visibility)",
       "type": "earnings",
-      "why": "Read on whether AI is monetising or cannibalising seat-based software after the Salesforce beat; sets the SaaS tape for NET and HOOD multiples the day before CPI.",
-      "link": "https://www.investing.com/equities/adobe-sys-inc-earnings"
-    },
-    {
-      "key": "2026-09-10-us-ppi",
-      "date": "2026-09-10",
-      "time": "08:30 ET",
-      "ticker": "MACRO",
-      "title": "US PPI August and weekly jobless claims (30-year bond auction 13:00 ET); CPI follows Sep 11, outside this window",
-      "type": "macro",
-      "why": "Last inflation input before CPI on Sep 11 and the Sep 15-16 FOMC; PPI components feed the Fed's PCE estimate. Date/time per TradingEconomics (bls.gov schedule not reachable).",
-      "link": "https://tradingeconomics.com/united-states/calendar"
-    },
-    {
-      "key": "2026-09-10-ecb-decision",
-      "date": "2026-09-10",
-      "time": "TBC (decision usually 14:15 CET / 22:15 AEST, press conference 14:45 CET)",
-      "ticker": "MACRO",
-      "title": "ECB Governing Council monetary policy decision and Lagarde press conference (meeting hosted by the Bundesbank in Berlin, Sep 9-10)",
-      "type": "central_bank",
-      "why": "Falls one day before US CPI and five days before the Sep 15-16 FOMC; ECB officials have been signalling a possible hike, so it sets the global rates tone for the week.",
-      "link": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html"
-    },
-    {
-      "key": "2026-09-10-orcl-earnings",
-      "date": "2026-09-10",
-      "time": "TBC (expected after US close; date not yet confirmed by Oracle)",
-      "ticker": "ORCL",
-      "title": "Oracle Q1 FY2027 results (macro read; Sep 10 per Seeking Alpha preview, Oracle has not announced the date)",
-      "type": "earnings",
-      "why": "Oracle's RPO ($638B, +363%) is the backlog leg of the capex-vs-backlog bellwether; OCI growth, capex and OpenAI-contract commentary read across to NVDA, AVGO, MRVL and the neocloud credit picture.",
-      "link": "https://investor.oracle.com/investor-news/default.aspx"
-    },
-    {
-      "key": "2026-09-11-us-cpi",
-      "date": "2026-09-11",
-      "time": "08:30 ET",
-      "ticker": "MACRO",
-      "title": "US CPI August (headline and core)",
-      "type": "macro",
-      "why": "Last inflation print before the Sep 15-16 FOMC; July CPI was 3.4% y/y and July PCE 3.7%, so a hot number would price out a September cut. Date/time per TradingEconomics (bls.gov schedule returned 403 on this pass).",
-      "link": "https://tradingeconomics.com/united-states/inflation-cpi"
-    },
-    {
-      "key": "2026-09-11-umich-sentiment-prelim",
-      "date": "2026-09-11",
-      "time": "TBC",
-      "ticker": "MACRO",
-      "title": "University of Michigan consumer sentiment, preliminary September",
-      "type": "macro",
-      "why": "Inflation-expectations read the same morning as CPI; date follows the usual second-Friday pattern (UMich site so far lists only the Aug 28 final), and the Fed is in pre-FOMC blackout so no speakers that day.",
-      "link": "http://www.sca.isr.umich.edu/"
+      "why": "Holding and the memory-cycle bellwether: first management read on 4Q26 DRAM contract talks (guided to only +3-8%) and 2027 HBM4 pricing.",
+      "link": "https://investors.micron.com/events-and-presentations"
     }
   ]
 }
