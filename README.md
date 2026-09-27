@@ -42,6 +42,9 @@ From this directory in Claude Code:
 /loop 24h /asset-hunt            # re-run daily
 ```
 
+Both commit and push to `main` on their own - they don't stop to ask, because they run
+unattended and the site is only useful once it's live.
+
 Skills are discovered when a session starts, so run these from a fresh session (or use the
 long-form prompt: "read .claude/skills/asset-hunt/SKILL.md and follow it").
 

@@ -174,6 +174,7 @@ shrinks it to 400px and commits it to `img/finds/`. `photo_file` wins if you sen
    git commit -m "hunt: $(date -u +'%Y-%m-%d %H:%M') UTC"
    git push origin main
    ```
+   Always push, never ask first - the owner has standing authorization on this repo.
    If push is rejected, `git pull --rebase origin main` and push again.
 
 7. **Report** in 5-10 lines: best find per want with price and distance, what sold, whether

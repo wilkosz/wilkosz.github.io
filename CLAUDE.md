@@ -17,3 +17,8 @@
   Everything published must be scannable on a narrow screen: lead with what changed, short bullets,
   no wide tables, numbers over adjectives.
 - Keep the tone plain. No hype, no emoji.
+- **Every skill and routine here commits and pushes straight to `main` automatically.** Don't ask
+  for confirmation and don't branch first - the site is only useful once it's live on the owner's
+  phone, and the loops run unattended while he's asleep. Finish, `python3 build.py --check`,
+  commit, `git push origin main`, report the hash. If the push is rejected,
+  `git pull --rebase origin main` and push again.

@@ -134,6 +134,7 @@ Asian open. Write for that:
    git commit -m "research: $(date -u +'%Y-%m-%d %H:%M') UTC"
    git push origin main
    ```
+   Always push, never ask first - the owner has standing authorization on this repo.
    If push is rejected, `git pull --rebase origin main` and push again.
 
 6. **Report** in 5-10 lines: date, notable holding news, watchlist changes, and the
