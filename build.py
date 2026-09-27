@@ -19,6 +19,8 @@ from datetime import datetime, timedelta, timezone
 ROOT = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(ROOT, "data")
 RESEARCH = os.path.join(ROOT, "research")
+HUNT = os.path.join(ROOT, "hunt")
+BUYS = os.path.join(ROOT, "buys")
 
 SECTORS = ("AI", "Internet", "Machinery", "Energy")
 TAKES = ("hold", "add", "trim", "watch")
@@ -28,6 +30,9 @@ IMPACTS = ("positive", "negative", "neutral")
 TRENDS = ("up", "flat", "down")
 SIGNALS = ("bullish", "neutral", "bearish")
 EVENT_TYPES = ("earnings", "macro", "central_bank", "product", "conference", "other")
+WANT_STATUSES = ("hunting", "paused", "done")
+VERDICTS = ("strong", "decent", "stretch")
+FIND_STATUSES = ("live", "sold", "gone")
 CALENDAR_DAYS = 14
 MAX_NEWS_ON_PAGE = 60
 
@@ -57,13 +62,66 @@ def money(x):
     return "$%s" % format(x, ",.2f")
 
 
+def aud(x):
+    """Whole-dollar AUD, for buy-list items. (Holdings never show dollars.)"""
+    if x is None:
+        return "price TBC"
+    try:
+        return "$%s" % format(int(round(float(x))), ",d")
+    except (TypeError, ValueError):
+        return e(x)
+
+
+def band(w):
+    lo, hi = w.get("price_min"), w.get("price_max")
+    if lo is None and hi is None:
+        return "open on price"
+    if lo is None:
+        return "up to %s" % aud(hi)
+    if hi is None:
+        return "from %s" % aud(lo)
+    return "%s to %s" % (aud(lo), aud(hi))
+
+
+def where(w, bases):
+    base = bases.get(w.get("base"), {}).get("label") or w.get("base") or "anywhere"
+    return "within %skm of %s" % (e(w.get("max_km", "?")), e(base))
+
+
 # ---------------------------------------------------------------- validation
 def fail(msg):
     print("INVALID: " + msg, file=sys.stderr)
     sys.exit(1)
 
 
-def validate(profile, holdings, loves, status, watchlist, news, indicators=None, calendar=None):
+def validate(profile, holdings, loves, status, watchlist, news, indicators=None, calendar=None,
+             wants=None, finds=None):
+    want_keys = set()
+    for w in (wants or {}).get("wants", []):
+        for k in ("key", "title", "short", "status", "base", "max_km"):
+            if k not in w:
+                fail("wants.json %s missing %r" % (w.get("key"), k))
+        if w["status"] not in WANT_STATUSES:
+            fail("wants.json %s status must be one of %s" % (w["key"], WANT_STATUSES))
+        if w["base"] not in (wants or {}).get("bases", {}):
+            fail("wants.json %s base %r not in bases" % (w["key"], w["base"]))
+        if w["key"] in want_keys:
+            fail("wants.json duplicate key %r" % w["key"])
+        want_keys.add(w["key"])
+    seen_finds = set()
+    for f in (finds or {}).get("finds", []):
+        for k in ("key", "want", "title", "url", "source"):
+            if k not in f:
+                fail("finds.json %s missing %r" % (f.get("key"), k))
+        if f["want"] not in want_keys:
+            fail("finds.json %s references unknown want %r" % (f["key"], f["want"]))
+        if f.get("verdict") and f["verdict"] not in VERDICTS:
+            fail("finds.json %s verdict must be one of %s" % (f["key"], VERDICTS))
+        if f.get("status", "live") not in FIND_STATUSES:
+            fail("finds.json %s status must be one of %s" % (f["key"], FIND_STATUSES))
+        if f["key"] in seen_finds:
+            fail("finds.json duplicate key %r" % f["key"])
+        seen_finds.add(f["key"])
     for ev in (calendar or {}).get("events", []):
         for k in ("key", "date", "time", "ticker", "title", "type", "why"):
             if k not in ev:
@@ -143,6 +201,7 @@ def render_nav():
         ("#bellwethers", "ai bellwethers"),
         ("#calendar", "next fortnight"),
         ("#love", "companies i love"),
+        ("#gear", "gear i'm hunting"),
         ("#news", "news"),
         ("#research", "research log"),
     ]
@@ -302,8 +361,143 @@ def render_news(news):
     return out
 
 
+# --------------------------------------------------------------- the buy list
+def live_for(finds, key):
+    return [f for f in finds if f.get("want") == key and f.get("status", "live") == "live"]
+
+
+def gone_for(finds, key):
+    return [f for f in finds if f.get("want") == key and f.get("status", "live") != "live"]
+
+
+def find_price(f):
+    out = aud(f.get("price_aud"))
+    if f.get("price_note"):
+        out += " (%s)" % e(f["price_note"])
+    return out
+
+
+def find_place(f):
+    out = e(f.get("location") or "location TBC")
+    if f.get("distance_km") is not None:
+        out += " (%skm)" % e(f["distance_km"])
+    return out
+
+
+def find_oneline(f):
+    # Landing page: bare price only. The note and the full detail live on /buys.
+    bits = [aud(f.get("price_aud"))]
+    if f.get("detail"):
+        bits.append(e(f["detail"][0]))
+    bits.append(find_place(f))
+    return "%s &mdash; %s" % (link(f.get("url"), f.get("title")), " &middot; ".join(bits))
+
+
+def render_gear(wants, finds):
+    """Landing-page summary: one line per category, best find only."""
+    items = [w for w in wants.get("wants", []) if w.get("status") != "done"]
+    if not items:
+        return "<p>Nothing on the list right now.</p>\n"
+    all_finds = finds.get("finds", [])
+    out = ""
+    if finds.get("as_of"):
+        out += "<p><i>last checked: %s (UTC)</i></p>\n" % e(finds["as_of"])
+    if finds.get("headlines"):
+        out += "<ul>\n" + "".join("<li>%s</li>\n" % e(h) for h in finds["headlines"]) + "</ul>\n"
+    out += "<ul>\n"
+    for w in items:
+        live = live_for(all_finds, w["key"])
+        head = "<b>%s</b> &mdash; %s" % (
+            e(w["short"]), ("%d live" % len(live)) if live else "no finds yet")
+        if w.get("status") == "paused":
+            head += " (paused)"
+        out += "<li>%s" % head
+        if live:
+            out += "<br>best: %s" % find_oneline(live[0])
+        out += "</li>\n"
+    out += "</ul>\n"
+    total = len([f for f in all_finds if f.get("status", "live") == "live"])
+    out += "<p>%s</p>\n" % link("buys/", "see all %d finds, with photos and detail" % total)
+    return out
+
+
+def render_find(f, prefix=""):
+    out = "<li>"
+    if f.get("photo"):
+        out += '<a href="%s"><img src="%s%s" alt="%s" width="320"></a><br>' % (
+            e(f.get("url")), e(prefix), e(f["photo"]), e(f.get("title")))
+    out += "<b>%s</b>" % link(f.get("url"), f.get("title"))
+    if f.get("verdict"):
+        out += " &mdash; %s" % e(f["verdict"])
+    if f.get("status", "live") != "live":
+        out += " [%s]" % e(f["status"])
+    out += "<br>%s &middot; %s" % (find_price(f), find_place(f))
+    if f.get("detail"):
+        out += "<br>%s" % " &middot; ".join(e(d) for d in f["detail"])
+    if f.get("why"):
+        out += "<br>%s" % e(f["why"])
+    tail = [e(f.get("source"))]
+    if f.get("ends"):
+        tail.append("ends %s" % e(f["ends"]))
+    if f.get("first_seen"):
+        tail.append("first seen %s" % e(f["first_seen"]))
+    out += "<br><i>%s</i></li>\n" % " &middot; ".join(t for t in tail if t)
+    return out
+
+
+def render_buys(wants, finds, logs):
+    bases = wants.get("bases", {})
+    all_finds = finds.get("finds", [])
+    out = '<p><a href="../">&larr; home</a></p>\n<h1>Gear I\'m hunting</h1>\n'
+    if finds.get("as_of"):
+        out += "<p><i>last checked: %s (UTC)</i></p>\n" % e(finds["as_of"])
+    if finds.get("summary"):
+        out += "<p>%s</p>\n" % e(finds["summary"])
+    for w in wants.get("wants", []):
+        if w.get("status") == "done":
+            continue
+        live, gone = live_for(all_finds, w["key"]), gone_for(all_finds, w["key"])
+        out += '<h2 id="%s">%s%s</h2>\n' % (
+            e(w["key"]), e(w["title"]), " (paused)" if w.get("status") == "paused" else "")
+        out += "<p>%s &middot; %s</p>\n" % (band(w), where(w, bases))
+        if w.get("must"):
+            out += "<p>must have: %s</p>\n" % "; ".join(e(m) for m in w["must"])
+        if w.get("prefer"):
+            out += "<p>nice to have: %s</p>\n" % "; ".join(e(p) for p in w["prefer"])
+        if w.get("notes"):
+            out += "<p><i>%s</i></p>\n" % e(w["notes"])
+        if live:
+            out += "<ul>\n" + "".join(render_find(f, "../") for f in live) + "</ul>\n"
+        else:
+            out += "<p>Nothing worth a look yet.</p>\n"
+        if gone:
+            out += "<p><i>recently gone: %s</i></p>\n" % "; ".join(
+                "%s at %s (%s)" % (e(f.get("title")), find_price(f), e(f.get("status"))) for f in gone)
+    done = [w for w in wants.get("wants", []) if w.get("status") == "done"]
+    if done:
+        out += "<h2>Sorted</h2>\n<ul>\n" + "".join(
+            "<li>%s%s</li>\n" % (e(w["title"]), (" &mdash; %s" % e(w["got"])) if w.get("got") else "")
+            for w in done) + "</ul>\n"
+    out += "<h2>Hunt log</h2>\n"
+    if logs:
+        out += "<ul>\n" + "".join(
+            "<li>%s</li>\n" % link("../hunt/%s.html" % n[:-3], n[:-3]) for n in logs[:14]) + "</ul>\n"
+        if len(logs) > 14:
+            out += "<p>%s</p>\n" % link("../hunt/", "all %d runs" % len(logs))
+    else:
+        out += "<p>No hunt runs yet.</p>\n"
+    out += ("<p><i>Prices are what the seller or auction house is asking, before premium, "
+            "transport or GST unless noted. Verify everything before you commit money.</i></p>\n")
+    return out
+
+
 def research_logs():
     files = sorted(glob.glob(os.path.join(RESEARCH, "*.md")), reverse=True)
+    return [os.path.basename(f) for f in files]
+
+
+def hunt_logs_list():
+    files = sorted(glob.glob(os.path.join(HUNT, "*.md")), reverse=True)
     return [os.path.basename(f) for f in files]
 
 
@@ -333,6 +527,7 @@ body{font-family:Verdana,Geneva,sans-serif;font-size:15px;line-height:1.45;max-w
 a{color:#00e;word-break:break-word}a:visited{color:#551a8b}
 table{border-collapse:collapse;font-size:14px;width:100%%}th{text-align:left}td,th{vertical-align:top}td.nw{white-space:nowrap}
 ul{padding-left:1.2em}li{margin-bottom:0.4em}
+img{max-width:100%%;height:auto;border:1px solid #ccc;margin:0.3em 0}
 pre{white-space:pre-wrap;word-wrap:break-word}
 h1,h2,h3{font-weight:bold}h1{font-size:20px}h2{font-size:17px;margin-top:2em}h3{font-size:15px}
 @media (max-width:600px){table,thead,tbody,tr,td,th{display:block;width:auto}tr{border-bottom:2px solid #000;padding:0.4em 0}td,th{border:0!important;padding:0.1em 0}th{display:none}td.nw{white-space:normal}td[data-label]::before{content:attr(data-label) ": ";color:#555}}
@@ -356,13 +551,18 @@ def build():
     news = load("news.json")
     indicators = load("indicators.json")
     calendar = load("calendar.json")
-    validate(profile, holdings, loves, status, watchlist, news, indicators, calendar)
+    wants = load("wants.json")
+    finds = load("finds.json")
+    validate(profile, holdings, loves, status, watchlist, news, indicators, calendar, wants, finds)
     if "--check" in sys.argv:
-        print("data ok: %d holdings, %d picks, %d news items" % (len(holdings), len(watchlist), len(news)))
+        live = len([f for f in finds.get("finds", []) if f.get("status", "live") == "live"])
+        print("data ok: %d holdings, %d picks, %d news items, %d wants, %d live finds"
+              % (len(holdings), len(watchlist), len(news), len(wants.get("wants", [])), live))
         return
 
     built = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
     logs = research_logs()
+    hunt_logs = hunt_logs_list()
     body = render_header(profile) + render_nav() + "<hr>\n"
     body += section("What I build", render_builds(profile), "build")
     body += section("Agent's take", render_take(status), "take")
@@ -371,6 +571,7 @@ def build():
     body += section("AI bubble bellwethers (is compute being sold at a discount?)", render_indicators(indicators), "bellwethers")
     body += section("Next fortnight (what to watch or listen to)", render_calendar(calendar, datetime.now(timezone.utc)), "calendar")
     body += section("Companies I love", render_loves(loves), "love")
+    body += section("Gear I'm hunting", render_gear(wants, finds), "gear")
     body += section("News", render_news(news), "news")
     body += section("Research log", render_research(logs), "research")
 
@@ -389,7 +590,28 @@ def build():
         "<li>%s</li>\n" % link("%s.html" % n[:-3], n[:-3]) for n in logs) + "</ul>\n"
     with open(os.path.join(RESEARCH, "index.html"), "w", encoding="utf-8") as f:
         f.write(PAGE % {"title": "%s - research" % profile["name"], "body": idx, "built": built})
-    print("built index.html + %d research pages" % len(logs))
+
+    # buys/ - the full gear list, with photos
+    os.makedirs(BUYS, exist_ok=True)
+    with open(os.path.join(BUYS, "index.html"), "w", encoding="utf-8") as f:
+        f.write(PAGE % {"title": "%s - gear i'm hunting" % profile["name"],
+                        "body": render_buys(wants, finds, hunt_logs), "built": built})
+
+    # hunt/*.md -> hunt/*.html, same treatment as the research log
+    if hunt_logs:
+        for name in hunt_logs:
+            with open(os.path.join(HUNT, name), encoding="utf-8") as f:
+                text = f.read()
+            page_body = '<p><a href="../buys/">&larr; gear</a></p>\n<pre>%s</pre>\n' % e(text)
+            with open(os.path.join(HUNT, name[:-3] + ".html"), "w", encoding="utf-8") as f:
+                f.write(PAGE % {"title": "%s - hunt %s" % (profile["name"], name[:-3]),
+                                "body": page_body, "built": built})
+        hidx = '<p><a href="../buys/">&larr; gear</a></p>\n<h1>Hunt log</h1>\n<ul>\n' + "".join(
+            "<li>%s</li>\n" % link("%s.html" % n[:-3], n[:-3]) for n in hunt_logs) + "</ul>\n"
+        with open(os.path.join(HUNT, "index.html"), "w", encoding="utf-8") as f:
+            f.write(PAGE % {"title": "%s - hunt log" % profile["name"], "body": hidx, "built": built})
+
+    print("built index.html + buys/ + %d research pages + %d hunt pages" % (len(logs), len(hunt_logs)))
 
 
 if __name__ == "__main__":

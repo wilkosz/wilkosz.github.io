@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-15T03:07",
+  "as_of": "2026-09-27T23:43",
   "market_summary": "The S&P 500 closed Monday at 7,620 (-0.5%), about 1.4% below Aug 27, and the Fed is near-certain to hike at 4am AEST Thursday: futures price roughly 90-93% odds of 25bp to 3.75-4.00%, the first hike since 2023, versus 34% priced on Aug 27. The repricing came in three steps: Warsh used Jackson Hole (Aug 28) to demand disinflation 'clearly and at sufficient speed', August payrolls (Sep 4) beat at +162k with unemployment steady at 4.1%, and August CPI (Sep 11) printed 0.4% m/m and 3.4% y/y with core 0.3% m/m, above forecasts. The 10-year touched 5.01% Monday, highest since October 2023 (4.68% on Aug 27), the ECB hiked 25bp to 2.50% on Sep 10, and Brent is near $107 with WTI $102.7 after Houthi attacks on Saudi Arabia and a pipeline strike Riyadh says could disrupt up to 4% of global supply. Chips took the extra hit Monday: SOX -5.9% and NVDA -3.4% to $210.96 after Amodei, Altman and Musk called for slowing AI development, though the S&P ended well off session lows and NVDA ticked up after hours. Asia is mixed at Tuesday lunchtime: Nikkei +0.9%, Kospi +0.3%, Taiex -0.1%, Hang Seng -0.3%, ASX 200 -0.9% at 8,669; China's August industrial output beat at +5.2% y/y while retail sales missed at +0.4%. Ahead in AEST: US retail sales 10:30pm Wednesday, FOMC decision 4am Thursday with Warsh's press conference ~4:30am, BOJ Friday (25bp to 1.25% expected), then the RBA on Sep 29 with a hike about 74% priced (cash rate 4.35%; NAB calls September, CBA and Westpac November).",
   "takes": {
     "AMZN": {
@@ -102,11 +102,9 @@
     }
   },
   "headlines": [
-    "Fed decision 4am AEST Thursday: ~90% odds of a 25bp hike to 3.75-4.00%, the first since 2023; 10-year touched 5.01% Monday.",
-    "AI names sold off Monday after Amodei, Altman and Musk urged slowing AI development: SOX -5.9%, NVDA $210.96; Anthropic IPO still on for mid-October.",
-    "Meta +16% since Aug 27 to $665.60 on the Muse agent; Google avoids ad-tech breakup; RKT cut to watch with mortgages at 7.17%.",
-    "Brent near $107 after Houthi attacks on Saudi Arabia; ECB hiked to 2.50%; an RBA hike is ~74% priced for Sep 29.",
-    "Broadcom AI revenue +221% but the Q4 guide was sold; Credo -37% since Aug 27; Bloom joins the S&P 500 Sep 21.",
-    "Nvidia confirmed the $12.9B Hugging Face deal; TSMC's August revenue rose a record 53.3%; Micron reports FQ4 Sep 30 (bullish Goldman preview)."
+    "Added Tesla, BYD and Toyota to the watchlist at the owner's request.",
+    "BYD accumulate: August NEV sales +18% YoY, overseas +134.5%, domestic China -14.3%.",
+    "Tesla watch: Q3 delivery print 2 Oct, Goldman cut to 435k against 454k consensus.",
+    "Toyota watch: 8.6x earnings, near the bottom of its 52-week range."
   ]
 }

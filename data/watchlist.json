@@ -180,6 +180,21 @@
     "updated": "2026-09-15"
   },
   {
+    "ticker": "1211",
+    "exchange": "HK",
+    "name": "BYD",
+    "sector": "Machinery",
+    "status": "accumulate",
+    "conviction": "medium",
+    "thesis": "Exports are now the growth engine: overseas sales up 134.5% YoY in August and about 44% of first-half volume, offsetting a shrinking China business. Shares near the 52-week low at HK$78.10.",
+    "risks": "Domestic sales fell 14.3% YoY in August as Geely, Xpeng and Leapmotor take share. China price war compresses margins, and European tariffs sit on the export story.",
+    "price_usd": 10.0,
+    "catalyst": "Monthly China NEV sales prints; Q3 2026 results late Oct (est.)",
+    "source": "https://www.fool.com/investing/2026/09/17/byd-just-reported-record-monthly-sales-heres-what/",
+    "added": "2026-09-27",
+    "updated": "2026-09-27"
+  },
+  {
     "ticker": "6861",
     "exchange": "JP",
     "name": "Keyence Corp",
@@ -193,6 +208,21 @@
     "source": "https://stockanalysis.com/quote/tyo/6861/",
     "added": "2026-08-24",
     "updated": "2026-09-15"
+  },
+  {
+    "ticker": "7203",
+    "exchange": "JP",
+    "name": "Toyota Motor",
+    "sector": "Machinery",
+    "status": "watch",
+    "conviction": "medium",
+    "thesis": "The hybrid winner as EV adoption slows: hybrids are over 18% of US new vehicle sales, and the stock trades on 8.6x earnings near the low end of its 52-week range.",
+    "risks": "FY2026 earnings fell 19% to Y3.85T on Y50.68T revenue. Single-digit growth makes this a value name on a growth list, plus yen and US tariff exposure.",
+    "price_usd": 19.0,
+    "catalyst": "Fiscal H1 results early Nov 2026 (est.)",
+    "source": "https://stockanalysis.com/quote/tyo/7203/",
+    "added": "2026-09-27",
+    "updated": "2026-09-27"
   },
   {
     "ticker": "ASML",
@@ -223,5 +253,20 @@
     "source": "https://www.stocktitan.net/news/TER/universal-robots-unveils-gen-7-a-new-platform-for-industrial-4dq0z57q4b9u.html",
     "added": "2026-08-24",
     "updated": "2026-09-15"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "US",
+    "name": "Tesla",
+    "sector": "Machinery",
+    "status": "watch",
+    "conviction": "medium",
+    "thesis": "Auto demand is rolling over while the valuation leans on robotaxi, energy storage and Optimus. Track it, do not chase it, until the non-auto lines carry real revenue.",
+    "risks": "Delivery estimates being cut into the 2 Oct print: Goldman 435k against 454k consensus and Barclays 475k. US sales fell about 26% YoY in August. The multiple rests on bets that have not scaled.",
+    "price_usd": 372.59,
+    "catalyst": "Q3 deliveries 2026-10-02; Q3 earnings 2026-10-28",
+    "source": "https://www.fool.com/investing/2026/09/27/tesla-reports-q3-deliveries-in-3-weeks-heres-the-n/",
+    "added": "2026-09-27",
+    "updated": "2026-09-27"
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-09-27",
+    "ticker": "TSLA",
+    "headline": "Tesla Q3 deliveries land 2 October with estimates spread 40k wide",
+    "summary": "Consensus sits at 454,000 against Goldman at 435,000 and Barclays at 475,000, an unusually wide spread going into the print.",
+    "source": "https://www.fool.com/investing/2026/09/27/tesla-reports-q3-deliveries-in-3-weeks-heres-the-n/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-09-25",
+    "ticker": "7203",
+    "headline": "Toyota trades at 8.6x earnings near the bottom of its 52-week range",
+    "summary": "Y2,989.50 against a 52-week range of Y2,686 to Y4,000, market cap Y35.3T, as hybrids take share from pure EVs.",
+    "source": "https://stockanalysis.com/quote/tyo/7203/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-09-17",
+    "ticker": "1211",
+    "headline": "BYD August NEV sales up 18% as overseas volume jumps 134.5%",
+    "summary": "440,293 units sold in August, up 5% on July. Exports carried it: domestic China sales fell 14.3% YoY.",
+    "source": "https://www.fool.com/investing/2026/09/17/byd-just-reported-record-monthly-sales-heres-what/",
+    "impact": "positive"
+  },
+  {
     "date": "2026-09-14",
     "ticker": "MACRO",
     "headline": "Chips slide as Amodei, Altman and Musk call for slowing AI development",
@@ -614,29 +638,5 @@
     "summary": "Bloomberg says SoftBank is talking to banks about a dollar/euro deal, possibly a 144A, as early as September, to refinance the bridge loan behind its ~$65B OpenAI commitment due by October. SoftBank says nothing is decided; its shares rose 2.8%.",
     "source": "https://www.investing.com/news/stock-market-news/softbank-weighs-up-to-20-bln-bond-sale-to-refinance-openai-loan--bloomberg-4876268",
     "impact": "neutral"
-  },
-  {
-    "date": "2026-08-26",
-    "ticker": "MRVL",
-    "headline": "Marvell preview: options imply 10.3%, Q3 bar $3.03B",
-    "summary": "Consensus for Thursday is $2.72B revenue (+35%) and $0.93 EPS; Benchmark ($275) expects a $3.03B/$1.09 Q3 guide. Options imply a 10.3% move versus ~12% over the last four quarters; consensus target $291.",
-    "source": "https://www.tipranks.com/news/marvell-stock-mrvl-prediction-heres-what-to-expect-from-q2-earnings-tomorrow",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-08-26",
-    "ticker": "TSM",
-    "headline": "Taiex +1.5% to 45,833 into Nvidia; TSMC closes NT$2,415 (+0.6%)",
-    "summary": "Taiwan shares rose 663 points on NT$804B turnover ahead of Nvidia's report; 2330 closed at NT$2,415, up NT$15. Kospi +1.0% with SK hynix +0.6% and Samsung +1.8%.",
-    "source": "https://focustaiwan.tw/business/202608260013",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-08-26",
-    "ticker": "META",
-    "headline": "Meta settles 29-state teen social media trial for up to $16.68B",
-    "summary": "Meta agreed mid-trial to pay up to $16.68B and adopt default daily time limits for teens, nighttime restrictions, stronger age assurance and expanded parental controls, without admitting wrongdoing. School-district and personal-injury cases continue; shares spiked to $593.34 before settling near $574.",
-    "source": "https://www.investing.com/news/stock-market-news/meta-reaches-1668-billion-settlement-over-social-media-case-4877423",
-    "impact": "positive"
   }
 ]

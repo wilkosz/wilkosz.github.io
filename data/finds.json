@@ -1,0 +1,208 @@
+{
+  "as_of": "2026-09-28T00:05",
+  "summary": "First sweep. Facebook Marketplace was the only source that answered: tradefarmmachinery returned 403 and the Grays farm-machinery search came back empty, so auctions are unchecked this run. The saw and the ripper are the two worth acting on. The tractor is the hard one - inside 400km of Darlington Point the Marketplace stock is all compact (Kioti, 55-80hp Deere) or the right machine sitting 550km east in Gippsland.",
+  "headlines": [
+    "Stihl MS 462 at Balnarring, $1,250, 63 hours, ex-government. Best find today.",
+    "Daniel Harvey 2-tyne ripper at Heathcote, $750 - right size for a 90-130hp tractor.",
+    "20ft container home at Albury, $10,999, 230km away - closest portable home in budget.",
+    "No tractor in spec: nothing 90-140hp with a loader inside 400km on Marketplace today.",
+    "Offset discs thin: one 32-plate Grizzly at $20,000, width still needs checking."
+  ],
+  "finds": [
+    {
+      "key": "fb-3457382634440178",
+      "want": "chainsaw",
+      "title": "Stihl MS 462, 63 hours, ex-government",
+      "price_aud": 1250,
+      "price_note": "listed at $1,250; seller's text says $1,400 ono for the powerhead alone, $1,500 with a 20in or 25in bar",
+      "location": "Balnarring, VIC",
+      "distance_km": 70,
+      "detail": [
+        "condition listed as used - good",
+        "about 63 hours, ex-government",
+        "aftermarket West Coast Saw 3-point dogs",
+        "powerhead only at the asking price, no 30in bar"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/3457382634440178/",
+      "verdict": "strong",
+      "why": "The exact saw you named, genuinely low hours, and priced low enough that a 30in bar and chain still leaves you inside budget.",
+      "status": "live",
+      "first_seen": "2026-09-28",
+      "updated": "2026-09-28"
+    },
+    {
+      "key": "fb-1736426260785685",
+      "want": "chainsaw",
+      "title": "Stihl MS 460",
+      "price_aud": 800,
+      "price_note": "reduced from $900",
+      "location": "Melton, VIC",
+      "distance_km": 40,
+      "detail": [
+        "listing not opened yet - hours and condition unread"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1736426260785685/",
+      "verdict": "decent",
+      "why": "The MS 462's predecessor and the same displacement class, so it carries a 30in bar. Cheapest way into the spec if it checks out.",
+      "status": "live",
+      "first_seen": "2026-09-28",
+      "updated": "2026-09-28"
+    },
+    {
+      "key": "fb-1119908973800443",
+      "want": "chainsaw",
+      "title": "Stihl MS 661 C-M",
+      "price_aud": 1900,
+      "location": "Ballarat, VIC",
+      "distance_km": 115,
+      "detail": [
+        "listing not opened yet - hours and condition unread"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1119908973800443/",
+      "verdict": "stretch",
+      "why": "More saw than you asked for and it pulls a 30in bar easily, but it is at the top of the budget and 15km outside your Melbourne radius.",
+      "status": "live",
+      "first_seen": "2026-09-28",
+      "updated": "2026-09-28"
+    },
+    {
+      "key": "fb-1728630198256000",
+      "want": "deep-ripper",
+      "title": "Daniel Harvey 2-tyne ripper, 3PL",
+      "price_aud": 750,
+      "price_note": "reduced from $850",
+      "location": "Heathcote, VIC",
+      "distance_km": 360,
+      "detail": [
+        "2 tynes",
+        "3-point linkage",
+        "Daniel Harvey"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1728630198256000/",
+      "verdict": "strong",
+      "why": "Two tynes is the right answer for tree roots on a 90-130hp tractor - narrow enough to pull deep without stalling. Good Australian brand at scrap-adjacent money.",
+      "status": "live",
+      "first_seen": "2026-09-28",
+      "updated": "2026-09-28"
+    },
+    {
+      "key": "fb-1401972901425524",
+      "want": "deep-ripper",
+      "title": "International 5-tyne ripper",
+      "price_aud": 400,
+      "location": "Myrtleford, VIC",
+      "distance_km": 290,
+      "detail": [
+        "5 tynes",
+        "listing not opened yet - condition unread"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1401972901425524/",
+      "verdict": "decent",
+      "why": "Cheap, but five tynes spreads the pull - it is a general ripper, not a root-buster. Fine as a second implement, not the one you want for tree roots.",
+      "status": "live",
+      "first_seen": "2026-09-28",
+      "updated": "2026-09-28"
+    },
+    {
+      "key": "fb-1403934454913845",
+      "want": "offset-discs",
+      "title": "Grizzly 32-plate offset disc plough",
+      "price_aud": 20000,
+      "location": "Memagong, NSW",
+      "distance_km": 260,
+      "detail": [
+        "32 plates",
+        "Grizzly",
+        "working width not stated - your limit is 3.5m"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1403934454913845/",
+      "verdict": "stretch",
+      "why": "Grizzly build quality is right and 32 plates is the top of your range, but a 32-plate offset is usually wider than 3.5m and needs more than 130hp. Ask for the width first.",
+      "status": "live",
+      "first_seen": "2026-09-28",
+      "updated": "2026-09-28"
+    },
+    {
+      "key": "fb-1249309847278847",
+      "want": "portable-home",
+      "title": "20ft portable building / container home / site office",
+      "price_aud": 10999,
+      "location": "Albury, NSW",
+      "distance_km": 230,
+      "detail": [
+        "20ft container based",
+        "listing not opened yet - bathroom and room count unconfirmed"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1249309847278847/",
+      "verdict": "decent",
+      "why": "Closest and cheapest in the band, and Albury is an easy cart home. Confirm it actually has the bathroom before anything else.",
+      "status": "live",
+      "first_seen": "2026-09-28",
+      "updated": "2026-09-28"
+    },
+    {
+      "key": "fb-1686976389426178",
+      "want": "portable-home",
+      "title": "13m tiny home",
+      "price_aud": 16000,
+      "location": "Murchison, VIC",
+      "distance_km": 300,
+      "detail": [
+        "13m long",
+        "listing not opened yet - bathroom unconfirmed"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1686976389426178/",
+      "verdict": "decent",
+      "why": "13m is long enough to hold two rooms and a bathroom properly rather than one room with a wet corner.",
+      "status": "live",
+      "first_seen": "2026-09-28",
+      "updated": "2026-09-28"
+    },
+    {
+      "key": "fb-1224120766564540",
+      "want": "portable-home",
+      "title": "Self-contained transportable cabin",
+      "price_aud": 18500,
+      "location": "Mansfield, VIC",
+      "distance_km": 340,
+      "detail": [
+        "described as self contained",
+        "listing not opened yet - room count unconfirmed"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1224120766564540/",
+      "verdict": "decent",
+      "why": "Self-contained usually means bathroom and kitchenette both, which is the hard part of your list. Mid-band price.",
+      "status": "live",
+      "first_seen": "2026-09-28",
+      "updated": "2026-09-28"
+    },
+    {
+      "key": "fb-994104143003780",
+      "want": "portable-home",
+      "title": "Tiny home",
+      "price_aud": 27500,
+      "price_note": "reduced from $30,000",
+      "location": "Wangaratta, VIC",
+      "distance_km": 260,
+      "detail": [
+        "listing not opened yet - layout unconfirmed"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/994104143003780/",
+      "verdict": "stretch",
+      "why": "At the top of your band, so it has to be genuinely finished to be worth it over the Albury container.",
+      "status": "live",
+      "first_seen": "2026-09-28",
+      "updated": "2026-09-28"
+    }
+  ]
+}

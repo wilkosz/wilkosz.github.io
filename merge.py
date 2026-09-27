@@ -45,7 +45,7 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(ROOT, "data")
 RESEARCH = os.path.join(ROOT, "research")
 
-MAX_WATCHLIST = 15
+MAX_WATCHLIST = 18
 MAX_NEWS_ITEMS = 80
 MAX_NEWS_AGE_DAYS = 45
 

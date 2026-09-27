@@ -1,0 +1,121 @@
+{
+  "bases": {
+    "darlington_point": {"label": "Darlington Point, NSW"},
+    "melbourne": {"label": "Melbourne, VIC"}
+  },
+  "wants": [
+    {
+      "key": "tractor",
+      "title": "Tractor, 90-140hp, with front-end loader",
+      "short": "Tractor 90-140hp w/ loader",
+      "status": "hunting",
+      "base": "darlington_point",
+      "max_km": 400,
+      "price_min": 15000,
+      "price_max": 80000,
+      "must": [
+        "front-end loader (FEL) included",
+        "90 to 140 hp",
+        "under 4,500 hours",
+        "known manufacturer: John Deere, Case, Kubota, New Holland, Massey Ferguson, McCormick, Lovol or better"
+      ],
+      "prefer": [
+        "non-AdBlue variant (not a deal breaker)",
+        "cab over ROPS",
+        "service history"
+      ],
+      "notes": "Build quality matters more than hours alone. A tidy 3,000-hour Deere beats a rough 1,500-hour no-name.",
+      "sources": [],
+      "added": "2026-09-28"
+    },
+    {
+      "key": "portable-home",
+      "title": "Portable home, container or similar, 2+ rooms with bathroom",
+      "short": "Portable home, 2 rooms + bathroom",
+      "status": "hunting",
+      "base": "darlington_point",
+      "max_km": 400,
+      "price_min": 5000,
+      "price_max": 30000,
+      "must": [
+        "bathroom",
+        "at least 2 rooms"
+      ],
+      "prefer": [
+        "kitchen or kitchenette",
+        "container-based or relocatable build",
+        "ready to transport"
+      ],
+      "notes": "Price band tracks quality: 5k for a rough site hut, 30k for a finished container home. Transport cost is worth noting separately.",
+      "sources": [],
+      "added": "2026-09-28"
+    },
+    {
+      "key": "chainsaw",
+      "title": "Chainsaw, Stihl or Husqvarna, 30 inch bar capable",
+      "short": "Chainsaw, 30in bar",
+      "status": "hunting",
+      "base": "melbourne",
+      "max_km": 100,
+      "price_min": 500,
+      "price_max": 2000,
+      "must": [
+        "Stihl or Husqvarna",
+        "rated to carry a 30 inch bar (e.g. Stihl MS 462, MS 500i, Husqvarna 572 XP, 592 XP)"
+      ],
+      "prefer": [
+        "bar and chain included",
+        "recent service, good compression"
+      ],
+      "notes": "New MS 462 sits near the top of the band, so a clean used saw with a bar is the value play.",
+      "sources": [
+        "https://www.stihl.com.au/en",
+        "https://www.husqvarna.com/au/"
+      ],
+      "added": "2026-09-28"
+    },
+    {
+      "key": "offset-discs",
+      "title": "Offset discs, 24-32 plate, for a 90-130hp tractor",
+      "short": "Offset discs 24-32 plate",
+      "status": "hunting",
+      "base": "darlington_point",
+      "max_km": 400,
+      "price_min": null,
+      "price_max": null,
+      "must": [
+        "24 to 32 plates",
+        "maximum 3.0 to 3.5 m working width",
+        "matched to 90-130 hp"
+      ],
+      "prefer": [
+        "bearings in good order",
+        "plates with life left, not dished out"
+      ],
+      "notes": "Width is the hard constraint: anything over 3.5 m is too much for the tractor and too wide to cart.",
+      "sources": [],
+      "added": "2026-09-28"
+    },
+    {
+      "key": "deep-ripper",
+      "title": "Deep tyne ripper for tree roots",
+      "short": "Deep tyne ripper",
+      "status": "hunting",
+      "base": "darlington_point",
+      "max_km": 400,
+      "price_min": null,
+      "price_max": null,
+      "must": [
+        "deep tynes, built for tree roots and hard ground",
+        "matched to 90-130 hp"
+      ],
+      "prefer": [
+        "shear-bolt or spring release protection",
+        "replaceable points"
+      ],
+      "notes": "Root ripping punishes gear. Heavy frame and shank protection matter more than tyne count.",
+      "sources": [],
+      "added": "2026-09-28"
+    }
+  ]
+}
