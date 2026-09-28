@@ -575,8 +575,8 @@ def render_gear(wants, finds):
     out += "<ul>\n"
     for w in items:
         live = live_for(all_finds, w["key"])
-        head = "<b>%s</b> &mdash; %s" % (
-            e(w["short"]), ("%d live" % len(live)) if live else "no finds yet")
+        head = '<b><a href="buys/#%s">%s</a></b> &mdash; %s' % (
+            e(w["key"]), e(w["short"]), ("%d live" % len(live)) if live else "no finds yet")
         if w.get("status") == "paused":
             head += " (paused)"
         out += "<li>%s" % head
@@ -586,8 +586,12 @@ def render_gear(wants, finds):
     return out + "</ul>\n"
 
 
+def permalink(key):
+    return ' <a href="#%s">link</a>' % e(key)
+
+
 def render_find(f, prefix=""):
-    out = "<li>"
+    out = '<li id="%s">' % e(f["key"])
     if f.get("photo"):
         out += '<a href="%s"><img src="%s%s" alt="%s" width="320"></a><br>' % (
             e(f.get("url")), e(prefix), e(f["photo"]), e(f.get("title")))
@@ -596,6 +600,7 @@ def render_find(f, prefix=""):
         out += " &mdash; %s" % e(f["verdict"])
     if f.get("status", "live") != "live":
         out += " [%s]" % e(f["status"])
+    out += permalink(f["key"])
     out += "<br>%s &middot; %s" % (find_price(f), find_place(f))
     if f.get("detail"):
         out += "<br>%s" % " &middot; ".join(e(d) for d in f["detail"])
@@ -618,12 +623,17 @@ def render_buys(wants, finds, logs):
         out += "<p><i>last checked: %s (UTC)</i></p>\n" % e(finds["as_of"])
     if finds.get("summary"):
         out += "<p>%s</p>\n" % e(finds["summary"])
+    hunting = [w for w in wants.get("wants", []) if w.get("status") != "done"]
+    if hunting:
+        out += "<p>jump to: %s</p>\n" % " | ".join(
+            '<a href="#%s">%s</a>' % (e(w["key"]), e(w["short"])) for w in hunting)
     for w in wants.get("wants", []):
         if w.get("status") == "done":
             continue
         live, gone = live_for(all_finds, w["key"]), gone_for(all_finds, w["key"])
         out += '<h2 id="%s">%s%s</h2>\n' % (
             e(w["key"]), e(w["title"]), " (paused)" if w.get("status") == "paused" else "")
+        out += "<p>%s</p>\n" % permalink(w["key"]).strip()
         out += "<p>%s &middot; %s</p>\n" % (band(w), where(w, bases))
         if w.get("must"):
             out += "<p>must have: %s</p>\n" % "; ".join(e(m) for m in w["must"])
@@ -689,6 +699,7 @@ table{border-collapse:collapse;font-size:14px;width:100%%}th{text-align:left}td,
 ul{padding-left:1.2em}li{margin-bottom:0.4em}
 img{max-width:100%%;height:auto;border:1px solid #ccc;margin:0.3em 0}
 pre{white-space:pre-wrap;word-wrap:break-word}
+:target{background:#ffc}
 h1,h2,h3{font-weight:bold}h1{font-size:20px}h2{font-size:17px;margin-top:2em}h3{font-size:15px}
 @media (max-width:600px){table,thead,tbody,tr,td,th{display:block;width:auto}tr{border-bottom:2px solid #000;padding:0.4em 0}td,th{border:0!important;padding:0.1em 0}th{display:none}td.nw{white-space:normal}td[data-label]::before{content:attr(data-label) ": ";color:#555}}
 </style>
