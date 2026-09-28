@@ -7,18 +7,21 @@
       "name": "DocHub",
       "url": "https://dochub.com",
       "role": "Joint Technology Lead (2017 - present)",
+      "short": "Online PDF editing and e-signatures, used by over 140 million people.",
       "why": "Compliance is a fantastic moat. We move incredibly fast with a small, talented team and serve over 140 million users."
     },
     {
       "name": "PurpleGrain",
       "url": "https://purplegrain.com",
       "role": "Founder (2023 - present)",
+      "short": "Marketplace connecting agricultural service providers with farmers.",
       "why": "I grew up in agriculture and love supporting the industry. A marketplace connecting agricultural service providers with farmers."
     },
     {
       "name": "EarthPath",
       "url": "https://earthpath.xyz",
       "role": "Founder (early)",
+      "short": "Energy resilience and lower-impact infrastructure.",
       "why": "Energy resilience and lower-impact infrastructure. Cheap, reliable, clean power is a problem worth working on."
     }
   ],
