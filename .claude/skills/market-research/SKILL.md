@@ -42,6 +42,12 @@ Asian open. Write for that:
 - Watchlist is capped at 15. Quality over quantity: add at most 3 new names per run,
   and remove names whose thesis has broken (`"remove": true` with a reason).
 - Be concise. Site copy is plain text, Craigslist-style. No hype, no emoji.
+- **Never write a holding's share price in any text that gets published** (take reasons, news
+  headlines/summaries, headlines, market summary, notes). Describe moves as percentages
+  ("up 6.7% since Sep 15", "5% below the May high"). `price_usd` still goes in the take - it is
+  used for portfolio weights and never rendered. Analyst targets, company revenue, deal sizes and
+  valuations are fine. `merge.py` rejects a run whose holding take reasons or holding news
+  quote a figure near the share price, and `build.py --check` fails on it too.
 
 ## Procedure
 
@@ -59,7 +65,8 @@ Asian open. Write for that:
    give each the output-file path and the exact JSON shape):
    - **Holdings**: for every ticker in `data/holdings.json`, the material news since the
      last run (earnings, guidance, deals, regulation, big price moves), an approximate
-     latest price in USD, and a take: `hold | add | trim | watch` with a one-sentence reason.
+     latest price in USD (for `price_usd` only), and a take: `hold | add | trim | watch` with a
+     short reason that gives moves in % and never quotes the share price.
    - **Loved companies**: material news for the names in `data/loves.json` (public and
      private; for private note valuation / funding / ARR when reported).
    - **Watchlist**: re-check each existing entry (thesis intact? status/conviction change?

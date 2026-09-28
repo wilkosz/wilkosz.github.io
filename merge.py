@@ -84,6 +84,20 @@ def main():
     indicators = load("indicators.json", {"as_of": None, "explainer": "", "indicators": []})
     calendar = load("calendar.json", {"as_of": None, "events": []})
 
+    # Holdings never show share prices. Refuse the run before anything is written.
+    sys.path.insert(0, ROOT)
+    from build import holding_price_leaks
+    run_takes = {t: dict(status.get("takes", {}).get(t, {}), **v) for t, v in (run.get("takes") or {}).items()}
+    all_prices = dict(status.get("takes", {}), **run_takes)
+    leaks = holding_price_leaks(holdings, run_takes, [])
+    leaks += holding_price_leaks(holdings, {t: {"price_usd": v.get("price_usd")} for t, v in all_prices.items()},
+                                 run.get("news") or [])
+    if leaks:
+        for where_, figure in leaks:
+            print("REJECTED: %s quotes a holding share price (%s); use %% moves, never prices" % (where_, figure),
+                  file=sys.stderr)
+        sys.exit(1)
+
     # --- status
     status["as_of"] = as_of
     if run.get("market_summary"):
@@ -211,8 +225,7 @@ def main():
         for ticker, t in sorted(run["takes"].items()):
             if ticker not in held:
                 continue
-            price = t.get("price_usd")
-            lines.append("- %s: %s%s - %s" % (ticker, t.get("take"), (" @ $%s" % price) if price is not None else "", t.get("reason", "")))
+            lines.append("- %s: %s - %s" % (ticker, t.get("take"), t.get("reason", "")))
         lines.append("")
     if changes:
         lines += ["## Watchlist changes", ""] + changes + [""]

@@ -138,8 +138,8 @@
   {
     "date": "2026-09-22",
     "ticker": "TSM",
-    "headline": "TSMC closes at $447 ahead of Oct 15 Q3 results",
-    "summary": "TSM ADRs closed at $447.06 on Sep 22, as its 3nm, 4nm and 5nm lines stay fully booked. Q3 results are due Oct 15.",
+    "headline": "TSMC ADRs edge up 0.4% ahead of Oct 15 Q3 results",
+    "summary": "TSM ADRs rose 0.4% on Sep 22, with 3nm, 4nm and 5nm lines fully booked. Q3 results are due Oct 15.",
     "source": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/tsm-stock-closes-0-4-percent-higher-at-the-close/70160052",
     "impact": "neutral"
   },
@@ -251,7 +251,7 @@
     "date": "2026-09-18",
     "ticker": "NFLX",
     "headline": "Wells Fargo cuts Netflix to Underweight, target $57 from $80",
-    "summary": "The analyst cites daily viewing per member down 8% from 2023 and expects viewing of big originals to fall 21% in H2. The stock fell 4.7% that day to $71.79.",
+    "summary": "The analyst cites daily viewing per member down 8% from 2023 and expects viewing of big originals to fall 21% in H2. The stock fell 4.7% that day.",
     "source": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-cuts-netflix-nflx-205315969.html",
     "impact": "negative"
   },
@@ -371,15 +371,15 @@
     "date": "2026-09-14",
     "ticker": "GOOGL",
     "headline": "GOOGL +3.2% Monday on plans for a New Mexico AI data center",
-    "summary": "Alphabet closed at $349.39 after announcing an AI data-center build in New Mexico, alongside Waymo opening Las Vegas service and a Tokyo plan for 2027.",
+    "summary": "Alphabet rose 3.2% after announcing an AI data-center build in New Mexico, alongside Waymo opening Las Vegas service and a Tokyo plan for 2027.",
     "source": "https://www.tipranks.com/news/google-stock-googl-pops-3-as-company-plans-to-build-an-ai-data-center-in-new-mexico",
     "impact": "positive"
   },
   {
     "date": "2026-09-14",
     "ticker": "LDI",
-    "headline": "HomeSmart taps loanDepot for lending; stock still at $0.83, under NYSE's $1",
-    "summary": "loanDepot signed a marketing services agreement with HomeSmart, the largest 100%-commission brokerage (~25,000 agents). It does not address the listing problem: LDI closed Monday at $0.8333, four-plus weeks below $1 with no reverse-split announcement.",
+    "headline": "HomeSmart taps loanDepot for lending; stock still under NYSE's minimum bid",
+    "summary": "loanDepot signed a marketing services agreement with HomeSmart, the largest 100%-commission brokerage (~25,000 agents). It does not address the listing problem: four-plus weeks below the NYSE minimum with no reverse-split announcement.",
     "source": "https://www.businesswire.com/news/home/20260914240712/en/HomeSmart-Taps-loanDepot-to-Provide-Innovative-Lending-Solutions/",
     "impact": "neutral"
   },
@@ -531,7 +531,7 @@
     "date": "2026-09-01",
     "ticker": "FIGR",
     "headline": "Figure completes Kiavi acquisition",
-    "summary": "Figure closed its acquisition of Kiavi, expanding its blockchain-native capital marketplace; it followed on Sep 10 with a Sierra deal putting AI agents on abandoned home-equity applications. The August slide bottomed at $33.19 on Sep 2.",
+    "summary": "Figure closed its acquisition of Kiavi, expanding its blockchain-native capital marketplace; it followed on Sep 10 with a Sierra deal putting AI agents on abandoned home-equity applications. The August slide bottomed on Sep 2.",
     "source": "https://www.globenewswire.com/news-release/2026/09/01/3354097/0/en/figure-completes-acquisition-of-kiavi.html",
     "impact": "positive"
   },
@@ -611,7 +611,7 @@
     "date": "2026-08-27",
     "ticker": "NVDA",
     "headline": "Raymond James lifts Nvidia target to $515 from $352 as the Street reprices after the print",
-    "summary": "Raymond James kept Strong Buy and cited the FY28 70% outlook and $26B of Q2 shareholder returns; Truist ($346), Wedbush ($345), RBC ($330), Stifel ($315), UBS ($300) and Needham ($300) also raised. Stock +7.3% intraday at $224.88.",
+    "summary": "Raymond James kept Strong Buy and cited the FY28 70% outlook and $26B of Q2 shareholder returns; Truist, Wedbush, RBC, Stifel, UBS and Needham also raised targets. Stock +7.3% intraday at $224.88.",
     "source": "https://www.investing.com/news/analyst-ratings/raymond-james-raises-nvidia-stock-price-target-on-strong-outlook-93CH-4879439",
     "impact": "positive"
   },

@@ -13,6 +13,7 @@ import glob
 import html
 import json
 import os
+import re
 import sys
 from datetime import datetime, timedelta, timezone
 
@@ -89,6 +90,44 @@ def where(w, bases):
 
 
 # ---------------------------------------------------------------- validation
+DOLLARS = re.compile(r"\$\s?([\d,]*\.?\d+)(?!\d|[.,]\d|\s*(?:[kKMBT]\b|bn|mn|billion|million|trillion))")
+
+
+def price_leak(text, price):
+    """The first $ figure in text that looks like the holding's share price (within
+    0.67x-1.5x of price_usd), or None. Holdings never show prices on the site.
+    Analyst price targets are allowed: a figure with "target" close by is skipped."""
+    if not text or not price:
+        return None
+    for m in DOLLARS.finditer(text):
+        if "target" in text[max(0, m.start() - 40):m.end() + 15].lower():
+            continue
+        try:
+            amount = float(m.group(1).replace(",", ""))
+        except ValueError:
+            continue
+        if 0.67 <= amount / float(price) <= 1.5:
+            return m.group(0)
+    return None
+
+
+def holding_price_leaks(holdings, takes, news):
+    """[(where, figure)] for any holding take reason or holding news item quoting a share price."""
+    held = {h["ticker"] for h in holdings}
+    prices = {t: v.get("price_usd") for t, v in takes.items()}
+    out = []
+    for t, v in takes.items():
+        leak = price_leak(v.get("reason"), prices.get(t))
+        if t in held and leak:
+            out.append(("take %s" % t, leak))
+    for n in news:
+        if n.get("ticker") in held:
+            leak = price_leak("%s %s" % (n.get("headline"), n.get("summary")), prices.get(n["ticker"]))
+            if leak:
+                out.append(("news %s %s" % (n["ticker"], n.get("date")), leak))
+    return out
+
+
 def fail(msg):
     print("INVALID: " + msg, file=sys.stderr)
     sys.exit(1)
@@ -151,6 +190,8 @@ def validate(profile, holdings, loves, status, watchlist, news, indicators=None,
     for t, v in status.get("takes", {}).items():
         if v.get("take") not in TAKES:
             fail("status.json take for %s must be one of %s" % (t, TAKES))
+    for where_, figure in holding_price_leaks(holdings, status.get("takes", {}), news):
+        fail("%s quotes a holding share price (%s); use %% moves, never prices" % (where_, figure))
     seen = set()
     for w in watchlist:
         for k in ("ticker", "exchange", "name", "sector", "status", "conviction", "thesis", "risks", "added", "updated"):
@@ -226,10 +267,20 @@ def subpage_head(d, title):
 
 
 # ----------------------------------------------------------- landing summaries
+def site_label(url):
+    return url.split("://", 1)[-1].rstrip("/") if url else ""
+
+
 def summary_builds(profile):
-    return "<ul>\n" + "".join(
-        "<li><b>%s</b> &mdash; %s</li>\n" % (e(b["name"]), e(b.get("role")))
-        for b in profile.get("builds", [])) + "</ul>\n"
+    out = "<ul>\n"
+    for b in profile.get("builds", []):
+        out += "<li><b>%s</b> &mdash; %s" % (e(b["name"]), e(b.get("role")))
+        if b.get("short"):
+            out += "<br>%s" % e(b["short"])
+        if b.get("url"):
+            out += "<br>%s" % link(b["url"], site_label(b["url"]))
+        out += "</li>\n"
+    return out + "</ul>\n"
 
 
 def summary_take(status):
