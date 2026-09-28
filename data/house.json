@@ -1,0 +1,802 @@
+{
+  "as_of": "2026-09-28T01:30",
+  "summary": "Cheapest decent path: a 3-bed 1-bath lock-up kit (Wholesale Homes 'Whitehaven', $52,554 kit) owner-built on a slab, about $120k-$193k for the house plus $84k-$188k to run it off-grid, so roughly $204k-$380k to move in. Shed-home shells land in the same range once windows, walls and fit-out are added; factory-built and relocated homes cost $40k-$100k more. The thing that could sink any option is flood: north of the river the floor must sit at the 1% flood plus 0.5m, which may mean a raised floor and a full DA.",
+  "headlines": [
+    "First run: 9 options costed; cheapest decent is a 3-bed 1-bath lock-up kit at about $204k-$380k landed, off-grid.",
+    "Off-grid power is $34k-$64k after the federal battery rebate; install before Dec 2026 to keep the full rate.",
+    "Roof water covers only 20-30% of a family's use at 400mm rainfall; a bore or river pump is likely needed.",
+    "Flood planning level at the bridge is about 126.14m AHD; rural land north of the river floods up to 0.5m in a 1% event.",
+    "Local, factory-built option: Lloyds in Wagga builds a 3-bed 1-bath 'Murrumbidgee' model, 170km away; price by quote only."
+  ],
+  "options": [
+    {
+      "key": "wholesalehomes-whitehaven",
+      "type": "kit-home",
+      "title": "Wholesale Homes 'Whitehaven' 3-bed 1-bath lock-up kit",
+      "supplier": "Wholesale Homes and Sheds",
+      "url": "https://www.wholesalehomesandsheds.com.au/home-designs/three-bedroom/whitehaven/",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "size_m2": 106,
+      "kit_price_aud": 52554,
+      "price_note": "lock-up: frames, Colorbond roof, cladding, windows, doors, insulation, engineered plans",
+      "cost_lines": [
+        {
+          "item": "kit to lock-up",
+          "low": 52554,
+          "high": 52554,
+          "note": "read: supplier page"
+        },
+        {
+          "item": "freight to Darlington Point",
+          "low": 3000,
+          "high": 8000,
+          "note": "estimate: 'fixed' delivery price not published"
+        },
+        {
+          "item": "slab, 106m2",
+          "low": 12700,
+          "high": 21200,
+          "note": "estimate: $120-200/m2 Class M; more on reactive clay or a raised floor"
+        },
+        {
+          "item": "erection to lock-up",
+          "low": 15000,
+          "high": 40000,
+          "note": "estimate: frame, roof, cladding labour; lower if owner-built"
+        },
+        {
+          "item": "fit-out: lining, kitchen, bath, electrical, plumbing, floors",
+          "low": 32000,
+          "high": 61000,
+          "note": "read, adjusted: shed-homes.com.au itemised 3-bed fit-out, less insulation already in the kit"
+        },
+        {
+          "item": "DA, certifier, BASIX, owner-builder permit",
+          "low": 5000,
+          "high": 10000,
+          "note": "estimate; statutory DA fee alone is about $1,216 for a $250k build"
+        }
+      ],
+      "logistics": [
+        "timber frames light enough to stand by hand, no crane",
+        "N3 wind and BAL 12.5 standard"
+      ],
+      "pros": [
+        "exact 3 bed / 1 bath",
+        "windows, doors and insulation in the kit price",
+        "right size at 106m2"
+      ],
+      "cons": [
+        "timber frame by default, steel is an upgrade",
+        "freight and lead time not published"
+      ],
+      "verdict": "best",
+      "why": "Cheapest kit that already matches the brief and includes the envelope; every other kit needs windows or doors on top.",
+      "sources": [
+        "https://www.wholesalehomesandsheds.com.au/home-designs/three-bedroom/whitehaven/",
+        "https://www.wholesalehomesandsheds.com.au/inclusions/lockup-components/",
+        "https://shed-homes.com.au/faqs/"
+      ],
+      "first_seen": "2026-09-28",
+      "updated": "2026-09-28"
+    },
+    {
+      "key": "widespansheds-home-sweet-home",
+      "type": "shed-home",
+      "title": "Wide Span Sheds 'Home Sweet Home' 127m2 liveable shed, fitted as 3-bed",
+      "supplier": "Wide Span Sheds",
+      "url": "https://www.sheds.com.au/liveable-sheds/home-sweet-home/",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "size_m2": 127.5,
+      "kit_price_aud": 36750,
+      "price_note": "from price for a 7.5 x 17m steel shell; insulation, windows and doors extra; free delivery to most areas",
+      "cost_lines": [
+        {
+          "item": "steel shell",
+          "low": 36750,
+          "high": 36750,
+          "note": "read: supplier page, 'from' price"
+        },
+        {
+          "item": "freight",
+          "low": 0,
+          "high": 0,
+          "note": "read: free to most areas; confirm Darlington Point"
+        },
+        {
+          "item": "slab, 127m2",
+          "low": 15300,
+          "high": 25500,
+          "note": "estimate: $120-200/m2"
+        },
+        {
+          "item": "windows, external doors, insulation",
+          "low": 10000,
+          "high": 20000,
+          "note": "estimate: not in the shell"
+        },
+        {
+          "item": "shell erection",
+          "low": 12000,
+          "high": 25000,
+          "note": "estimate: 250-400h at $45-65/h"
+        },
+        {
+          "item": "internal walls for 3 bedrooms",
+          "low": 8000,
+          "high": 15000,
+          "note": "estimate"
+        },
+        {
+          "item": "fit-out",
+          "low": 36000,
+          "high": 68000,
+          "note": "read: shed-homes.com.au itemised 3-bed fit-out"
+        },
+        {
+          "item": "DA, certifier, BASIX, permit",
+          "low": 5000,
+          "high": 10000,
+          "note": "estimate"
+        }
+      ],
+      "logistics": [
+        "must be certified Class 1a, not a Class 10a shed",
+        "Riverina Outbuild in Griffith (Ranbuild) can quote a local equivalent",
+        "no crane needed"
+      ],
+      "pros": [
+        "cheapest shell found",
+        "free delivery",
+        "clear span, draw your own plan"
+      ],
+      "cons": [
+        "bare shell, everything habitable is extra",
+        "needs a draftsperson for Class 1a and BASIX"
+      ],
+      "verdict": "viable",
+      "why": "Ties the kit on cost once finished, with more floor area, but more design and certification work falls on you.",
+      "sources": [
+        "https://www.sheds.com.au/liveable-sheds/home-sweet-home/",
+        "https://class1asheds.com.au/liveable-shed-cost-complete-2026-class-1a-pricing-guide-australia/"
+      ],
+      "first_seen": "2026-09-28",
+      "updated": "2026-09-28"
+    },
+    {
+      "key": "widespanhomes-cottage-141",
+      "type": "kit-home",
+      "title": "Wide Span Homes 'The Cottage' 3-bed steel kit",
+      "supplier": "Wide Span Homes",
+      "url": "https://widespanhomes.com.au/kit-homes/the-cottage/",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "size_m2": 105,
+      "kit_price_aud": 55300,
+      "lead_time": "6-8 weeks manufacture",
+      "price_note": "steel frame, trusses, Colorbond walls, roof, engineering; no windows or doors",
+      "cost_lines": [
+        {
+          "item": "kit, frame and cladding",
+          "low": 55300,
+          "high": 55300,
+          "note": "read: supplier page"
+        },
+        {
+          "item": "freight",
+          "low": 2000,
+          "high": 5000,
+          "note": "estimate: regional NSW delivery not priced"
+        },
+        {
+          "item": "slab incl. verandah",
+          "low": 14000,
+          "high": 24000,
+          "note": "estimate"
+        },
+        {
+          "item": "windows and external doors",
+          "low": 8000,
+          "high": 15000,
+          "note": "estimate: not included"
+        },
+        {
+          "item": "erection to lock-up",
+          "low": 15000,
+          "high": 35000,
+          "note": "estimate"
+        },
+        {
+          "item": "fit-out incl. insulation",
+          "low": 36000,
+          "high": 68000,
+          "note": "read: shed-homes.com.au"
+        },
+        {
+          "item": "DA, certifier, BASIX, permit",
+          "low": 5000,
+          "high": 10000,
+          "note": "estimate"
+        }
+      ],
+      "logistics": [
+        "marketed as DIY-friendly",
+        "payments 15/45/40"
+      ],
+      "pros": [
+        "steel, termite-proof",
+        "short manufacture"
+      ],
+      "cons": [
+        "2 bathrooms adds fit-out",
+        "windows and doors extra"
+      ],
+      "verdict": "viable",
+      "why": "Steel alternative to the Whitehaven for about $15k more landed.",
+      "sources": [
+        "https://widespanhomes.com.au/kit-homes/the-cottage/"
+      ],
+      "first_seen": "2026-09-28",
+      "updated": "2026-09-28"
+    },
+    {
+      "key": "widespanhomes-homestead",
+      "type": "kit-home",
+      "title": "Wide Span Homes 'The Homestead' 4-bed steel kit",
+      "supplier": "Wide Span Homes",
+      "url": "https://widespanhomes.com.au/kit-homes/the-homestead-kit-home/",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "size_m2": 147,
+      "kit_price_aud": 63700,
+      "lead_time": "6-8 weeks manufacture",
+      "price_note": "frame and cladding only; windows, doors, insulation, lining, kitchen, slab extra",
+      "cost_lines": [
+        {
+          "item": "kit, frame and cladding",
+          "low": 63700,
+          "high": 63700,
+          "note": "read: supplier page"
+        },
+        {
+          "item": "freight",
+          "low": 2000,
+          "high": 5000,
+          "note": "estimate"
+        },
+        {
+          "item": "slab, 147m2 + verandah",
+          "low": 19000,
+          "high": 32000,
+          "note": "estimate"
+        },
+        {
+          "item": "windows and external doors",
+          "low": 10000,
+          "high": 18000,
+          "note": "estimate"
+        },
+        {
+          "item": "erection to lock-up",
+          "low": 18000,
+          "high": 40000,
+          "note": "estimate"
+        },
+        {
+          "item": "fit-out incl. insulation",
+          "low": 40000,
+          "high": 75000,
+          "note": "estimate: 3-bed range scaled for 4 bed, 2 bath"
+        },
+        {
+          "item": "DA, certifier, BASIX, permit",
+          "low": 5000,
+          "high": 10000,
+          "note": "estimate"
+        }
+      ],
+      "logistics": [
+        "14.0 x 10.5m plus verandah",
+        "raised floor system available if the flood level needs it"
+      ],
+      "pros": [
+        "4 bedrooms",
+        "lowest cost per bedroom of the new builds, about $39k-$61k"
+      ],
+      "cons": [
+        "2 bathrooms",
+        "shell only, every trade on you"
+      ],
+      "verdict": "viable",
+      "why": "The pick if you want the fourth bedroom: about $37k more than the Whitehaven.",
+      "sources": [
+        "https://widespanhomes.com.au/kit-homes/the-homestead-kit-home/"
+      ],
+      "first_seen": "2026-09-28",
+      "updated": "2026-09-28"
+    },
+    {
+      "key": "shedhomes-noosa",
+      "type": "shed-home",
+      "title": "Shed Homes 'The Noosa' 3-bed Class 1a kit",
+      "supplier": "Shed Homes Pty Ltd",
+      "url": "https://shed-homes.com.au/sheds/the-noosa/",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "size_m2": 198,
+      "kit_price_aud": 82900,
+      "lead_time": "4-8 weeks delivery; 6-12 months to move in",
+      "price_note": "from $82,900, $105,000 typical; windows, insulation, Class 1a drawings and delivery included",
+      "cost_lines": [
+        {
+          "item": "kit",
+          "low": 82900,
+          "high": 105000,
+          "note": "read: supplier cost page"
+        },
+        {
+          "item": "freight",
+          "low": 0,
+          "high": 0,
+          "note": "read: delivery included, Riverina served"
+        },
+        {
+          "item": "slab, 198m2",
+          "low": 23800,
+          "high": 39600,
+          "note": "estimate"
+        },
+        {
+          "item": "erection to lock-up",
+          "low": 20000,
+          "high": 40000,
+          "note": "estimate"
+        },
+        {
+          "item": "fit-out",
+          "low": 45000,
+          "high": 85000,
+          "note": "estimate: scaled for 198m2"
+        },
+        {
+          "item": "DA, certifier, BASIX, permit",
+          "low": 5000,
+          "high": 10000,
+          "note": "estimate"
+        }
+      ],
+      "logistics": [
+        "one truck",
+        "supplier suggests a builder to lock-up, owner fit-out"
+      ],
+      "pros": [
+        "Class 1a drawings and NatHERS included",
+        "delivery included"
+      ],
+      "cons": [
+        "198m2 is more house than the brief, so slab and fit-out balloon"
+      ],
+      "verdict": "marginal",
+      "why": "Good package but oversized; costs $55k-$85k more than the Whitehaven for space you didn't ask for.",
+      "sources": [
+        "https://shed-homes.com.au/how-much-does-a-shed-home-cost-in-australia/"
+      ],
+      "first_seen": "2026-09-28",
+      "updated": "2026-09-28"
+    },
+    {
+      "key": "lloyds-murrumbidgee-3sp",
+      "type": "transportable",
+      "title": "Lloyds Transportable Homes 'Murrumbidgee 3 SP', 3-bed 1-bath, built in Wagga",
+      "supplier": "Lloyds Transportable Homes / Betterlook Homes",
+      "url": "https://www.lloydshomes.biz/home-ranges/",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "size_m2": 114,
+      "price_note": "no published price; quote on 02 6921 4988",
+      "cost_lines": [
+        {
+          "item": "house, factory complete",
+          "low": 205000,
+          "high": 320000,
+          "note": "estimate: 114m2 x $1,800-2,800/m2, typical NSW transportable range; get a quote"
+        },
+        {
+          "item": "delivery Wagga to Darlington Point, 2 sections",
+          "low": 5000,
+          "high": 12000,
+          "note": "estimate"
+        },
+        {
+          "item": "piers, tie-down, section join",
+          "low": 8000,
+          "high": 15000,
+          "note": "estimate"
+        },
+        {
+          "item": "council s68/DA, certifier",
+          "low": 3000,
+          "high": 10000,
+          "note": "estimate"
+        }
+      ],
+      "logistics": [
+        "closest factory, about 170km",
+        "supplier installs; owner handles approvals",
+        "piers make it easy to set the floor above flood level"
+      ],
+      "pros": [
+        "exact brief",
+        "local builder since 1967",
+        "complete on arrival, no trades to chase"
+      ],
+      "cons": [
+        "price unknown until quoted",
+        "likely $100k+ over a kit"
+      ],
+      "verdict": "marginal",
+      "why": "Worth one phone call for a quote: it removes the trade shortage and flood-floor problems, if the price is sane.",
+      "sources": [
+        "https://www.lloydshomes.biz/home-ranges/",
+        "https://www.lloydshomes.biz/resources/Murrumbidgee-3-SP.pdf"
+      ],
+      "first_seen": "2026-09-28",
+      "updated": "2026-09-28"
+    },
+    {
+      "key": "gah-tasman",
+      "type": "relocated",
+      "title": "Golden Age Homes 'Tasman' 3-bed 1-bath house for removal",
+      "supplier": "Golden Age Homes (Melbourne)",
+      "url": "https://gah.com.au/project/tasman/",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "size_m2": 117,
+      "kit_price_aud": 185000,
+      "lead_time": "16-26 weeks",
+      "price_note": "$185,000 inc GST; renovated kitchen and bathroom; transport inclusions not stated",
+      "cost_lines": [
+        {
+          "item": "house",
+          "low": 185000,
+          "high": 185000,
+          "note": "read: listing"
+        },
+        {
+          "item": "transport about 500km, sectioning, restump, re-join",
+          "low": 25000,
+          "high": 50000,
+          "note": "estimate: Mackay charges $50/km per 2 sections past 100km"
+        },
+        {
+          "item": "electrical reconnection",
+          "low": 8000,
+          "high": 15000,
+          "note": "read: houseremovals.com.au FAQ"
+        },
+        {
+          "item": "plumbing reconnection",
+          "low": 8000,
+          "high": 15000,
+          "note": "read: houseremovals.com.au FAQ"
+        },
+        {
+          "item": "council, certifier",
+          "low": 3000,
+          "high": 10000,
+          "note": "read: $3k (GAH) to $8-10k (Mackay)"
+        }
+      ],
+      "logistics": [
+        "delivers across Victoria and southern NSW",
+        "asbestos check on older stock"
+      ],
+      "pros": [
+        "finished kitchen and bath",
+        "exact brief"
+      ],
+      "cons": [
+        "transport unquoted",
+        "old-house upkeep"
+      ],
+      "verdict": "marginal",
+      "why": "Finished house with no build stage, but about $100k over the kit and transport is a guess.",
+      "sources": [
+        "https://gah.com.au/project/tasman/",
+        "https://www.houseremovals.com.au/faq/"
+      ],
+      "first_seen": "2026-09-28",
+      "updated": "2026-09-28"
+    },
+    {
+      "key": "aveley-ex-display-3bed",
+      "type": "transportable",
+      "title": "Aveley ex-display 3-bed modular, NSW",
+      "supplier": "Aveley Homes via Modular Sales Australia",
+      "url": "https://modularsales.com.au/listing/3501/",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "size_m2": 76,
+      "kit_price_aud": 219000,
+      "lead_time": "ready now",
+      "price_note": "$219,000; kitchen, ensuite, split system, hot water, certificates; delivery TBA",
+      "cost_lines": [
+        {
+          "item": "house",
+          "low": 219000,
+          "high": 219000,
+          "note": "read: listing"
+        },
+        {
+          "item": "delivery, single 4.2m module",
+          "low": 8000,
+          "high": 20000,
+          "note": "estimate"
+        },
+        {
+          "item": "footings, install",
+          "low": 8000,
+          "high": 15000,
+          "note": "estimate"
+        },
+        {
+          "item": "council, certifier",
+          "low": 3000,
+          "high": 10000,
+          "note": "estimate"
+        }
+      ],
+      "logistics": [
+        "4.2m wide: one load, one pilot vehicle"
+      ],
+      "pros": [
+        "move-in ready now"
+      ],
+      "cons": [
+        "only 76m2 for 3 bedrooms",
+        "dear per m2"
+      ],
+      "verdict": "marginal",
+      "why": "Fastest into a finished house, but small and about $110k over the kit.",
+      "sources": [
+        "https://modularsales.com.au/listing/3501/"
+      ],
+      "first_seen": "2026-09-28",
+      "updated": "2026-09-28"
+    },
+    {
+      "key": "parkwood-ramsey",
+      "type": "modular",
+      "title": "Parkwood 'Ramsey' 3-bed modular",
+      "supplier": "Parkwood Modular Buildings",
+      "url": "https://www.parkwoodhomes.com.au/project/the-ramsey-3-bedroom-modular-home/",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "size_m2": 86,
+      "kit_price_aud": 242000,
+      "price_note": "$242,000-$259,200 inc GST, 2 modules",
+      "cost_lines": [
+        {
+          "item": "house",
+          "low": 242000,
+          "high": 259200,
+          "note": "read: Parkwood price list"
+        },
+        {
+          "item": "delivery from Somersby, about 650km",
+          "low": 10000,
+          "high": 25000,
+          "note": "estimate"
+        },
+        {
+          "item": "footings, install",
+          "low": 8000,
+          "high": 15000,
+          "note": "estimate"
+        },
+        {
+          "item": "council, certifier",
+          "low": 3000,
+          "high": 10000,
+          "note": "estimate"
+        }
+      ],
+      "logistics": [
+        "long oversize haul with permits and pilots"
+      ],
+      "pros": [
+        "turnkey",
+        "published price"
+      ],
+      "cons": [
+        "about 2x the kit landed",
+        "86m2"
+      ],
+      "verdict": "no",
+      "why": "Twice the kit's cost for a smaller house and a 650km haul; Lloyds in Wagga does the same job closer.",
+      "sources": [
+        "https://www.parkwoodhomes.com.au/wp-content/uploads/parkwood-price-list.pdf"
+      ],
+      "first_seen": "2026-09-28",
+      "updated": "2026-09-28"
+    }
+  ],
+  "site_costs": [
+    {
+      "key": "solar-battery",
+      "item": "Power: 10-12kW solar, 30-35kWh LFP battery, 8-10kVA inverter, 8kVA auto-start generator",
+      "low": 34000,
+      "high": 64000,
+      "note": "read: $40k-$70k installed (Energy Matters, RENOZ) less about $6k federal Cheaper Home Batteries rebate, which covers off-grid homes"
+    },
+    {
+      "key": "cooling-heating",
+      "item": "Cooling and heating: 3 x 7kW split systems",
+      "low": 7200,
+      "high": 12000,
+      "note": "read: $2,400-$3,600 per unit installed; evaporative would shrink the battery"
+    },
+    {
+      "key": "water-tanks",
+      "item": "Rain tanks, 90-135kL, pads and delivery",
+      "low": 12000,
+      "high": 22000,
+      "note": "read: Pioneer steel 110kL $13,290; poly 22.5kL $2,800-$5,000 each"
+    },
+    {
+      "key": "water-pump-treatment",
+      "item": "Pump, first-flush, filters, UV steriliser, plumbed",
+      "low": 2000,
+      "high": 5000,
+      "note": "read: Polymaster, Clean and Native"
+    },
+    {
+      "key": "wastewater",
+      "item": "Septic and trenches (low) or AWTS (high), with council approval",
+      "low": 8500,
+      "high": 25000,
+      "note": "read: NSW average $14.5k; AWTS servicing $280-$400 a visit, 4 a year"
+    },
+    {
+      "key": "hot-water",
+      "item": "250-315L heat pump hot water",
+      "low": 2500,
+      "high": 5500,
+      "note": "read: Haier 250L $2,310 installed after federal discount"
+    },
+    {
+      "key": "wood-lpg",
+      "item": "Slow-combustion wood heater, LPG cooktop on 2 x 45kg bottles",
+      "low": 3000,
+      "high": 9000,
+      "note": "read: wood heater $2,500-$7,500 installed"
+    },
+    {
+      "key": "site-works",
+      "item": "Gravel driveway 100-200m, house pad, trenching",
+      "low": 15000,
+      "high": 45000,
+      "note": "estimate: gravel $20-$40/m2, trenching at $80-$100/h"
+    }
+  ],
+  "site": [
+    {
+      "topic": "Approval path",
+      "finding": "A CDC under the Rural Housing Code is barred on flood control lots unless an engineer certifies the footprint is out of floodway and high hazard, so expect a full DA at Darlington Point.",
+      "source": "https://www.murrumbidgee.nsw.gov.au/files/assets/public/v/1/publications/town-plans-etc/flood-studies/darlington-point-fprms-v6-volume-1-reduced.pdf"
+    },
+    {
+      "topic": "Zoning",
+      "finding": "Land around Darlington Point is almost all RU1 Primary Production; dwellings are controlled by LEP cl 4.2D and the Lot Size Map. The minimum lot size for a dwelling here is unconfirmed.",
+      "source": "https://legislation.nsw.gov.au/view/whole/html/inforce/current/epi-2013-0471"
+    },
+    {
+      "topic": "DA fee",
+      "finding": "Statutory DA fee is about $1,216 for a $250k house, $1,959 for $400k; construction certificate, inspections and s68 septic fees are extra.",
+      "source": "https://www.planning.nsw.gov.au/sites/default/files/2026-06/schedule-planning-development-fees-charges-2026-27.pdf"
+    },
+    {
+      "topic": "BASIX",
+      "finding": "Required before any DA or CDC, off-grid included. Solar counts as an alternative energy system; with no mains, the rain tank must meet the water target.",
+      "source": "https://basix.nsw.gov.au/iframe/energy-help/alternative-energy-sources/photovoltaics.html"
+    },
+    {
+      "topic": "Owner-builder",
+      "finding": "Permit needed over $10k; over $20k also a course ($290-$550) and White Card. Permit fee $233. One permit per 5 years. Electrical, plumbing and waterproofing still need licensed trades.",
+      "source": "https://www.service.nsw.gov.au/transaction/apply-for-an-owner-builder-permit"
+    },
+    {
+      "topic": "Owner-builder insurance",
+      "finding": "No home warranty insurance needed on your own work; contractors doing over $20k must insure. Selling within 7.5 years needs a consumer warning in the contract.",
+      "source": "https://www.sira.nsw.gov.au/home-building-compensation/home-building-compensation-for-homeowners/information-for-owner-builders"
+    },
+    {
+      "topic": "Living on site while building",
+      "finding": "One caravan for your own household needs no s68 approval on your land; a shed is Class 10a and needs a change-of-use approval to live in.",
+      "source": "https://www.whiteacre.com.au/tiny-homes-caravans-and-manufactured-homes-in-nsw-planning-law-part-1"
+    },
+    {
+      "topic": "Flood planning level",
+      "finding": "Floor must be at the 1% flood plus 0.5m: about 126.14m AHD at the bridge (gauge 7.78m), varying across the floodplain.",
+      "source": "https://www.murrumbidgee.nsw.gov.au/files/assets/public/v/1/publications/town-plans-etc/flood-studies/darlington-point-fprms-v6-volume-1-reduced.pdf"
+    },
+    {
+      "topic": "Flood risk",
+      "finding": "No levee north of the river; rural land floods up to 0.5m in a 1% event and 1m in a 0.2% event. Many rural lots are 'flooded isolated submerged'. Warning time from Narrandera is over 4 days.",
+      "source": "https://www.murrumbidgee.nsw.gov.au/files/assets/public/v/1/publications/town-plans-etc/flood-studies/darlington-point-fprms-v6-volume-1-reduced.pdf"
+    },
+    {
+      "topic": "2022 flood",
+      "finding": "River peaked near 7m in Oct 2022; the Sturt Hwy near town was closed for weeks, reopening 25 Nov. In 2012 most evacuees were out 5+ days, some 3-7 weeks.",
+      "source": "https://www.areanews.com.au/story/7996525/sturts-back-highway-fully-reopens-after-lengthy-flood-closures/"
+    },
+    {
+      "topic": "Bushfire",
+      "finding": "Bush fire prone mapping around town is patchy (Category 2 and 3 grassland at sample points). A BAL assessment costs $300-$800.",
+      "source": "https://www.gianta.com.au/blog/approvals-9/bushfire-attack-level-bal-ratings-explained-what-nsw-homeowners-must-know-before-building-in-2026-65"
+    },
+    {
+      "topic": "Wastewater rules",
+      "finding": "Council needs s68 approval to install and a separate approval to operate. Flood-liable land is high risk: yearly inspection and 2-yearly renewal. AWTS must be serviced 4 times a year.",
+      "source": "https://www.murrumbidgee.nsw.gov.au/files/assets/public/v/1/policies-amp-codes-of-conduct/on-site-sewage-management-policy-2023.pdf"
+    },
+    {
+      "topic": "Water supply",
+      "finding": "175m2 of roof at 400mm catches about 60kL a year against 200-290kL used by 4 people, so a big shed roof into the tanks, a bore ($8k-$25k, water test first) or a river pump under basic landholder rights is needed.",
+      "source": "https://www.water.dcceew.nsw.gov.au/our-work/licensing-and-approvals/basic-landholder-rights-bore"
+    },
+    {
+      "topic": "Grid or off-grid",
+      "finding": "Grid is cheaper if an Essential Energy transformer is within about 100-200m ($10k-$33k); past that, or with a new transformer (about $25k more), off-grid at $34k-$64k breaks even before $2k-$3k a year of power bills.",
+      "source": "https://www.aer.gov.au/system/files/2023-12/Essential%20Energy%20-%208.02%20Connection%20Policy%20-%20Nov23%20-%20Public.pdf"
+    },
+    {
+      "topic": "Grants",
+      "finding": "The $10k First Home Owner Grant covers owner-builders if land plus home is $750k or less and you live in it. No owner-builder or Murrumbidgee grant found.",
+      "source": "https://www.revenue.nsw.gov.au/grants-schemes/first-home-buyer/new-homes"
+    }
+  ],
+  "logistics": [
+    {
+      "topic": "Oversize loads",
+      "finding": "Up to 3.5m wide and 26m long, no pilot needed by day; over 3.5m one pilot, over 4.6m two. Sturt Hwy and Kidman Way are on the Class 1 notice. No wide loads 23 Dec-3 Jan.",
+      "source": "https://www.nhvr.gov.au/document/211"
+    },
+    {
+      "topic": "Pilot vehicles",
+      "finding": "$370-$520 a day each; a one-day oversize move runs $800-$2,500 all in.",
+      "source": "https://www.iseekplant.com.au/pilot-vehicle-hire"
+    },
+    {
+      "topic": "Cranes",
+      "finding": "M.I.A. Crane Service (Griffith, Leeton, 15-55t) and A&G Cranes (Griffith, 12-60t). Kits and shed shells need no crane; transportables do.",
+      "source": "https://hub.agengineering.com.au/agcranes"
+    },
+    {
+      "topic": "Concrete",
+      "finding": "HRD Readymix, Mawsons and Murrumbidgee Concrete in Leeton, about 45km; Saunders Concrete has supplied Darlington Point since 1976.",
+      "source": "https://www.iseekplant.com.au/concrete-supply/nsw/griffith"
+    },
+    {
+      "topic": "Trades",
+      "finding": "Riverina Outbuild (Ranbuild) and True Blue Sheds in Griffith cover Darlington Point. Trades are thin: a Griffith builder went into administration in Feb 2025 owing locals.",
+      "source": "https://regionriverina.com.au/sydney-based-builder-of-griffith-affordable-housing-project-goes-into-administration-local-contractors-owed-payments/84813/"
+    },
+    {
+      "topic": "Hardware",
+      "finding": "Bunnings Griffith is 33km, about 25 minutes.",
+      "source": "https://www.whereis.com/nsw/griffith-2680/yellowId-15446430"
+    }
+  ],
+  "open_questions": [
+    "Does the block have a dwelling entitlement? Ask council for a s10.7 planning certificate (minimum lot size, flood control lot, bush fire prone).",
+    "Ground level at the house site in m AHD against the flood planning level; decides slab vs raised floor and adds $10k-$40k if raised (estimate).",
+    "Is the site in flood hazard H3-H6 or 'flooded isolated submerged'? Decides CDC vs DA and dry access.",
+    "Distance to the nearest Essential Energy transformer, to settle grid vs off-grid.",
+    "Soil class (geotech $500-$1,500): Riverina clay rated H or E pushes the slab cost up.",
+    "Quotes to get first: Lloyds Wagga (Murrumbidgee 3 SP), Wholesale Homes freight to 2706, Riverina Outbuild liveable shed.",
+    "Is there river frontage for a domestic pump, or does water mean a bore?"
+  ]
+}
