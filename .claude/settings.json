@@ -2,12 +2,21 @@
   "permissions": {
     "defaultMode": "auto",
     "allow": [
-      "WebSearch",
-      "WebFetch",
+      "Agent",
       "Bash",
-      "Read",
       "Edit",
-      "Write"
+      "Glob",
+      "Grep",
+      "NotebookEdit",
+      "Read",
+      "Skill",
+      "WebFetch",
+      "WebSearch",
+      "Write",
+      "mcp__claude-in-chrome",
+      "mcp__claude_ai_Claude_Docs",
+      "mcp__claude_ai_DocHub_Testing",
+      "mcp__claude_ai_PurpleGrain"
     ]
   }
 }
