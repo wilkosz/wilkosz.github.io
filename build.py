@@ -140,13 +140,15 @@ def fail(msg):
 
 def validate(profile, holdings, loves, status, watchlist, news, indicators=None, calendar=None,
              wants=None, finds=None, house=None):
-    for o in (house or {}).get("options", []):
+    crew_opts = ((house or {}).get("crew") or {}).get("options", [])
+    for o in (house or {}).get("options", []) + crew_opts:
         for k in ("key", "title", "type", "url", "verdict", "cost_lines"):
             if k not in o:
                 fail("house.json %s missing %r" % (o.get("key"), k))
         if o["verdict"] not in HOUSE_VERDICTS:
             fail("house.json %s verdict must be one of %s" % (o["key"], HOUSE_VERDICTS))
-    for ln in (house or {}).get("site_costs", []) + [l for o in (house or {}).get("options", []) for l in o["cost_lines"]]:
+    for ln in ((house or {}).get("site_costs", []) + [l for o in (house or {}).get("options", []) for l in o["cost_lines"]]
+               + [l for o in crew_opts for l in o["cost_lines"] + o.get("running", [])]):
         if not isinstance(ln.get("low"), (int, float)) or not isinstance(ln.get("high"), (int, float)):
             fail("house.json cost line %r needs numeric low and high" % ln.get("item"))
     want_keys = set()
@@ -720,6 +722,60 @@ def summary_house(house):
     lo, hi = house_landed(best, house)
     out += '<p>cheapest decent: <a href="house/#%s">%s</a> &mdash; %s landed, off-grid, move-in</p>\n' % (
         e(best["key"]), e(best["title"]), aud_range(lo, hi))
+    crew = [o for o in (house.get("crew") or {}).get("options", []) if o.get("verdict") != "no"]
+    if crew:
+        lo, hi = cost_range(crew[0]["cost_lines"])
+        out += '<p>crew housing: <a href="house/#%s">%s</a> &mdash; %s upfront</p>\n' % (
+            e(crew[0]["key"]), e(crew[0]["title"]), aud_range(lo, hi))
+    return out
+
+
+def render_crew_option(o, cap):
+    lo, hi = cost_range(o["cost_lines"])
+    out = '<li id="%s"><b>%s</b> &mdash; %s%s' % (
+        e(o["key"]), link(o.get("url"), o["title"]), e(o["verdict"]), permalink(o["key"]))
+    out += "<br><b>%s upfront</b>" % aud_range(lo, hi)
+    if cap and hi > cap:
+        out += " (over the %s cap at the high end)" % aud(cap)
+    if o.get("running"):
+        out += ", %s a year to run" % aud_range(*cost_range(o["running"]))
+    bits = [e(o.get("type"))] + ([e(o["where"])] if o.get("where") else []) + ([house_specs(o)] if house_specs(o) else [])
+    out += "<br>%s" % " &middot; ".join(bits)
+    for k in ("standard", "why"):
+        if o.get(k):
+            out += "<br>%s" % e(o[k])
+    lines = o["cost_lines"] + [dict(l, item="%s (yearly)" % l["item"]) for l in o.get("running", [])]
+    out += "<ul>\n" + "".join("<li>%s: %s%s</li>\n" % (
+        e(l["item"]), aud_range(l["low"], l["high"]), (" &mdash; <i>%s</i>" % e(l["note"])) if l.get("note") else "")
+        for l in lines) + "</ul>\n"
+    for label, k in (("for", "pros"), ("against", "cons")):
+        if o.get(k):
+            out += "%s: %s<br>" % (label, "; ".join(e(x) for x in o[k]))
+    if o.get("sources"):
+        out += "<i>sources: %s</i>" % ", ".join(link(u, site_label(u).split("/")[0]) for u in o["sources"])
+    return out + "</li>\n"
+
+
+def render_crew(brief, crew):
+    b = brief.get("crew") or {}
+    out = '<h2 id="crew">%s</h2>\n' % e(b.get("title") or "Crew housing")
+    if crew.get("headlines"):
+        out += "<ul>\n" + "".join("<li>%s</li>\n" % e(h) for h in crew["headlines"]) + "</ul>\n"
+    if crew.get("summary"):
+        out += "<p>%s</p>\n" % e(crew["summary"])
+    if b.get("must"):
+        out += "<p>must have: %s</p>\n" % "; ".join(e(m) for m in b["must"])
+    if b.get("prefer"):
+        out += "<p>nice to have: %s</p>\n" % "; ".join(e(p) for p in b["prefer"])
+    opts = crew.get("options", [])
+    if opts:
+        out += "<p><i>Upfront is all-in to move people in, including any power, water and wastewater; " \
+               "off-grid site works above are not added.</i></p>\n"
+        out += "<ol>\n" + "".join(render_crew_option(o, b.get("cap_aud")) for o in opts) + "</ol>\n"
+    else:
+        out += "<p>No options researched yet.</p>\n"
+    if crew.get("questions"):
+        out += "<p>to settle:</p>\n<ul>\n" + "".join("<li>%s</li>\n" % e(q) for q in crew["questions"]) + "</ul>\n"
     return out
 
 
@@ -755,7 +811,7 @@ def render_house(brief, house, logs):
         out += "<p>%s</p>\n" % e(house["summary"])
     out += ('<p>jump to: <a href="#options">options</a> | <a href="#offgrid">off-grid costs</a> | '
             '<a href="#site">site and approvals</a> | <a href="#logistics">logistics</a> | '
-            '<a href="#questions">open questions</a></p>\n')
+            '<a href="#questions">open questions</a> | <a href="#crew">crew housing</a></p>\n')
     out += "<h2 id=\"brief\">The brief</h2>\n<p>%s</p>\n" % e(brief.get("site"))
     if brief.get("must"):
         out += "<p>must have: %s</p>\n" % "; ".join(e(m) for m in brief["must"])
@@ -789,6 +845,7 @@ def render_house(brief, house, logs):
     if house.get("open_questions"):
         out += '<h2 id="questions">Open questions</h2>\n<ul>\n' + "".join(
             "<li>%s</li>\n" % e(q) for q in house["open_questions"]) + "</ul>\n"
+    out += render_crew(brief, house.get("crew") or {})
     out += "<h2>Research log</h2>\n"
     out += ("<ul>\n" + "".join("<li>%s</li>\n" % link("%s.html" % n[:-3], n[:-3]) for n in logs[:14])
             + "</ul>\n") if logs else "<p>No runs yet.</p>\n"

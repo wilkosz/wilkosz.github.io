@@ -194,12 +194,12 @@
     {
       "key": "2026-10-07-samsung-prelim",
       "date": "2026-10-07",
-      "time": "TBC (date unconfirmed; usually early Oct, KST morning)",
+      "time": "Oct 7 or 8, TBC (Korean press leans Thu Oct 8); KST morning, ~10:00 AEDT",
       "ticker": "005930",
-      "title": "Samsung Electronics Q3 preliminary earnings guidance",
+      "title": "Samsung Electronics Q3 preliminary earnings (consensus ~107T won op profit, 200T revenue)",
       "type": "earnings",
-      "why": "First hard Q3 memory profit number; read-across to MU and SK hynix (Q2 op profit was 89.4T won).",
-      "link": "https://news.samsung.com/global/tag/earnings-guidance"
+      "why": "First hard Q3 memory profit number and first 100T-won quarter if consensus holds; read-across to MU and SK hynix.",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=610172"
     },
     {
       "key": "2026-10-07-fomc-minutes",
@@ -230,6 +230,16 @@
       "type": "conference",
       "why": "Data-centre hardware roadmaps for NVDA, MRVL, ALAB, CRDO, AVGO.",
       "link": "https://www.vertiv.com/en-us/about/news-and-events/events/ocp-global-summit-2026/"
+    },
+    {
+      "key": "2026-10-13-big-banks-q3",
+      "date": "2026-10-13",
+      "time": "JPM results ~07:00 ET (22:00 AEDT), call 08:30 ET (23:30 AEDT); GS, WFC, C same morning",
+      "ticker": "JPM",
+      "title": "Q3 bank earnings start: JPMorgan, Goldman, Wells Fargo, Citi (BAC, MS Oct 14)",
+      "type": "earnings",
+      "why": "Opens Q3 season; JPM consensus ~$5.83 EPS on ~$50.6B revenue; credit and dealmaking commentary sets the tone.",
+      "link": "https://www.jpmorganchase.com/ir/news/2026/jpmc-to-host-third-quarter-2026-earnings-call"
     }
   ]
 }

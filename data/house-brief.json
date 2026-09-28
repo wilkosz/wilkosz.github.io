@@ -14,5 +14,22 @@
     "cheapest total cost to move in, not cheapest kit"
   ],
   "notes": "Cheapest decent option wins. Always compare the landed, move-in cost: house, freight, slab, labour, fit-out, approvals, plus the off-grid and site works every option needs.",
-  "added": "2026-09-28"
+  "added": "2026-09-28",
+  "crew": {
+    "title": "Crew housing: team members on rotation",
+    "cap_aud": 100000,
+    "must": [
+      "3 or more bedrooms",
+      "under $100,000 all-in upfront, ready to move in",
+      "decent standard: aircon and heating, insulated, proper kitchen and bathroom, secure",
+      "suits people staying days to weeks at a time, on rotation"
+    ],
+    "prefer": [
+      "low running cost per year when half-empty",
+      "on the block or within 30 minutes of it",
+      "resaleable or relocatable later"
+    ],
+    "notes": "Separate from the family house. Compare upfront all-in cost and yearly running cost; buying, renting, second-hand transportables and park or motel stays all count.",
+    "added": "2026-09-28"
+  }
 }

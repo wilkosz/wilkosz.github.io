@@ -1,6 +1,6 @@
 ---
 name: house-research
-description: Research the cheapest decent off-grid 3-4 bedroom house (shed home, kit, modular, transportable) for Joshua's Darlington Point block - landed costs, off-grid systems, approvals, flood and logistics - update data/house.json, rebuild wilkosz.com.au, commit and push. Run on a loop, e.g. `/loop 7d /house-research`.
+description: Research the cheapest decent off-grid 3-4 bedroom house (shed home, kit, modular, transportable) for Joshua's Darlington Point block - landed costs, off-grid systems, approvals, flood and logistics - plus the cheapest decent 3+ bedroom crew housing under $100k for team members on rotation - update data/house.json, rebuild wilkosz.com.au, commit and push. Run on a loop, e.g. `/loop 7d /house-research`.
 ---
 
 # house-research
@@ -46,6 +46,29 @@ move-in, off-grid total. So:
 - Low and high are both required. Keep the ranges honest; a wide range is better than a
   false one.
 
+## The crew cycle
+
+Every run also re-checks **crew housing**: the best cost-effective way to give team members who
+are at Darlington Point on rotation (days to weeks, several at a time) 3+ bedroom living of a
+decent standard for under the cap in `house-brief.json` -> `crew` (`cap_aud`, $100k). It is a
+separate track from the family house and goes in the run file's `crew` block.
+
+- Compare genuinely different paths: renting in Darlington Point / Griffith / Coleambally,
+  buying a cheap 3-bed in a nearby town, second-hand ex-mining dongas and transportables,
+  new budget cabins or expandable homes, relocated houses, a fitted-out shed, and a caravan
+  park / motel / workers' accommodation baseline costed per year.
+- A crew option is **all-in**: its `cost_lines` carry everything to move people in (for
+  anything on the block: freight, footings raised for flood if needed, its own small
+  off-grid power, tank, septic or AWTS, approval). `site_costs` are not added.
+- `running` = per-year costs (rent, rates, insurance, fuel, maintenance). Weigh ~5 years of
+  running cost when picking `best`: a cheap setup with high rent can lose to a dearer buy.
+- Standard bar: split-system aircon and heating, insulated, real kitchen and bathroom,
+  secure. Put a one-line `standard` on each option. Below the bar is `no`, not `marginal`.
+- `best` = cheapest decent option whose upfront **high** is at or under the cap. Over-cap
+  options can stay as `viable` or `marginal`; the page flags them.
+- Check approvals for putting moveable dwellings or workers' accommodation on RU1 land in
+  Murrumbidgee Council, and whether the block can hold a second dwelling at all.
+
 ## Verdicts
 
 - `best` - the single cheapest option that clears every `must` in the brief with realistic
@@ -66,6 +89,7 @@ move-in, off-grid total. So:
 | Approvals | Murrumbidgee Council (DA fees, LEP, on-site sewage), NSW Planning Portal (BASIX, CDC), NSW Fair Trading (owner-builder) |
 | Site | Murrumbidgee / Darlington Point flood study and flood planning level, NSW RFS bush fire prone land map |
 | Logistics | Transport for NSW oversize rules, Griffith/Leeton crane hire, concrete and trades |
+| Crew housing | realestate.com.au / domain.com.au rentals and sales (Darlington Point, Coleambally, Griffith, Whitton, Yenda, Hay), Gumtree / Facebook used dongas and transportables, Ausco / Atco / Modular Building Sales used stock, mining camp dispersals, house removalists, Darlington Point caravan park, Griffith workers' accommodation, council rules on moveable dwellings |
 
 ## Procedure
 
@@ -76,7 +100,9 @@ move-in, off-grid total. So:
    cat data/house-brief.json
    python3 -c "import json;d=json.load(open('data/house.json'));[print(o['verdict'],o['key'],o['title'],o['url']) for o in d['options']]"
    ```
-   Note every option so you re-check it rather than re-adding it under a new key.
+   python3 -c "import json;d=json.load(open('data/house.json'));[print('crew',o['verdict'],o['key'],o['title'],o['url']) for o in (d.get('crew') or {}).get('options',[])]"
+   ```
+   Note every option (house and crew) so you re-check it rather than re-adding it under a new key.
 
 2. **Re-check** each stored option's `url`: price moved, model discontinued, lead time changed.
 
@@ -84,12 +110,15 @@ move-in, off-grid total. So:
    - house options: shed homes, kit homes, modular/transportable/relocated, 6-9 options
    - off-grid systems and site works, with a grid-connection comparison
    - approvals, flood, bushfire and logistics
+   - crew housing under the cap, 6-9 options (see "The crew cycle")
    Give each agent the brief, the exact JSON shape below, and the read-or-estimate rule.
 
 4. **Write one run file** in the scratchpad dir (or `/tmp/house-run.json`) in the shape
    documented at the top of `house.py`. Keys are stable across runs: `<supplier>-<model slug>`.
    `site_costs`, `site`, `logistics` and `open_questions` replace the stored lists, so send
-   the full list each time.
+   the full list each time. Crew findings go in `crew` (`summary`, `headlines`, `options`,
+   `questions`); crew options upsert by key like house options. Put the biggest crew change
+   in the top-level `headlines` too if it is one of the week's biggest.
 
 5. **Merge, build, verify**
    ```bash
@@ -107,11 +136,12 @@ move-in, off-grid total. So:
    Always push, never ask first. If push is rejected, `git pull --rebase origin main` and push again.
 
 7. **Report** in 5-10 lines: the best option and its landed range, the runner-up, the
-   off-grid total, the biggest site risk, what changed, and the commit hash.
+   off-grid total, the biggest site risk, the best crew option with its upfront and yearly
+   cost, what changed, and the commit hash.
 
 ## If the prompt carries extra instructions
 
 Treat text after `/house-research` as owner instructions for this run. Editing
 `data/house-brief.json` is the one case where you may touch the owner file (e.g. "make it
-4 bedrooms minimum", "add a second bathroom", "budget cap 250k") - do it before step 3,
+4 bedrooms minimum", "add a second bathroom", "budget cap 250k", "crew cap 80k") - do it before step 3,
 re-score the stored options against the new brief, and mention it in the report.

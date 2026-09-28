@@ -17,13 +17,13 @@
     {
       "key": "b200_rental",
       "name": "B200 / Blackwell rental price, $/GPU-hour (on-demand)",
-      "value": "Silicon Data B200 $5.87 (+2.3% 7d) vs $5.72 Sep 15; B300 index $6.80 (-2.2%); RunPod B200 $5.98/$6.79, Lambda B200 $6.69-6.99 unchanged; B200/H100 ~2.17x",
+      "value": "Silicon Data B200 $5.87 (+2.3% 7d) vs $5.72 Sep 15; B300 index $6.78 (-2.4%); RunPod B200 $5.98/$6.79, Lambda B200 $6.69-6.99 unchanged; B200/H100 ~2.17x",
       "trend": "up",
       "signal": "bullish",
       "why": "Blackwell is where new supply lands, so this is the first place a glut would show; if B200 rates fell toward H100 rates while Rubin ships, capacity would be outrunning demand.",
       "watch": "Bearish if tier-1 neocloud B200 on-demand drops below ~$4.50/hr, if the B200/H100 price ratio compresses below ~2x, or if lead times for 8-GPU Blackwell nodes fall to same-week availability.",
-      "note": "Sep 28: B200 index $5.87 (+2.3% 7d), up 2.6% since Sep 15; ratio to H100 ~2.17x, above the 2x flip level. New B300 index reads $6.80 (-2.2% 7d), below RunPod's B300 list of $6.94/$7.89 - the one soft print. RunPod (Sep 27) and Lambda list prices unchanged.",
-      "source": "https://www.runpod.io/pricing",
+      "note": "Sep 29: B200 index still $5.87 (+2.3% 7d); ratio to H100 ~2.17x, above the 2x flip level. B300 index slipped again to $6.78 (-2.4% 7d, from $6.80), the one soft print, now below RunPod's B300 list of $6.94/$7.89. H100 ($2.70) and H200 ($3.33) unchanged since Sep 28.",
+      "source": "https://www.silicondata.com/products/silicon-index",
       "updated": "2026-09-28"
     },
     {
@@ -53,13 +53,13 @@
     {
       "key": "memory_prices",
       "name": "Server DRAM / HBM contract price momentum (QoQ) and DRAM spot",
-      "value": "TrendForce raised its 4Q26 contract outlook (Sep 24), from +3-8% previously; enterprise SSD +23-28% QoQ, NAND +15-20%; DDR5 16Gb spot $57.67 (Sep 24) vs $54.33 (Sep 14); DDR4 $83.78 vs $89.25",
+      "value": "TrendForce raised its 4Q26 contract outlook (Sep 24), from +3-8% previously; enterprise SSD +23-28% QoQ, NAND +15-20%; DDR5 16Gb spot $57.83 (Sep 28) vs $54.33 (Sep 14); DDR4 $83.66 vs $89.25",
       "trend": "up",
       "signal": "bullish",
       "why": "Memory is the tightest physical input to AI servers (HBM is 25-30% of a Rubin rack) and contract prices are negotiated quarterly, so this is the earliest cyclical input to turn; a price rollover would precede GPU discounting.",
-      "watch": "Bearish when server DRAM or HBM contract prices go negative QoQ, when 2027 HBM4 contracts are signed at lower prices, or when DRAMeXchange DDR5 spot falls >20% from peak; also watch whether CSPs start cutting memory per system, which TrendForce flags as their cost response. Near term: Micron's FQ4 print Sep 30 (guide $50B +/-1B, ~86% GM) and its FQ1 FY27 guide.",
-      "note": "Sep 24: TrendForce lifted its 4Q26 contract outlook - DRAM stays undersupplied as CSPs add RDIMM orders for agentic AI, with LTAs capping hikes; exact server DRAM % is paywalled, but enterprise SSD is +23-28% QoQ and NAND +15-20%. DDR5 spot up 6% in 10 days to $57.67; DDR4 down 6% to $83.78, the consumer-side softness. Micron reports Sep 30: guide $50B +/-$1B revenue, ~86% GM, EPS $31 +/-1; street watches for an FQ1 guide above $55B.",
-      "source": "https://www.trendforce.com/research/download/RP260924PL",
+      "watch": "Bearish when server DRAM or HBM contract prices go negative QoQ, when 2027 HBM4 contracts are signed at lower prices, or when DRAMeXchange DDR5 spot falls >20% from peak; also watch whether CSPs start cutting memory per system, which TrendForce flags as their cost response. Near term: Micron's FQ4 print Sep 30 (guide $50B +/-1B, ~86% GM) and its FQ1 FY27 guide; Samsung Q3 prelim Oct 7-8 (consensus ~107T won op profit).",
+      "note": "Sep 28: DDR5 16Gb spot $57.83 (+0.3% on the day), up from $57.67 on Sep 24 and 6% in two weeks; DDR4 $83.66 (-0.15%), still drifting lower - consumer-side softness. TrendForce's Sep 24 4Q26 contract upgrade stands. Samsung Q3 prelim consensus (8 brokers, Yonhap Infomax): 200.3T won revenue, ~107T won operating profit, first quarter above 100T. Micron reports Sep 30.",
+      "source": "https://www.trendforce.com/price/dram/dram_spot",
       "updated": "2026-09-28"
     },
     {
