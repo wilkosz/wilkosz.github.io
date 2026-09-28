@@ -1,110 +1,112 @@
 {
-  "as_of": "2026-09-27T23:43",
-  "market_summary": "The S&P 500 closed Monday at 7,620 (-0.5%), about 1.4% below Aug 27, and the Fed is near-certain to hike at 4am AEST Thursday: futures price roughly 90-93% odds of 25bp to 3.75-4.00%, the first hike since 2023, versus 34% priced on Aug 27. The repricing came in three steps: Warsh used Jackson Hole (Aug 28) to demand disinflation 'clearly and at sufficient speed', August payrolls (Sep 4) beat at +162k with unemployment steady at 4.1%, and August CPI (Sep 11) printed 0.4% m/m and 3.4% y/y with core 0.3% m/m, above forecasts. The 10-year touched 5.01% Monday, highest since October 2023 (4.68% on Aug 27), the ECB hiked 25bp to 2.50% on Sep 10, and Brent is near $107 with WTI $102.7 after Houthi attacks on Saudi Arabia and a pipeline strike Riyadh says could disrupt up to 4% of global supply. Chips took the extra hit Monday: SOX -5.9% and NVDA -3.4% to $210.96 after Amodei, Altman and Musk called for slowing AI development, though the S&P ended well off session lows and NVDA ticked up after hours. Asia is mixed at Tuesday lunchtime: Nikkei +0.9%, Kospi +0.3%, Taiex -0.1%, Hang Seng -0.3%, ASX 200 -0.9% at 8,669; China's August industrial output beat at +5.2% y/y while retail sales missed at +0.4%. Ahead in AEST: US retail sales 10:30pm Wednesday, FOMC decision 4am Thursday with Warsh's press conference ~4:30am, BOJ Friday (25bp to 1.25% expected), then the RBA on Sep 29 with a hike about 74% priced (cash rate 4.35%; NAB calls September, CBA and Westpac November).",
+  "as_of": "2026-09-28T00:03",
+  "market_summary": "The Fed raised rates 0.25 pt to 3.75-4.00% on Wed Sep 16 (Thu 4am AEST), its first hike since 2023, and 16 of 18 officials see another by year end. The US 10-year yield then climbed to about 5.1-5.2%, the highest since 2007, and futures price roughly a 70% chance of another Fed hike in October. Stocks still rose for the week to Fri Sep 25 (Sat morning AEST): S&P 500 7,743 (+1.2%), Nasdaq 27,069 (+2.1%), and the SOX chip index 12,669 (+6.3%, +13% since Sep 15) as chip stocks recovered from the 'slow down AI' selloff. Brent settled at $104.32 (under +1% for the week) and WTI at $92.41 (about -8%): hopes of a US-Iran truce offset Houthi attacks on Saudi Arabia. The ASX 200 closed Friday at 8,665 (-0.4%), its fourth weekly loss, and futures pointed to a flat open this morning. Markets price a 25 bp RBA hike to 4.60% at 2:30pm AEST Tue Sep 29 as near certain.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "$253.54 Monday close, -1.3% over the 18-day gap, lagging GOOGL and META. Material items were partnerships rather than numbers: a multi-generational Qualcomm collaboration on AI data-center infrastructure (Sep 8), an AWS Saudi Arabia region coming by December 2026, Graviton5 instances GA, and OpenAI's GPT-6 Astra landing on Bedrock; Sep 14 it paused cargo carrier 21 Air after a fatal Miami crash. Nothing changes the AWS thesis either way; hold.",
-      "price_usd": 253.54,
-      "updated": "2026-09-15"
+      "reason": "$249.67, down 1.5% since the last run and lagging the other megacaps. It blocked Meta's Muse shopping agent from its store, a sign it is defending retail ad traffic against AI agents. No new earnings or guidance since Q2, when AWS grew 37%.",
+      "price_usd": 249.67,
+      "updated": "2026-09-28"
     },
     "AXOS": {
       "take": "hold",
-      "reason": "$93.75 Monday close, -2.8% since Aug 27 with no company news beyond a D.A. Davidson Gold Trophy List mention (Sep 2). Quietest name in the book; next catalyst is the fiscal Q1 print in late October. Hold.",
-      "price_usd": 93.75,
-      "updated": "2026-09-15"
+      "reason": "$88.52, down 6% since Sep 15. On Sep 21 it closed the purchase of $1.9B of IRA deposits from Capital One, which adds low-cost funding. A bank that lends at floating rates is less exposed to hikes than the mortgage names. Ticker is AX on NYSE.",
+      "price_usd": 88.52,
+      "updated": "2026-09-28"
     },
     "BABA": {
       "take": "watch",
-      "reason": "ADR $109.23 Monday, -6.0% since Aug 27; 9988.HK closed Monday at HK$105.90, below the HK$112.70 placing price, before bouncing +2.4% to HK$108.40 mid-session Tuesday. New overhangs: Anthropic alleges Alibaba ran 151M Claude exchanges through 3,500 accounts (May-July) to distill its models - China rejected the claim - and US securities class actions run to an Oct 5 lead-plaintiff deadline. Qwen3.8-Max was open-sourced Sep 7 with near-frontier benchmark claims, so the AI thesis is alive, but the post-placement base never formed; keep watching.",
-      "price_usd": 109.23,
-      "updated": "2026-09-15"
+      "reason": "$109.74, up 0.5% since the last run and flat overall. It rose into Apsara, where it showed the Zhenwu V900 chip and a 20GW data-centre target for 2032, then gave the gain back with a 4.7% drop on Sep 23. The possible approval to buy Nvidia chips is not yet confirmed.",
+      "price_usd": 109.74,
+      "updated": "2026-09-28"
     },
     "ENPH": {
       "take": "watch",
-      "reason": "$36.66 Monday close, -5.4% since Aug 27, and no further policy follow-through after the August orders. The new story is a pivot: the IQ solid-state transformer for AI data centers, with power modules now built in Texas (Sep 8) and a showcase at AI Infra Summit (Sep 14). Data-center optionality is interesting but unproven and the residential guide is still below last year; stay on watch.",
-      "price_usd": 36.66,
-      "updated": "2026-09-15"
+      "reason": "$32.40, down 12% since Sep 15. No company-specific bad news; the only release was a utility approval for the IQ Meter Collar. Higher rates and a 7%+ mortgage rate weigh on home solar demand. Data-centre transformer pilots are not due until 2027.",
+      "price_usd": 32.4,
+      "updated": "2026-09-28"
     },
     "FIGR": {
       "take": "hold",
-      "reason": "$35.65 Monday close, -4.9% since Aug 27; the slide bottomed at $33.19 on Sep 2 and the tape has since stabilised ($38.27 on Sep 8, $35.65 now). Kiavi closed Sep 1 and a Sep 10 Sierra partnership puts AI agents on abandoned home-equity applications; no lockup expiries, offerings or notable insider filings appeared in the window. Hold.",
-      "price_usd": 35.65,
-      "updated": "2026-09-15"
+      "reason": "$31.90, down 11% since Sep 15, and down in 4 of the last 5 sessions. No new company news since the Kiavi deal closed on Sep 1. The fall tracks lenders generally as rates rise. Loan volumes were strong last quarter.",
+      "price_usd": 31.9,
+      "updated": "2026-09-28"
     },
     "GOOGL": {
       "take": "add",
-      "reason": "$349.39 Monday close, +3.0% since Aug 27, finishing +3.2% Monday on a planned New Mexico AI data center. The big event: Judge Brinkema declined to break up the ad-tech business on Sep 2, ordering behavioral remedies only (bid transparency, no first/last look) - the last major US structural overhang is gone. Still add.",
-      "price_usd": 349.39,
-      "updated": "2026-09-15"
+      "reason": "$343.92, down 1.6% since the last run. It fell 3.8% on Sep 23 as cheaper OpenAI and Anthropic models and Meta's Muse raised worries about search. Ireland also fined it EUR 403M. Cloud and TPU demand are unchanged, so the dip is a chance to add.",
+      "price_usd": 343.92,
+      "updated": "2026-09-28"
     },
     "LDI": {
       "take": "trim",
-      "reason": "$0.8333 Monday close, -13.8% since Aug 27 - it never regained $1 and is now four-plus weeks under the NYSE threshold with no reverse-split announcement yet. The Sep 14 HomeSmart marketing agreement (25,000 agents) does not move the cure math, and Wednesday's FOMC cuts both ways for a mortgage lender. Keep trimming into any strength.",
-      "price_usd": 0.8333,
-      "updated": "2026-09-15"
+      "reason": "$0.67, down 20% since Sep 15 and further below the NYSE $1 minimum. It has until about Feb 2027 to get back above $1, and a reverse split would need shareholder approval, likely at the June 2027 meeting. With 30-yr rates above 7% and refinancing down 62% on a year ago, the business gets no help.",
+      "price_usd": 0.67,
+      "updated": "2026-09-28"
     },
     "META": {
       "take": "hold",
-      "reason": "$665.60 Monday close, +15.8% since Aug 27, the book's big winner. Muse, its personal AI agent, launched Sep 8 and hit No. 2 on the US App Store, though early downloads (~83k US iOS by day two) are modest against past launches; Goldman reiterated Buy and a $0.525 quarterly dividend was declared Sep 10. Settlement follow-through continues (now framed as an $18B multistate deal) with Connect Sep 23-24 the next catalyst; after a 16% run the news is priced, hold.",
-      "price_usd": 665.6,
-      "updated": "2026-09-15"
+      "reason": "$751.66, up 12.9% since the last run. It jumped 11% on Sep 21 after Muse hit No. 1 on the App Store and Wells Fargo raised its target to $796. Connect added $349 audio-only glasses, the $449 Ray-Ban Gen 3 and $1,300 VR glasses due spring 2027. The price is now near the consensus target.",
+      "price_usd": 751.66,
+      "updated": "2026-09-28"
     },
     "MRVL": {
       "take": "hold",
-      "reason": "Closed Monday at $218.82 (-7.3%), roughly back to the $222.62 post-print after-hours level: the market digested the Aug 27 print well, recovering to ~$236 by Friday before Monday's AI-wide selloff took it all back. TipRanks found no company-specific negative in the drop - it was the Amodei slow-down call - and consensus target is $298 with Piper Sandler freshly bullish. Marvell presents AI data-center connectivity at the AI Infra Summit Sep 15-17; hold.",
-      "price_usd": 218.82,
-      "updated": "2026-09-15"
+      "reason": "$261.94, up 19.7% since the last run, the best of the holdings. It showed 2nm optical interconnects at ECOC, and Morgan Stanley raised its target to $268 but kept Hold. The price is already near the targets, and the Oct 6 investor day is the next test.",
+      "price_usd": 261.94,
+      "updated": "2026-09-28"
     },
     "MU": {
       "take": "hold",
-      "reason": "Closed Monday at $924.03 (-5.3%), about 1% below the Aug 27 level, with memory names at the centre of the AI selloff. Goldman's FQ4 preview (Sep 14) expects another strong quarter: revenue $51.9B vs $50.4B consensus, EPS $32.54, 87.3% gross margin, though DRAM price momentum is now 'more measured'; Goldman holds a $1,100 target vs Street $1,564. Earnings Sep 30; supply is still contracted out years via take-or-pay deals. Hold into the print.",
-      "price_usd": 924.03,
-      "updated": "2026-09-15"
+      "reason": "$1,082.28, up 17.1% since the last run and about 279% this year. FQ4 results land Sep 30 (Oct 1 AEST). The Street expects about $50.9B revenue and $31.49 EPS. After this run-up, any miss on pricing or margin guidance would hit hard, so do not add before the print.",
+      "price_usd": 1082.28,
+      "updated": "2026-09-28"
     },
     "NFLX": {
-      "take": "add",
-      "reason": "Closed Monday at $80.32 (+3.8%), back above the Aug 27 level, after Warner Bros. Discovery went to Paramount Skydance with Netflix out of the bidding - removing a capital-discipline overhang - and Evercore raised its target to $110. GTA VI follow-through was real: the preview became Netflix's most-watched program at 31.1M views, #1 in 87 of 93 countries, with ~100k US sign-ups in the six-hour exclusivity window. Watch items: Florida's children's-data lawsuit and the wound-down Skydance Animation pact; consensus ~$103, still an add.",
-      "price_usd": 80.32,
-      "updated": "2026-09-15"
+      "take": "hold",
+      "reason": "$71.15, down 11% since Sep 15. Wells Fargo (Underweight, $57) and HSBC (Hold, $76) both cut on falling engagement and YouTube taking TV share. Q3 earnings Oct 20 will show whether engagement is really slipping; wait for that before adding more.",
+      "price_usd": 71.15,
+      "updated": "2026-09-28"
     },
     "NVDA": {
       "take": "hold",
-      "reason": "Closed Monday at $210.96 (-3.4%), about 7.5% below the $228 post-print level, hit by the Amodei/Musk/Altman slow-down calls; after-hours +0.5% and Trump called Huang onstage at the All-In Summit calling data-center opposition a hoax. In the gap: the $12.9B Hugging Face acquisition was confirmed Sep 3, Rubin momentum built (SemiAnalysis measured Vera Rubin NVL72 at 67x better inference performance per dollar, Sep 14), and reports say Nvidia is deprioritising China as Huawei fills the gap. Nothing broken - the drawdown is sentiment, not numbers; hold through Wednesday's FOMC.",
-      "price_usd": 210.96,
-      "updated": "2026-09-15"
+      "reason": "$225.07, up 6.7% since the last run. Rode the chip rebound and a report that Beijing may let ByteDance and Alibaba buy its RTX PRO 5500 workstation chip. Now about 5% below the May closing high. No new earnings until November.",
+      "price_usd": 225.07,
+      "updated": "2026-09-28"
     },
     "RKT": {
       "take": "watch",
-      "reason": "Closed Monday at $13.44 (+2.0% on the day) but down ~6% since Aug 27. The 30-year fixed hit 7.17% Monday, a new high since January 2025 - the refi wave is dead, and Wednesday's FOMC carries live hike risk with oil near $105. Only company news in the gap was naming ex-Meta VP Alessio Sanfilippo as Redfin CEO. Rate path now works against the thesis; downgrade to watch until the Fed decision clears.",
-      "price_usd": 13.44,
-      "updated": "2026-09-15"
+      "reason": "$12.17, down 9% since Sep 15. The Fed hiked 25bp on Sep 16 and the Freddie Mac 30-yr rate went above 7% (7.03%) for the first time since Jan 2025. Refinance applications are 62% lower than a year ago, so origination volume will be under pressure in Q3.",
+      "price_usd": 12.17,
+      "updated": "2026-09-28"
     },
     "TSM": {
       "take": "add",
-      "reason": "ADR closed Monday at $418.01 (-3.5%), about 2% below the Aug 27 level, purely on the AI-sentiment selloff. August revenue was the fact that matters: a record NT$514.8B, +53.3% y/y, the first month ever above NT$500B and the fourth straight record. Taipei is shrugging off Monday - 2330 is NT$2,395 (+0.6%) mid-session Tuesday, ~5.5% under its NT$2,535 high. Fundamentals accelerating into a sentiment dip; add.",
-      "price_usd": 418.01,
-      "updated": "2026-09-15"
+      "reason": "$450.61, up 7.8% since the last run with the chip-sector rebound. Still about 6% below the $479 June high after record August sales, up 53% on a year earlier. Q3 results are due Oct 15.",
+      "price_usd": 450.61,
+      "updated": "2026-09-28"
     },
     "STRIPE": {
       "take": "hold",
-      "reason": "Busy gap: Stripe and Advent abandoned their $50B+ pursuit of PayPal on Aug 28 (PayPal fell 16% premarket), while the ~$7B OpenRouter acquisition - Stripe's push into AI model routing and usage-based AI billing - was finalized, and a Bank of Ireland digital-transformation deal landed Sep 14. Walking away from PayPal and buying the AI billing layer instead is the right kind of discipline. No new round, tender or secondary in the gap; hold. Marked at 2.27x cost: latest valuation ~$159B (2026-02) vs ~$70B at entry (https://techcrunch.com/2026/02/24/stripes-valuation-soars-74-to-159-billion/).",
+      "reason": "No new mark. The last priced event is still the Feb 2026 tender at $159B. No new tender or round was reported between Sep 15 and Sep 28. The PayPal bid with Advent fell apart on Sep 1, before this window.",
       "price_usd": null,
-      "updated": "2026-09-15",
+      "updated": "2026-09-28",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "Altman ruled out a 2026 IPO on Sep 12, calling this an 'ill-advised moment' and AI extinction risk 'unacceptable' - the same safety turn (with Amodei and Musk) that sold off AI stocks Monday. Funding is unaffected: SoftBank got an upsized $11.9B loan on Sep 14 to support its ~$10B October commitment, and bankers are already pitching post-IPO credit ratings. DevDay is Sep 29. No new round, tender or secondary mark in the gap; hold. Marked at 5.43x cost: latest valuation ~$852B (2026-08) vs ~$157B at entry (https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/).",
+      "reason": "No new mark: the Aug 2026 tender at $852B still stands. Forge shows about $894B on its secondary market, but that is a marketplace quote, not a round or tender. GPT-6 Sol and Luna launched Sep 22 with API prices cut about 50%. DevDay is Sep 29 and Altman has pushed the IPO to 2027.",
       "price_usd": null,
-      "updated": "2026-09-15",
+      "updated": "2026-09-28",
       "mark_multiple": 5.43
     }
   },
   "headlines": [
-    "Added Tesla, BYD and Toyota to the watchlist at the owner's request.",
-    "BYD accumulate: August NEV sales +18% YoY, overseas +134.5%, domestic China -14.3%.",
-    "Tesla watch: Q3 delivery print 2 Oct, Goldman cut to 435k against 454k consensus.",
-    "Toyota watch: 8.6x earnings, near the bottom of its 52-week range."
+    "Fed hiked 25bp to 3.75-4.00% on Sep 16; US 10-year near 5.2%, highest since 2007.",
+    "AI holdings rebounded since Sep 15: MRVL +20%, MU +17%, META +13%, TSM +8%, NVDA +7%.",
+    "Rate-sensitive holdings fell: LDI -20%, ENPH -12%, NFLX -11%, FIGR -11%; 30-yr mortgage back above 7%.",
+    "Netflix cut from add to hold after Wells Fargo and HSBC downgrades on engagement; earnings Oct 20.",
+    "Watchlist cut to 15: CRDO, Siemens Energy, CATL out; SK hynix up to buy after union passed wage deal.",
+    "This week: RBA 2:30pm Tue AEST, hike to 4.60% expected; Micron results Thu 6:30am AEST."
   ]
 }
