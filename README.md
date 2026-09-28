@@ -7,9 +7,10 @@ a daily hunt for second-hand farm gear.
 ## Layout
 
 ```
-index.html            generated - do not edit by hand
-buys/index.html       generated - the full buy list, with photos
-build.py              renders index.html + buys/ + research/ + hunt/ from data/ (stdlib only)
+index.html            generated - landing page: a short summary of every section
+<section>/index.html  generated - one full page per section: builds/ take/ portfolio/ picks/
+                      bellwethers/ calendar/ love/ buys/ (the buy list, with photos) news/ research/
+build.py              renders index.html + every section page + research/ + hunt/ from data/ (stdlib only)
 merge.py              merges one research run JSON into data/, writes research/<stamp>.md, rebuilds
 hunt.py               merges one asset-hunt run JSON into data/, fetches photos, writes hunt/<stamp>.md, rebuilds
 data/profile.json     who I am, what I build            (owner-maintained)

@@ -3,7 +3,7 @@
 
 Text-only, no dependencies beyond the Python stdlib.
 
-    python3 build.py          # writes index.html and research/*.html
+    python3 build.py          # writes index.html, one page per section, research/ and hunt/
     python3 build.py --check  # validate data files only, no output
 
 Owner-maintained:  data/profile.json  data/holdings.json  data/loves.json
@@ -179,8 +179,29 @@ def validate(profile, holdings, loves, status, watchlist, news, indicators=None,
 
 
 # ------------------------------------------------------------------ sections
-def section(title, body, anchor):
-    return '<h2 id="%s">%s</h2>\n%s\n' % (anchor, e(title), body)
+# (anchor, directory, nav label, page title). Every section has its own page; the
+# landing page carries a short summary of each with a link through.
+PAGES = [
+    ("build", "builds", "what i build", "What I build"),
+    ("take", "take", "agent's take", "Agent's take"),
+    ("portfolio", "portfolio", "portfolio", "Portfolio (what I'm invested in)"),
+    ("picks", "picks", "agent picks", "Agent picks (researching for future growth)"),
+    ("bellwethers", "bellwethers", "ai bellwethers", "AI bubble bellwethers (is compute being sold at a discount?)"),
+    ("calendar", "calendar", "next fortnight", "Next fortnight (what to watch or listen to)"),
+    ("love", "love", "companies i love", "Companies I love"),
+    ("gear", "buys", "gear i'm hunting", "Gear I'm hunting"),
+    ("news", "news", "news", "News"),
+    ("research", "research", "research log", "Research log"),
+]
+SUMMARY_DAYS = 3
+SUMMARY_NEWS = 6
+SUMMARY_LOGS = 3
+
+
+def section(anchor, summary, more=None):
+    _, d, _, title = next(p for p in PAGES if p[0] == anchor)
+    out = '<h2 id="%s"><a href="%s/">%s</a></h2>\n%s' % (anchor, d, e(title), summary)
+    return out + '<p><a href="%s/">%s &rarr;</a></p>\n' % (d, e(more or "more"))
 
 
 def render_header(profile):
@@ -192,20 +213,106 @@ def render_header(profile):
     )
 
 
-def render_nav():
-    items = [
-        ("#build", "what i build"),
-        ("#take", "agent's take"),
-        ("#portfolio", "portfolio"),
-        ("#picks", "agent picks"),
-        ("#bellwethers", "ai bellwethers"),
-        ("#calendar", "next fortnight"),
-        ("#love", "companies i love"),
-        ("#gear", "gear i'm hunting"),
-        ("#news", "news"),
-        ("#research", "research log"),
-    ]
-    return "<p>" + " | ".join('<a href="%s">%s</a>' % (a, t) for a, t in items) + "</p>\n"
+def render_nav(prefix="", current=None):
+    items = []
+    for _, d, label, _ in PAGES:
+        items.append("<b>%s</b>" % e(label) if d == current else '<a href="%s%s/">%s</a>' % (prefix, d, e(label)))
+    return "<p>" + " | ".join(items) + "</p>\n"
+
+
+def subpage_head(d, title):
+    return ('<p><a href="../">&larr; home</a></p>\n' + render_nav("../", d)
+            + "<hr>\n<h1>%s</h1>\n" % e(title))
+
+
+# ----------------------------------------------------------- landing summaries
+def summary_builds(profile):
+    return "<ul>\n" + "".join(
+        "<li><b>%s</b> &mdash; %s</li>\n" % (e(b["name"]), e(b.get("role")))
+        for b in profile.get("builds", [])) + "</ul>\n"
+
+
+def summary_take(status):
+    out = "<p><i>last updated: %s (UTC)</i></p>\n" % e(status.get("as_of") or "never")
+    if status.get("headlines"):
+        out += "<ul>\n" + "".join("<li>%s</li>\n" % e(h) for h in status["headlines"]) + "</ul>\n"
+    elif status.get("market_summary"):
+        out += "<p>%s</p>\n" % e(status["market_summary"])
+    return out
+
+
+def summary_portfolio(holdings, status):
+    # Weights and takes only, grouped by take.
+    takes = status.get("takes", {})
+    w = weights(holdings, status)
+    out = "<ul>\n"
+    for take in ("add", "hold", "trim", "watch"):
+        group = sorted([h for h in holdings if takes.get(h["ticker"], {}).get("take") == take],
+                       key=lambda h: -w.get(h["ticker"], 0))
+        if group:
+            out += "<li><b>%s</b>: %s</li>\n" % (e(take), ", ".join(
+                "%s %s" % (e(h["ticker"]), fmt_weight(w, h["ticker"])) for h in group))
+    return out + "</ul>\n"
+
+
+def summary_watchlist(watchlist):
+    if not watchlist:
+        return "<p>No picks yet.</p>\n"
+    conv = {c: i for i, c in enumerate(CONVICTIONS)}
+    out = "<ul>\n"
+    for status in STATUSES:
+        group = sorted([w for w in watchlist if w["status"] == status],
+                       key=lambda w: (conv.get(w["conviction"], 9), w["ticker"]))
+        if group:
+            out += "<li><b>%s</b>: %s</li>\n" % (e(status), ", ".join(
+                "%s (%s)" % (e(w["ticker"]), e(w["name"])) for w in group))
+    return out + "</ul>\n"
+
+
+def summary_indicators(ind):
+    items = ind.get("indicators", [])
+    if not items:
+        return "<p>No indicator data yet.</p>\n"
+    counts = [(s, len([i for i in items if i["signal"] == s])) for s in SIGNALS]
+    out = "<p>%s</p>\n<ul>\n" % ", ".join("%d %s" % (n, s) for s, n in counts if n)
+    for i in items:
+        out += "<li><b>%s</b> (%s) &mdash; %s</li>\n" % (
+            e(i["signal"]), e(i["trend"]), e(i["name"].split(" (")[0].split(":")[0]))
+    return out + "</ul>\n"
+
+
+def summary_calendar(cal, today):
+    start = today.strftime("%Y-%m-%d")
+    end = (today + timedelta(days=SUMMARY_DAYS - 1)).strftime("%Y-%m-%d")
+    events = sorted([ev for ev in cal.get("events", []) if start <= ev["date"] <= end],
+                    key=lambda ev: (ev["date"], ev["ticker"]))
+    if not events:
+        return "<p>Nothing on file for the next %d days.</p>\n" % SUMMARY_DAYS
+    out = "<ul>\n"
+    for ev in events:
+        day = datetime.strptime(ev["date"], "%Y-%m-%d").strftime("%a %d %b")
+        out += "<li>%s: <b>%s</b> %s</li>\n" % (e(day), e(ev["ticker"]), e(ev["title"]))
+    return out + "</ul>\n"
+
+
+def summary_loves(loves):
+    return "<p>%s</p>\n" % ", ".join(e(l["name"]) for l in loves)
+
+
+def summary_news(news):
+    if not news:
+        return "<p>No news yet.</p>\n"
+    items = sorted(news, key=lambda n: n["date"], reverse=True)[:SUMMARY_NEWS]
+    return "<ul>\n" + "".join("<li>[%s] <b>%s</b> %s</li>\n" % (
+        {"positive": "+", "negative": "-", "neutral": "n"}[n["impact"]], e(n["ticker"]), e(n["headline"]))
+        for n in items) + "</ul>\n"
+
+
+def summary_research(logs):
+    if not logs:
+        return "<p>No research logs yet.</p>\n"
+    return "<ul>\n" + "".join("<li>%s</li>\n" % link("research/%s.html" % n[:-3], n[:-3])
+                              for n in logs[:SUMMARY_LOGS]) + "</ul>\n"
 
 
 def render_builds(profile):
@@ -227,8 +334,8 @@ def render_take(status):
     return out
 
 
-def render_portfolio(holdings, status):
-    # Shows allocation weight only (no units, prices or dollar values).
+def weights(holdings, status):
+    """Share of portfolio by estimated value, 0-100, keyed by ticker. Never rendered as dollars."""
     takes = status.get("takes", {})
     values = {}
     for h in holdings:
@@ -240,11 +347,21 @@ def render_portfolio(holdings, status):
             # private: cost basis x latest valuation mark (1.0 if the agent has not marked it yet)
             values[h["ticker"]] = float(h["cost_usd"]) * float(t.get("mark_multiple") or 1.0)
     total = sum(values.values())
+    return {k: 100.0 * v / total for k, v in values.items()} if total else {}
+
+
+def fmt_weight(w, ticker):
+    return ("%.1f%%" % w[ticker]) if ticker in w else "-"
+
+
+def render_portfolio(holdings, status):
+    # Shows allocation weight only (no units, prices or dollar values).
+    takes = status.get("takes", {})
+    w = weights(holdings, status)
     rows = []
     for h in holdings:
         t = takes.get(h["ticker"], {})
-        v = values.get(h["ticker"])
-        weight = ("%.1f%%" % (100.0 * v / total)) if (v is not None and total) else "-"
+        weight = fmt_weight(w, h["ticker"])
         rows.append(
             '<tr><td><b>%s</b>:%s</td><td data-label="weight" class="nw">%s</td><td data-label="take">%s</td></tr>'
             % (
@@ -258,7 +375,7 @@ def render_portfolio(holdings, status):
         + "\n".join(rows)
         + "\n</table>\n"
     )
-    if total:
+    if w:
         out += "<p><i>weight = share of portfolio by estimated value: public holdings at last research-run prices, private holdings at cost marked to the latest reported valuation.</i></p>\n"
     return out
 
@@ -415,10 +532,7 @@ def render_gear(wants, finds):
         if live:
             out += "<br>best: %s" % find_oneline(live[0])
         out += "</li>\n"
-    out += "</ul>\n"
-    total = len([f for f in all_finds if f.get("status", "live") == "live"])
-    out += "<p>%s</p>\n" % link("buys/", "see all %d finds, with photos and detail" % total)
-    return out
+    return out + "</ul>\n"
 
 
 def render_find(f, prefix=""):
@@ -448,7 +562,7 @@ def render_find(f, prefix=""):
 def render_buys(wants, finds, logs):
     bases = wants.get("bases", {})
     all_finds = finds.get("finds", [])
-    out = '<p><a href="../">&larr; home</a></p>\n<h1>Gear I\'m hunting</h1>\n'
+    out = subpage_head("buys", "Gear I'm hunting")
     if finds.get("as_of"):
         out += "<p><i>last checked: %s (UTC)</i></p>\n" % e(finds["as_of"])
     if finds.get("summary"):
@@ -504,13 +618,8 @@ def hunt_logs_list():
 def render_research(logs):
     if not logs:
         return "<p>No research logs yet.</p>\n"
-    out = "<ul>\n"
-    for name in logs[:30]:
-        out += "<li>%s</li>\n" % link("research/%s.html" % name[:-3], name[:-3])
-    out += "</ul>\n"
-    if len(logs) > 30:
-        out += "<p>%s</p>\n" % link("research/", "all %d logs" % len(logs))
-    return out
+    return "<ul>\n" + "".join(
+        "<li>%s</li>\n" % link("%s.html" % n[:-3], n[:-3]) for n in logs) + "</ul>\n"
 
 
 PAGE = """<!DOCTYPE html>
@@ -563,39 +672,50 @@ def build():
     built = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
     logs = research_logs()
     hunt_logs = hunt_logs_list()
-    body = render_header(profile) + render_nav() + "<hr>\n"
-    body += section("What I build", render_builds(profile), "build")
-    body += section("Agent's take", render_take(status), "take")
-    body += section("Portfolio (what I'm invested in)", render_portfolio(holdings, status), "portfolio")
-    body += section("Agent picks (researching for future growth)", render_watchlist(watchlist), "picks")
-    body += section("AI bubble bellwethers (is compute being sold at a discount?)", render_indicators(indicators), "bellwethers")
-    body += section("Next fortnight (what to watch or listen to)", render_calendar(calendar, datetime.now(timezone.utc)), "calendar")
-    body += section("Companies I love", render_loves(loves), "love")
-    body += section("Gear I'm hunting", render_gear(wants, finds), "gear")
-    body += section("News", render_news(news), "news")
-    body += section("Research log", render_research(logs), "research")
+    now = datetime.now(timezone.utc)
+    live = len([f for f in finds.get("finds", []) if f.get("status", "live") == "live"])
 
+    # landing page: every section as a short summary, linking to its own page
+    body = render_header(profile) + render_nav() + "<hr>\n"
+    body += section("build", summary_builds(profile))
+    body += section("take", summary_take(status), "market summary")
+    body += section("portfolio", summary_portfolio(holdings, status), "takes and reasons")
+    body += section("picks", summary_watchlist(watchlist), "theses, risks and catalysts")
+    body += section("bellwethers", summary_indicators(indicators), "readings and what to watch")
+    body += section("calendar", summary_calendar(calendar, now), "full %d days" % CALENDAR_DAYS)
+    body += section("love", summary_loves(loves), "why")
+    body += section("gear", render_gear(wants, finds), "all %d finds, with photos and detail" % live)
+    body += section("news", summary_news(news), "all news")
+    body += section("research", summary_research(logs), "all %d logs" % len(logs))
     with open(os.path.join(ROOT, "index.html"), "w", encoding="utf-8") as f:
         f.write(PAGE % {"title": profile["name"], "body": body, "built": built})
 
-    # research/*.md -> research/*.html as plain text, plus an index
-    os.makedirs(RESEARCH, exist_ok=True)
+    # one page per section
+    full = {
+        "build": render_builds(profile),
+        "take": render_take(status),
+        "portfolio": render_portfolio(holdings, status),
+        "picks": render_watchlist(watchlist),
+        "bellwethers": render_indicators(indicators),
+        "calendar": render_calendar(calendar, now),
+        "love": render_loves(loves),
+        "gear": render_buys(wants, finds, hunt_logs),
+        "news": render_news(news),
+        "research": render_research(logs),
+    }
+    for anchor, d, label, title in PAGES:
+        page = full[anchor] if anchor == "gear" else subpage_head(d, title) + full[anchor]
+        os.makedirs(os.path.join(ROOT, d), exist_ok=True)
+        with open(os.path.join(ROOT, d, "index.html"), "w", encoding="utf-8") as f:
+            f.write(PAGE % {"title": "%s - %s" % (profile["name"], label), "body": page, "built": built})
+
+    # research/*.md -> research/*.html as plain text
     for name in logs:
         with open(os.path.join(RESEARCH, name), encoding="utf-8") as f:
             text = f.read()
-        page_body = '<p><a href="../">&larr; home</a></p>\n<pre>%s</pre>\n' % e(text)
+        page_body = '<p><a href="./">&larr; research log</a></p>\n<pre>%s</pre>\n' % e(text)
         with open(os.path.join(RESEARCH, name[:-3] + ".html"), "w", encoding="utf-8") as f:
             f.write(PAGE % {"title": "%s - %s" % (profile["name"], name[:-3]), "body": page_body, "built": built})
-    idx = '<p><a href="../">&larr; home</a></p>\n<h1>Research log</h1>\n<ul>\n' + "".join(
-        "<li>%s</li>\n" % link("%s.html" % n[:-3], n[:-3]) for n in logs) + "</ul>\n"
-    with open(os.path.join(RESEARCH, "index.html"), "w", encoding="utf-8") as f:
-        f.write(PAGE % {"title": "%s - research" % profile["name"], "body": idx, "built": built})
-
-    # buys/ - the full gear list, with photos
-    os.makedirs(BUYS, exist_ok=True)
-    with open(os.path.join(BUYS, "index.html"), "w", encoding="utf-8") as f:
-        f.write(PAGE % {"title": "%s - gear i'm hunting" % profile["name"],
-                        "body": render_buys(wants, finds, hunt_logs), "built": built})
 
     # hunt/*.md -> hunt/*.html, same treatment as the research log
     if hunt_logs:
@@ -611,7 +731,7 @@ def build():
         with open(os.path.join(HUNT, "index.html"), "w", encoding="utf-8") as f:
             f.write(PAGE % {"title": "%s - hunt log" % profile["name"], "body": hidx, "built": built})
 
-    print("built index.html + buys/ + %d research pages + %d hunt pages" % (len(logs), len(hunt_logs)))
+    print("built index.html + %d section pages + %d research pages + %d hunt pages" % (len(PAGES), len(logs), len(hunt_logs)))
 
 
 if __name__ == "__main__":
