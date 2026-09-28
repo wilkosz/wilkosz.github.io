@@ -99,14 +99,13 @@ separate track from the family house and goes in the run file's `crew` block.
    date -u +%Y-%m-%dT%H:%M
    cat data/house-brief.json
    python3 -c "import json;d=json.load(open('data/house.json'));[print(o['verdict'],o['key'],o['title'],o['url']) for o in d['options']]"
-   ```
    python3 -c "import json;d=json.load(open('data/house.json'));[print('crew',o['verdict'],o['key'],o['title'],o['url']) for o in (d.get('crew') or {}).get('options',[])]"
    ```
    Note every option (house and crew) so you re-check it rather than re-adding it under a new key.
 
 2. **Re-check** each stored option's `url`: price moved, model discontinued, lead time changed.
 
-3. **Research** (use the Agent tool to fan out, three agents works well):
+3. **Research** (use the Agent tool to fan out, four agents works well):
    - house options: shed homes, kit homes, modular/transportable/relocated, 6-9 options
    - off-grid systems and site works, with a grid-connection comparison
    - approvals, flood, bushfire and logistics
