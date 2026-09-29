@@ -1,13 +1,11 @@
 {
-  "as_of": "2026-09-28T15:20",
-  "summary": "Quiet on tractors: nothing new clears the 90-140hp, loader, under-4,500-hour bar in range, and the low-hour Boorowa Deere has been bid past $80k. Portable homes are the busy category, with three auctions closing in the next 36 hours. Chainsaws picked up two good Melbourne listings.",
+  "as_of": "2026-09-28T16:10",
+  "summary": "Added the winch for the 2013 Ranger. ARB rates the PX Summit bar for low-mount winches up to 10,000lb, so 10K units lead and 12K units are flagged. Nothing else was re-checked in this run.",
   "headlines": [
-    "Shepparton 2-bed container house bid $5,200, closes tomorrow 2pm; its Dubbo twin is at $1,502, 440km, closes 3pm.",
-    "Two new saws in Melbourne: MS 461 just serviced, $1,275; MS 462 C-M with Tsumura bar, $1,500, needs a chain.",
-    "Boorowa John Deere 6140M reads only 826 hours, but the bid is $81,950, over your $80k; closes tomorrow 6:01pm.",
-    "Forbes Ausco 12 x 3m module with bedroom, bathroom and kitchen, bid $4,200, closes today 5:12pm.",
-    "New Farmtech DISC-X 24-plate 3.0m offsets, Wodonga, $23,300 + GST.",
-    "All 18 Facebook finds from yesterday still listed at the same prices."
+    "New on the list: winch for the Ranger. Best new: Carbon Scout Pro 10K, synthetic, wireless, $1,099 delivered.",
+    "Best used: Warn VR EVO 10-S, like new, synthetic, $1,000 firm, Tatura, 180km.",
+    "Cheapest: Warn Magnum 10k with remote, $380, Melbourne; one-line listing, ask about rope.",
+    "Check the bar first: ARB's Summit takes low-mount winches up to 10,000lb; the 12K units need confirming."
   ],
   "finds": [
     {
@@ -646,6 +644,139 @@
       "photo": "img/finds/slattery-02ioa00000fhcy9iaf.jpg",
       "photo_url": "https://images.slatteryauctions.com.au/Assets/1-1-3-001074/IMG_0199.jpeg?width=256&fit=inside&format=webp&quality=85&v=0004722954&s=flr",
       "ends": "2026-09-30"
+    },
+    {
+      "key": "carbonoffroad-carbon-scout-pro-10000lb-winch-v3",
+      "want": "winch",
+      "title": "Carbon Scout Pro 10K V3, synthetic rope, wired and wireless remotes (new)",
+      "price_aud": 1099,
+      "price_note": "new; free shipping",
+      "location": "Online, posted",
+      "distance_km": null,
+      "detail": [
+        "10,000lb",
+        "24m x 10mm synthetic rope",
+        "wired and wireless remotes",
+        "hook, fairlead and isolator included",
+        "IP68"
+      ],
+      "source": "Carbon Offroad",
+      "url": "https://www.carbonoffroad.com.au/collections/winches/products/carbon-scout-pro-10000lb-winch-v3",
+      "verdict": "strong",
+      "why": "Complete new kit at the Summit bar's 10,000lb limit, delivered free, with a wireless remote the Warn lacks.",
+      "status": "live",
+      "first_seen": "2026-09-28",
+      "updated": "2026-09-28"
+    },
+    {
+      "key": "fb-1384656743754018",
+      "want": "winch",
+      "title": "Warn Magnum 10k with remote",
+      "price_aud": 380,
+      "price_note": "reduced from $450",
+      "location": "Melbourne, VIC",
+      "distance_km": null,
+      "detail": [
+        "10,000lb",
+        "remote included",
+        "used - good, working",
+        "rope type not stated"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1384656743754018/",
+      "verdict": "decent",
+      "why": "Warn at a third of the Carbon's price in Melbourne, but an older model and the listing is one line; ask about rope and control box.",
+      "status": "live",
+      "first_seen": "2026-09-28",
+      "updated": "2026-09-28"
+    },
+    {
+      "key": "fb-2142858426315007",
+      "want": "winch",
+      "title": "Warn VR EVO 10-S, synthetic rope, like new",
+      "price_aud": 1000,
+      "price_note": "firm",
+      "location": "Tatura, VIC",
+      "distance_km": 180,
+      "detail": [
+        "10,000lb",
+        "synthetic rope, hawse fairlead",
+        "wired remote, control box and loom",
+        "used - like new: driveway test runs only"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/2142858426315007/",
+      "verdict": "decent",
+      "why": "Exactly the size and brand ARB names for the Summit bar, $243-$549 under new, but 180km out.",
+      "status": "live",
+      "first_seen": "2026-09-28",
+      "updated": "2026-09-28",
+      "photo": "img/finds/fb-2142858426315007.jpg"
+    },
+    {
+      "key": "thewinchwarehouse-warn-evo-10-s-12v-winch-synthetic-rope",
+      "want": "winch",
+      "title": "Warn VR EVO 10-S, synthetic rope (new)",
+      "price_aud": 1243,
+      "price_note": "new, on sale from $1,399; flat-rate shipping, amount not shown",
+      "location": "Park Ridge, QLD",
+      "distance_km": null,
+      "detail": [
+        "10,000lb",
+        "9.5mm x 27.4m synthetic rope",
+        "3.5m wired pendant, wireless capable",
+        "IP68"
+      ],
+      "source": "The Winch Warehouse",
+      "url": "https://thewinchwarehouse.com.au/products/warn-evo-10-s-12v-winch-synthetic-rope",
+      "verdict": "decent",
+      "why": "Cheapest new EVO 10-S found ($1,349-$1,599 elsewhere); shipping cost and stock not shown.",
+      "status": "live",
+      "first_seen": "2026-09-28",
+      "updated": "2026-09-28"
+    },
+    {
+      "key": "fb-1840698247114420",
+      "want": "winch",
+      "title": "Carbon 12,000lb winch",
+      "price_aud": 350,
+      "location": "Torquay, VIC",
+      "distance_km": 100,
+      "detail": [
+        "12,000lb",
+        "wired and wireless remotes, all hardware",
+        "needs positive cable and isolator",
+        "working when removed 12 months ago"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1840698247114420/",
+      "verdict": "stretch",
+      "why": "Cheap Carbon with both remotes, but 12,000lb is over the Summit rating and it needs cables.",
+      "status": "live",
+      "first_seen": "2026-09-28",
+      "updated": "2026-09-28"
+    },
+    {
+      "key": "fb-2164796151080168",
+      "want": "winch",
+      "title": "Kings Domin8r Xtreme 12,000lb MkII, new in box, 3 remotes",
+      "price_aud": 380,
+      "price_note": "firm, cash, pickup only; reduced from $400",
+      "location": "Melbourne, VIC",
+      "distance_km": null,
+      "detail": [
+        "12,000lb",
+        "new, never fitted",
+        "main controller, in-cab remote and wireless remote",
+        "all bolts and wiring included"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/2164796151080168/",
+      "verdict": "stretch",
+      "why": "New and very cheap, but 12,000lb is above ARB's 10,000lb Summit rating and it is a budget brand.",
+      "status": "live",
+      "first_seen": "2026-09-28",
+      "updated": "2026-09-28"
     }
   ]
 }

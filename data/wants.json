@@ -1,7 +1,11 @@
 {
   "bases": {
-    "darlington_point": {"label": "Darlington Point, NSW"},
-    "melbourne": {"label": "Melbourne, VIC"}
+    "darlington_point": {
+      "label": "Darlington Point, NSW"
+    },
+    "melbourne": {
+      "label": "Melbourne, VIC"
+    }
   },
   "wants": [
     {
@@ -116,6 +120,32 @@
       "notes": "Root ripping punishes gear. Heavy frame and shank protection matter more than tyne count.",
       "sources": [],
       "added": "2026-09-28"
+    },
+    {
+      "key": "winch",
+      "title": "Winch for the 2013 Ford Ranger dual cab with ARB bullbar",
+      "short": "Winch for the Ranger",
+      "status": "hunting",
+      "base": "melbourne",
+      "max_km": 100,
+      "price_min": null,
+      "price_max": null,
+      "must": [
+        "12V electric, low-mount, 9,500 to 10,000 lb: ARB rates the PX Ranger Summit bar for low-mount winches up to 10,000 lb (12,000 lb only if the bar is confirmed to take it)",
+        "fits the standard 10in x 4.5in mount pattern, control box that mounts behind the bar or remotely",
+        "complete: winch, control box, remote, rope and hook"
+      ],
+      "prefer": [
+        "synthetic rope over steel cable",
+        "known brand: Warn, ARB Intensity, Runva, Carbon, Ironman, TJM, Bushranger",
+        "wireless remote",
+        "fairlead to suit (hawse for synthetic)"
+      ],
+      "notes": "Small enough to post, so listings elsewhere in Australia with shipping count as decent. Check the bar first: Summit or Deluxe, and the winch version rather than the non-winch cover panel. ARB names Warn, Magnum, Bushranger and Smittybilt low-mount winches for the Summit.",
+      "sources": [
+        "https://www.arb.com.au/"
+      ],
+      "added": "2026-09-29"
     }
   ]
 }
