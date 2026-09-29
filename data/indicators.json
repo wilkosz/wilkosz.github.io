@@ -1,30 +1,30 @@
 {
-  "as_of": "2026-09-28",
+  "as_of": "2026-09-29",
   "explainer": "The single best AI-bubble bellwether is the rental price of an installed Nvidia GPU, measured in dollars per GPU-hour, and specifically the H100: it is the daily marginal clearing price for AI compute, it is published by independent indexes (Silicon Data's SDH100RT, SemiAnalysis's one-year contract index), and from October 5, 2026 it becomes a CME futures contract, so the market will show a forward curve as well as spot. Right now it is saying the opposite of discounting: the Silicon Data index sits at $2.53/hr, one-year contract rates rose about 40% from $1.70 to $2.35 between October 2025 and March 2026, spot has run at roughly twice contract, and a four-year-old chip is renting for more than it did a year ago while CoreWeave says it has contracted 2020-vintage GPUs out to 2029 at full price. Pair it with three things: neocloud credit spreads (CoreWeave's July loan cleared at SOFR+550 for a 10.44% yield with maintenance covenants, and its CDS implies roughly a coin-flip default probability), which is the financing leg and the one signal already flashing red; server DRAM and HBM contract-price momentum (+13-18% QoQ in 3Q26 after +93-98% in 1Q26, with 4Q26 guided to only +3-8%), because memory is the first physical input that will roll over; and hyperscaler backlog growth versus capex growth (Microsoft commercial RPO +84%, Oracle RPO +363%, roughly $2.4 trillion of committed cloud backlog against about $1 trillion of 2026 capex), because the bubble only deflates if the buyers stop signing. Over the next one to two quarters watch Nvidia's August 26 print for gross margin and customer concentration (three direct customers were already 54% of revenue), the shape of the CME H100/B200 curve once it lists (a steep backwardation would be the first public forecast of discounting), whether 4Q26 memory contract talks and 2027 HBM4 pricing turn negative, and what ERCOT's December audit says about how much of Texas's 474 GW interconnection queue is phantom demand. The threshold that would flip the call is simple: the H100 index sustained below about $2.00/hr, or spot trading below the one-year contract rate, while Blackwell and Rubin volumes keep arriving; until then compute is being sold at a premium, not a discount, and the risk lives in who is borrowing to build it rather than in the price of the product.",
   "indicators": [
     {
       "key": "h100_rental",
       "name": "H100 rental price, $/GPU-hour (Silicon Data index; 1-yr contract and spot)",
-      "value": "$2.70/hr index (+3.8% 7d) vs $2.66 Sep 15; H200 $3.33 (+1.8%); RunPod H100 SXM $3.49/$2.69, Lambda $3.99-4.29 unchanged",
+      "value": "$2.73/hr index (+4.6% 7d) vs $2.70 Sep 28; H200 $3.29 (-0.6%); MI300X $2.63; RunPod H100 SXM $3.49/$2.69, Lambda $3.99-4.29 unchanged; Nebius lifting H100 list ~17% on Oct 1",
       "trend": "up",
       "signal": "bullish",
       "why": "This is the marginal clearing price of installed AI compute and the most direct public read on whether capacity is being discounted; it is published daily and becomes a CME-listed futures contract on Oct 5, 2026.",
       "watch": "Bearish flip if the Silicon Data H100 index holds below ~$2.00/hr for a month, if spot trades below the one-year contract rate (inversion), or if the CME H100 curve lists in steep (>15%) backwardation; the Oct-2025 trough of $1.70 is the floor to remember.",
-      "note": "Sep 28: SDH100RT $2.70 (+3.8% 7d), up from $2.66 on Sep 15 and a new high for the three-month range; H200 $3.33 (+1.8%), H100-hyperscaler $7.18 flat. RunPod (page dated Sep 27) and Lambda list prices unchanged. CME/NYMEX H100 and B200 rental-index futures still slated for Oct 5, pending regulatory review - first forward curve next week.",
+      "note": "Sep 29: SDH100RT $2.73 (+4.6% 7d), a fresh three-month high after $2.70 on Sep 28; H200 slipped to $3.29 (-0.6%), H100-hyperscaler $7.20 flat. Nebius has a second price rise in three months effective Oct 1: H100 +17%, H200 +20%, B200 +19%, B300 +21% (24/7 Wall St, Sep 24). RunPod (page dated Sep 27) and Lambda lists unchanged. CME still labels the Oct 5 H100/B200 futures 'pending regulatory review' (FinanceFeeds, Sep 18); the CME notice pages did not load today, so treat the launch as planned, not confirmed.",
       "source": "https://www.silicondata.com/products/silicon-index",
-      "updated": "2026-09-28"
+      "updated": "2026-09-29"
     },
     {
       "key": "b200_rental",
       "name": "B200 / Blackwell rental price, $/GPU-hour (on-demand)",
-      "value": "Silicon Data B200 $5.87 (+2.3% 7d) vs $5.72 Sep 15; B300 index $6.78 (-2.4%); RunPod B200 $5.98/$6.79, Lambda B200 $6.69-6.99 unchanged; B200/H100 ~2.17x",
+      "value": "Silicon Data B200 $5.88 (+1.9% 7d) vs $5.87 Sep 28; B300 $6.92 (-0.4%) back above RunPod's $6.94 list; RunPod B200 $5.98/$6.79, Lambda B200 $6.69-6.99 unchanged; B200/H100 ~2.15x; Nebius B200 +19%, B300 +21% from Oct 1",
       "trend": "up",
       "signal": "bullish",
       "why": "Blackwell is where new supply lands, so this is the first place a glut would show; if B200 rates fell toward H100 rates while Rubin ships, capacity would be outrunning demand.",
       "watch": "Bearish if tier-1 neocloud B200 on-demand drops below ~$4.50/hr, if the B200/H100 price ratio compresses below ~2x, or if lead times for 8-GPU Blackwell nodes fall to same-week availability.",
-      "note": "Sep 29: B200 index still $5.87 (+2.3% 7d); ratio to H100 ~2.17x, above the 2x flip level. B300 index slipped again to $6.78 (-2.4% 7d, from $6.80), the one soft print, now below RunPod's B300 list of $6.94/$7.89. H100 ($2.70) and H200 ($3.33) unchanged since Sep 28.",
+      "note": "Sep 29: B200 index $5.88 (+1.9% 7d), flat on the day; ratio to H100 eased to ~2.15x because H100 rose faster, still above the 2x flip. B300 recovered to $6.92 (-0.4% 7d) from the $6.78 soft print, so last week's only weak spot has reversed. Nebius's Oct 1 list rises of +19% (B200) and +21% (B300) are the first announced Blackwell price hikes at a tier-1 neocloud.",
       "source": "https://www.silicondata.com/products/silicon-index",
-      "updated": "2026-09-28"
+      "updated": "2026-09-29"
     },
     {
       "key": "hopper_residual",
@@ -34,81 +34,81 @@
       "signal": "bullish",
       "why": "Depreciation is the biggest cost in a GPU cloud; if old chips still earn money the 5-6 year accounting lives hold and no write-downs are coming, whereas collapsing used-H100 prices would be the first hard evidence of oversupply.",
       "watch": "Bearish if 8-GPU H100 servers trade below ~50% of new-build cost on the secondary market, if A100/H100 rental rates fall below ~$1.50/hr, or if any hyperscaler extends server lives beyond 6 years to flatter earnings; also watch for Hopper impairments at neoclouds.",
-      "note": "Sep 28: A100 index $1.57 (flat 7d, -$0.01 since Sep 15), 7 cents above the trigger; RunPod A100 SXM $1.39/$1.59 and Lambda A100 $2.79-3.99 unchanged. No new used-H100 prints, impairments or useful-life changes found since Sep 15; latest reference (Mercatus, Jun 23) has 18-30-month-old H100s at 75-85% of a $30K list. H100 index rising (+3.8% 7d) supports residuals.",
+      "note": "Sep 29: A100 index $1.57 (flat 7d), 7 cents above the trigger; RunPod A100 SXM $1.39/$1.59 and Lambda A100 $1.99-2.79 unchanged. No new used-H100 prints, impairments or useful-life changes found this week; latest reference (Mercatus, Jun 23) has 18-30-month-old H100s at 75-85% of a $30K list. Hopper rental rising (+4.6% 7d) and Nebius raising H100 rent 17% from Oct 1 both support residuals.",
       "source": "https://www.silicondata.com/products/silicon-index",
-      "updated": "2026-09-28"
+      "updated": "2026-09-29"
     },
     {
       "key": "dc_cost_per_gw",
       "name": "All-in AI data-center build cost, $ per GW (with GPUs / ex-GPUs)",
-      "value": "~$47B/GW Vera Rubin (≈$32B racks + ≈$15B shell/power/cooling); ~$60B/GW for gas-powered campus incl. generation (Orennia); ~$1.3B/yr electricity",
+      "value": "~$47B/GW Vera Rubin (≈$32B racks + ≈$15B shell/power/cooling); ~$60B/GW gas-powered campus (Orennia); Project Jupiter $165B for 2.45 GW ≈ $67B/GW all-in; TCS Hyderabad ₹700B ($7.4B) for 1 GW ex-GPU shell",
       "trend": "up",
       "signal": "neutral",
       "why": "Cost per GW sets the revenue a campus must earn per GPU-hour to clear its cost of capital; rising cost means supply is constrained (good for rental prices) but raises the bar for returns and the size of the debt stack.",
       "watch": "Discounting signal if Nvidia rack ASPs or $/GW start falling (Nvidia gross margin guided below ~72%, rack prices cut) while rental $/hr does not rise; bubble-risk signal if ex-GPU cost (power, shell, turbines) keeps inflating faster than rental rates.",
-      "note": "No new $/GW estimate since Sep 15. Benchmarks stand: Foxconn/Bernstein ~$47B/GW for Vera Rubin (~$9.1M/rack), Orennia ~$60B/GW for a gas-powered campus (70% IT / 30% infrastructure), Rubin Ultra racks ~$21M. Cost pressure still points up: memory contract prices are still rising into 4Q26 (see memory_prices).",
-      "source": "https://orennia.com/insights/what-it-actually-costs-to-build-a-1-gw-data-center",
-      "updated": "2026-09-28"
+      "note": "Two datapoints added. Oracle's Project Jupiter (New Mexico, Stargate) is quoted at $165B for 2.45 GW, about $67B/GW all-in - above the Orennia $60B benchmark - and Oracle sent the developer (Blue Owl) a force-majeure notice on Sep 24 after a gas pipeline slipped to Feb 2027 and an air permit decision moved to Nov 23. At the other end, TCS HyperVault's Hyderabad campus is $7.4B for up to 1 GW of shell, power and cooling (ex-GPU), roughly half the US ex-GPU figure. Memory input costs still rising (see memory_prices).",
+      "source": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+      "updated": "2026-09-29"
     },
     {
       "key": "memory_prices",
       "name": "Server DRAM / HBM contract price momentum (QoQ) and DRAM spot",
-      "value": "TrendForce raised its 4Q26 contract outlook (Sep 24), from +3-8% previously; enterprise SSD +23-28% QoQ, NAND +15-20%; DDR5 16Gb spot $57.83 (Sep 28) vs $54.33 (Sep 14); DDR4 $83.66 vs $89.25",
+      "value": "TrendForce (Sep 29): 2027 HBM blended ASP now +121% YoY, supply tight through 2027; 4Q26 contract outlook raised Sep 24; DDR5 16Gb spot $57.83 (Sep 29, flat) vs $54.33 Sep 14; DDR4 16Gb $83.66 flat; Micron reports Sep 30 after US close",
       "trend": "up",
       "signal": "bullish",
       "why": "Memory is the tightest physical input to AI servers (HBM is 25-30% of a Rubin rack) and contract prices are negotiated quarterly, so this is the earliest cyclical input to turn; a price rollover would precede GPU discounting.",
-      "watch": "Bearish when server DRAM or HBM contract prices go negative QoQ, when 2027 HBM4 contracts are signed at lower prices, or when DRAMeXchange DDR5 spot falls >20% from peak; also watch whether CSPs start cutting memory per system, which TrendForce flags as their cost response. Near term: Micron's FQ4 print Sep 30 (guide $50B +/-1B, ~86% GM) and its FQ1 FY27 guide; Samsung Q3 prelim Oct 7-8 (consensus ~107T won op profit).",
-      "note": "Sep 28: DDR5 16Gb spot $57.83 (+0.3% on the day), up from $57.67 on Sep 24 and 6% in two weeks; DDR4 $83.66 (-0.15%), still drifting lower - consumer-side softness. TrendForce's Sep 24 4Q26 contract upgrade stands. Samsung Q3 prelim consensus (8 brokers, Yonhap Infomax): 200.3T won revenue, ~107T won operating profit, first quarter above 100T. Micron reports Sep 30.",
-      "source": "https://www.trendforce.com/price/dram/dram_spot",
-      "updated": "2026-09-28"
+      "watch": "Bearish when server DRAM or HBM contract prices go negative QoQ, when 2027 HBM4 contracts are signed at lower prices, or when DRAMeXchange DDR5 spot falls >20% from peak; also watch whether CSPs start cutting memory per system (TrendForce now says GPU makers are evaluating 8-Hi instead of 12-Hi HBM stacks), which is the buyers' cost response. Near term: Micron's FQ4 print Sep 30 (guide $49-51B, ~86% GM) and its FQ1 FY27 guide; Samsung Q3 prelim Oct 7-8.",
+      "note": "Sep 29: TrendForce raised its 2027 HBM outlook again - blended ASP +121% YoY on a bigger HBM4 mix and HBM4e ramp in 2H27, with advanced-node wafer capacity contested between HBM and conventional DRAM 'through 2027'. The one demand-side response flagged: GPU makers weighing 8-Hi stacks over 12-Hi to trim memory cost. Spot was quiet: DDR5 16Gb $57.83 (0.00%), DDR4 16Gb $83.66 (0.00%), DDR4 8Gb $46.32 (+0.23%). Micron's FQ4 (guide $49-51B revenue, EPS $30-32, ~86% GM) lands after the US close on Sep 30.",
+      "source": "https://www.trendforce.com/presscenter/news/20260929-13255.html",
+      "updated": "2026-09-29"
     },
     {
       "key": "power_bottleneck",
       "name": "Power constraint: ERCOT interconnection queue, gas-turbine backlog and lead times",
-      "value": "474 GW ERCOT queue (~90% data centers); Batch Zero screened ~250-300 projects / ~200 GW; Texas freeze widened Sep 21 to all TCEQ data-center permits; BNEF: 49.8 GW delayed; GE Vernova 116 GW backlog",
+      "value": "474 GW ERCOT queue (~90% data centers); Texas TCEQ permit freeze since Sep 21, compliance report due Oct 19; BNEF: 49.8 GW delayed; GE Vernova 116 GW backlog, ~20 GW/yr output, new orders land ~2030-31; Oracle force majeure on 2.45 GW Project Jupiter (gas pipeline to Feb 2027)",
       "trend": "up",
       "signal": "bullish",
       "why": "Power, not chips, is now the binding constraint on new capacity, which keeps installed GPUs scarce and rental prices firm; it also reveals how much announced demand is speculative once regulators force projects to prove financing.",
-      "watch": "ERCOT files its Batch Zero eligibility-verification and community-impact reports by Dec 10, 2026 for the Dec 17 PUCT open meeting, with RFIs going out Aug-Sep and cure periods Oct-Nov: large queue withdrawals (BNEF flags 49.8 GW at risk) would show phantom demand. Turbine slot cancellations or resales, falling data-center PPA prices, or turbine prices retreating from the $600/kW 2027 forecast would signal the build is slowing.",
-      "note": "Sep 21: Gov. Abbott told TCEQ to halt all data-center permits - including behind-the-meter, sub-75 MW and non-ERCOT sites - until the ERCOT/TWDB audits finish; TCEQ compliance update due Oct 19, community-impact responses Oct 12, ERCOT report to PUCT in December. Batch Zero verification responses were due Sep 23; ERCOT's final transmission plan for the batch is now fall 2027. Turbines unchanged: GE Vernova 116 GW, targeting >=125 GW by year-end.",
-      "source": "https://energyinfrastructurepulse.sidley.com/2026/09/23/governor-abbotts-environmental-permitting-freeze-expands-pause-on-texas-data-center-development-to-all-texas-data-centers-pending-statewide-audit/",
-      "updated": "2026-09-28"
+      "watch": "ERCOT files its Batch Zero eligibility-verification and community-impact reports by Dec 10, 2026 for the Dec 17 PUCT open meeting, with RFIs going out Aug-Sep and cure periods Oct-Nov: large queue withdrawals (BNEF flags 49.8 GW at risk) would show phantom demand. Turbine slot cancellations or resales, falling data-center PPA prices, or turbine prices retreating from the $600/kW 2027 forecast would signal the build is slowing. Nearer: TCEQ compliance report Oct 19, Project Jupiter air-permit decision Nov 23.",
+      "note": "No new queue or backlog numbers this week; the Texas freeze stands with TCEQ's report due Oct 19 and ERCOT's audit still targeted for mid-December. The power constraint has now hit a flagship campus: Oracle's Sep 24 force-majeure notice on Project Jupiter cites a gas pipeline pushed to Feb 1, 2027 and a pending air permit (Nov 23), letting Oracle defer payments if the 2.45 GW site misses 2028. Turbine side unchanged: GE Vernova 116 GW backlog against ~20 GW/yr output, combined-cycle lead times ~5 years, turbines ordered now land about 2030-31; Exelon cut its 'high-probability' data-center load ~40% in a quarter - the phantom-demand risk in one line.",
+      "source": "https://finance.yahoo.com/energy/articles/gas-turbine-shortage-just-became-210000180.html",
+      "updated": "2026-09-29"
     },
     {
       "key": "capex_vs_backlog",
       "name": "Hyperscaler capex vs cloud backlog (RPO) growth, and capex as % of cloud revenue",
-      "value": "Oracle RPO $664B (+$26B q/q); Goldman now sees US hyperscaler capex $1.4T in 2027 (Sep 21); Anthropic-Akamai $11.6B/7yr, expandable to ~$20B (Sep 24); 2026 capex ~$1.0T vs ~$2.4T backlog",
+      "value": "Oracle RPO $664B (+$26B q/q) but force majeure on Project Jupiter (Sep 24); SoftBank $11.1B HY bonds for OpenAI (Sep 24); Anthropic-Akamai $11.6B/7yr; Goldman: US hyperscaler capex $1.4T in 2027; OpenAI DevDay (Sep 29): no compute deal, Ultrafast tier at 6x API price, Pro 200 usage cut 20x to 10x",
       "trend": "up",
       "signal": "neutral",
       "why": "Capex is the supply side and RPO is the contracted demand side; as long as backlog grows faster than capex the build is pre-sold, but capex above 100% of cloud revenue with negative free cash flow means the cycle is now funded by debt and equity and is sensitive to any demand wobble.",
-      "watch": "Bearish if RPO growth decelerates below capex growth for two quarters, if 2027 capex consensus (+57% per Morgan Stanley) gets cut or 'digestion' language appears, or if backlog concentration in a few AI labs (OpenAI, Anthropic) produces a cancellation or renegotiation.",
-      "note": "No big RPO print since Oracle's Sep 10 ($664B, +$26B q/q). New demand kept landing: Anthropic signed Akamai for $11.6B over 7 years (Sep 24), with Akamai adding $1.7B to 2026 capex and granting a ~5% warrant - another vendor-equity-for-compute deal. Capex forecasts moved up again: Goldman (Sep 21) sees $1.4T of US hyperscaler capex in 2027, above consensus; next big test is late-October hyperscaler prints.",
-      "source": "https://finance.yahoo.com/technology/ai/articles/akamai-11-6b-deal-anthropic-064736901.html",
-      "updated": "2026-09-28"
+      "watch": "Bearish if RPO growth decelerates below capex growth for two quarters, if 2027 capex consensus (+57% per Morgan Stanley) gets cut or 'digestion' language appears, or if backlog concentration in a few AI labs (OpenAI, Anthropic) produces a cancellation or renegotiation; Oracle's Project Jupiter force majeure is the first payment-deferral mechanism triggered on a Stargate site - watch whether it spreads.",
+      "note": "OpenAI DevDay (Sep 29) brought products, not compute deals: a paid 'Ultrafast' tier at six times the standard API price, a Pro 500 plan, and Pro 200 usage trimmed from 20x to 10x Plus for new subscribers - all signs OpenAI is rationing inference capacity, which supports rental prices. On the supply-execution side the tone is harder: Oracle invoked force majeure on the $165B, 2.45 GW Project Jupiter (Sep 24) to protect itself from payments if 2028 slips, with the site's debt reported below 90 cents; SoftBank raised $11.1B of high-yield bonds (Sep 24) to fund OpenAI; Nscale filed for IPO without binding GPU financing. Demand keeps landing (Anthropic: Nscale ~$44.6B, Lambda ~$35B, Akamai $11.6B) but delivery, not orders, is now the risk. Next hard data: late-October hyperscaler prints.",
+      "source": "https://www.datacenterfrontier.com/machine-learning/news/55407627/anthropic-openai-keep-expanding-the-ai-data-center-map-and-the-financing-gets-harder",
+      "updated": "2026-09-29"
     },
     {
       "key": "neocloud_credit",
       "name": "Neocloud financing: CoreWeave loan/bond spreads, CDS, vendor backstops, customer concentration",
-      "value": "CoreWeave $4.2B 2.875% converts due 2033 (closed Sep 24, upsized from $3B, conv. $97.85); Lambda $926M TLB at SOFR+300, Baa2 (Sep 22); CoreWeave loans still ~SOFR+550; debt $35.1B at Jun 30",
-      "trend": "down",
+      "value": "CoreWeave $4.2B 2.875% converts (closed Sep 24); Lambda $926M TLB at SOFR+300, Baa2 (Sep 22); CoreWeave loans still ~SOFR+550, debt $35.1B at Jun 30; JPM upgrade to OW $125 (Sep 24), UBS Buy $120 (Sep 28); CRWV $86.65 Sep 29, -53% from high; contracted power 4.2 GW",
+      "trend": "flat",
       "signal": "neutral",
       "why": "Neoclouds are the levered marginal builder of GPU capacity; their cost of debt, covenants and dependence on Nvidia backstops show whether lenders still believe rental prices will cover depreciation, and they are the first place a compute-price decline turns into forced selling.",
       "watch": "Escalation if new deals price above SOFR+600 or 11% yields, CDS above 1,000bp, deals pulled or downsized, Nvidia's rent-back backstop extended to tier-1 neoclouds, or a top customer (CoreWeave's A/B/C are 36%/26%/10% of revenue) renegotiates; improvement if spreads retrace toward the April 9.75% level or if CoreWeave can tap convertible/equity-linked money on Nebius-like terms.",
-      "note": "The improvement trigger hit: CoreWeave upsized a convert twice, $3B to $4.2B (closed Sep 24), at 2.875% and a 22.5% conversion premium, and added a 35M-share ATM; 2026 capital raised now >$30B. Lambda closed a $926M investment-grade (Baa2) GPU-backed TLB at SOFR+300 on Sep 22. Cost of money is easing but still two-tier: CoreWeave's secured loans sit near SOFR+550 on $35.1B of debt, so moved bearish to neutral, not bullish.",
-      "source": "https://finance.yahoo.com/markets/stocks/articles/coreweave-closes-4-2-billion-141257562.html",
-      "updated": "2026-09-28"
+      "note": "No new neocloud debt priced this week; the Sep 22-24 Lambda TLB and CoreWeave convert remain the latest prints. What changed is the equity read: JPMorgan upgraded CoreWeave to Overweight ($125) on Sep 24 citing shorter-term contracts at premium pricing worth 5-10 points of margin, UBS started at Buy ($120) on Sep 28, yet CRWV sits at $86.65 (Sep 29), 53% off its high, and Nebius at ~$240 (-20%) - investors still price capital intensity over pricing power. CoreWeave's contracted power is 4.2 GW (from 3.1 GW at end-2025). Its Fully Connected conference runs Sep 29-Oct 1; watch for new customer or financing disclosures. Signal stays neutral: cost of money easing at the top tier, CoreWeave's secured stack still ~SOFR+550.",
+      "source": "https://247wallst.com/investing/2026/09/24/nebius-surges-6-coreweave-treads-water-as-jpmorgan-upgrade-flags-rising-compute-pricing-iren-slides-4/",
+      "updated": "2026-09-29"
     },
     {
       "key": "nvidia_dc",
       "name": "Nvidia data-center revenue growth, gross margin and customer concentration",
-      "value": "DC rev $89.0B +117% YoY (Q2 FY27), GM 75.0%, Q3 guide $108B at 74%; one direct customer >=10% (16%); five customers = 70% of receivables; supply commitments $279B; OpenAI Ohio backstop cut to <$120B",
+      "value": "DC rev $89.0B +117% YoY (Q2 FY27), GM 75.0%, Q3 guide $108B at 74%; one direct customer >=10% (16%); five customers = 70% of receivables; supply commitments $279B; OpenAI Ohio backstop cut to <$120B; $150B buyback added Sep 28 ($235B remaining, through FY28)",
       "trend": "up",
       "signal": "bullish",
       "why": "Nvidia's margin is the purest read on whether GPUs are being discounted at the source, and its concentration plus growing vendor-financing (backstops, campus guarantees) shows how much of demand is circular.",
       "watch": "Bearish if gross margin is guided below ~72% for more than one quarter, data-center revenue grows <5% sequentially, three-customer concentration exceeds 60% in the 10-Q, DSO climbs past 60 days, or backstop commitments expand beyond the $108.5B disclosed; Q3 FY27 report due ~Nov 2026.",
-      "note": "No new Nvidia print or filing since Sep 15; figures stand from the Aug 26 10-Q. Vendor-financing context: the OpenAI Ohio backstop was scaled to under $120B from $250B (WSJ, Aug 14) and Nvidia's $500B+ third-party financing platforms with six asset managers stand. Next data: Micron's Sep 30 HBM commentary and the Q3 FY27 print ~Nov.",
-      "source": "https://finance.yahoo.com/technology/ai/articles/nvidia-scales-back-250-billion-234356524.html",
-      "updated": "2026-09-28"
+      "note": "Sep 28: the board added $150B to the buyback, the largest single authorisation on record, taking the remaining programme to $235B to be used through fiscal 2028. Read it two ways: cash generation is strong enough to fund both the $500B+ third-party financing platforms and record buybacks, but it also means Nvidia would rather retire stock than commit more balance sheet to customer backstops - a mild brake on circular financing. Operating figures unchanged from the Aug 26 10-Q; next data are Micron's Sep 30 HBM commentary and the Q3 FY27 print ~Nov.",
+      "source": "https://nvidianews.nvidia.com/news/nvidia-announces-a-150-billion-share-repurchase-authorization-increase",
+      "updated": "2026-09-29"
     }
   ]
 }
