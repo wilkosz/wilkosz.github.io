@@ -6,9 +6,9 @@ Text-only, no dependencies beyond the Python stdlib.
     python3 build.py          # writes index.html, one page per section, research/ and hunt/
     python3 build.py --check  # validate data files only, no output
 
-Owner-maintained:  data/profile.json  data/holdings.json  data/loves.json  data/wants.json  data/house-brief.json
+Owner-maintained:  data/profile.json  data/holdings.json  data/loves.json  data/wants.json
 Agent-maintained:  data/status.json   data/watchlist.json data/news.json  research/*.md
-                   data/finds.json (hunt.py)  data/house.json + house/*.md (house.py)
+                   data/finds.json (hunt.py)
 """
 import glob
 import html
@@ -23,7 +23,6 @@ DATA = os.path.join(ROOT, "data")
 RESEARCH = os.path.join(ROOT, "research")
 HUNT = os.path.join(ROOT, "hunt")
 BUYS = os.path.join(ROOT, "buys")
-HOUSE = os.path.join(ROOT, "house")
 
 SECTORS = ("AI", "Internet", "Machinery", "Energy")
 TAKES = ("hold", "add", "trim", "watch")
@@ -36,7 +35,6 @@ EVENT_TYPES = ("earnings", "macro", "central_bank", "product", "conference", "ot
 WANT_STATUSES = ("hunting", "paused", "done")
 VERDICTS = ("strong", "decent", "stretch")
 FIND_STATUSES = ("live", "sold", "gone")
-HOUSE_VERDICTS = ("best", "viable", "marginal", "no")
 CALENDAR_DAYS = 14
 MAX_NEWS_ON_PAGE = 60
 
@@ -139,18 +137,7 @@ def fail(msg):
 
 
 def validate(profile, holdings, loves, status, watchlist, news, indicators=None, calendar=None,
-             wants=None, finds=None, house=None):
-    crew_opts = ((house or {}).get("crew") or {}).get("options", [])
-    for o in (house or {}).get("options", []) + crew_opts:
-        for k in ("key", "title", "type", "url", "verdict", "cost_lines"):
-            if k not in o:
-                fail("house.json %s missing %r" % (o.get("key"), k))
-        if o["verdict"] not in HOUSE_VERDICTS:
-            fail("house.json %s verdict must be one of %s" % (o["key"], HOUSE_VERDICTS))
-    for ln in ((house or {}).get("site_costs", []) + [l for o in (house or {}).get("options", []) for l in o["cost_lines"]]
-               + [l for o in crew_opts for l in o["cost_lines"] + o.get("running", [])]):
-        if not isinstance(ln.get("low"), (int, float)) or not isinstance(ln.get("high"), (int, float)):
-            fail("house.json cost line %r needs numeric low and high" % ln.get("item"))
+             wants=None, finds=None):
     want_keys = set()
     for w in (wants or {}).get("wants", []):
         for k in ("key", "title", "short", "status", "base", "max_km"):
@@ -247,7 +234,6 @@ PAGES = [
     ("calendar", "calendar", "next fortnight", "Next fortnight (what to watch or listen to)"),
     ("love", "love", "companies i love", "Companies I love"),
     ("gear", "buys", "gear i'm hunting", "Gear I'm hunting"),
-    ("house", "house", "house plan", "Off-grid house for Darlington Point"),
     ("news", "news", "news", "News"),
     ("research", "research", "research log", "Research log"),
 ]
@@ -683,182 +669,6 @@ def render_buys(wants, finds, logs):
     return out
 
 
-# --------------------------------------------------------- the house research
-def cost_range(lines):
-    return sum(l["low"] for l in lines), sum(l["high"] for l in lines)
-
-
-def aud_range(lo, hi):
-    return aud(lo) if lo == hi else "%s-%s" % (aud(lo), aud(hi))
-
-
-def house_landed(o, house):
-    lo, hi = cost_range(o["cost_lines"])
-    slo, shi = cost_range(house.get("site_costs", []))
-    return lo + slo, hi + shi
-
-
-def house_specs(o):
-    bits = []
-    if o.get("bedrooms"):
-        bits.append("%s bed" % e(o["bedrooms"]))
-    if o.get("bathrooms"):
-        bits.append("%s bath" % e(o["bathrooms"]))
-    if o.get("size_m2"):
-        bits.append("%sm2" % e(o["size_m2"]))
-    if o.get("lead_time"):
-        bits.append(e(o["lead_time"]))
-    return " &middot; ".join(bits)
-
-
-def summary_house(house):
-    opts = [o for o in house.get("options", []) if o.get("verdict") != "no"]
-    if not opts:
-        return "<p>No research yet.</p>\n"
-    out = "<p><i>last checked: %s (UTC)</i></p>\n" % e(house.get("as_of"))
-    if house.get("headlines"):
-        out += "<ul>\n" + "".join("<li>%s</li>\n" % e(h) for h in house["headlines"][:3]) + "</ul>\n"
-    best = opts[0]
-    lo, hi = house_landed(best, house)
-    out += '<p>cheapest decent: <a href="house/#%s">%s</a> &mdash; %s landed, off-grid, move-in</p>\n' % (
-        e(best["key"]), e(best["title"]), aud_range(lo, hi))
-    crew = [o for o in (house.get("crew") or {}).get("options", []) if o.get("verdict") != "no"]
-    if crew:
-        lo, hi = cost_range(crew[0]["cost_lines"])
-        out += '<p>crew housing: <a href="house/#%s">%s</a> &mdash; %s upfront</p>\n' % (
-            e(crew[0]["key"]), e(crew[0]["title"]), aud_range(lo, hi))
-    return out
-
-
-def render_crew_option(o, cap):
-    lo, hi = cost_range(o["cost_lines"])
-    out = '<li id="%s"><b>%s</b> &mdash; %s%s' % (
-        e(o["key"]), link(o.get("url"), o["title"]), e(o["verdict"]), permalink(o["key"]))
-    out += "<br><b>%s upfront</b>" % aud_range(lo, hi)
-    if cap and hi > cap:
-        out += " (over the %s cap at the high end)" % aud(cap)
-    if o.get("running"):
-        out += ", %s a year to run" % aud_range(*cost_range(o["running"]))
-    bits = [e(o.get("type"))] + ([e(o["where"])] if o.get("where") else []) + ([house_specs(o)] if house_specs(o) else [])
-    out += "<br>%s" % " &middot; ".join(bits)
-    for k in ("standard", "why"):
-        if o.get(k):
-            out += "<br>%s" % e(o[k])
-    lines = o["cost_lines"] + [dict(l, item="%s (yearly)" % l["item"]) for l in o.get("running", [])]
-    out += "<ul>\n" + "".join("<li>%s: %s%s</li>\n" % (
-        e(l["item"]), aud_range(l["low"], l["high"]), (" &mdash; <i>%s</i>" % e(l["note"])) if l.get("note") else "")
-        for l in lines) + "</ul>\n"
-    for label, k in (("for", "pros"), ("against", "cons")):
-        if o.get(k):
-            out += "%s: %s<br>" % (label, "; ".join(e(x) for x in o[k]))
-    if o.get("sources"):
-        out += "<i>sources: %s</i>" % ", ".join(link(u, site_label(u).split("/")[0]) for u in o["sources"])
-    return out + "</li>\n"
-
-
-def render_crew(brief, crew):
-    b = brief.get("crew") or {}
-    out = '<h2 id="crew">%s</h2>\n' % e(b.get("title") or "Crew housing")
-    if crew.get("headlines"):
-        out += "<ul>\n" + "".join("<li>%s</li>\n" % e(h) for h in crew["headlines"]) + "</ul>\n"
-    if crew.get("summary"):
-        out += "<p>%s</p>\n" % e(crew["summary"])
-    if b.get("must"):
-        out += "<p>must have: %s</p>\n" % "; ".join(e(m) for m in b["must"])
-    if b.get("prefer"):
-        out += "<p>nice to have: %s</p>\n" % "; ".join(e(p) for p in b["prefer"])
-    opts = crew.get("options", [])
-    if opts:
-        out += "<p><i>Upfront is all-in to move people in, including any power, water and wastewater; " \
-               "off-grid site works above are not added.</i></p>\n"
-        out += "<ol>\n" + "".join(render_crew_option(o, b.get("cap_aud")) for o in opts) + "</ol>\n"
-    else:
-        out += "<p>No options researched yet.</p>\n"
-    if crew.get("questions"):
-        out += "<p>to settle:</p>\n<ul>\n" + "".join("<li>%s</li>\n" % e(q) for q in crew["questions"]) + "</ul>\n"
-    return out
-
-
-def render_house_option(o, house):
-    lo, hi = house_landed(o, house)
-    hlo, hhi = cost_range(o["cost_lines"])
-    out = '<li id="%s"><b>%s</b> &mdash; %s%s' % (
-        e(o["key"]), link(o.get("url"), o["title"]), e(o["verdict"]), permalink(o["key"]))
-    out += "<br><b>%s landed</b> (house %s + off-grid and site works)" % (aud_range(lo, hi), aud_range(hlo, hhi))
-    specs = house_specs(o)
-    if specs:
-        out += "<br>%s &middot; %s" % (e(o.get("type")), specs)
-    if o.get("why"):
-        out += "<br>%s" % e(o["why"])
-    out += "<ul>\n" + "".join("<li>%s: %s%s</li>\n" % (
-        e(l["item"]), aud_range(l["low"], l["high"]), (" &mdash; <i>%s</i>" % e(l["note"])) if l.get("note") else "")
-        for l in o["cost_lines"]) + "</ul>\n"
-    for label, k in (("logistics", "logistics"), ("for", "pros"), ("against", "cons")):
-        if o.get(k):
-            out += "%s: %s<br>" % (label, "; ".join(e(x) for x in o[k]))
-    if o.get("sources"):
-        out += "<i>sources: %s</i>" % ", ".join(link(u, site_label(u).split("/")[0]) for u in o["sources"])
-    return out + "</li>\n"
-
-
-def render_house(brief, house, logs):
-    out = ""
-    if house.get("as_of"):
-        out += "<p><i>last checked: %s (UTC)</i></p>\n" % e(house["as_of"])
-    if house.get("headlines"):
-        out += "<ul>\n" + "".join("<li>%s</li>\n" % e(h) for h in house["headlines"]) + "</ul>\n"
-    if house.get("summary"):
-        out += "<p>%s</p>\n" % e(house["summary"])
-    out += ('<p>jump to: <a href="#options">options</a> | <a href="#offgrid">off-grid costs</a> | '
-            '<a href="#site">site and approvals</a> | <a href="#logistics">logistics</a> | '
-            '<a href="#questions">open questions</a> | <a href="#crew">crew housing</a></p>\n')
-    out += "<h2 id=\"brief\">The brief</h2>\n<p>%s</p>\n" % e(brief.get("site"))
-    if brief.get("must"):
-        out += "<p>must have: %s</p>\n" % "; ".join(e(m) for m in brief["must"])
-    if brief.get("prefer"):
-        out += "<p>nice to have: %s</p>\n" % "; ".join(e(p) for p in brief["prefer"])
-    if brief.get("notes"):
-        out += "<p><i>%s</i></p>\n" % e(brief["notes"])
-
-    opts = house.get("options", [])
-    out += '<h2 id="options">Options, cheapest decent first</h2>\n'
-    if opts:
-        out += "<ol>\n" + "".join(render_house_option(o, house) for o in opts) + "</ol>\n"
-    else:
-        out += "<p>No options researched yet.</p>\n"
-
-    sc = house.get("site_costs", [])
-    out += '<h2 id="offgrid">Off-grid and site works (every option)</h2>\n'
-    if sc:
-        out += "<p><b>%s total</b></p>\n<ul>\n" % aud_range(*cost_range(sc)) + "".join(
-            "<li>%s: %s%s</li>\n" % (e(l["item"]), aud_range(l["low"], l["high"]),
-                                     (" &mdash; <i>%s</i>" % e(l["note"])) if l.get("note") else "")
-            for l in sc) + "</ul>\n"
-    else:
-        out += "<p>Not costed yet.</p>\n"
-    for anchor, title, k in (("site", "Site and approvals", "site"), ("logistics", "Logistics", "logistics")):
-        out += '<h2 id="%s">%s</h2>\n' % (anchor, title)
-        items = house.get(k, [])
-        out += ("<ul>\n" + "".join("<li><b>%s</b>: %s%s</li>\n" % (
-            e(i["topic"]), e(i["finding"]), (" (%s)" % link(i["source"], "source")) if i.get("source") else "")
-            for i in items) + "</ul>\n") if items else "<p>Not researched yet.</p>\n"
-    if house.get("open_questions"):
-        out += '<h2 id="questions">Open questions</h2>\n<ul>\n' + "".join(
-            "<li>%s</li>\n" % e(q) for q in house["open_questions"]) + "</ul>\n"
-    out += render_crew(brief, house.get("crew") or {})
-    out += "<h2>Research log</h2>\n"
-    out += ("<ul>\n" + "".join("<li>%s</li>\n" % link("%s.html" % n[:-3], n[:-3]) for n in logs[:14])
-            + "</ul>\n") if logs else "<p>No runs yet.</p>\n"
-    out += ("<p><i>Costs are low-high ranges in AUD from supplier pages, quotes and stated estimates. "
-            "Landed means ready to move in, off-grid. Get real quotes before you commit money.</i></p>\n")
-    return out
-
-
-def house_logs_list():
-    files = sorted(glob.glob(os.path.join(HOUSE, "*.md")), reverse=True)
-    return [os.path.basename(f) for f in files]
-
-
 def research_logs():
     files = sorted(glob.glob(os.path.join(RESEARCH, "*.md")), reverse=True)
     return [os.path.basename(f) for f in files]
@@ -917,20 +727,16 @@ def build():
     calendar = load("calendar.json")
     wants = load("wants.json")
     finds = load("finds.json")
-    brief = load("house-brief.json", {})
-    house = load("house.json", {})
-    validate(profile, holdings, loves, status, watchlist, news, indicators, calendar, wants, finds, house)
+    validate(profile, holdings, loves, status, watchlist, news, indicators, calendar, wants, finds)
     if "--check" in sys.argv:
         live = len([f for f in finds.get("finds", []) if f.get("status", "live") == "live"])
-        print("data ok: %d holdings, %d picks, %d news items, %d wants, %d live finds, %d house options"
-              % (len(holdings), len(watchlist), len(news), len(wants.get("wants", [])), live,
-                 len(house.get("options", []))))
+        print("data ok: %d holdings, %d picks, %d news items, %d wants, %d live finds"
+              % (len(holdings), len(watchlist), len(news), len(wants.get("wants", [])), live))
         return
 
     built = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
     logs = research_logs()
     hunt_logs = hunt_logs_list()
-    house_logs = house_logs_list()
     now = datetime.now(timezone.utc)
     live = len([f for f in finds.get("finds", []) if f.get("status", "live") == "live"])
 
@@ -944,7 +750,6 @@ def build():
     body += section("calendar", summary_calendar(calendar, now), "full %d days" % CALENDAR_DAYS)
     body += section("love", summary_loves(loves), "why")
     body += section("gear", render_gear(wants, finds), "all %d finds, with photos and detail" % live)
-    body += section("house", summary_house(house), "every option, costs and logistics")
     body += section("news", summary_news(news), "all news")
     body += section("research", summary_research(logs), "all %d logs" % len(logs))
     with open(os.path.join(ROOT, "index.html"), "w", encoding="utf-8") as f:
@@ -960,7 +765,6 @@ def build():
         "calendar": render_calendar(calendar, now),
         "love": render_loves(loves),
         "gear": render_buys(wants, finds, hunt_logs),
-        "house": render_house(brief, house, house_logs),
         "news": render_news(news),
         "research": render_research(logs),
     }
@@ -977,14 +781,6 @@ def build():
         page_body = '<p><a href="./">&larr; research log</a></p>\n<pre>%s</pre>\n' % e(text)
         with open(os.path.join(RESEARCH, name[:-3] + ".html"), "w", encoding="utf-8") as f:
             f.write(PAGE % {"title": "%s - %s" % (profile["name"], name[:-3]), "body": page_body, "built": built})
-
-    # house/*.md -> house/*.html, same treatment as the research log
-    for name in house_logs:
-        with open(os.path.join(HOUSE, name), encoding="utf-8") as f:
-            text = f.read()
-        page_body = '<p><a href="./">&larr; house plan</a></p>\n<pre>%s</pre>\n' % e(text)
-        with open(os.path.join(HOUSE, name[:-3] + ".html"), "w", encoding="utf-8") as f:
-            f.write(PAGE % {"title": "%s - house %s" % (profile["name"], name[:-3]), "body": page_body, "built": built})
 
     # hunt/*.md -> hunt/*.html, same treatment as the research log
     if hunt_logs:
