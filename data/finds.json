@@ -1,11 +1,12 @@
 {
-  "as_of": "2026-09-28T16:10",
-  "summary": "Added the winch for the 2013 Ranger. ARB rates the PX Summit bar for low-mount winches up to 10,000lb, so 10K units lead and 12K units are flagged. Nothing else was re-checked in this run.",
+  "as_of": "2026-09-29T00:10",
+  "summary": "Brief changes this run: the ripper hunt is now tree-root rippers only, ideally a single deep tyne, and rippers and offsets now include overseas makers that ship to Australia. Mac mini added. No other wants were re-checked.",
   "headlines": [
-    "New on the list: winch for the Ranger. Best new: Carbon Scout Pro 10K, synthetic, wireless, $1,099 delivered.",
-    "Best used: Warn VR EVO 10-S, like new, synthetic, $1,000 firm, Tatura, 180km.",
-    "Cheapest: Warn Magnum 10k with remote, $380, Melbourne; one-line listing, ask about rope.",
-    "Check the bar first: ARB's Summit takes low-mount winches up to 10,000lb; the 12K units need confirming."
+    "Ripper narrowed to tree-root, single-tyne: best local are Collier & Miller, Griffith, 40km, and Grizzly, Swan Hill, 300km, both POA.",
+    "Cheapest single tyne: MF heavy-duty 3PL ripper, $350, Crookwell, 390km; frame has some damage.",
+    "Chinese 28-plate 3.0m offsets land around $7.5k-$10.5k new, against $20k+ for new local.",
+    "Mac mini added: no plain-M5 model exists; cheapest to spec is M6 32GB/1TB at $2,799 from Apple.",
+    "Dropped three multi-tyne tillage rippers that no longer fit the brief."
   ],
   "finds": [
     {
@@ -117,6 +118,29 @@
       "updated": "2026-09-28"
     },
     {
+      "key": "fb-1685370453177370",
+      "want": "deep-ripper",
+      "title": "Massey Ferguson single-tyne deep ripper, 3PL, heavy-duty frame",
+      "price_aud": 350,
+      "price_note": "each; two for sale",
+      "location": "Crookwell, NSW",
+      "distance_km": 390,
+      "detail": [
+        "1 tyne",
+        "3PL",
+        "heavy-duty solid frame",
+        "some damage at rear of frame, still works",
+        "second, lighter unit also for sale"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1685370453177370/",
+      "verdict": "decent",
+      "why": "Single heavy tyne on 3PL for $350; worth it if the frame damage is cosmetic, but it is 390km away.",
+      "status": "live",
+      "first_seen": "2026-09-29",
+      "updated": "2026-09-29"
+    },
+    {
       "key": "fb-1728630198256000",
       "want": "deep-ripper",
       "title": "Daniel Harvey 2-tyne ripper, 3PL",
@@ -132,96 +156,222 @@
       ],
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/1728630198256000/",
-      "verdict": "strong",
-      "why": "Two heavy tynes is the right shape for tree roots on a 90-130hp tractor, from a good Australian maker at near-scrap money.",
-      "status": "live",
-      "first_seen": "2026-09-28",
-      "updated": "2026-09-28"
-    },
-    {
-      "key": "farmtender-131063",
-      "want": "deep-ripper",
-      "title": "Home-made 3-tyne deep ripper, 3PL",
-      "price_aud": 800,
-      "price_note": "plus GST",
-      "location": "Molong, NSW",
-      "distance_km": 400,
-      "detail": [
-        "3 tynes",
-        "3PL",
-        "650mm tyne centres, adjustable",
-        "protection, points and depth not stated"
-      ],
-      "source": "Farm Tender",
-      "url": "https://www.farmtender.com.au/listing/machinery-equipment/tillage-seeding---rippers-ploughs/ripper",
       "verdict": "decent",
-      "why": "Right layout at a very cheap price, but home-made with no stated protection, at the edge of range.",
+      "why": "Two heavy tynes rather than one, but a good Australian maker at near-scrap money.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-09-28"
-    },
-    {
-      "key": "fb-4062712657366907",
-      "want": "deep-ripper",
-      "title": "Yeomans SB-6 3-tine deep tillage plow with wheel kit (new)",
-      "price_aud": 10599,
-      "location": "Griffith, NSW",
-      "distance_km": 60,
-      "detail": [
-        "new, 2024 stock",
-        "3 x 26in tines with coulter",
-        "3PL, rated 40-110hp",
-        "1.8m frame, 2.5m outside"
-      ],
-      "source": "Facebook Marketplace",
-      "url": "https://www.facebook.com/marketplace/item/4062712657366907/",
-      "verdict": "decent",
-      "why": "Local, new and a proven deep-tillage frame, but it is dealer money and rated to 110hp, the bottom half of your tractor range.",
-      "status": "live",
-      "first_seen": "2026-09-28",
-      "updated": "2026-09-28"
-    },
-    {
-      "key": "fb-1401972901425524",
-      "want": "deep-ripper",
-      "title": "International 5-tyne ripper",
-      "price_aud": 400,
-      "location": "Myrtleford, VIC",
-      "distance_km": 290,
-      "detail": [
-        "5 tynes",
-        "needs some work",
-        "seller says suits small tractors"
-      ],
-      "source": "Facebook Marketplace",
-      "url": "https://www.facebook.com/marketplace/item/1401972901425524/",
-      "verdict": "stretch",
-      "why": "Seller pitches it at small tractors and it needs work; not a root ripper.",
-      "status": "live",
-      "first_seen": "2026-09-28",
-      "updated": "2026-09-28"
+      "updated": "2026-09-29"
     },
     {
       "key": "colliermiller-cmtr",
       "want": "deep-ripper",
-      "title": "Collier & Miller single-tyne tree-line deep ripper (new)",
+      "title": "Collier & Miller CMTR single-tyne tree-line deep ripper (new)",
       "price_aud": null,
-      "price_note": "POA",
+      "price_note": "POA; made to order, ships in 2-5 days where stocked",
       "location": "Griffith, NSW",
       "distance_km": 40,
       "detail": [
         "1 tyne, Bisalloy 400",
         "rips to 1,150mm",
-        "3,500kg, trailed",
-        "hydraulic depth control"
+        "3,500kg, trailed, dual-plane drawbar",
+        "hydraulic depth control",
+        "hp rating not stated"
       ],
       "source": "Collier & Miller",
       "url": "https://www.colliermiller.com.au/cmtr-c-m-single-tyne-deep-ripper-tree-line-trailing-ripper",
-      "verdict": "stretch",
-      "why": "Built locally for exactly this job, but trailed not 3PL, no price shown, and 1,150mm may need more than 130hp.",
+      "verdict": "decent",
+      "why": "Exactly the tool for tree lines and 40km away, but trailed, unpriced, and 1,150mm may need more than 130hp; worth one call.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-09-28"
+      "updated": "2026-09-29",
+      "photo": "img/finds/colliermiller-cmtr.jpg",
+      "photo_url": "https://www.colliermiller.com.au/images/ProductImages/CMTR.jpg"
+    },
+    {
+      "key": "grizzlyag-rl001-single-tine",
+      "want": "deep-ripper",
+      "title": "Grizzly Deep Digger RL001 single-tine root ripper (new)",
+      "price_aud": null,
+      "price_note": "POA; phone 1800 637 250",
+      "location": "Swan Hill, VIC",
+      "distance_km": 300,
+      "detail": [
+        "1 tyne",
+        "marketed for perimeter tree roots",
+        "rated 100-400hp",
+        "Cat 3/4 linkage",
+        "replaceable point, hard-faced wear boot"
+      ],
+      "source": "Grizzly Engineering",
+      "url": "https://grizzlyag.com.au/equipments/single-tine-ripper/",
+      "verdict": "decent",
+      "why": "Purpose-built single-tine root ripper, but rated from 100hp on Cat 3/4 linkage, so check it suits your tractor's hitch.",
+      "status": "live",
+      "first_seen": "2026-09-29",
+      "updated": "2026-09-29",
+      "photo": "img/finds/grizzlyag-rl001-single-tine.jpg",
+      "photo_url": "https://grizzlyag.com.au/wp-content/uploads/2026/06/Single-Tine-Ripper-v1.3-feature.jpg"
+    },
+    {
+      "key": "fb-1529309308826340",
+      "want": "deep-ripper",
+      "title": "Linkage single-tyne ripper",
+      "price_aud": 250,
+      "price_note": "reduced from $350",
+      "location": "West Wyalong, NSW",
+      "distance_km": 170,
+      "detail": [
+        "1 tyne",
+        "3PL",
+        "ripper tip bent",
+        "depth and weight not stated"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1529309308826340/",
+      "verdict": "stretch",
+      "why": "Cheap single tyne within range, but the tip is bent and nothing says it is heavy enough for roots.",
+      "status": "live",
+      "first_seen": "2026-09-29",
+      "updated": "2026-09-29"
+    },
+    {
+      "key": "madeinchina-hzdarong-auxprwrvxykc",
+      "want": "deep-ripper",
+      "title": "Hangzhou Darong Cat 2 single-tine subsoiler (China)",
+      "price_aud": 285,
+      "price_note": "US$200 each, minimum order 10 (US$2,000); estimate: landed about $650-$850 each for 10 incl. freight, GST, broker, biosecurity",
+      "location": "Hangzhou, China (ships to AU)",
+      "distance_km": null,
+      "detail": [
+        "1 tyne",
+        "50cm max depth",
+        "Cat 2 3PL",
+        "shear bolt, replaceable points",
+        "105kg, 40hp minimum"
+      ],
+      "source": "made-in-china.com",
+      "url": "https://hzdarong.en.made-in-china.com/product/aUXpRwrvXYkC/China-Cat-2-Tractor-Attachment-3-Point-Hitch-Heavy-Duty-Tractor-Subsoiler-with-Single-Tine-Ground-Ripper-for-Soil-Loosening-and-Deep-Tillage.html",
+      "verdict": "stretch",
+      "why": "Best overseas single tyne found, but at 105kg and 50cm it is a light subsoiler, and you must buy 10.",
+      "status": "live",
+      "first_seen": "2026-09-29",
+      "updated": "2026-09-29"
+    },
+    {
+      "key": "apple-au-macmini-m6-32gb-1tb",
+      "want": "mac-mini",
+      "title": "Mac mini M6, 32GB, 1TB (new, Apple)",
+      "price_aud": 2799,
+      "price_note": "new; free shipping or store pickup; Apple warranty",
+      "location": "Online",
+      "distance_km": null,
+      "detail": [
+        "M6 12-core CPU, 12-core GPU",
+        "32GB (the M6 maximum)",
+        "1TB SSD",
+        "10Gb Ethernet +$150"
+      ],
+      "source": "Apple AU",
+      "url": "https://www.apple.com/au/shop/buy-mac/mac-mini/m6-chip-12-core-cpu-12-core-gpu-32gb-memory-1tb-storage",
+      "verdict": "decent",
+      "why": "Cheapest way to meet 32GB and 1TB; no refurbished or discounted unit meets the spec yet.",
+      "status": "live",
+      "first_seen": "2026-09-29",
+      "updated": "2026-09-29",
+      "photo": "img/finds/apple-au-macmini-m6-32gb-1tb.jpg",
+      "photo_url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mac-mini-chip-unselect-202608-gallery-1?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1785998455498"
+    },
+    {
+      "key": "apple-au-macmini-m5pro15-48gb-1tb",
+      "want": "mac-mini",
+      "title": "Mac mini M5 Pro, 48GB, 1TB (new, Apple build-to-order)",
+      "price_aud": 4049,
+      "price_note": "new; $2,699 base + $900 for 48GB + $450 for 1TB",
+      "location": "Online",
+      "distance_km": null,
+      "detail": [
+        "M5 Pro 15-core CPU, 16-core GPU",
+        "48GB",
+        "1TB SSD"
+      ],
+      "source": "Apple AU",
+      "url": "https://www.apple.com/au/shop/buy-mac/mac-mini/m5-pro-chip-15-core-cpu-16-core-gpu-48gb-memory-1tb-storage",
+      "verdict": "decent",
+      "why": "Cheapest M5 Pro that meets the spec, $1,250 over the M6 for more memory headroom.",
+      "status": "live",
+      "first_seen": "2026-09-29",
+      "updated": "2026-09-29"
+    },
+    {
+      "key": "apple-au-macmini-m5pro18-64gb-1tb",
+      "want": "mac-mini",
+      "title": "Mac mini M5 Pro, 64GB, 1TB (new, Apple)",
+      "price_aud": 4949,
+      "price_note": "new; standard config, store pickup available",
+      "location": "Online",
+      "distance_km": null,
+      "detail": [
+        "M5 Pro 18-core CPU, 20-core GPU",
+        "64GB",
+        "1TB SSD"
+      ],
+      "source": "Apple AU",
+      "url": "https://www.apple.com/au/shop/buy-mac/mac-mini/m5-pro-chip-18-core-cpu-20-core-gpu-64gb-memory-1tb-storage",
+      "verdict": "decent",
+      "why": "Most memory available, at full price.",
+      "status": "live",
+      "first_seen": "2026-09-29",
+      "updated": "2026-09-29"
+    },
+    {
+      "key": "madeinchina-shandongliying-nkumziagvora",
+      "want": "offset-discs",
+      "title": "Shandong Liying 1BZ-3.0 trailed heavy offset disc, 28 discs, 3.0m (China)",
+      "price_aud": 2066,
+      "price_note": "US$1,450 ex-factory, MOQ 1; estimate: landed at Darlington Point about $7,500-$10,500 incl. sea freight, GST, broker, biosecurity, truck",
+      "location": "Rizhao, China (ships to AU)",
+      "distance_km": null,
+      "detail": [
+        "28 discs, 26in x 6mm",
+        "3.0m cut",
+        "matched 100-110hp",
+        "1,600kg, trailed, hydraulic",
+        "sealed bearings"
+      ],
+      "source": "made-in-china.com",
+      "url": "https://shandongliying.en.made-in-china.com/product/nKumZIaGvORA/China-Hot-Sale-Agriculture-Machine-1bz-BX-3-0-90-120HP-Tractor-Trailed-3m-Width-28-Discs-Semi-Mounted-Offset-Hydraulic-Heavy-Duty-Disc-Harrow.html",
+      "verdict": "decent",
+      "why": "Clears every must new for about $7.5k-$10.5k landed, against $20k+ for new local; import paperwork and unknown build quality are the catch.",
+      "status": "live",
+      "first_seen": "2026-09-29",
+      "updated": "2026-09-29",
+      "photo": "img/finds/madeinchina-shandongliying-nkumziagvora.jpg",
+      "photo_url": "https://image.made-in-china.com/3f2j00yGMUQOvCMdrA/Hot-Sale-Agriculture-Machine-1bz-BX-3-0-90-120HP-Tractor-Trailed-3m-Width-28-Discs-Semi-Mounted-Offset-Hydraulic-Heavy-Duty-Disc-Harrow.jpg"
+    },
+    {
+      "key": "madeinchina-sdycdadi-incrfehlqxuz",
+      "want": "offset-discs",
+      "title": "Yucheng Dadi 1BZN trailed offset disc, 24 or 28 discs, 3.0-3.5m (China)",
+      "price_aud": 5700,
+      "price_note": "US$1,000-4,000 depending on model, A$ at the top; MOQ 1; estimate: landed about $7,000-$14,000",
+      "location": "Yucheng, China (ships to AU)",
+      "distance_km": null,
+      "detail": [
+        "24 discs at 3.0m or 28 at 3.5m",
+        "26in x 6mm discs",
+        "taper roller bearings, double seal",
+        "80-140hp by size",
+        "1,880-2,040kg, trailed"
+      ],
+      "source": "made-in-china.com",
+      "url": "https://sdycdadi.en.made-in-china.com/product/inCrFEHlqxUz/China-Trailing-Offset-Disc-Harrow.html",
+      "verdict": "decent",
+      "why": "Heaviest and best-specified import found, with taper roller bearings; price is a wide range until quoted.",
+      "status": "live",
+      "first_seen": "2026-09-29",
+      "updated": "2026-09-29",
+      "photo": "img/finds/madeinchina-sdycdadi-incrfehlqxuz.jpg",
+      "photo_url": "https://image.made-in-china.com/3f2j00CRKoOVfhhDpH/Trailing-Offset-Disc-Harrow.webp"
     },
     {
       "key": "fb-1096043223368086",
@@ -315,51 +465,6 @@
       "updated": "2026-09-28",
       "photo": "img/finds/machines4u-950971.jpg",
       "photo_url": "https://media.machines4u.com.au/machinery/71/950971/FARMTECH-DISC-X-OFD-24-66-HEAVY-DUTY-OFFSET-DISCS-3-0M_61958267.i.jpg?t=1"
-    },
-    {
-      "key": "machines4u-909381",
-      "want": "offset-discs",
-      "title": "New 2026 Farmtech Bufalo 2466 heavy offset discs, 3.0m",
-      "price_aud": 26500,
-      "price_note": "plus GST, new",
-      "location": "Wodonga, VIC",
-      "distance_km": 320,
-      "detail": [
-        "3.0m cut",
-        "660 x 6mm discs",
-        "24 plates by model number",
-        "rated 65-125hp"
-      ],
-      "source": "Machines4u",
-      "url": "https://www.machines4u.com.au/view/advert/FARMTECH-BUFALO-2466-HEAVY-DUTY-OFFSET-DISCS-3-0M/909381/",
-      "verdict": "decent",
-      "why": "Only set with every spec confirmed and matched to your tractor, but at new-dealer money.",
-      "status": "live",
-      "first_seen": "2026-09-28",
-      "updated": "2026-09-28",
-      "photo": "img/finds/machines4u-909381.jpg",
-      "photo_url": "https://media.machines4u.com.au/machinery/81/909381/FARMTECH-BUFALO-2466-HEAVY-DUTY-OFFSET-DISCS-3-0M_60838215.i.jpg?t=1"
-    },
-    {
-      "key": "fb-1403934454913845",
-      "want": "offset-discs",
-      "title": "Grizzly 32-plate offset disc plough",
-      "price_aud": 20000,
-      "location": "Memagong, NSW",
-      "distance_km": 260,
-      "detail": [
-        "32 plates",
-        "2 lifting rams, adjustable hitch ram",
-        "no welds, no cracks",
-        "width not stated"
-      ],
-      "source": "Facebook Marketplace",
-      "url": "https://www.facebook.com/marketplace/item/1403934454913845/",
-      "verdict": "stretch",
-      "why": "Grizzly build quality is right, but a 32-plate offset is usually wider than 3.5m and needs more than 130hp. Ask for the width first.",
-      "status": "live",
-      "first_seen": "2026-09-28",
-      "updated": "2026-09-28"
     },
     {
       "key": "lloyds-6076581",

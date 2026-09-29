@@ -94,31 +94,41 @@
       ],
       "prefer": [
         "bearings in good order",
-        "plates with life left, not dished out"
+        "plates with life left, not dished out",
+        "local within 400km, or an overseas maker that ships to Australia"
       ],
-      "notes": "Width is the hard constraint: anything over 3.5 m is too much for the tractor and too wide to cart.",
-      "sources": [],
+      "notes": "Width is the hard constraint: anything over 3.5 m is too much for the tractor and too wide to cart. Overseas makers (e.g. made in China, Italy, Turkey, Brazil) count if they ship to Australia: quote price plus freight and import costs.",
+      "sources": [
+        "https://www.alibaba.com/",
+        "https://www.made-in-china.com/"
+      ],
       "added": "2026-09-28"
     },
     {
       "key": "deep-ripper",
-      "title": "Deep tyne ripper for tree roots",
-      "short": "Deep tyne ripper",
+      "title": "Tree root ripper, ideally a single deep tyne",
+      "short": "Tree root ripper, single tyne",
       "status": "hunting",
       "base": "darlington_point",
       "max_km": 400,
       "price_min": null,
       "price_max": null,
       "must": [
-        "deep tynes, built for tree roots and hard ground",
+        "built for ripping tree roots: heavy shank, deep rip, not a general tillage or chisel ripper",
         "matched to 90-130 hp"
       ],
       "prefer": [
+        "single tyne",
+        "3-point linkage",
         "shear-bolt or spring release protection",
-        "replaceable points"
+        "replaceable points and shin",
+        "local within 400km, or an overseas maker that ships to Australia"
       ],
-      "notes": "Root ripping punishes gear. Heavy frame and shank protection matter more than tyne count.",
-      "sources": [],
+      "notes": "One deep, heavy tyne pulls deepest for the horsepower and is what root ripping needs; multi-tyne tillage rippers are out. Overseas makers (China, Italy, Turkey, NZ etc.) count if they ship to Australia: quote price plus freight and import costs, and mark distance as overseas.",
+      "sources": [
+        "https://www.alibaba.com/",
+        "https://www.made-in-china.com/"
+      ],
       "added": "2026-09-28"
     },
     {
@@ -144,6 +154,32 @@
       "notes": "Small enough to post, so listings elsewhere in Australia with shipping count as decent. Check the bar first: Summit or Deluxe, and the winch version rather than the non-winch cover panel. ARB names Warn, Magnum, Bushranger and Smittybilt low-mount winches for the Summit.",
       "sources": [
         "https://www.arb.com.au/"
+      ],
+      "added": "2026-09-29"
+    },
+    {
+      "key": "mac-mini",
+      "title": "Mac mini M5 Pro or M6, 32GB or more RAM, 1TB or more SSD",
+      "short": "Mac mini M5 Pro/M6 32GB/1TB",
+      "status": "hunting",
+      "base": "melbourne",
+      "max_km": 100,
+      "price_min": null,
+      "price_max": null,
+      "must": [
+        "Apple Mac mini with an M5 Pro, M6 or newer chip (Apple sells no plain-M5 Mac mini: the line is M6 and M5 Pro)",
+        "32GB or more unified memory",
+        "1TB or more SSD"
+      ],
+      "prefer": [
+        "new or Apple Certified Refurbished with full warranty",
+        "AppleCare transferable if used",
+        "pickup in Melbourne or posted"
+      ],
+      "notes": "Posts easily, so Australia-wide listings with shipping count. M6 tops out at 32GB; 48GB or 64GB means M5 Pro. Compare against Apple's own build-to-order and refurbished prices.",
+      "sources": [
+        "https://www.apple.com/au/shop/buy-mac/mac-mini",
+        "https://www.apple.com/au/shop/refurbished/mac"
       ],
       "added": "2026-09-29"
     }

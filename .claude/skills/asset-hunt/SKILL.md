@@ -1,6 +1,6 @@
 ---
 name: asset-hunt
-description: Hunt the Australian market daily for the gear on Joshua's buy list (tractor, portable home, chainsaw, offset discs, deep ripper, Ranger winch), score the finds, update the data files, rebuild wilkosz.com.au, commit and push. Run on a loop, e.g. `/loop 24h /asset-hunt`.
+description: Hunt the Australian market daily for the gear on Joshua's buy list (tractor, portable home, chainsaw, offset discs, tree root ripper, Ranger winch, Mac mini), score the finds, update the data files, rebuild wilkosz.com.au, commit and push. Run on a loop, e.g. `/loop 24h /asset-hunt`.
 ---
 
 # asset-hunt
