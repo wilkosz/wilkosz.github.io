@@ -1,13 +1,11 @@
 {
-  "as_of": "2026-09-30T00:08",
-  "summary": "Two auction lots close today: the Shepparton Lloyds 2-bed container house at 14:00 AEST (bid $6,400, about $7,460 with premium; the same unit retails at $25,850 through EXEQ) and the Boorowa JD 6140M at 18:01 AEST, now bid to $97,200 and out of reach. The tractor list finally has a strong local find, a 232-hour Deutz-Fahr Agrofarm 420 with loader at Forbes for $61,500. Offsets and the ripper both gained priced finds that state the specs that matter, and Melbourne turned up a Husqvarna 390 XP with a 28in bar at $800 and a new TJM 9,500 lb winch at $1,000. Kubota M5101 at Yenda, the Ballarat MS 661 and the Forbes Ausco shed have sold.",
+  "as_of": "2026-09-30T02:45",
+  "summary": "Noon pass, 2.5 hours after the morning sweep. The Shepparton Lloyds container house is still at $6,400 and closes about 14:14 AEST; the Dubbo twin has crept to $4,000 and closes about 15:13. The Murchison 13m tiny home at $16,000 has sold, so the Bendigo $28,000 expandable is back on the list. One correction: the $1,949 Husqvarna 572 XP deal is the 20in bar only, the 28in bar is $2,249. Nothing new listed in the last day is worth a call.",
   "headlines": [
-    "Shepparton Lloyds 2-bed container house closes 14:00 AEST today, bid $6,400 (about $7,460 with premium); same unit retails $25,850.",
-    "Deniliquin 8m cabin with kitchen, bedroom and ensuite cut from $20,000 to $7,000, 130km away; condition Fair, inspect first.",
-    "Tractor: 2011 Deutz-Fahr Agrofarm 420, 232 hours, 3-function loader, $61,500 at Forbes, 310km. Kubota M5101 Yenda sold.",
-    "Offsets: two 24-plate sets with stated width, Shearer 300 2.4m $5,500 near Echuca and 2.5m $7,700 at Orange.",
-    "Ripper: first priced 3PL single tyne rated to 120hp, Hayes Extra HD $1,290 plus freight, 150x50 shank, 900mm depth.",
-    "Melbourne: Husqvarna 390 XP with 28in bar $800; new TJM TORQ 9,500 lb synthetic winch $1,000 Burwood; Runva EWL9500 $815 delivered."
+    "Shepparton Lloyds 2-bed container house still $6,400, closes about 14:14 AEST today. Dubbo twin up to $4,000, closes about 15:13.",
+    "Murchison 13m tiny home, $16,000, has sold. Bendigo $28,000 expandable container home is back on the list.",
+    "Correction: the $1,949 Husqvarna 572 XP is the 20in bar only. With a 28in bar it is $2,249, over the band.",
+    "Nothing new worth a call in the last day; the other 36 finds are unchanged in price and status."
   ],
   "finds": [
     {
@@ -117,32 +115,6 @@
       "photo": "img/finds/fb-2926526714371486.jpg"
     },
     {
-      "key": "melbmower-572xp-saw-279-bonus",
-      "want": "chainsaw",
-      "title": "Husqvarna 572 XP new, $250 off RRP, 20/24/28in bar options",
-      "price_aud": 1949,
-      "price_note": "RRP $2,199; $250 off plus bonus ice box; freight extra if not collected",
-      "location": "Mitcham / Bayswater / Dandenong, VIC (7 stores)",
-      "distance_km": 20,
-      "detail": [
-        "new 572 XP, 70.6cc, 4.3kW, 6.6kg",
-        "choice of 20in, 24in or 28in bar at the same $1,949",
-        "in stock at 7 Melbourne-east stores at time of check",
-        "regular price $2,199",
-        "factory warranty, no hours or compression question"
-      ],
-      "source": "Melbourne's Mower Centre",
-      "url": "https://melbournesmowercentre.com.au/products/husqvarna-572xp-saw-279-bonus",
-      "verdict": "strong",
-      "why": "A new 572 XP with a 28in bar for $1,949 is inside the band, $450-$1,150 above the used Stihls, with warranty and no wear risk.",
-      "status": "live",
-      "ends": null,
-      "first_seen": "2026-09-30",
-      "updated": "2026-09-30",
-      "photo": "img/finds/melbmower-572xp-saw-279-bonus.jpg",
-      "photo_url": "https://melbournesmowercentre.com.au/cdn/shop/files/572XPChainsaw-20in_d28eb665-6a89-4911-8c66-7aeb2036d7f4.png?v=1788227314&width=1200"
-    },
-    {
       "key": "fb-1828017725039231",
       "want": "chainsaw",
       "title": "Stihl MS 661C Magnum",
@@ -167,6 +139,32 @@
       "first_seen": "2026-09-30",
       "updated": "2026-09-30",
       "photo": "img/finds/fb-1828017725039231.jpg"
+    },
+    {
+      "key": "melbmower-572xp-saw-279-bonus",
+      "want": "chainsaw",
+      "title": "Husqvarna 572 XP new, 20in bar, $250 off RRP",
+      "price_aud": 1949,
+      "price_note": "RRP $2,199; the $1,949 is the 20in bar only, 24in is $2,239 and 28in is $2,249; freight extra if not collected",
+      "location": "Mitcham / Bayswater / Dandenong, VIC (7 stores)",
+      "distance_km": 20,
+      "detail": [
+        "new 572 XP, 70.6cc, 4.3kW, 6.6kg",
+        "20in bar and chain at $1,949",
+        "24in $2,239, 28in $2,249 (over the $2,000 band)",
+        "in stock at 12:30 AEST 30 Sep",
+        "factory warranty"
+      ],
+      "source": "Melbourne's Mower Centre",
+      "url": "https://melbournesmowercentre.com.au/products/husqvarna-572xp-saw-279-bonus",
+      "verdict": "decent",
+      "why": "Cheapest new 572 XP found and in band with a 20in bar, but a 28in bar takes it to $2,249; correction to this morning's note that all bar lengths were $1,949.",
+      "status": "live",
+      "ends": null,
+      "first_seen": "2026-09-30",
+      "updated": "2026-09-30",
+      "photo": "img/finds/melbmower-572xp-saw-279-bonus.jpg",
+      "photo_url": "https://melbournesmowercentre.com.au/cdn/shop/files/572XPChainsaw-20in_d28eb665-6a89-4911-8c66-7aeb2036d7f4.png?v=1788227314&width=1200"
     },
     {
       "key": "fb-1119908973800443",
@@ -562,15 +560,16 @@
       "location": "Myrtleford, VIC",
       "distance_km": 370,
       "detail": [
-        "28 plates",
+        "28 plates, about 2.4 tonne",
         "width not stated",
-        "older set, seller says new set ~$24k",
-        "Used - Good"
+        "oil bath bearings, owned since new",
+        "plates worn; seller quotes $135 ex GST per new plate, about $3,800 for a full set",
+        "RHS bar added at rear for trailing rollers"
       ],
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/1730861284788002/",
       "verdict": "decent",
-      "why": "Right plate count and a known brand, but 370km away and width, bearings and disc wear are not stated.",
+      "why": "Heavy, well-kept set with a known brand, but the plates are worn and a full set of 28 adds about $3,800 ex GST, and it is 370km away.",
       "status": "live",
       "first_seen": "2026-09-28",
       "updated": "2026-09-30",
@@ -583,7 +582,7 @@
       "want": "portable-home",
       "title": "Unused expandable 2-bedroom container house with ensuite",
       "price_aud": 6400,
-      "price_note": "current bid, plus 16.5% buyer premium incl GST; closes 14:00 AEST 30 Sep",
+      "price_note": "current bid at 12:31 AEST, unchanged in 2.5 hours; plus 16.5% buyer premium incl GST; lot countdown points to about 14:14 AEST 30 Sep",
       "location": "Shepparton, VIC",
       "distance_km": 240,
       "detail": [
@@ -598,7 +597,7 @@
       "source": "Lloyds Auctions",
       "url": "https://www.lloydsonline.com.au/LotDetails.aspx?smode=0&aid=74117&lid=6076581",
       "verdict": "strong",
-      "why": "Bid moved $5,200 to $6,400 (about $7,460 with premium) for a new 2-bed unit with ensuite 240km away; closes 14:00 today.",
+      "why": "Bid $6,400 (about $7,460 with premium) for a new 2-bed unit with ensuite 240km away; closes about 14:14 today.",
       "status": "live",
       "ends": "2026-09-30",
       "first_seen": "2026-09-28",
@@ -641,15 +640,13 @@
       "detail": [
         "13m x 3m x 3.1m high",
         "2 bedrooms, lounge, kitchen, bathroom",
-        "split-system heating/cooling, 2 hot water units",
-        "A-frame tow point, 6 wheels",
-        "needs a little work; ready to live in after a clean"
+        "marked Sold on Facebook 30 Sep 12:30 AEST"
       ],
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/1686976389426178/",
       "verdict": "strong",
-      "why": "Still live at $16,000; 2 bedrooms plus bathroom and kitchen, towable.",
-      "status": "live",
+      "why": "Was the best-priced 2-bed with bathroom; the listing now shows Sold.",
+      "status": "sold",
       "first_seen": "2026-09-28",
       "updated": "2026-09-30",
       "price_note": null,
@@ -667,7 +664,8 @@
         "2 bedrooms or offices, full bathroom",
         "L-shaped kitchen cabinets, stainless sink, mixer tap",
         "electrical and plumbing ready for connection",
-        "double glazed, in stock, inspection 7 days (GV Containers and Haulage)"
+        "double glazed, in stock, inspection 7 days (GV Containers and Haulage)",
+        "listing photo is the maker's brochure (JQ Shelter STW-5900)"
       ],
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/1729183591520678/",
@@ -677,7 +675,8 @@
       "first_seen": "2026-09-28",
       "updated": "2026-09-30",
       "price_note": "plus GST if applicable; free delivery within 30km of Cobram",
-      "ends": null
+      "ends": null,
+      "photo": "img/finds/fb-1729183591520678.jpg"
     },
     {
       "key": "fb-1775632163757336",
@@ -708,8 +707,8 @@
       "key": "lloyds-6075389",
       "want": "portable-home",
       "title": "Unused expandable 2-bedroom container house with ensuite",
-      "price_aud": 3600,
-      "price_note": "current bid, plus 16.5% buyer premium incl GST; closes 15:00 AEST 30 Sep",
+      "price_aud": 4000,
+      "price_note": "current bid at 12:31 AEST, up from $3,600; plus 16.5% buyer premium incl GST; lot countdown points to about 15:13 AEST 30 Sep",
       "location": "Dubbo, NSW",
       "distance_km": 440,
       "detail": [
@@ -724,7 +723,7 @@
       "source": "Lloyds Auctions",
       "url": "https://www.lloydsonline.com.au/LotDetails.aspx?smode=0&aid=74039&lid=6075389",
       "verdict": "decent",
-      "why": "Bid moved $1,502 to $3,600, still $2,800 under the Shepparton twin, but 440km is over the cap and freight eats the gap.",
+      "why": "Bid moved $3,600 to $4,000 (about $4,660 with premium); same model as Shepparton but 440km is over the cap and freight eats the gap.",
       "status": "live",
       "ends": "2026-09-30",
       "first_seen": "2026-09-28",
@@ -756,6 +755,31 @@
       "updated": "2026-09-30",
       "photo": "img/finds/slattery-02ioa00000em7sjiar.jpg",
       "photo_url": "https://s3-ap-southeast-2.amazonaws.com/slattery-salesforce/Assets/1-1-3-000659/20260811_235825068_iOS.jpg?v=0004491485"
+    },
+    {
+      "key": "fb-1111581224659646",
+      "want": "portable-home",
+      "title": "Expandable container home, living, kitchen, bedroom, bathroom",
+      "price_aud": 28000,
+      "price_note": "fold-up for transport +$1,000; transport at buyer's cost",
+      "location": "Bendigo, VIC",
+      "distance_km": 330,
+      "detail": [
+        "6.6m wide x 5.7m long open; container size folded",
+        "living room, kitchen with cabinets and sink",
+        "double bedroom with fold-out centre wall to make two",
+        "bathroom with vanity, shower, toilet; LPG instant hot water 6 months old",
+        "electrical upgraded to Aust spec; relisted 28 Sep",
+        "checked live 30 Sep 10:00 AEST"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1111581224659646/",
+      "verdict": "decent",
+      "why": "Back on the list now the Murchison home has sold; near the top of the band and 330km away.",
+      "status": "live",
+      "ends": null,
+      "first_seen": "2026-09-30",
+      "updated": "2026-09-30"
     },
     {
       "key": "tfm-1094254",
@@ -965,7 +989,7 @@
       "want": "winch",
       "title": "Runva EWL9500 12V, synthetic rope, wired and wireless remotes (new)",
       "price_aud": 815,
-      "price_note": "free metro shipping",
+      "price_note": "free metro shipping; same $815 on Runva's own store (runvawinch.com.au)",
       "location": "Sunshine Coast, QLD (posted)",
       "distance_km": null,
       "detail": [
@@ -1019,7 +1043,7 @@
       "want": "winch",
       "title": "Runva EWB9500-Q Premium 12V, synthetic rope, wired and wireless remotes (new)",
       "price_aud": 1065,
-      "price_note": "free metro shipping",
+      "price_note": "free metro shipping; Runva's own store lists it at $1,085",
       "location": "Sunshine Coast, QLD (posted)",
       "distance_km": null,
       "detail": [
@@ -1047,7 +1071,7 @@
       "want": "winch",
       "title": "Carbon Scout Pro 10K V3, synthetic rope, wired and wireless remotes (new)",
       "price_aud": 1099,
-      "price_note": null,
+      "price_note": "black sold out at 12:30 AEST, 9 other colours in stock",
       "location": "Online, posted",
       "distance_km": null,
       "detail": [
@@ -1082,18 +1106,20 @@
       "detail": [
         "Warn Magnum 10,000 lb",
         "remote included",
-        "working, good condition",
-        "rope type, control box, fairlead not stated",
+        "working, Used - Good",
+        "photo shows synthetic rope, control box, hawse fairlead and hook loose on a pallet",
+        "seller has 87 ratings",
         "listed 4 weeks ago"
       ],
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/1384656743754018/",
       "verdict": "decent",
-      "why": "Cheap 10k Warn in Melbourne but completeness not confirmed on the page.",
+      "why": "Cheap 10k Warn in Melbourne; the photo shows a complete-looking kit with synthetic rope, but the text does not confirm it.",
       "status": "live",
       "first_seen": "2026-09-28",
       "updated": "2026-09-30",
-      "ends": null
+      "ends": null,
+      "photo": "img/finds/fb-1384656743754018.jpg"
     }
   ]
 }
