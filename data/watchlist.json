@@ -6,13 +6,13 @@
     "sector": "AI",
     "status": "accumulate",
     "conviction": "medium",
-    "thesis": "Connectivity silicon (retimers, Scorpio switches) inside AI racks; Q2 revenue $392M, +104% YoY. Closed $357.84 Tuesday (+1.9%), down 2% since Sep 28 after a 42% run from Sep 14. Fubon initiated at Buy with a $500 target on Sep 29; Scorpio X becoming the largest product line in Q3 is the proof point.",
-    "risks": "~175x earnings and within 9% of the $390 consensus target, so the easy rebound is done. Few hyperscaler customers, and Nvidia NVLink competes directly.",
-    "price_usd": 357.84,
+    "thesis": "Connectivity silicon (retimers, Scorpio switches) inside AI racks; Q2 revenue $392M, +104% YoY. $354.85 at 10:30 ET Wednesday (-0.8%), giving back a little after the 42% run from the Sep 15 low of $251.97; Zacks made it Bull of the Day and Fubon has a $500 target. Scorpio X becoming the largest product line in Q3 is the proof point.",
+    "risks": "~175x earnings and within 10% of the $390 consensus target, so the easy rebound is done. Few hyperscaler customers, and Nvidia NVLink competes directly.",
+    "price_usd": 354.85,
     "catalyst": "Q3 2026 earnings 2026-11-03",
     "source": "https://stockanalysis.com/stocks/alab/",
     "added": "2026-08-24",
-    "updated": "2026-09-29"
+    "updated": "2026-09-30"
   },
   {
     "ticker": "AVGO",
@@ -21,13 +21,13 @@
     "sector": "AI",
     "status": "accumulate",
     "conviction": "medium",
-    "thesis": "Top custom AI chip (XPU) and AI networking supplier; Q3 FY26 AI revenue $16.7B, +221% YoY, Q4 guide ~$34.8B total revenue. Closed $355.10 Tuesday (+1.6%) with the chip rebound, still roughly flat since Sep 14 while peers ran; consensus target $532 (+50%).",
+    "thesis": "Top custom AI chip (XPU) and AI networking supplier; Q3 FY26 AI revenue $16.7B, +221% YoY, Q4 guide ~$34.8B total revenue. $354.46 at 10:30 ET Wednesday (-0.2%), still roughly flat since Sep 14 while peers ran; ARK bought 76.2K shares Monday. Consensus target $532 (+50%) is the widest gap among the AI names.",
     "risks": "Off-balance-sheet guarantees on Anthropic chip financing ($35B done, ~$60B more discussed). China's SASAC is surveying Broadcom switches in state data centres ahead of possible guidance to cut use.",
-    "price_usd": 355.1,
+    "price_usd": 354.46,
     "catalyst": "Q4 FY2026 earnings ~2026-12-10 (est.); any SASAC guidance on switches",
     "source": "https://stockanalysis.com/stocks/avgo/",
     "added": "2026-08-24",
-    "updated": "2026-09-29"
+    "updated": "2026-09-30"
   },
   {
     "ticker": "SKHY",
@@ -36,11 +36,11 @@
     "sector": "AI",
     "status": "buy",
     "conviction": "high",
-    "thesis": "Holds ~58% of HBM revenue share; Q2 operating income KRW 60.5T at a 76% margin, and the stock trades near 9x earnings. The ADR fell as much as 6% Monday after Bloomberg reported Solidigm is weighing a US IPO as soon as 2027 at up to $100B, then bounced 2.6% Tuesday to $186.68, -2.5% since Sep 28. The strike risk is gone (union deal approved Sep 16). Seoul +1.4% at 11:11 KST (prev close 1,765,000). ADR closed $186.68 (+2.6%) Tuesday, $185.82 in the overnight session. Bernstein cut its target to 2.7m won from 3.3m (Outperform kept) on slower HBM4 pricing and prefers Samsung; Micron reports Thu 06:30 AEST.",
-    "risks": "A separate Solidigm listing adds an ownership layer investors already discount; the Korea Corporate Governance Forum urged SK hynix to drop it. Memory is the most volatile part of any AI selloff, and CXMT is closing the gap.",
-    "price_usd": 186.68,
-    "catalyst": "Q3 2026 earnings ~2026-10-27 (est.); Micron results Wed Sep 30 set the tone; Solidigm IPO bank selection",
-    "source": "https://247wallst.com/investing/2026/09/28/sk-hynix-drops-6-as-bloomberg-puts-100b-value-on-potential-solidigm-ipo-micron-and-western-digital-fall-4/",
+    "thesis": "Holds ~58% of HBM revenue share; Q2 operating income KRW 60.5T at a 76% margin, and the stock trades near 9x earnings. Seoul closed Wednesday at KRW 1,776,000 (+0.6%) and the ADR is $186.12 at 10:30 ET (-0.3%), flat into Micron's print after the bell (consensus revenue $51.5B, +355%; EPS $31.83). Micron's guide sets the tone for HBM pricing into 2027; the Solidigm IPO (up to $100B, 2027) is the overhang.",
+    "risks": "A separate Solidigm listing adds an ownership layer investors already discount. Memory is the most volatile part of any AI selloff, Bernstein cut its target to 2.7m won on slower HBM4 pricing, and CXMT is closing the gap.",
+    "price_usd": 186.12,
+    "catalyst": "Micron results after the bell Wed Sep 30 (Thu 06:30 AEST); Q3 2026 earnings ~2026-10-27 (est.); Solidigm IPO bank selection",
+    "source": "https://finance.yahoo.com/technology/article/micron-to-report-q4-earnings-as-memory-boom-powers-on-153230577.html",
     "added": "2026-08-24",
     "updated": "2026-09-30"
   },
@@ -51,13 +51,13 @@
     "sector": "Energy",
     "status": "watch",
     "conviction": "medium",
-    "thesis": "On-site fuel cells for AI data centres; Q2 revenue $1.07B, +166%, 2026 guide $3.9-4.2B. Jumped 10.8% Tuesday to $291.25 (+10% since Sep 28, +241% YTD) after leasing another 158,000 sq ft in Fremont, nearly doubling production space; RBC reiterated Outperform at $335 and Morgan Stanley $310.",
-    "risks": "Now above the $286 consensus target at ~380x earnings, and Monday's 8.6% drop shows how fast it reverses. Oracle's Jupiter force majeure stands: gas pipeline slipped to Feb 2027, fuel-cell air permit due Nov 23. Several class actions pending.",
-    "price_usd": 291.25,
+    "thesis": "On-site fuel cells for AI data centres; Q2 revenue $1.07B, +166%, 2026 guide $3.9-4.2B. $286.59 at 10:30 ET Wednesday (-1.6%) after Tuesday's 10.8% jump on the Fremont expansion that nearly doubles production space; RBC $335 and Morgan Stanley $310, but Jefferies sits at $264 flagging execution risk. Still +230% YTD.",
+    "risks": "Trades at the $286 consensus target at ~380x earnings, and swings of 8-11% a day in both directions are now normal. Oracle's Jupiter force majeure stands: gas pipeline slipped to Feb 2027, fuel-cell air permit due Nov 23. Several class actions pending.",
+    "price_usd": 286.59,
     "catalyst": "Q3 2026 earnings 2026-10-27; Jupiter air-quality permit decision by 2026-11-23",
-    "source": "https://www.tipranks.com/news/why-is-bloom-energy-stock-be-up-over-13-today",
+    "source": "https://stockanalysis.com/stocks/be/",
     "added": "2026-08-24",
-    "updated": "2026-09-29"
+    "updated": "2026-09-30"
   },
   {
     "ticker": "GEV",
@@ -66,13 +66,13 @@
     "sector": "Energy",
     "status": "accumulate",
     "conviction": "high",
-    "thesis": "Bottleneck supplier of gas turbines and grid gear for AI power; Q2 orders $24.2B (+88% organic), backlog ~$176B. Closed $962.49 Tuesday (+1.3%, +10% since Sep 14) as the NRC issued TVA the first US construction permit for its BWRX-300 small modular reactor at Clinch River, the second US reactor permit in nearly a decade. Consensus target $1,237 (+29%).",
+    "thesis": "Bottleneck supplier of gas turbines and grid gear for AI power; Q2 orders $24.2B (+88% organic), backlog ~$176B. $952.30 at 10:30 ET Wednesday (-1.1%) after Tuesday's NRC construction permit for TVA's BWRX-300 at Clinch River, the first US SMR permit; declared a $0.50 quarterly dividend Wednesday (record Oct 27, paid Nov 24). Consensus target ~$1,172-1,237 (+23-30%).",
     "risks": "Premium multiple on a cyclical business (GLJ Sell, $470 target). Tariffs cost $100-200M in 2026, offshore wind still loses money, and TVA has no construction date or cost-sharing deal yet for the SMR.",
-    "price_usd": 962.49,
+    "price_usd": 952.3,
     "catalyst": "Q3 2026 earnings 2026-10-28 (orders the key number)",
-    "source": "https://www.ans.org/news/2026-09-29/article-8445/tva-receives-construction-permit-for-clinch-river/",
+    "source": "https://finance.yahoo.com/energy/articles/ge-vernova-declares-fourth-quarter-114000029.html",
     "added": "2026-08-24",
-    "updated": "2026-09-29"
+    "updated": "2026-09-30"
   },
   {
     "ticker": "VRT",
@@ -81,13 +81,13 @@
     "sector": "Energy",
     "status": "accumulate",
     "conviction": "medium",
-    "thesis": "Power, thermal and liquid-cooling infrastructure for AI data centres; Q2 net sales $3.27B (+24%, 18% organic) at a 22.6% adjusted operating margin (+410bps), with 2026 guidance of $14.0B and 31% organic growth. Closed $248.34 Tuesday (+1.8%). Wells Fargo initiated Overweight at $340 on Sep 26 as the best sales-growth story in multi-industry, BofA added it to its US 1 list, and it agreed to buy King Environmental Services for European liquid-cooling services on Sep 24. Consensus $338 (+36%).",
-    "risks": "56x earnings prices in the guide; Q2 organic growth was 18% with acquisitions and FX doing the rest, so the second half has to accelerate. Hyperscaler capex concentration, and Schneider, Eaton and Asian OEMs compete in liquid cooling. Replaces Toyota; added at medium conviction until Q3 confirms the ramp.",
-    "price_usd": 248.34,
+    "thesis": "Power, thermal and liquid-cooling infrastructure for AI data centres; Q2 net sales $3.27B (+24%, 18% organic) at a 22.6% adjusted operating margin, with 2026 guidance of $14.0B and 31% organic growth. $243.25 at 10:30 ET Wednesday (-2.0%), the weakest of the AI-power names today on no company news; Wells Fargo Overweight at $340, BofA US 1 list, and a Slovakia cooling-plant expansion announced Tuesday. Consensus $338 (+39%).",
+    "risks": "56x earnings prices in the guide; Q2 organic growth was 18% with acquisitions and FX doing the rest, so the second half has to accelerate. Hyperscaler capex concentration, and Schneider, Eaton and Asian OEMs compete in liquid cooling. Added at medium conviction until Q3 confirms the ramp.",
+    "price_usd": 243.25,
     "catalyst": "Q3 2026 earnings ~2026-10-22 (est.); KES deal close Q4",
-    "source": "https://investors.vertiv.com/news/news-details/2026/Vertiv-Reports-Strong-Second-Quarter-2026-with-Diluted-EPS-Growth-of-53-Adjusted-Diluted-EPS-Growth-of-60-Raises-Full-Year-2026-Guidance-Across-All-Key-Metrics/default.aspx",
+    "source": "https://stockanalysis.com/stocks/vrt/",
     "added": "2026-09-29",
-    "updated": "2026-09-29"
+    "updated": "2026-09-30"
   },
   {
     "ticker": "HOOD",
@@ -96,13 +96,13 @@
     "sector": "Internet",
     "status": "accumulate",
     "conviction": "medium",
-    "thesis": "Q2 revenue $1.31B (+32%) at a 57% adjusted EBITDA margin. Tuesday's Summit keynote added Robinhood Agents (AI trading assistants on OpenAI and Anthropic models), US crypto perpetuals with up to 10x leverage in coming months, options trading 7:30am-4:15pm ET from October, weekend equities in early 2027 and earnings contracts with Cboe. Closed $116.22 before the keynote, -2.7% since Sep 28; BTIG lifted its target to $135 on strong September volumes.",
-    "risks": "Perps and AI agents draw regulators; two engineers were charged Sep 15 with insider trading on crypto listings. Revenue swings with retail and crypto volumes at ~50x earnings, and 25% of volume is already off-hours.",
-    "price_usd": 116.22,
-    "catalyst": "Wednesday's reaction to the Summit; Q3 2026 earnings ~2026-11-04 (est.)",
-    "source": "https://cryptobriefing.com/robinhood-hood-summit-2026-new-features/",
+    "thesis": "Q2 revenue $1.31B (+32%) at a 57% adjusted EBITDA margin. Summit follow-through: Robinhood Agents (OpenAI and Anthropic models, ~150K agentic accounts already open since May, trade-by-trade approval on by default, one OpenAI model free to year-end) roll out over coming weeks, plus crypto perps, earnings contracts with Cboe and weekend equities in 2027. Stock rose 2% premarket then faded to $114.41 at 10:30 ET (-1.6%): a sell-the-news day. Deutsche Bank trimmed to $134 (Buy), KBW to $115, BTIG $135; consensus $133 (+16%).",
+    "risks": "Perps and autonomous AI agents draw regulators; two engineers were charged Sep 15 with insider trading on crypto listings. Revenue swings with retail and crypto volumes at ~50x earnings, and Robinhood bills for model usage it has not disclosed the economics of.",
+    "price_usd": 114.41,
+    "catalyst": "Robinhood Agents rollout in October; Q3 2026 earnings ~2026-11-04 (est.)",
+    "source": "https://finance.yahoo.com/markets/stocks/article/robinhood-is-rolling-out-agentic-ai-trading-accounts-for-the-masses-230517174.html",
     "added": "2026-08-24",
-    "updated": "2026-09-29"
+    "updated": "2026-09-30"
   },
   {
     "ticker": "MELI",
@@ -111,13 +111,13 @@
     "sector": "Internet",
     "status": "accumulate",
     "conviction": "medium",
-    "thesis": "LatAm's leading e-commerce and fintech platform; Q2 revenue $10.17B (+50%), the 30th straight quarter above 30%. Closed $1,724.90 Tuesday (+0.7%), down 1.6% since Sep 28 and 10% since Sep 14 on no company news; consensus target $2,272 (+32%).",
+    "thesis": "LatAm's leading e-commerce and fintech platform; Q2 revenue $10.17B (+50%), the 30th straight quarter above 30%. $1,711.25 at 10:30 ET Wednesday (-0.8%), down 2.4% since Sep 28 and 11% since Sep 14 on no company news; consensus target $2,272 (+33%).",
     "risks": "Operating margin is 6.7%, down from 12.2%, as it spends on shipping, credit and one-hour Sao Paulo delivery. Nu is competing hard in lending.",
-    "price_usd": 1724.9,
+    "price_usd": 1711.25,
     "catalyst": "Q3 2026 earnings 2026-10-28",
     "source": "https://stockanalysis.com/stocks/meli/",
     "added": "2026-08-24",
-    "updated": "2026-09-29"
+    "updated": "2026-09-30"
   },
   {
     "ticker": "NET",
@@ -126,13 +126,13 @@
     "sector": "Internet",
     "status": "accumulate",
     "conviction": "high",
-    "thesis": "Edge network that controls bot and AI-agent traffic; Q2 revenue $696M (+36%), 120% net retention. Closed $352.26 Tuesday (-0.5%, +0.9% since Sep 28), just under the Sep 22 record. Deutsche Telekom's T-Systems will now resell Cloudflare security across Europe with direct network interconnection, and Cloudflare is launching a public post-quantum certificate authority.",
+    "thesis": "Edge network that controls bot and AI-agent traffic; Q2 revenue $696M (+36%), 120% net retention. $348.82 at 10:30 ET Wednesday (-1.0%), 3% under the Sep 22 record. Deutsche Telekom's T-Systems now resells Cloudflare security across Europe with direct interconnection, and the public post-quantum certificate authority launches Q1 2027.",
     "risks": "Trades above the $337 consensus target at ~47x sales, so any growth miss will be punished. Gross margin fell 320bps to 73.1%.",
-    "price_usd": 352.26,
+    "price_usd": 348.82,
     "catalyst": "Q3 2026 earnings 2026-10-29",
-    "source": "https://www.telekom.com/en/newsroom/latest-updates/media-information/2026/09/cloudflare-and-deutsche-telekom-join-forces-for-a-secure-and-res",
+    "source": "https://stockanalysis.com/stocks/net/",
     "added": "2026-08-24",
-    "updated": "2026-09-29"
+    "updated": "2026-09-30"
   },
   {
     "ticker": "SE",
@@ -141,13 +141,13 @@
     "sector": "Internet",
     "status": "buy",
     "conviction": "high",
-    "thesis": "Q2 revenue $7.8B (+48%): Shopee GMV +28%, Monee loan book $11.1B at 1.0% NPLs. Closed $98.62 Tuesday (-0.3%), down 9% since Sep 14 on no company news. Consensus target $157 (+59%), still the widest gap on the list.",
-    "risks": "Competition from TikTok Shop and Temu, and the Brazil push opens a second front against MELI. A Shopee executive's entity sold 60K shares Sep 21-22 under a 10b5-1 plan.",
-    "price_usd": 98.62,
+    "thesis": "Q2 revenue $7.8B (+48%): Shopee GMV +28%, Monee loan book $11.1B at 1.0% NPLs. $97.60 at 10:30 ET Wednesday (-1.0%), down 10% since Sep 14 on no company news; Monee added a Great Eastern insurance tie-up for Shopee buyers. Consensus target $157 (+61%), still the widest gap on the list.",
+    "risks": "Competition from TikTok Shop and Temu, and the Brazil push opens a second front against MELI. A Shopee executive's entity sold 60K shares Sep 21-22 under a 10b5-1 plan; the drift lower has no catalyst to stop it before Nov 10.",
+    "price_usd": 97.6,
     "catalyst": "Q3 2026 earnings 2026-11-10",
     "source": "https://stockanalysis.com/stocks/se/",
     "added": "2026-08-24",
-    "updated": "2026-09-29"
+    "updated": "2026-09-30"
   },
   {
     "ticker": "1211",
@@ -156,10 +156,10 @@
     "sector": "Machinery",
     "status": "accumulate",
     "conviction": "medium",
-    "thesis": "Exports drive growth: August overseas sales +134.5% YoY and European sales more than doubled, with local truck production in Europe planned. Fell 2.5% Tuesday to HK$75.75, -3% since Sep 28 and a fresh 52-week low, with no company news beyond the EGM; consensus HK$125.70 (+66%). Hong Kong -1.1% at 10:16 HKT vs 75.75 close, worse than the Hang Seng's -0.2%. September sales due Oct 1; Da Han sedan launches Oct 13 with a 1,008 km CLTC EV variant. USD at 7.8453 HKD (Yahoo, 30 Sep).",
-    "risks": "August China sales -14.3% as Geely, Xpeng and Leapmotor take share; the price war squeezes margins and EU tariffs hang over exports. The tape is telling you nobody wants it ahead of the September number.",
-    "price_usd": 9.55,
-    "catalyst": "September sales 2026-10-01; Q3 2026 results 2026-10-29",
+    "thesis": "Exports drive growth: August overseas sales +134.5% YoY and European sales more than doubled, with local truck production in Europe planned. Closed HK$75.60 Wednesday (-0.2%), sitting on the 52-week low into Thursday's September sales release; a 16 GWh battery plant started up and BYD expects the Formula S series to reach 15,000 units a month. Consensus HK$125.70 (+66%). USD at 7.8457 HKD (Yahoo, 30 Sep).",
+    "risks": "August China sales -14.3% as Geely, Xpeng and Leapmotor take share; the price war squeezes margins and EU tariffs hang over exports. The tape says nobody wants it ahead of the September number, so a weak print can push it through the low.",
+    "price_usd": 9.64,
+    "catalyst": "September sales 2026-10-01; Da Han launch 2026-10-13; Q3 2026 results 2026-10-29",
     "source": "https://stockanalysis.com/quote/hkg/1211/",
     "added": "2026-09-27",
     "updated": "2026-09-30"
@@ -171,9 +171,9 @@
     "sector": "Machinery",
     "status": "buy",
     "conviction": "high",
-    "thesis": "Machine vision and sensors for factory automation and robotics; fiscal Q1 sales +33%, net income +51%, operating margin above 50%. JPY 79,480 (+1.3% Tuesday, flat since Sep 28, +4% since Sep 15) at USD/JPY 157.4; Citi JPY 95,000, consensus JPY 97,867 (+23%). Tokyo +0.5% at 11:15 JST vs 79,480 close, in line with a 1.2% Nikkei rally. USD at 156.46 JPY (Yahoo, 30 Sep). No company news.",
+    "thesis": "Machine vision and sensors for factory automation and robotics; fiscal Q1 sales +33%, net income +51%, operating margin above 50%. Closed JPY 80,480 Wednesday (+1.3%, +5% since Sep 15) at USD/JPY 156.95, a second straight up day with no company news; Citi JPY 95,000, consensus JPY 97,867 (+22%).",
     "risks": "The premium multiple assumes 30%+ growth. A stronger yen or slower China capex would hit both earnings and the multiple; Toyota's August numbers show Chinese and US auto demand softening.",
-    "price_usd": 510.67,
+    "price_usd": 512.78,
     "catalyst": "Fiscal Q2 results 2026-10-28",
     "source": "https://stockanalysis.com/quote/tyo/6861/",
     "added": "2026-08-24",
@@ -186,13 +186,13 @@
     "sector": "Machinery",
     "status": "buy",
     "conviction": "high",
-    "thesis": "Sole EUV supplier; 2026 guide EUR 43-45B at 54-56% gross margin, 2027 EUV capacity essentially sold out. Rose 3.6% Tuesday to $1,834.39 (+5% since Sep 28, +17% since Sep 14) after JPMorgan said investors are rotating back into semis after the AI pullback. Consensus $2,116 (+15%).",
+    "thesis": "Sole EUV supplier; 2026 guide EUR 43-45B at 54-56% gross margin, 2027 EUV capacity essentially sold out. $1,818.18 at 10:30 ET Wednesday (-0.9%) after Tuesday's 3.6% jump on the semi rotation; still +16% since Sep 14. Consensus $2,116 (+16%).",
     "risks": "China export limits and proposed US chip tariffs. Sentiment-driven days cut both ways (-7.3% on Sep 14), and the Oct 14 bookings number has to back the rally.",
-    "price_usd": 1834.39,
+    "price_usd": 1818.18,
     "catalyst": "Q3 2026 earnings 2026-10-14 (bookings)",
-    "source": "https://www.gurufocus.com/news/9101830/asml-stock-surges-38-as-ai-rebound-returns-to-lithography",
+    "source": "https://stockanalysis.com/stocks/asml/",
     "added": "2026-08-24",
-    "updated": "2026-09-29"
+    "updated": "2026-09-30"
   },
   {
     "ticker": "TER",
@@ -201,13 +201,13 @@
     "sector": "Machinery",
     "status": "accumulate",
     "conviction": "medium",
-    "thesis": "Test equipment for AI and HBM chips (~70% of revenue) plus Universal Robots cobots; Q2 revenue $1.33B, more than double. Closed $403.02 Tuesday (+0.4%, +1.2% since Sep 28, +23% since Sep 14) and launched Magnum E2, a memory tester for LPDDR6, DDR6, GDDR7 and NAND with PAM3/PAM4 support, showing at SEMICON West Oct 13-15. Consensus $446 (+11%).",
-    "risks": "The most volatile AI name on the list (-13.3% on Sep 14) at a premium multiple. Test orders are lumpy and come from a few customers.",
-    "price_usd": 403.02,
-    "catalyst": "Q3 2026 earnings 2026-10-27",
-    "source": "https://investors.teradyne.com/news-events/press-releases/detail/451/teradyne-announces-magnum-e2-to-address-next-generation-memory-test-demands-driven-by-ai-and-high-performance-computing",
+    "thesis": "Test equipment for AI and HBM chips (~70% of revenue) plus Universal Robots cobots; Q2 revenue $1.33B, more than double. $396.06 at 10:30 ET Wednesday (-1.7%), giving back some of the 23% run since Sep 14 ahead of Micron; Magnum E2 memory tester (LPDDR6, DDR6, GDDR7, NAND) shows at SEMICON West Oct 13-15. Consensus $446 (+13%).",
+    "risks": "The most volatile AI name on the list (-13.3% on Sep 14) at a premium multiple, and it trades as a Micron derivative into tonight's print. Test orders are lumpy and come from a few customers.",
+    "price_usd": 396.06,
+    "catalyst": "Micron results after the bell Sep 30; Q3 2026 earnings 2026-10-27",
+    "source": "https://stockanalysis.com/stocks/ter/",
     "added": "2026-08-24",
-    "updated": "2026-09-29"
+    "updated": "2026-09-30"
   },
   {
     "ticker": "TSLA",
@@ -216,12 +216,12 @@
     "sector": "Machinery",
     "status": "watch",
     "conviction": "medium",
-    "thesis": "Car demand is falling while the valuation rests on robotaxi, storage and Optimus. The Roadster demo slipped again, from Oct 1 to Oct 15 at SpaceX's McGregor site, blamed on weather; Q3 deliveries still land Oct 2. Closed $352.84 Tuesday (-1.3%, -2.3% since Sep 28). Track it, don't chase it.",
-    "risks": "JPMorgan cut its target to $415 and trimmed Q3 delivery estimates on Sep 28. The European Transport Safety Council urged EU states to reject FSD over its speed-offset feature the same day Croatia became the eighth country to approve it; the EU-wide vote is December at the earliest.",
-    "price_usd": 352.84,
+    "thesis": "Car demand is falling while the valuation rests on robotaxi, storage and Optimus. It lined up $30B of new credit (a $20B delayed-draw term loan plus $8B five-year and $2B one-year lines, Citi and Wells Fargo agents) to back capex of more than $25B this year, saying it won't draw in 2026; the SEC also cleared a program letting retail holders auto-vote with the board at every meeting. $351.20 at 10:30 ET (-0.5%). Track it, don't chase it.",
+    "risks": "Free cash flow is thin at $25B+ capex, which is why the credit lines exist. The auto-vote program is a one-way switch that smooths any SpaceX merger vote and Musk's change-of-control pay; JPMorgan cut to $415 and trimmed Q3 deliveries; EU-wide FSD vote is December at the earliest.",
+    "price_usd": 351.2,
     "catalyst": "Q3 deliveries 2026-10-02; Roadster demo 2026-10-15; Q3 earnings 2026-10-28",
-    "source": "https://electrek.co/2026/09/28/tesla-roadster-demo-delayed-october-15-weather/",
+    "source": "https://finance.yahoo.com/technology/articles/tesla-lines-30-billion-borrow-130957692.html",
     "added": "2026-09-27",
-    "updated": "2026-09-29"
+    "updated": "2026-09-30"
   }
 ]

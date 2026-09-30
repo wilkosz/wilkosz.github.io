@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-29",
+  "as_of": "2026-09-30",
   "events": [
     {
       "key": "2026-09-29-hood-summit",
@@ -156,10 +156,10 @@
       "date": "2026-10-02",
       "time": "TBC (usually before US open on the 2nd; 22:00-23:30 AEST Fri)",
       "ticker": "TSLA",
-      "title": "Tesla Q3 production and deliveries (consensus ~460k; Q2 was 480,126)",
+      "title": "Tesla Q3 production and deliveries (Tesla IR consensus 461,974, -7% y/y; Q2 was 480,126)",
       "type": "other",
-      "why": "Watchlist; consensus implies a q/q decline, so anything near 480k is a beat and under 450k reopens the demand debate.",
-      "link": "https://ir.tesla.com/press"
+      "why": "Watchlist; Tesla's own posted consensus of 24 analysts implies a q/q decline, so anything near 480k is a beat and under 450k reopens the demand debate.",
+      "link": "https://teslanorth.com/2026/09/29/tesla-ir-q3-2026-delivery-consensus/"
     },
     {
       "key": "2026-10-04-aedt-starts",
@@ -180,16 +180,6 @@
       "type": "macro",
       "why": "Services is most of the economy; a hot prices-paid line is what would push Warsh's Fed toward a pause.",
       "link": "https://www.financecalendar.com/us-ism-services-pmi/"
-    },
-    {
-      "key": "2026-10-05-cme-compute-futures",
-      "date": "2026-10-05",
-      "time": "TBC (NYMEX listing, pending regulatory review)",
-      "ticker": "NVDA",
-      "title": "CME/Silicon Data H100 and B200 GPU rental-index futures launch",
-      "type": "other",
-      "why": "First tradable price for AI compute; a public daily read on GPU rental rates for NVDA and the neoclouds.",
-      "link": "https://www.cmegroup.com/media-room/press-releases/2026/8/11/cme_group_and_silicondatatolaunchcomputefuturesonoctober5tounloc.html"
     },
     {
       "key": "2026-10-06-amzn-prime-big-deal-days",
@@ -252,6 +242,26 @@
       "link": "https://www.raritan.com/about-us/events/detail/events-2026-ocp-global-summit"
     },
     {
+      "key": "2026-10-13-aapl-home-products",
+      "date": "2026-10-13",
+      "time": "TBC (Bloomberg says press-release launch on Oct 13, no event; US morning = 00:00-03:00 AEDT Wed)",
+      "ticker": "AAPL",
+      "title": "Apple HomePad smart-home hub, new Apple TV 4K with Siri AI, HomePod mini refresh (per Bloomberg)",
+      "type": "product",
+      "why": "Watchlist; first Siri-AI hardware after the leaner-products reset, and an iPad mini/Apple TV refresh for the December quarter - the read is whether Apple ships AI rather than talks about it.",
+      "link": "https://9to5mac.com/2026/09/30/apples-homepad-smart-home-hub-launching-on-oct-13-bloomberg/"
+    },
+    {
+      "key": "2026-10-13-byd-da-han-launch",
+      "date": "2026-10-13",
+      "time": "TBC (BYD China launches usually ~19:30 CST = 22:30 AEDT Tue; 07:30 ET)",
+      "ticker": "BYD",
+      "title": "BYD Da Han flagship sedan launch (up to 1,008 km CLTC range; Dynasty line's 10 millionth car)",
+      "type": "product",
+      "why": "Watchlist; a flagship pricing decision in a domestic market that fell 14% y/y in August shows whether BYD is still discounting to hold share.",
+      "link": "https://cnevpost.com/2026/09/25/byd-to-launch-da-han-oct-13/"
+    },
+    {
       "key": "2026-10-13-big-banks-q3",
       "date": "2026-10-13",
       "time": "JPM results ~07:00 ET (22:00 AEDT), call 08:30 ET (23:30 AEDT); GS, WFC, C same morning; BAC and MS Wed Oct 14 pre-open",
@@ -300,6 +310,26 @@
       "type": "macro",
       "why": "Last inflation print before the Oct 27-28 FOMC; a hot core number is the main risk to long-duration growth holdings.",
       "link": "https://www.bls.gov/schedule/2026/10_sched_list.htm"
+    },
+    {
+      "key": "2026-10-15-us-ppi",
+      "date": "2026-10-15",
+      "time": "08:30 ET (23:30 AEDT Thu)",
+      "ticker": "MACRO",
+      "title": "US September PPI (day after CPI)",
+      "type": "macro",
+      "why": "Feeds the PCE nowcast ahead of the Oct 27-28 FOMC; a hot goods-PPI is the tariff pass-through check for the industrial names.",
+      "link": "https://www.bls.gov/schedule/2026/10_sched_list.htm"
+    },
+    {
+      "key": "2026-10-15-us-retail-sales",
+      "date": "2026-10-15",
+      "time": "08:30 ET (23:30 AEDT Thu), same slot as PPI",
+      "ticker": "MACRO",
+      "title": "US September advance retail sales (Census)",
+      "type": "macro",
+      "why": "Consumer pulse into Prime Big Deal Days and the holiday quarter for AMZN, HOOD and the mortgage names; lands alongside PPI and TSMC's results.",
+      "link": "https://www.census.gov/retail/release_schedule.html"
     },
     {
       "key": "2026-10-15-tsla-roadster",
