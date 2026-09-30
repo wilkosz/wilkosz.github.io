@@ -1,11 +1,13 @@
 {
-  "as_of": "2026-09-30T02:45",
-  "summary": "Noon pass, 2.5 hours after the morning sweep. The Shepparton Lloyds container house is still at $6,400 and closes about 14:14 AEST; the Dubbo twin has crept to $4,000 and closes about 15:13. The Murchison 13m tiny home at $16,000 has sold, so the Bendigo $28,000 expandable is back on the list. One correction: the $1,949 Husqvarna 572 XP deal is the 20in bar only, the 28in bar is $2,249. Nothing new listed in the last day is worth a call.",
+  "as_of": "2026-09-30T14:55",
+  "summary": "Overnight pass. Both Lloyds container houses closed yesterday afternoon and Lloyds hides the result, so they are off the list; the last bids seen were $6,400 at Shepparton and $4,000 at Dubbo. Two unused units of the same brief are now up at Lloyds Austral NSW closing 7 Oct, bid $5,700 and $7,900, but Austral is 590km so a tilt-tray has to be priced in. The $800 Husqvarna 390 XP is pending; a serviced MS 661C with a 25in bar at $1,500 in Melbourne takes its place. Tractor and ripper: nothing new in range. Everything else is unchanged.",
   "headlines": [
-    "Shepparton Lloyds 2-bed container house still $6,400, closes about 14:14 AEST today. Dubbo twin up to $4,000, closes about 15:13.",
-    "Murchison 13m tiny home, $16,000, has sold. Bendigo $28,000 expandable container home is back on the list.",
-    "Correction: the $1,949 Husqvarna 572 XP is the 20in bar only. With a 28in bar it is $2,249, over the band.",
-    "Nothing new worth a call in the last day; the other 36 finds are unchanged in price and status."
+    "Both Lloyds container houses closed yesterday; Lloyds hides the result. Last seen $6,400 Shepparton, $4,000 Dubbo.",
+    "Two more unused 2-room, kitchen, bathroom expandables at Lloyds Austral NSW, bids $5,700 and $7,900, close 7 Oct; 590km, price a tilt-tray.",
+    "Chainsaw: the $800 Husqvarna 390 XP is pending. New: Stihl MS 661C, serviced, 25in bar, $1,500, Melbourne.",
+    "Portable home: Cobram base-unit expanding cabin, 2 bedrooms and bathroom, no kitchen, $19,990, 210km.",
+    "Offsets: Armstrong WCH 24-plate with recent service, $7,250, Nagambie, 290km; replaces the worn-plate Baldan.",
+    "Mac mini: first private listing, sealed M5 Pro 64GB/1TB, $4,849, Sydney pickup, $100 under Apple. Tractor and ripper: nothing new."
   ],
   "finds": [
     {
@@ -13,7 +15,7 @@
       "want": "chainsaw",
       "title": "Husqvarna 390 XP with 28in bar and ripping chain",
       "price_aud": 800,
-      "price_note": "reduced from $1,000",
+      "price_note": "reduced from $1,000; marked Pending 1 Oct 00:30 AEST",
       "location": "Melbourne, VIC",
       "distance_km": null,
       "detail": [
@@ -27,8 +29,8 @@
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/2326766991424235/",
       "verdict": "strong",
-      "why": "88cc 390 XP with two bars including a 28in for $800 in Melbourne, bottom of the price band.",
-      "status": "live",
+      "why": "Marked Pending on the listing, treat as sold.",
+      "status": "sold",
       "ends": null,
       "first_seen": "2026-09-30",
       "updated": "2026-09-30",
@@ -113,6 +115,31 @@
       "price_note": null,
       "ends": null,
       "photo": "img/finds/fb-2926526714371486.jpg"
+    },
+    {
+      "key": "fb-1473300828187096",
+      "want": "chainsaw",
+      "title": "Stihl MS 661C, serviced, 25in bar and chain",
+      "price_aud": 1500,
+      "price_note": null,
+      "location": "Melbourne, VIC",
+      "distance_km": null,
+      "detail": [
+        "91cc, rated well past a 30in bar",
+        "serviced and checked over, ready to run",
+        "25in Stihl bar and chain in good condition",
+        "seller rated 65 on Marketplace",
+        "listed 6 days ago"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1473300828187096/",
+      "verdict": "strong",
+      "why": "Serviced 661 with a bar included at $1,500 in Melbourne, mid band.",
+      "status": "live",
+      "ends": null,
+      "first_seen": "2026-09-30",
+      "updated": "2026-09-30",
+      "photo": "img/finds/fb-1473300828187096.jpg"
     },
     {
       "key": "fb-1828017725039231",
@@ -396,6 +423,30 @@
       "photo_url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mac-mini-chip-unselect-202608-gallery-1?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1785998455498"
     },
     {
+      "key": "fb-1405455047790830",
+      "want": "mac-mini",
+      "title": "Mac mini M5 Pro, 64GB, 1TB, sealed with Apple receipt",
+      "price_aud": 4849,
+      "price_note": "firm; $100 under Apple new ($4,949)",
+      "location": "Rose Bay, NSW (Sydney pickup or meetup only)",
+      "distance_km": null,
+      "detail": [
+        "M5 Pro 18-core CPU, 20-core GPU",
+        "64GB unified memory, 1TB SSD",
+        "sealed, never opened, receipt included",
+        "pickup or public meetup only, no posting stated"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1405455047790830/",
+      "verdict": "decent",
+      "why": "Clears every spec but saves only $100 on Apple new and is Sydney pickup only.",
+      "status": "live",
+      "ends": null,
+      "first_seen": "2026-09-30",
+      "updated": "2026-09-30",
+      "photo": "img/finds/fb-1405455047790830.jpg"
+    },
+    {
       "key": "apple-au-macmini-m5pro18-64gb-1tb",
       "want": "mac-mini",
       "title": "Mac mini M5 Pro, 64GB, 1TB (new, Apple)",
@@ -528,6 +579,31 @@
       "ends": null
     },
     {
+      "key": "fb-1065954802504681",
+      "want": "offset-discs",
+      "title": "Armstrong WCH 24-plate heavy offset disc",
+      "price_aud": 7250,
+      "price_note": null,
+      "location": "Nagambie, VIC",
+      "distance_km": 290,
+      "detail": [
+        "Armstrong WCH, 24 plates",
+        "width not stated",
+        "recent service; no longer on the farm",
+        "hydraulic trailing unit; photo shows surface rust and some plate wear",
+        "listed 3 weeks ago"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1065954802504681/",
+      "verdict": "decent",
+      "why": "24-plate heavy Australian disc with a recent service at $7,250, but width and plate life are not stated and it is 290km away.",
+      "status": "live",
+      "ends": null,
+      "first_seen": "2026-09-30",
+      "updated": "2026-09-30",
+      "photo": "img/finds/fb-1065954802504681.jpg"
+    },
+    {
       "key": "fb-1096043223368086",
       "want": "offset-discs",
       "title": "Blue Line 28-plate offset disc",
@@ -553,36 +629,11 @@
       "photo": "img/finds/fb-1096043223368086.jpg"
     },
     {
-      "key": "fb-1730861284788002",
-      "want": "offset-discs",
-      "title": "Baldan CRSG-28 28-plate trailing offset discs",
-      "price_aud": 8000,
-      "location": "Myrtleford, VIC",
-      "distance_km": 370,
-      "detail": [
-        "28 plates, about 2.4 tonne",
-        "width not stated",
-        "oil bath bearings, owned since new",
-        "plates worn; seller quotes $135 ex GST per new plate, about $3,800 for a full set",
-        "RHS bar added at rear for trailing rollers"
-      ],
-      "source": "Facebook Marketplace",
-      "url": "https://www.facebook.com/marketplace/item/1730861284788002/",
-      "verdict": "decent",
-      "why": "Heavy, well-kept set with a known brand, but the plates are worn and a full set of 28 adds about $3,800 ex GST, and it is 370km away.",
-      "status": "live",
-      "first_seen": "2026-09-28",
-      "updated": "2026-09-30",
-      "price_note": null,
-      "ends": null,
-      "photo": "img/finds/fb-1730861284788002.jpg"
-    },
-    {
       "key": "lloyds-6076581",
       "want": "portable-home",
       "title": "Unused expandable 2-bedroom container house with ensuite",
       "price_aud": 6400,
-      "price_note": "current bid at 12:31 AEST, unchanged in 2.5 hours; plus 16.5% buyer premium incl GST; lot countdown points to about 14:14 AEST 30 Sep",
+      "price_note": "auction closed 14:00 AEST 30 Sep; Lloyds shows the result as Not for Publication; last seen bid $6,400 plus 16.5% premium",
       "location": "Shepparton, VIC",
       "distance_km": 240,
       "detail": [
@@ -597,8 +648,8 @@
       "source": "Lloyds Auctions",
       "url": "https://www.lloydsonline.com.au/LotDetails.aspx?smode=0&aid=74117&lid=6076581",
       "verdict": "strong",
-      "why": "Bid $6,400 (about $7,460 with premium) for a new 2-bed unit with ensuite 240km away; closes about 14:14 today.",
-      "status": "live",
+      "why": "Closed 30 Sep; Lloyds does not publish the result, last seen at $6,400.",
+      "status": "gone",
       "ends": "2026-09-30",
       "first_seen": "2026-09-28",
       "updated": "2026-09-30",
@@ -708,7 +759,7 @@
       "want": "portable-home",
       "title": "Unused expandable 2-bedroom container house with ensuite",
       "price_aud": 4000,
-      "price_note": "current bid at 12:31 AEST, up from $3,600; plus 16.5% buyer premium incl GST; lot countdown points to about 15:13 AEST 30 Sep",
+      "price_note": "auction closed about 15:13 AEST 30 Sep; Lloyds shows the result as Not for Publication; last seen bid $4,000 plus 16.5% premium",
       "location": "Dubbo, NSW",
       "distance_km": 440,
       "detail": [
@@ -723,8 +774,8 @@
       "source": "Lloyds Auctions",
       "url": "https://www.lloydsonline.com.au/LotDetails.aspx?smode=0&aid=74039&lid=6075389",
       "verdict": "decent",
-      "why": "Bid moved $3,600 to $4,000 (about $4,660 with premium); same model as Shepparton but 440km is over the cap and freight eats the gap.",
-      "status": "live",
+      "why": "Closed 30 Sep; Lloyds does not publish the result, last seen at $4,000.",
+      "status": "gone",
       "ends": "2026-09-30",
       "first_seen": "2026-09-28",
       "updated": "2026-09-30",
@@ -757,20 +808,69 @@
       "photo_url": "https://s3-ap-southeast-2.amazonaws.com/slattery-salesforce/Assets/1-1-3-000659/20260811_235825068_iOS.jpg?v=0004491485"
     },
     {
+      "key": "fb-1117657974131225",
+      "want": "portable-home",
+      "title": "Expanding container cabin, 2 bedrooms and full bathroom, base unit (new)",
+      "price_aud": 19990,
+      "price_note": "plus GST if applicable; free delivery within 30km of Cobram",
+      "location": "Cobram, VIC",
+      "distance_km": 210,
+      "detail": [
+        "expands to 5.9m x 6.2m",
+        "2 bedrooms, full bathroom plumbed",
+        "no kitchen; electrical not included, seller can arrange",
+        "in stock",
+        "same dealer as the $22,990 unit (GV Containers and Haulage)"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1117657974131225/",
+      "verdict": "decent",
+      "why": "$3,000 cheaper sibling of the Cobram unit already listed, but drops the kitchen and electrical.",
+      "status": "live",
+      "ends": null,
+      "first_seen": "2026-09-30",
+      "updated": "2026-09-30",
+      "photo": "img/finds/fb-1117657974131225.jpg"
+    },
+    {
+      "key": "fb-3176771082681190",
+      "want": "portable-home",
+      "title": "Portable living quarters on skids, 3.6m x 9m",
+      "price_aud": 20000,
+      "price_note": null,
+      "location": "Rushworth, VIC",
+      "distance_km": 260,
+      "detail": [
+        "3.6m x 9m on skids",
+        "one bedroom, toilet, shower and kitchen area",
+        "Used - Good, currently used for dry storage",
+        "listed a week ago; three-line description"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/3176771082681190/",
+      "verdict": "decent",
+      "why": "Bathroom, bedroom and kitchen area on skids, in band, but only one bedroom and very little detail.",
+      "status": "live",
+      "ends": null,
+      "first_seen": "2026-09-30",
+      "updated": "2026-09-30",
+      "photo": "img/finds/fb-3176771082681190.jpg"
+    },
+    {
       "key": "fb-1111581224659646",
       "want": "portable-home",
       "title": "Expandable container home, living, kitchen, bedroom, bathroom",
       "price_aud": 28000,
       "price_note": "fold-up for transport +$1,000; transport at buyer's cost",
-      "location": "Bendigo, VIC",
+      "location": "Junortoun (Bendigo), VIC",
       "distance_km": 330,
       "detail": [
-        "6.6m wide x 5.7m long open; container size folded",
+        "6.6m wide x 5.7m long open; folds to container size",
         "living room, kitchen with cabinets and sink",
         "double bedroom with fold-out centre wall to make two",
-        "bathroom with vanity, shower, toilet; LPG instant hot water 6 months old",
-        "electrical upgraded to Aust spec; relisted 28 Sep",
-        "checked live 30 Sep 10:00 AEST"
+        "bathroom with shower, toilet, vanity; LPG instant hot water 6 months old",
+        "electrical upgraded to Aust spec",
+        "relisted 28 Sep; transport at buyer's cost, +$1,000 to fold and disconnect"
       ],
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/1111581224659646/",
@@ -779,7 +879,8 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-09-30"
+      "updated": "2026-09-30",
+      "photo": "img/finds/fb-1111581224659646.jpg"
     },
     {
       "key": "tfm-1094254",
