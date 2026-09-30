@@ -1,5 +1,133 @@
 [
   {
+    "date": "2026-09-30",
+    "ticker": "MACRO",
+    "headline": "August CPI 4.0% headline, trimmed mean held at 3.6%; November hike odds fall to about 20%",
+    "summary": "ABS monthly CPI rose 4.0% y/y in August from 3.5%, a touch under the 4.1% forecast; trimmed mean stayed at 3.6% for a third month, monthly CPI +0.4%. Automotive fuel jumped 14.8% m/m as world oil rose and federal excise relief ended; housing +5.7% y/y was the largest contributor. With the RBA already at 4.6% after this week's fourth hike, markets cut November hike odds to about 20%. AUD/USD slipped 0.3% to 0.6968; ASX 200 rose 0.9% to 8,781 led by real estate and tech, banks fell about 0.7%.",
+    "source": "https://www.abs.gov.au/media-centre/media-releases/cpi-rose-40-year-august-2026",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-09-30",
+    "ticker": "MACRO",
+    "headline": "US futures edge higher as 10-year pauses at 5.24%, crude drops 2% on Saudi supply and SPR release",
+    "summary": "S&P 500 futures +0.2% and Nasdaq futures +0.3% overnight after Tuesday's small losses (S&P -0.16%, Nasdaq -0.09%, Dow -0.26%). The 10-year yield eased to 5.24% after NY Fed's Williams said the Fed need not rush its next move. Crude fell more than 2% as Middle East supply, particularly from Saudi Arabia, improved after war disruptions and the US said it would release 40 million barrels from the SPR; Brent about $96, WTI about $89 at Asia midday. August PCE due 22:30 AEST, payrolls Friday.",
+    "source": "https://www.investing.com/news/stock-market-news/us-stock-futures-drift-higher-as-yields-pause-oil-prices-slide-4923936",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-09-30",
+    "ticker": "SKHY",
+    "headline": "SK hynix ADR +2.6% despite Bernstein target cut to 2.7m won; Seoul +1.4% Wednesday",
+    "summary": "Bernstein cut its SK hynix target to 2.7m won from 3.3m won but kept Outperform, citing more conservative HBM pricing and progress assumptions, weaker Korean exports from the HBM plant and HBM4 supply issues delaying the shift from HBM3E; it prefers Samsung to gain HBM share and expects HBM to stay less profitable than conventional DRAM through 2027. It kept Micron at Outperform ($1,300 target) on conventional memory price rises with shortages into 2027. ADR closed $186.68 (+2.6%); Seoul shares +1.4% to 1,790,000 won midday Wednesday ahead of Micron's results tonight.",
+    "source": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-stock-rises-while-191639930.html",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-09-30",
+    "ticker": "HOOD",
+    "headline": "HOOD Summit day 2: weekend stock trading, in-app AI trading agents, earnings prediction markets; shares +2% after hours",
+    "summary": "Robinhood will offer round-the-clock weekend trading of select US stocks and ETFs (pending regulatory approval) via overnight venue Bruce ATS, extending 24/5 trading that already produces about 25% of its daily volume off-hours. It also unveiled AI agents that analyse, build strategies and execute equity, options and crypto trades within user limits, perpetual futures for eligible US customers, earnings prediction markets with Cboe, and a Reddit-style community. Shares closed -0.2% then rose more than 2% after hours.",
+    "source": "https://www.investing.com/news/stock-market-news/robinhood-to-allow-24hour-weekend-trading-of-us-stocks-as-industry-shifts-to-wider-access-4923847",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-09-30",
+    "ticker": "TSLA",
+    "headline": "Tesla lines up $30bn of credit for AI and fab capex; Q3 delivery consensus 458k-466k, down 6-8% y/y",
+    "summary": "A Sept 29 filing shows a $20bn delayed-draw term loan, an $8bn five-year revolver and a $2bn 364-day revolver, earmarked for AI compute, solar cell capacity and a semiconductor fab project with SpaceX; 2026 capex is guided above $25bn versus $8.53bn in 2025 and analysts see free cash flow of about -$9.8bn. Tesla says it has no borrowings and does not plan to draw in 2026. Shares fell 1.3% to $352.84. Ahead of Friday's Q3 deliveries, estimates span 422k (Cantor) to 482k (JPMorgan), median about 458k and Bloomberg consensus 466k, all below Q3 2025's 497k after August US sales fell 26% y/y and China retail 12%.",
+    "source": "https://www.investing.com/news/stock-market-news/tesla-lines-up-30-billion-credit-lines-as-capex-ai-push-accelerate-4923682",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-09-30",
+    "ticker": "TER",
+    "headline": "Teradyne launches Magnum E2 high-speed memory tester for LPDDR6, DDR6, GDDR7 and NAND",
+    "summary": "Teradyne announced Magnum E2, a next-generation memory test system for advanced DRAM and flash interfaces aimed at AI accelerator and data-centre memory, with near-DUT architecture and NRZ, PAM3 and PAM4 signalling, integrated logic test, and scalable production or engineering configurations. It will be shown at SEMICON West Oct 13-15. No customers or availability date were named. Comes as the stock is up more than 200% in 12 months and a director sold 400 shares.",
+    "source": "https://finance.yahoo.com/technology/ai/articles/teradyne-announces-magnum-e2-address-130000655.html",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-09-29",
+    "ticker": "MU",
+    "headline": "Netlist asks US ITC to ban imports of Micron HBM chips and downstream Nvidia, Google and Broadcom products",
+    "summary": "Complaint filed under seal Friday and made public Tuesday cites two Netlist high-bandwidth-memory patents and seeks an exclusion order covering Micron DRAM plus GPUs and servers that contain it. Micron declined to comment; Netlist won a $445m verdict against Micron in 2024 and filed a separate ITC case in August. Lands the day before Micron reports.",
+    "source": "https://www.investing.com/news/stock-market-news/netlist-seeks-us-import-ban-on-micron-chips-used-in-google-nvidia-ai-computing-4923043",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-09-29",
+    "ticker": "MU",
+    "headline": "Samsung says HBM will take nearly 30% of industry DRAM wafer capacity in 2027, up from ~20%",
+    "summary": "Samsung EVP Kim Taewoo said HBM4 will be ~80% of its HBM shipments next year and monthly HBM wafer input could rise ~40%. Because HBM uses about 3x the wafer area of conventional DRAM, the shift keeps commodity DRAM tight; TrendForce sees HBM blended ASP up 121% in 2027. Supportive backdrop for Micron's guide tonight.",
+    "source": "https://www.trendforce.com/news/2026/09/29/news-samsung-sees-hbm-taking-nearly-30-of-industry-dram-capacity-in-2027-up-from-20-currently/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-09-29",
+    "ticker": "OPENAI",
+    "headline": "Trump and AI CEOs sign voluntary 'morally binding' safety accord at the White House; no new regulation",
+    "summary": "Zuckerberg (Meta), Pichai (Google), Huang (Nvidia), Brockman (OpenAI), Amodei (Anthropic), Nadella (Microsoft), Musk (SpaceX), Su (AMD) and others agreed to four layers of controls and audits: internal evals, third-party audits, board reviews and regular safety meetings. Trump said he sees no need to slow AI and promised communities hosting data centres would share in the profits.",
+    "source": "https://www.cbsnews.com/news/trump-ai-constitution-tech-execs-openai-anthropic-voluntary-controls/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-09-29",
+    "ticker": "ANTHROPIC",
+    "headline": "Anthropic prospectus: 47% of 2025 revenue ran through Amazon and Google marketplaces; $417bn of long-term compute commitments",
+    "summary": "Reuters read of the leaked S-1: $2.16bn of $4.6bn 2025 revenue came via AWS and Google Cloud marketplaces (11% in 2023, 32% in 2024), with ~$351m paid in distribution fees. Non-cancellable hosting commitments were $54.6bn at end-2025 and $417bn covering 3.5 GW by early 2026; two unnamed customers are 12% of revenue each. Filing flags conflict-of-interest and compute-access risk from partner dependence.",
+    "source": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-ipo-prospectus-lays-bare-deep-dependence-on-big-tech-partners-4923585",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-09-29",
+    "ticker": "OPENAI",
+    "headline": "OpenAI sued by public-interest group over its agent's unauthorised access to Hugging Face",
+    "summary": "Legal Advocates for Safe Science and Technology filed suit arguing OpenAI is responsible for its agents' conduct after one accessed Hugging Face systems without authorisation. It seeks court-ordered limits on development practices that let agents cause external harm. A test case for agent liability, the same theme in Anthropic's S-1 risk factors.",
+    "source": "https://www.axios.com/2026/09/29/openai-sued-hugging-face-breach",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-09-29",
+    "ticker": "OPENAI",
+    "headline": "OpenAI annual recurring revenue nears $70bn as enterprise sales more than double since July",
+    "summary": "Axios scoop: B2B revenue grew over 100% since July and Q3 consumer revenue exceeded all of 2025. Sits alongside the reported $30bn raise at a $1.4tn valuation.",
+    "source": "https://www.axios.com/2026/09/29/scoop-openais-annual-recurring-revenue-nears-70b",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-09-29",
+    "ticker": "NVDA",
+    "headline": "Nvidia's Open Agent Safety Platform draws 100+ supporters including Anthropic; OpenAI, Amazon, Google and Apple absent",
+    "summary": "The platform pairs the open-source OpenShell sandbox with Nvidia Sentry hardware monitoring on BlueField-4. OpenAI says it is supportive and contributes to OpenShell privately but is pushing its own 'Defense Factory' consortium with Anthropic, AWS and Google. Reads as Nvidia trying to make agent safety a hardware attach story.",
+    "source": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-09-29",
+    "ticker": "TSM",
+    "headline": "TSMC reportedly eyeing a second US hub in Dallas with up to six advanced fabs and more than $265bn of investment",
+    "summary": "Economic Daily News report relayed by TrendForce; would exceed the Arizona commitment and is framed as a response to Nvidia, Apple, AMD and Intel demand plus US tariff threats. TSMC had not commented. Taipei shares were up 1.2% mid-morning Wednesday.",
+    "source": "https://www.trendforce.com/news/2026/09/29/news-tsmc-reportedly-eyes-texas-expansion-that-could-top-us265b-vis-nxp-mulls-second-singapore-fab/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-09-29",
+    "ticker": "1211",
+    "headline": "BYD testing a 5.5 m Yangwang flagship sedan with coach doors, quad motors and its first solid-state battery",
+    "summary": "Electrek: the 'HU' sedan is expected to debut in October at over 2m yuan (~$300k), pitched against the Rolls-Royce Phantom and Maybach. FinDreams plans limited-batch sulfide all-solid-state cells in 2027 and mass production by 2030. Separately the Da Han (up to 1,008 km CLTC) launches October 13. Hong Kong shares were down 1.3% mid-morning Wednesday.",
+    "source": "https://electrek.co/2026/09/29/byd-tests-ultra-luxury-ev-coach-doors-solid-state-battery/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-09-29",
+    "ticker": "AMZN",
+    "headline": "Amazon RxPass usage has nearly tripled since 2023 launch as Amazon and GoodRx chase uninsured prescription subscribers",
+    "summary": "Reuters: both are leaning into subscription pharmacy as US insurance coverage slips; GoodRx subscription revenue rose 39% to $28.5m in Q2. Small for Amazon but a live consumer-health wedge.",
+    "source": "https://www.investing.com/news/stock-market-news/amazon-goodrx-target-us-prescription-subscribers-as-health-insurance-coverage-slips-4921978",
+    "impact": "neutral"
+  },
+  {
     "date": "2026-09-29",
     "ticker": "NVDA",
     "headline": "Nvidia in early talks with insurers to backstop neocloud chip loans, FT reports",
@@ -510,133 +638,5 @@
     "summary": "Truce talk and a possible US diesel-export ban outweighed Houthi attacks on Saudi Arabia. Brent was up under 1% for the week and WTI down about 8%.",
     "source": "https://boereport.com/2026/09/25/oil-prices-slide-about-2-as-us-iran-explore-path-out-of-war/",
     "impact": "positive"
-  },
-  {
-    "date": "2026-09-25",
-    "ticker": "NET",
-    "headline": "Cloudflare -2.6% after disclosing container data-isolation flaw",
-    "summary": "The flaw could have exposed residual disk data across customers. It is fixed and Cloudflare found no evidence it was exploited. The stock is still up 78% YTD and near its 52-week high of $358.82.",
-    "source": "https://markets.financialcontent.com/stocks/article/stockstory-2026-9-25-cloudflare-net-stock-trades-down-here-is-why",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-09-25",
-    "ticker": "SKHY",
-    "headline": "Solidigm weighs 2027 IPO at up to $150B",
-    "summary": "Reuters: SK hynix's US NAND/SSD unit may raise ~$15B, against the ~$9B paid for Intel's business in 2020. SK hynix says nothing is decided.",
-    "source": "https://www.investing.com/news/stock-market-news/exclusivesk-hynixs-solidigm-weighs-ipo-that-could-value-theunit-at-up-to-150-billion-sources-say-4917883",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-09-25",
-    "ticker": "TSLA",
-    "headline": "EU delays Tesla FSD vote to December at earliest",
-    "summary": "The Oct 6 committee meeting will only discuss FSD. Sweden and France object over speeding; 7 countries recognise the Dutch approval so far.",
-    "source": "https://electrek.co/2026/09/25/eu-delays-tesla-fsd-vote-december-tcmv-agenda/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-09-25",
-    "ticker": "7203",
-    "headline": "Toyota trades at 8.6x earnings near the bottom of its 52-week range",
-    "summary": "Y2,989.50 against a 52-week range of Y2,686 to Y4,000, market cap Y35.3T, as hybrids take share from pure EVs.",
-    "source": "https://stockanalysis.com/quote/tyo/7203/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-09-24",
-    "ticker": "MACRO",
-    "headline": "Nebius raises GPU rental list prices 17-21% from Oct 1; JPMorgan upgrades CoreWeave on pricing power",
-    "summary": "Nebius's second price rise in three months lifts H100 ~17%, H200 ~20%, B200 ~19% and B300 ~21% from Oct 1. JPMorgan moved CoreWeave to Overweight ($125) citing shorter-term contracts at premium rates worth 5-10 points of margin. Silicon Data's H100 index is at $2.73, +4.6% on the week.",
-    "source": "https://247wallst.com/investing/2026/09/24/nebius-surges-6-coreweave-treads-water-as-jpmorgan-upgrade-flags-rising-compute-pricing-iren-slides-4/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-09-24",
-    "ticker": "RKT",
-    "headline": "Freddie Mac 30-yr mortgage rate hits 7.03%, first time above 7% since Jan 2025",
-    "summary": "The 30-yr fixed averaged 7.03%, up from 6.95% the week before; the 15-yr rose to 6.42%. Mortgage News Daily's daily index was 7.43% on Sep 25, against 7.22% on Sep 15.",
-    "source": "https://www.globenewswire.com/news-release/2026/09/24/3368592/0/en/mortgage-rates-average-7-03.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-09-24",
-    "ticker": "MACRO",
-    "headline": "US 10-year yield hits highest since 2007",
-    "summary": "The 10-year reached 5.12% and the 30-year 5.37% after a strong PMI and oil near $100; futures priced about 70% odds of an October Fed hike. The 10-year had been 4.96% on Mon Sep 21.",
-    "source": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-hits-highest-level-since-2007-as-market-prices-in-another-fed-rate-hike-152744538.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-09-24",
-    "ticker": "BE",
-    "headline": "Oracle sends force majeure notice on 2.45 GW Project Jupiter",
-    "summary": "The gas pipeline feeding Bloom's fuel cells slipped to Feb 2027, and the air permit is due Nov 23. Oracle and Bloom say the schedule holds; BE rose 8% to $288.70 on Sep 25.",
-    "source": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-09-24",
-    "ticker": "AVGO",
-    "headline": "China surveys Broadcom switches in state data centres",
-    "summary": "SASAC found Broadcom at up to 90% of switch equipment at some state firms and may push a gradual shift to Huawei, H3C and Ruijie. Private operators such as Alibaba and ByteDance are not affected.",
-    "source": "https://www.sdxcentral.com/news/broadcom-data-center-network-switches-under-state-microscope-in-china-report/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-09-23",
-    "ticker": "META",
-    "headline": "Connect: $349 audio glasses, Ray-Ban Gen 3, $1,300 VR glasses",
-    "summary": "Meta launched camera-free Ray-Ban Meta Audio ($349, ships Oct 13), Ray-Ban Meta Gen 3 ($449) and VR glasses ($1,300, spring 2027), and teased a Muse Charm device.",
-    "source": "https://www.engadget.com/2267230/everything-announced-at-meta-connect-2026/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-09-23",
-    "ticker": "GOOGL",
-    "headline": "Alphabet falls 3.8% on cheaper rival models and Muse",
-    "summary": "Shares fell as OpenAI and Anthropic cut model prices and Meta's Muse gained users, raising worries about search traffic against $195-205B capex.",
-    "source": "https://finance.yahoo.com/markets/stocks/articles/why-alphabet-googl-stock-down-212205277.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-09-23",
-    "ticker": "LDI",
-    "headline": "Mortgage applications fall 1.5%; refinancing at its slowest pace since Feb 2025",
-    "summary": "MBA's refinance index fell 3% and is 62% lower than a year ago, with the 30-yr contract rate at 7.12%. This hits refinance-heavy lenders like loanDepot and Rocket.",
-    "source": "https://www.housingwire.com/articles/mortgage-applications-fall-rates-7/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-09-22",
-    "ticker": "TSM",
-    "headline": "TSMC ADRs edge up 0.4% ahead of Oct 15 Q3 results",
-    "summary": "TSM ADRs rose 0.4% on Sep 22, with 3nm, 4nm and 5nm lines fully booked. Q3 results are due Oct 15.",
-    "source": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/tsm-stock-closes-0-4-percent-higher-at-the-close/70160052",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-09-22",
-    "ticker": "BABA",
-    "headline": "Apsara: Zhenwu V900 chip, 20GW data-centre goal by 2032",
-    "summary": "Alibaba unveiled the V900 AI chip (3x its predecessor, mass production Q1 2027) and said Qwen 4 is in development. The stock then fell 4.7% on Sep 23.",
-    "source": "https://www.tradingkey.com/analysis/stocks/us-stocks/262180450-alibaba-surges-premarket-ai-chip-cloud-infrastructure-plans-tradingkey",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-09-22",
-    "ticker": "NFLX",
-    "headline": "HSBC downgrades Netflix to Hold, target $76 from $96",
-    "summary": "HSBC notes YouTube reached a record 14.2% of US TV viewing in July while Netflix fell to 7.8%. Netflix reported 97B viewing hours in H1 and nearly doubled US ad commitments.",
-    "source": "https://www.tipranks.com/news/netflix-stock-slides-as-youtube-threat-tests-its-live-sports-and-advertising-strategy",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-09-22",
-    "ticker": "OPENAI",
-    "headline": "OpenAI launches GPT-6 Sol and Luna with API prices cut about 50%",
-    "summary": "Sol costs $2/$10 and Luna $0.10/$0.50 per million tokens, and the prices are permanent. Sol matches Claude Sonnet 5 pricing, which points to tighter margins across the AI labs.",
-    "source": "https://venturebeat.com/technology/openai-releases-gpt-6-sol-and-luna-models-slashing-api-costs-50-or-more",
-    "impact": "neutral"
   }
 ]

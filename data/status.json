@@ -1,112 +1,112 @@
 {
-  "as_of": "2026-09-29T23:55",
-  "market_summary": "US stocks fell for a second day Tuesday but the selling slowed: S&P 500 -0.2% to 7,671, Nasdaq -0.1% to 26,798, after Monday's -0.8% and -0.9%. Semis bounced, with the SOX +1.3% Tuesday after -1.6% Monday. The 10-year Treasury closed near 5.26%, the highest since 2007, and CME FedWatch puts a 25bp hike at the Oct 27-28 FOMC at about 77%; consumer confidence fell to 81.9, the lowest since 2014, and JOLTS openings fell to 7.08m. Oil dropped as Middle East exports recovered: Brent -2.6% to $102.59, WTI -3.5% to $89.38, though Trump rejected Iran's seven-day Hormuz plan. The RBA hiked 25bp to 4.60%, unanimous, its fourth hike of 2026, and kept a tightening bias; AUD/USD slipped to about 0.699 and the ASX 200 rose 0.3% to 8,709. Asia Tuesday: Nikkei -0.6%, Hang Seng -0.5%, Shanghai +0.2%. Next 48h (AEST): US August PCE Wed 22:30 (core seen 3.2%), Micron FQ4 after the US close (Thu ~06:30, consensus $50.8B revenue), ISM manufacturing Fri 00:00, September payrolls Fri 22:30; mainland China is shut Oct 1-7 for Golden Week, Hong Kong Oct 1.",
+  "as_of": "2026-09-30T02:35",
+  "market_summary": "ABS August CPI (11:30 AEST): headline 4.0% y/y (July 3.5%, forecast 4.1%), trimmed mean unchanged at 3.6% for a third month, monthly +0.4%; fuel +14.8% m/m as excise relief unwound. Market read it as no push for another hike: November RBA hike odds fell to about 20%, AUD/USD slipped 0.3% to 0.6968, ASX 200 up 0.9% at 8,781 with banks down 0.7%. Asia midday: Nikkei 66,273 (+1.2%), Kospi 6,889 (+0.3%), Hang Seng 24,473 (-0.2%), Shanghai 3,840 (+0.3%); S&P futures 7,746 (+0.2%), Nasdaq futures 30,620 (flat); 10-year 5.24-5.26% after NY Fed's Williams said no rush; Brent $96.13, WTI $89.38 after crude fell 2% Tuesday on improving Saudi supply and a 40m-barrel US SPR release; USD/JPY 156.46 (-0.5%). Next: US core PCE for August 22:30 AEST tonight (consensus +0.2% m/m), Micron FQ4 after the US close (Thu 06:30 AEST, consensus revenue $51.5bn, EPS $31.83), ISM manufacturing Fri 00:00 AEST, US payrolls Fri 22:30 AEST, Tesla Q3 deliveries Fri, and mainland China markets closed from Oct 1 for Golden Week.",
   "takes": {
     "AMZN": {
       "take": "hold",
       "reason": "Up 0.2% Tuesday after a 1.4% drop Monday. AWS Bedrock added OpenAI's GPT-6 Sol/Luna and Claude Opus 5.5, but the market is still weighing ~$200B of 2026 capex; Prime Big Deal Days run Oct 6-7 and Q3 results land Oct 29.",
       "price_usd": 246.67,
-      "updated": "2026-09-29"
+      "updated": "2026-09-30"
     },
     "AXOS": {
       "take": "hold",
       "reason": "Down 1.6% Tuesday with banks as the 10-year hit 5.26%. No company news beyond setting Q1 FY27 results for Oct 29; the first $1.9B Capital One IRA deposit tranche closed Sep 21, the $3.2B second tranche is still pending.",
       "price_usd": 86.29,
-      "updated": "2026-09-29"
+      "updated": "2026-09-30"
     },
     "BABA": {
       "take": "watch",
       "reason": "Down 0.9% Tuesday and about 2.7% over three sessions; the CFO and general counsel both sold stock on Sep 29, and a securities class action deadline lands Oct 5. Qwen adoption is real but capex is pushing free cash flow negative, so wait for a cleaner setup.",
       "price_usd": 107.74,
-      "updated": "2026-09-29"
+      "updated": "2026-09-30"
     },
     "ENPH": {
       "take": "watch",
       "reason": "Up 3.0% Tuesday after a 4.6% drop Monday, still down about 17% over 30 days and 37% over 90 days. Citi trimmed its target and kept Neutral, citing a challenging market; borrowing costs at multi-year highs weigh on residential solar, so watch until Q3 results Oct 27.",
       "price_usd": 31.83,
-      "updated": "2026-09-29"
+      "updated": "2026-09-30"
     },
     "FIGR": {
       "take": "hold",
       "reason": "Flat Tuesday (-0.1%) after an 8.1% drop Monday and roughly 14% over four sessions, with no company news; the move tracks rate-sensitive lenders as 30-year mortgages hit 7.58%. Fundamentals (Q2 beat, Kiavi closed Sep 1) are unchanged, so hold rather than chase or cut.",
       "price_usd": 29.3,
-      "updated": "2026-09-29"
+      "updated": "2026-09-30"
     },
     "GOOGL": {
       "take": "add",
       "reason": "Slipped 0.5% Tuesday (about 0.9% over the two sessions) after Google appealed two EU orders to open Android and share search data with AI rivals; regulatory noise, not a demand problem. Citi's Marvell note flags a $10B-plus custom-silicon program with Google for fiscal 2029, and Gemini 4 is in post-training, so the AI stack keeps compounding.",
       "price_usd": 340.92,
-      "updated": "2026-09-29"
+      "updated": "2026-09-30"
     },
     "LDI": {
       "take": "trim",
       "reason": "Down 0.6% Tuesday after a 9.0% drop Monday, about 27% down on the month and sitting near its all-time low. With 30-year mortgages at 7.58% and the NYSE sub-$1 compliance clock running since Aug 21, refinance volume relief is nowhere in sight; keep trimming.",
       "price_usd": 0.61,
-      "updated": "2026-09-29"
+      "updated": "2026-09-30"
     },
     "META": {
       "take": "hold",
       "reason": "Rebounded 3.3% Tuesday after Monday's 4.8% profit-taking drop, on Monness Crespi lifting its target to $830 for the Muse agent and the new Meta Enterprise Platform under ex-MongoDB CEO CJ Desai. Still up roughly 30% in September; let it settle before adding.",
       "price_usd": 738.97,
-      "updated": "2026-09-29"
+      "updated": "2026-09-30"
     },
     "MRVL": {
       "take": "hold",
       "reason": "Up 4.5% Tuesday (reversing Monday's 3.8% drop) after Citi reiterated Buy with a $275 target and modelled ~$12B fiscal 2027 and ~$18B fiscal 2028 revenue on the Google custom-chip deal; investor day is Oct 6. Up about 210% this year, so no chasing.",
       "price_usd": 263.27,
-      "updated": "2026-09-29"
+      "updated": "2026-09-30"
     },
     "MU": {
       "take": "hold",
-      "reason": "Rose 1.1% Tuesday ahead of Wednesday's fiscal Q4 print; consensus is about $51.2B revenue and $31.6 adjusted EPS against guidance of $50B plus or minus $1B and an ~86% gross margin. The fiscal 2027 outlook, HBM4 ramp and any post-December buyback will move the stock more than the beat itself.",
+      "reason": "Rose 1.1% Tuesday ahead of Wednesday's fiscal Q4 print; consensus is about $51.2B revenue and $31.6 adjusted EPS against guidance of $50B plus or minus $1B and an ~86% gross margin. The fiscal 2027 outlook, HBM4 ramp and any post-December buyback will move the stock more than the beat itself. New overnight: Netlist asked the ITC to ban imports of Micron HBM and the Nvidia, Google and Broadcom products using it; a legal overhang, not a demand one.",
       "price_usd": 1065.08,
-      "updated": "2026-09-29"
+      "updated": "2026-09-30"
     },
     "NFLX": {
       "take": "hold",
       "reason": "Up 1.6% Tuesday after Deutsche Bank upgraded to Buy with a $95 target, but the stock is still down about 13% in September and 26% year to date after HSBC and Wells Fargo downgrades on engagement. Q3 results Oct 20 are the next test; hold.",
       "price_usd": 70.32,
-      "updated": "2026-09-29"
+      "updated": "2026-09-30"
     },
     "NVDA": {
       "take": "hold",
       "reason": "Gave back 0.7% Tuesday after Monday's 1.7% pop on the $150B buyback add; the FT says Nvidia is now courting insurers to underwrite neocloud chip loans, which broadens demand but also shows how much of the build-out is financed. Nothing to change at 20-25% up on the year.",
       "price_usd": 227.3,
-      "updated": "2026-09-29"
+      "updated": "2026-09-30"
     },
     "RKT": {
       "take": "watch",
       "reason": "Up 0.4% Tuesday after a 4.4% drop Monday to a 52-week low, with JPMorgan and Wells Fargo cutting targets. Mortgage rates at 7.58% (highest since Nov 2023) and the 10-year at 5.26% (highest since 2007) keep origination volume capped; stay on watch.",
       "price_usd": 11.69,
-      "updated": "2026-09-29"
+      "updated": "2026-09-30"
     },
     "TSM": {
       "take": "add",
-      "reason": "Up 0.9% Tuesday and 1.4% over the two sessions on reports 2nm output will reach ~120,000 wafers a month by year-end, above the earlier 90,000-100,000 plan, after Apple, Nvidia, AMD and Qualcomm lifted orders 10-20%. The whole AI chain, including Wednesday's Micron print, still routes through TSMC.",
+      "reason": "Up 0.9% Tuesday and 1.4% over the two sessions on reports 2nm output will reach ~120,000 wafers a month by year-end, above the earlier 90,000-100,000 plan, after Apple, Nvidia, AMD and Qualcomm lifted orders 10-20%. The whole AI chain, including Wednesday's Micron print, still routes through TSMC. Taipei shares rose 1.2% Wednesday morning on a report of a six-fab Texas hub above $265B.",
       "price_usd": 456.94,
-      "updated": "2026-09-29"
+      "updated": "2026-09-30"
     },
     "STRIPE": {
       "take": "hold",
       "reason": "No new tender, round or secondary since the Feb 2026 $159B tender; newsroom has nothing since the Sep 8 Meta Muse/Link item. OpenAI's DevDay push on plugin extensions and Sign in with ChatGPT builds on Stripe-powered Instant Checkout, a mild positive for agentic-commerce volume. Mark stays at 2.27x.",
       "price_usd": null,
-      "updated": "2026-09-29",
+      "updated": "2026-09-30",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
       "reason": "Bloomberg/TechCrunch (Sep 29) report early talks to raise $30B+ at a $1.4T valuation, which would be ~8.9x the Nov 2024 $157B basis, but nothing is closed so the mark stays at 5.43x (March $852B round). Same day OpenAI shelved GPT-6.1 Astra on safety, kept its frontier training pause, shipped GPT-6.1 Sol, Dots and a $500 Pro tier at DevDay, and Altman skipped Australia's Oct 1 Senate hearing.",
       "price_usd": null,
-      "updated": "2026-09-29",
+      "updated": "2026-09-30",
       "mark_multiple": 5.43
     }
   },
   "headlines": [
-    "RBA hiked to 4.60% with a tightening bias; US 10-year at 5.26%, highest since 2007; Fed October hike priced at 77%.",
-    "OpenAI shelved GPT-6.1 Astra on safety but shipped Sol, Dots agents and a $500 Pro tier; $30B raise talks at $1.4T.",
-    "Micron reports Thu 6:30am AEST: Street wants $51.2B revenue and a buyback. US PCE tonight 10:30pm AEST.",
-    "Mortgage rates hit 7.58%, highest since Nov 2023: loanDepot and Rocket at lows, Figure down 14% in four sessions.",
-    "Meta rebounded 3.3% and Marvell 4.5% Tuesday; Anthropic's leaked S-1 shows $4.6B 2025 revenue, $8.1B operating loss.",
-    "Watchlist: Vertiv replaces Toyota; Bloom up 10.8% on a Fremont expansion; Tesla Roadster demo slips to Oct 15."
+    "Australian August CPI 4.0% headline, trimmed mean stuck at 3.6%; November RBA hike odds fall to about 20%, ASX up 0.9%.",
+    "Netlist asks the US ITC to block Micron HBM imports on the eve of Micron's report; Nvidia, Google and Broadcom products named.",
+    "Tonight AEST: US PCE 10:30pm, Micron results Thu 6:30am. Asia firmer at midday, US 10-year eased to 5.24%.",
+    "Trump and AI CEOs from Meta, Google, Nvidia, OpenAI and Anthropic signed a voluntary safety accord; no new regulation coming.",
+    "TSMC reportedly weighing a six-fab Texas hub above $265B; Taipei shares up 1.2% Wednesday morning.",
+    "OpenAI ARR nearing $70B per Axios; Anthropic's S-1 shows 47% of 2025 revenue came via Amazon and Google marketplaces."
   ]
 }

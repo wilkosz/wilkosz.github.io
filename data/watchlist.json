@@ -36,13 +36,13 @@
     "sector": "AI",
     "status": "buy",
     "conviction": "high",
-    "thesis": "Holds ~58% of HBM revenue share; Q2 operating income KRW 60.5T at a 76% margin, and the stock trades near 9x earnings. The ADR fell as much as 6% Monday after Bloomberg reported Solidigm is weighing a US IPO as soon as 2027 at up to $100B, then bounced 2.6% Tuesday to $186.68, -2.5% since Sep 28. The strike risk is gone (union deal approved Sep 16).",
+    "thesis": "Holds ~58% of HBM revenue share; Q2 operating income KRW 60.5T at a 76% margin, and the stock trades near 9x earnings. The ADR fell as much as 6% Monday after Bloomberg reported Solidigm is weighing a US IPO as soon as 2027 at up to $100B, then bounced 2.6% Tuesday to $186.68, -2.5% since Sep 28. The strike risk is gone (union deal approved Sep 16). Seoul +1.4% at 11:11 KST (prev close 1,765,000). ADR closed $186.68 (+2.6%) Tuesday, $185.82 in the overnight session. Bernstein cut its target to 2.7m won from 3.3m (Outperform kept) on slower HBM4 pricing and prefers Samsung; Micron reports Thu 06:30 AEST.",
     "risks": "A separate Solidigm listing adds an ownership layer investors already discount; the Korea Corporate Governance Forum urged SK hynix to drop it. Memory is the most volatile part of any AI selloff, and CXMT is closing the gap.",
     "price_usd": 186.68,
     "catalyst": "Q3 2026 earnings ~2026-10-27 (est.); Micron results Wed Sep 30 set the tone; Solidigm IPO bank selection",
     "source": "https://247wallst.com/investing/2026/09/28/sk-hynix-drops-6-as-bloomberg-puts-100b-value-on-potential-solidigm-ipo-micron-and-western-digital-fall-4/",
     "added": "2026-08-24",
-    "updated": "2026-09-29"
+    "updated": "2026-09-30"
   },
   {
     "ticker": "BE",
@@ -156,13 +156,13 @@
     "sector": "Machinery",
     "status": "accumulate",
     "conviction": "medium",
-    "thesis": "Exports drive growth: August overseas sales +134.5% YoY and European sales more than doubled, with local truck production in Europe planned. Fell 2.5% Tuesday to HK$75.75, -3% since Sep 28 and a fresh 52-week low, with no company news beyond the EGM; consensus HK$125.70 (+66%).",
+    "thesis": "Exports drive growth: August overseas sales +134.5% YoY and European sales more than doubled, with local truck production in Europe planned. Fell 2.5% Tuesday to HK$75.75, -3% since Sep 28 and a fresh 52-week low, with no company news beyond the EGM; consensus HK$125.70 (+66%). Hong Kong -1.1% at 10:16 HKT vs 75.75 close, worse than the Hang Seng's -0.2%. September sales due Oct 1; Da Han sedan launches Oct 13 with a 1,008 km CLTC EV variant. USD at 7.8453 HKD (Yahoo, 30 Sep).",
     "risks": "August China sales -14.3% as Geely, Xpeng and Leapmotor take share; the price war squeezes margins and EU tariffs hang over exports. The tape is telling you nobody wants it ahead of the September number.",
-    "price_usd": 9.66,
+    "price_usd": 9.55,
     "catalyst": "September sales 2026-10-01; Q3 2026 results 2026-10-29",
     "source": "https://stockanalysis.com/quote/hkg/1211/",
     "added": "2026-09-27",
-    "updated": "2026-09-29"
+    "updated": "2026-09-30"
   },
   {
     "ticker": "6861",
@@ -171,13 +171,13 @@
     "sector": "Machinery",
     "status": "buy",
     "conviction": "high",
-    "thesis": "Machine vision and sensors for factory automation and robotics; fiscal Q1 sales +33%, net income +51%, operating margin above 50%. JPY 79,480 (+1.3% Tuesday, flat since Sep 28, +4% since Sep 15) at USD/JPY 157.4; Citi JPY 95,000, consensus JPY 97,867 (+23%).",
+    "thesis": "Machine vision and sensors for factory automation and robotics; fiscal Q1 sales +33%, net income +51%, operating margin above 50%. JPY 79,480 (+1.3% Tuesday, flat since Sep 28, +4% since Sep 15) at USD/JPY 157.4; Citi JPY 95,000, consensus JPY 97,867 (+23%). Tokyo +0.5% at 11:15 JST vs 79,480 close, in line with a 1.2% Nikkei rally. USD at 156.46 JPY (Yahoo, 30 Sep). No company news.",
     "risks": "The premium multiple assumes 30%+ growth. A stronger yen or slower China capex would hit both earnings and the multiple; Toyota's August numbers show Chinese and US auto demand softening.",
-    "price_usd": 504.86,
+    "price_usd": 510.67,
     "catalyst": "Fiscal Q2 results 2026-10-28",
     "source": "https://stockanalysis.com/quote/tyo/6861/",
     "added": "2026-08-24",
-    "updated": "2026-09-29"
+    "updated": "2026-09-30"
   },
   {
     "ticker": "ASML",
