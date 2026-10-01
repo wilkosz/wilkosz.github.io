@@ -1,12 +1,12 @@
 {
-  "as_of": "2026-10-01T02:50",
-  "summary": "Noon pass, 1 Oct. A quiet twelve hours: all 40 live finds re-opened and every price is unchanged. Two listings come back onto the list, the Stihl MS 460 at Melton now the Husqvarna 390 XP is pending, and a Jarrett single-tyne pipe layer at Bywong for $600, which replaces the spec-less Grizzly page. Nothing new in range for the tractor, offsets, winch or Mac mini. The two Lloyds Austral container houses (590km) are at $7,900 and $6,300, closing 7 Oct.",
+  "as_of": "2026-10-01T14:50",
+  "summary": "Overnight pass, 2 Oct. One find worth a call: a 7.4m x 3.4m cabin on skids at Mathoura with bathroom, kitchen, bedroom and bunk room for $9,000, 190km away and listed four hours before the sweep. The MS 460 at Melton sold a day after it came back; a one-owner Husqvarna 592 XP at $1,600 in Bendigo fills the slot. Everything else is unchanged: 38 finds re-opened, no price moves, nothing new in range for the tractor, offsets, ripper, winch or Mac mini.",
   "headlines": [
-    "Quiet day: all 40 live finds re-checked, no price moves, nothing new worth a phone call.",
-    "Ripper: Jarrett single-tyne pipe layer with shear-bolt, $600, Bywong NSW, 340km; thin listing, ring first.",
-    "Chainsaw: Stihl MS 460 with 20in bar back on the list at $800, Melton, 40km; the $800 Husqvarna 390 XP is still pending.",
-    "Lloyds Austral NSW expandables (2 rooms, kitchen, bathroom) now bid $7,900 and $6,300, close 7 Oct; 590km.",
-    "Tractor: Deutz-Fahr Agrofarm 420, 232 hours, loader, $61,500 Forbes still the one to call; Pickles Kubota M108S sale opens 12 Oct."
+    "Portable home: cabin on skids, bathroom, kitchen, bedroom and bunk room, $9,000, Mathoura, 190km, listed tonight. Ring in the morning.",
+    "Chainsaw: MS 460 Melton sold. New: one-owner Husqvarna 592 XP, fresh chain, 24in bar, $1,600, Bendigo, 150km.",
+    "Tractor: 1997 JD 6210 with cab and Burder loader, $35,000, Jindera, 250km, but about 7,000 hours; nothing new in band.",
+    "Seen, held back: used Hayes pipe ripper $750 Echuca (model not stated); new-in-box Warn Zeon 10-S $1,500 Melbourne.",
+    "Lloyds Austral NSW expandables still $7,900 and $6,300, close 7 Oct; 590km. Offsets, winch, Mac mini: no change."
   ],
   "finds": [
     {
@@ -149,16 +149,14 @@
       "location": "Melton, VIC",
       "distance_km": 40,
       "detail": [
-        "MS 460 with 20in bar, Used - Good",
-        "West Coast Saw exhaust cover and dogs fitted",
-        "seller rated 17 reviews",
-        "no hours or service history stated"
+        "MS 460 with 20in bar, West Coast Saw exhaust cover and dogs",
+        "listing now shows Out of Stock, 2 Oct 00:45 AEST"
       ],
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/1736426260785685/",
       "verdict": "decent",
-      "why": "Cheapest qualifying saw on the list at $800, 40km out, back on now the 390 XP has gone; only a 20in bar and no history.",
-      "status": "live",
+      "why": "Marked out of stock a day after it was re-added.",
+      "status": "sold",
       "ends": null,
       "first_seen": "2026-10-01",
       "updated": "2026-10-01",
@@ -189,6 +187,31 @@
       "first_seen": "2026-09-30",
       "updated": "2026-10-01",
       "photo": "img/finds/fb-1828017725039231.jpg"
+    },
+    {
+      "key": "fb-1785449559380545",
+      "want": "chainsaw",
+      "title": "Husqvarna 592 XP, one owner, 24in bar",
+      "price_aud": 1600,
+      "price_note": null,
+      "location": "Bendigo, VIC",
+      "distance_km": 150,
+      "detail": [
+        "92.7cc, rated for a 30in-plus bar",
+        "owned since new, on its 3rd chain, light use",
+        "new X-Cut chain just fitted on a 24in bar",
+        "starts, runs and cuts well per seller",
+        "pickup Bendigo, listed within the last day"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1785449559380545/",
+      "verdict": "decent",
+      "why": "One-owner 592 XP in band with a fresh chain, but 150km out and a 24in bar rather than 30in.",
+      "status": "live",
+      "ends": null,
+      "first_seen": "2026-10-01",
+      "updated": "2026-10-01",
+      "photo": "img/finds/fb-1785449559380545.jpg"
     },
     {
       "key": "fb-1119908973800443",
@@ -679,6 +702,32 @@
       "photo": "img/finds/fb-1339529314984445.jpg"
     },
     {
+      "key": "fb-1828139008357537",
+      "want": "portable-home",
+      "title": "Cabin on skids, 7.4m x 3.4m, bathroom, kitchen, bedroom and bunk room",
+      "price_aud": 9000,
+      "price_note": "heading says $8,000, asking $9,000; open to offers implied",
+      "location": "Mathoura, NSW",
+      "distance_km": 190,
+      "detail": [
+        "7.4m x 3.4m on steel skids, tilt-truck ready",
+        "bathroom: shower, toilet, vanity",
+        "kitchen: cupboards, sink, bench, hotplate",
+        "separate bedroom plus bunk room with triple bunks",
+        "Used - Good; pickup Picnic Point Caravan Park, Mathoura",
+        "listed 2 Oct, about 4 hours before the sweep"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1828139008357537/",
+      "verdict": "strong",
+      "why": "Bathroom, kitchen and two sleeping rooms on skids for $9,000, 190km away; the cheapest finished unit on the list after the Deniliquin cabin.",
+      "status": "live",
+      "ends": null,
+      "first_seen": "2026-10-01",
+      "updated": "2026-10-01",
+      "photo": "img/finds/fb-1828139008357537.jpg"
+    },
+    {
       "key": "fb-1686976389426178",
       "want": "portable-home",
       "title": "13m tiny home, 2 bedrooms",
@@ -854,32 +903,6 @@
       "photo": "img/finds/fb-3176771082681190.jpg"
     },
     {
-      "key": "fb-1111581224659646",
-      "want": "portable-home",
-      "title": "Expandable container home, living, kitchen, bedroom, bathroom",
-      "price_aud": 28000,
-      "price_note": "fold-up for transport +$1,000; transport at buyer's cost",
-      "location": "Junortoun (Bendigo), VIC",
-      "distance_km": 330,
-      "detail": [
-        "6.6m wide x 5.7m long open; folds to container size",
-        "living room, kitchen with cabinets and sink",
-        "double bedroom with fold-out centre wall to make two",
-        "bathroom with shower, toilet, vanity; LPG instant hot water 6 months old",
-        "electrical upgraded to Aust spec",
-        "relisted 28 Sep; transport at buyer's cost, +$1,000 to fold and disconnect"
-      ],
-      "source": "Facebook Marketplace",
-      "url": "https://www.facebook.com/marketplace/item/1111581224659646/",
-      "verdict": "decent",
-      "why": "Back on the list now the Murchison home has sold; near the top of the band and 330km away.",
-      "status": "live",
-      "ends": null,
-      "first_seen": "2026-09-30",
-      "updated": "2026-10-01",
-      "photo": "img/finds/fb-1111581224659646.jpg"
-    },
-    {
       "key": "tfm-1094254",
       "want": "tractor",
       "title": "2011 Deutz-Fahr Agrofarm 420 with CRX360 Plus loader, 232 hours",
@@ -932,6 +955,31 @@
       "updated": "2026-10-01",
       "photo": "img/finds/pickles-62340303.jpg",
       "photo_url": "https://www.pickles.com.au/images/transform/w_detail/148bd26f-283d-472e-a10c-20ecc54fb72b/0ed36cf8-6fc8-4eb9-b05f-b5134e0a2c27.jpeg"
+    },
+    {
+      "key": "fb-1081276994820354",
+      "want": "tractor",
+      "title": "1997 John Deere 6210 MFWD, cab, Burder front-end loader",
+      "price_aud": 35000,
+      "price_note": null,
+      "location": "Jindera, NSW",
+      "distance_km": 250,
+      "detail": [
+        "about 7,000 hours, over the 4,500 cap",
+        "Burder FEL plus grader attachment",
+        "cab with A/C, PowerReverser, MFWD, PTO, 3PL",
+        "original engine, near-new tyres, shed kept",
+        "1997 build, no AdBlue",
+        "Used - Good; starts first go per seller"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1081276994820354/",
+      "verdict": "stretch",
+      "why": "Known maker with cab and loader at $35,000, but 7,000 hours is 2,500 over the cap.",
+      "status": "live",
+      "ends": null,
+      "first_seen": "2026-10-01",
+      "updated": "2026-10-01"
     },
     {
       "key": "fb-1924205741886371",
@@ -1030,30 +1078,6 @@
       "updated": "2026-10-01",
       "photo": "img/finds/machines4u-1022255.jpg",
       "photo_url": "https://media.machines4u.com.au/machinery/55/1022255/LOVOL-110HP-POWERSHIFT-4WD-A-C-CABIN-TRACTOR-WITH-4IN1-BUCKET-COMBO-DEAL-5-YEARS-WARRANTY_72855555.i.jpg?t=1",
-      "ends": null
-    },
-    {
-      "key": "fb-1068358925582567",
-      "want": "tractor",
-      "title": "New Holland 8560 with loader",
-      "price_aud": 65000,
-      "price_note": "plus GST",
-      "location": "Wycheproof, VIC",
-      "distance_km": 370,
-      "detail": [
-        "4,819 hours (over the 4,500 cap)",
-        "front loader with Oz Hitch quick hitch, bucket, hay fork, pallet fork",
-        "4 remotes, eco PTO",
-        "hp not stated (8560 is nominally about 100hp)",
-        "listed 4 weeks ago"
-      ],
-      "source": "Facebook Marketplace",
-      "url": "https://www.facebook.com/marketplace/item/1068358925582567/",
-      "verdict": "stretch",
-      "why": "Full loader kit but 4,819 hours misses the cap and 370km away; still live at the same price.",
-      "status": "live",
-      "first_seen": "2026-09-28",
-      "updated": "2026-10-01",
       "ends": null
     },
     {
