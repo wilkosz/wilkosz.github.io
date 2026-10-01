@@ -54,12 +54,12 @@
     {
       "key": "2026-10-01-byd-sales",
       "date": "2026-10-01",
-      "time": "Not out at 12:30 AEST Thu; HKEX shut Oct 1, filing likely Fri Oct 2 (CnEVPost tracks it)",
+      "time": "Filed HKEX Oct 1 18:51 HKT (20:51 AEST Thu; 06:51 ET)",
       "ticker": "BYD",
-      "title": "BYD September sales - not yet published (August: 440,293, overseas 189,466 = 43%)",
+      "title": "BYD September sales 463,561 (+17.0% y/y, +5.3% m/m); overseas 180,700 (+154% y/y); BEV 273,143 (+33%), PHEV 183,570 (-2.4%); Jan-Sep 3.13M (-3.9%)",
       "type": "other",
-      "why": "Watchlist; overseas volume is the growth story, domestic fell 14% y/y in August, so the mix matters more than the headline. Li Auto already reported September down 6.3% m/m to 31,817.",
-      "link": "https://cnevpost.com/"
+      "why": "Watchlist; a 2026 high and fifth straight y/y gain, but overseas is 39% of volume and does all the growth - PHEV still shrinking and year-to-date still down. Li Auto fell 6.3% m/m, Xpeng 41,256 (-0.8% y/y), Nio 37,408, Zeekr 37,216 record, GWM -14%.",
+      "link": "https://cnevpost.com/2026/10/01/byd-sept-2026-sales/"
     },
     {
       "key": "2026-10-01-fed-jefferson",
@@ -152,6 +152,16 @@
       "link": "https://www.aboutamazon.com/news/retail/amazon-prime-big-deals-day-2026-when-october-6-7"
     },
     {
+      "key": "2026-10-06-us-trade-balance",
+      "date": "2026-10-06",
+      "time": "08:30 ET (23:30 AEDT Tue)",
+      "ticker": "MACRO",
+      "title": "US international trade in goods and services, August",
+      "type": "macro",
+      "why": "Tariff pass-through and the AI-server import bill (Taiwan/Mexico) show up here first; also a Q3 GDP input ahead of the FOMC.",
+      "link": "https://www.census.gov/economic-indicators/calendar-listview.html"
+    },
+    {
       "key": "2026-10-06-mrvl-investor-day",
       "date": "2026-10-06",
       "time": "Morning ET, New York; livestream from ~09:00 ET (00:00 AEDT Wed)",
@@ -190,6 +200,16 @@
       "type": "other",
       "why": "Holding; confirms Q3 revenue vs guidance a week before results, and lands the same day mainland China reopens.",
       "link": "https://investor.tsmc.com/english/financial-calendar"
+    },
+    {
+      "key": "2026-10-09-umich-sentiment-prelim",
+      "date": "2026-10-09",
+      "time": "10:00 ET (01:00 AEDT Sat Oct 10)",
+      "ticker": "MACRO",
+      "title": "University of Michigan consumer sentiment, October preliminary (August final was 51.7)",
+      "type": "macro",
+      "why": "The published 2026 schedule puts the October prelim on Oct 9, not Oct 16; inflation-expectations line is the Fed input, sentiment level reads across to AMZN and the mortgage names.",
+      "link": "https://data.sca.isr.umich.edu/fetchdoc.php?docid=79628"
     },
     {
       "key": "2026-10-12-ocp-summit",
@@ -292,6 +312,16 @@
       "link": "https://www.census.gov/retail/release_schedule.html"
     },
     {
+      "key": "2026-10-15-anthropic-ipo-roadshow",
+      "date": "2026-10-15",
+      "time": "TBC - 'middle of October' per sources; no date filed",
+      "ticker": "MACRO",
+      "title": "Anthropic IPO marketing/roadshow expected to start mid-October (listing targeted before the Nov 3 US midterms, ~$2T)",
+      "type": "other",
+      "why": "The $518B compute-commitment ledger (Amazon, Google, Broadcom, Nvidia/xAI, Microsoft, AMD) gets priced by public investors for the first time; the roadshow narrative sets the tone for AI-infra names into Q3 prints.",
+      "link": "https://www.msn.com/en-us/money/economy/anthropic-delays-ipo-roadshow-as-2t-valuation-test-looms/ar-AA2bCnti"
+    },
+    {
       "key": "2026-10-15-tsla-roadster",
       "date": "2026-10-15",
       "time": "TBC (evening CT; Fri morning AEDT)",
@@ -310,6 +340,16 @@
       "type": "earnings",
       "why": "Holding; the single best read on AI demand for NVDA, AVGO, MRVL and ALAB, and it lands in the owner's evening.",
       "link": "https://investor.tsmc.com/english/financial-calendar"
+    },
+    {
+      "key": "2026-10-16-us-import-prices-ip",
+      "date": "2026-10-16",
+      "time": "Import/export prices 08:30 ET (23:30 AEDT Fri); industrial production 09:15 ET (00:15 AEDT Sat)",
+      "ticker": "MACRO",
+      "title": "US September import/export price indexes (BLS) and industrial production (Fed G.17)",
+      "type": "macro",
+      "why": "Last tariff-pass-through and factory-output reads before the Oct 27-28 FOMC; IP is the machinery-capex pulse for GEV, TER and the industrial names.",
+      "link": "https://www.bls.gov/schedule/2026/10_sched_list.htm"
     }
   ]
 }

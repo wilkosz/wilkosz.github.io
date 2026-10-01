@@ -1,112 +1,112 @@
 {
-  "as_of": "2026-10-01T02:30",
-  "market_summary": "Wall Street closed Q3 mixed on Wednesday: S&P 500 -0.3% to 7,652, Nasdaq +0.2% to 26,861, SOX flat; for September the S&P fell 0.5% and the Nasdaq rose 1.9%. The 10-year sat at 5.29%, a 19-year high, the 30-year at 5.64%, and CME odds of an October hike ended at 36% after the soft core PCE print. Micron beat and guided Q1 to $61.5B but traded flat after hours; S&P futures +0.4%. Asia midday Thursday: ASX 200 -1.5% to 8,645 as banks fell 2% and the Australian 10-year hit 5.40%, Nikkei +2.3% on chip names, Kospi flat, Tankan +24 vs +25 forecast, AUD 0.694; the RBA's Financial Stability Review said Australia is \"unlikely to be immune\" to a global funding squeeze and named US$1-1.5T of opaque AI debt. Brent $98 (December contract), WTI $90; Gulf exports are back to 23.3m b/d, a US diesel export ban is undecided and OPEC+ is expected to hold on Sunday. Next 48h AEST: ISM manufacturing and Waller Fri 00:00, Jefferson 03:30, Bowman 05:00, Cook 05:30; US payrolls Fri 22:30 (consensus 162k); Tesla Q3 deliveries Friday; BYD September sales due.",
+  "as_of": "2026-10-01T14:30",
+  "market_summary": "September ISM manufacturing printed 54.5 against 55.0 consensus, but prices paid jumped to 77.9 from 71.1, the highest since May, with new orders 55.3 and employment 52.7. At 10:30 ET the S&P 500 was 7,632 (-0.3%), Nasdaq 26,822 (-0.2%), SOX flat, Micron down about 3% despite record results, VIX 16.7, and the 10-year at 5.32% after a 5.36% high, the most since 2002; October hike odds 38%. Asia: ASX 200 -2.0% to 8,614, its lowest since mid-June, with the Australian 10-year at 5.40%; Nikkei +3.3% and Kospi +2.0% on chips; Stoxx 600 -1.3% at midday. Brent +2.8% to $100.76 and WTI $91.70 as Iran weighs a US ceasefire counterproposal, Washington told France and Germany to release 120m barrels of diesel or face a US export ban, and OPEC+ is expected to hold November targets on Sunday. The Court of International Trade sounded skeptical of the Section 301 tariffs covering 99.4% of imports. Next 48h (AEST): Jefferson 03:30 Fri, Bowman 05:00, Cook 05:30; Tesla Q3 deliveries Fri before the US open (consensus 462k); US September payrolls 22:30 Fri (consensus 162k, unemployment 4.1%); OPEC+ Sunday; ISM services Tue 01:00 AEDT.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "Closed +1.01% on quarter-end day, top Dow gainer while the index fell 0.86%; after-hours +0.42%. No new company news, Prime Big Deal Days Oct 6-7 is the next catalyst.",
-      "price_usd": 249.15,
+      "reason": "Down 0.9% an hour into Thursday after closing Wednesday slightly lower, despite Goldman adding it to its conviction list with a $375 target and a 20-year Calvert Cliffs nuclear deal. AWS growing 37% is the thesis; the yield spike is the drag, not the business.",
+      "price_usd": 247.0,
       "updated": "2026-10-01"
     },
     "AXOS": {
       "take": "hold",
-      "reason": "Flat at +0.32% in a session where financials lagged; thin after-hours bid of +1.95% on no news. Nothing new ahead of the Oct 29 results.",
-      "price_usd": 86.57,
+      "reason": "Off 2.9% in the first hour with no company news; the whole bank group is being sold as the 10-year pushes past 5.3%. Q1 FY27 results land Oct 29 and nothing has changed in the deposit or credit picture since.",
+      "price_usd": 84.03,
       "updated": "2026-10-01"
     },
     "BABA": {
       "take": "watch",
-      "reason": "Down 0.2% with no fresh company news; the stock is down about 27% in 2026 after repeated earnings misses. Nothing yet to move it off watch.",
-      "price_usd": 107.54,
+      "reason": "Up 0.2% Thursday with Hong Kong shut for National Day through Oct 7, so no local tape; the only new flow is class-action filings over alleged military ties and model-distillation claims. Nothing to act on. Watch.",
+      "price_usd": 107.74,
       "updated": "2026-10-01"
     },
     "ENPH": {
       "take": "watch",
-      "reason": "Up 3.64% on top of Monday's +2.78% with no company news; tech and energy led the tape. Two-day bounce in a stock that is still well below the Citi target of $37, not enough to move off watch.",
-      "price_usd": 32.99,
+      "reason": "Down 3.4% early with no company news, giving back Wednesday's 2.8% gain as higher yields hit residential solar financing again. Citi already cut its target to $37 this week; wait for Q3 numbers before touching it.",
+      "price_usd": 31.87,
       "updated": "2026-10-01"
     },
     "FIGR": {
       "take": "hold",
-      "reason": "Down 1.54% as the 30-year mortgage rate ticked up to 7.60% and the 10-year held near 5.30%; after-hours +0.35%. No company news, rate pressure is the whole story.",
-      "price_usd": 28.85,
+      "reason": "Down 3.7% early with no company news; the rate-sensitive lenders are all lower with mortgage rates at a cycle high. Home-equity origination is the business and the Kiavi and Sierra moves are intact, so no change.",
+      "price_usd": 27.77,
       "updated": "2026-10-01"
     },
     "GOOGL": {
       "take": "add",
-      "reason": "Up 0.9% in the session and another 1.5% after hours on Gemini 4 Argon, which Google says tops GPT-6 Astra and Anthropic's models on the Vals index after months of delay. Model cadence back on track supports adding.",
-      "price_usd": 344.08,
+      "reason": "Down 0.7% Thursday, giving back the 1.5% premarket pop on Gemini 4 Argon as yields rose; JPMorgan kept Overweight and said Argon is what Google needed to re-establish frontier credibility, and the first TPUs went to orbit today. Still add on dips.",
+      "price_usd": 341.62,
       "updated": "2026-10-01"
     },
     "LDI": {
       "take": "trim",
-      "reason": "Fell 2.51% on the day with mortgage rates still rising (30-year 7.60%, +2bp) and MND saying no relief without an Iran settlement, weaker data or a clear inflation downtrend. Thin-margin originator with no catalyst; keep trimming.",
-      "price_usd": 0.5909,
+      "reason": "Down 2.7% in the first hour and still below the NYSE compliance threshold, with the 30-year at 7.60% and the 10-year above 5.3% squeezing origination volume further. Keep trimming into any bounce.",
+      "price_usd": 0.5747,
       "updated": "2026-10-01"
     },
     "META": {
       "take": "hold",
-      "reason": "Down 1.8% Wednesday as OpenAI's Dots agents went after Muse's market, but Muse passed 5M downloads in under a month and the stock still had its best month since 2022. Hold until Muse shows monetisation.",
-      "price_usd": 725.18,
+      "reason": "Flat (-0.02%) Thursday after a 27% September; Muse monetisation is now explicit (fees on savings, subscriptions, 200M small businesses) and Deutsche Bank named it a next-leg AI pick, but the move is already in the price. Hold.",
+      "price_usd": 725.01,
       "updated": "2026-10-01"
     },
     "MRVL": {
       "take": "hold",
-      "reason": "Up 0.4% with no new company news; the Oct 6 investor day is the next catalyst and the stock is up roughly 210% in 2026. Hold into the event.",
-      "price_usd": 264.21,
+      "reason": "Down 1.0% Thursday with the semis fade; BofA put it on its five must-own chips for Q4 with the Oct 6 analyst day and XPU ramp as catalysts. Nothing new on fundamentals until Monday's event. Hold.",
+      "price_usd": 261.5,
       "updated": "2026-10-01"
     },
     "MU": {
       "take": "hold",
-      "reason": "Flat on the day and +0.4% after hours despite revenue 5% and EPS 5% above consensus and a Q1 guide 8% above the Street; capex is going up and Q1 gross margin dips to ~86.25% from 87.0%. The print confirms the cycle but the stock had already priced it, so hold.",
-      "price_usd": 1065.11,
+      "reason": "Down 3.1% in the first regular session after the record quarter, on margin softness and profit-taking after a 268% year-to-date run rather than on demand; Goldman lifted its target to $1,250 (Neutral), Mizuho to a $1,400 target, Deutsche kept a $1,550 target. Supply tight into 2028, so hold through the chop.",
+      "price_usd": 1032.25,
       "updated": "2026-10-01"
     },
     "NFLX": {
       "take": "hold",
-      "reason": "Slipped 1.02% as the Deutsche Bank upgrade failed to hold; after-hours +0.52%. Nothing new since the upgrade, next read is Q3 earnings.",
-      "price_usd": 69.58,
+      "reason": "Down 2.0% early after Sarandos said Netflix is 'not growing as fast as I want', while Guggenheim raised its target to $80 and kept a Buy. The Oct 20 print decides it; nothing today changes the long thesis.",
+      "price_usd": 68.18,
       "updated": "2026-10-01"
     },
     "NVDA": {
       "take": "hold",
-      "reason": "Up 0.5% Wednesday on the CoreWeave Vera Rubin NVL72 rollout, and Micron named Nvidia as the partner for the first custom HBM4E (NVHBM) on next-gen GPUs. Demand signals keep firming; nothing changes the hold.",
-      "price_usd": 228.38,
+      "reason": "Up 0.6% an hour into Thursday after a 0.9% premarket bid on Micron's read-through; Barclays sees at least $30B of hyperscaler revenue upside and Cantor reiterated a $350 target, but the 10-year at a 2002 high keeps a lid on multiple expansion. Hold.",
+      "price_usd": 229.76,
       "updated": "2026-10-01"
     },
     "RKT": {
       "take": "watch",
-      "reason": "Down 1.54% with the 30-year at 7.60% and the 10-year yield near 5.30%; after-hours +0.35%. Rate-locked until yields turn, no change.",
-      "price_usd": 11.51,
+      "reason": "Off 1.8% in the first hour as the 10-year sets a two-decade high above 5.3% and 30-year mortgage rates sit above 7.5%. Refi volume cannot recover at these levels, so stay on the sidelines.",
+      "price_usd": 11.3,
       "updated": "2026-10-01"
     },
     "TSM": {
       "take": "add",
-      "reason": "Down 0.2% in a mixed tape; Reuters says the Texas expansion is still under evaluation on top of the US$265B Arizona plan. Micron's call that memory stays supply-constrained through 2028 reads across to foundry demand; add ahead of Q3 results on Oct 15.",
-      "price_usd": 456.19,
+      "reason": "Flat (+0.01%) in New York after a 1.3% gain in Taipei on Micron's read-through; Bloomberg says TSMC is weighing a multi-fab Texas campus at $20B+ per fab if the 35% CHIPS credit is renewed, with North America over 75% of wafer revenue. Capacity keeps selling out. Add.",
+      "price_usd": 456.24,
       "updated": "2026-10-01"
     },
     "STRIPE": {
       "take": "hold",
-      "reason": "Busy day: agreed to buy SMB lender Parafin (terms undisclosed) and made OUSD, the new Coinbase/Mastercard/Shopify/Visa-backed stablecoin, available by default to businesses on Stripe. Product and distribution moves, no new round or tender, mark unchanged.",
+      "reason": "No new round or tender; the newsroom's latest items are the Sept 30 Parafin acquisition and OUSD stablecoin launch, both already covered. Mark stays at the last tender.",
       "price_usd": null,
       "updated": "2026-10-01",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "Regulatory heat rose again: the FTC is issuing civil investigative demands over rogue-agent harms, Altman declined Hawley's Senate hearing, and Brockman pulled further super PAC money calling it a distraction. Offset by the GPT-Synopsys revenue-share deal and the Moonshot distillation disclosure; no new closed round, mark unchanged.",
+      "reason": "No closed round reported Thursday; the $30B raise at a $1.4T valuation remains at the talks stage per Sept 29-30 reports, and nothing new surfaced on the FTC demands or the Australian Senate inquiry. Mark unchanged until a round closes.",
       "price_usd": null,
       "updated": "2026-10-01",
       "mark_multiple": 5.43
     }
   },
   "headlines": [
-    "Micron beat: $54.2B revenue, 87% gross margin, Q1 guide $61.5B vs $57B consensus; shares flat after hours, HBM sold out through 2027.",
-    "US 10-year hit 5.29%, a 19-year high; S&P 500 -0.3% at quarter-end, ASX 200 -1.5% at midday with banks down 2%.",
-    "Robinhood fell 3.2% on sell-the-news after its Summit; Meta -1.8%, Alphabet +0.9% and up again after hours on Gemini 4 Argon.",
-    "Anthropic's Q2 revenue reportedly $11.6B, 14x year on year; the Australian Senate AI hearing was called off, no new date.",
-    "RBA Financial Stability Review flags $1-1.5T of opaque AI debt and circular chip financing; Tankan +24, a touch under forecast.",
-    "Tonight AEST: ISM manufacturing Fri 00:00 with four Fed speakers; US payrolls and Tesla deliveries Friday night."
+    "US 10-year hit 5.34%, highest since 2002, after ISM prices paid jumped to 77.9; rate-sensitive holdings fell 2-4% early Thursday.",
+    "Micron down 3% in its first session after the beat; targets raised at Goldman, Mizuho and Deutsche but the margin guide caps it.",
+    "BYD September sales 463,561, up 17% year on year and the best month of 2026; overseas guidance raised to 1.9-2.0m.",
+    "ASX 200 fell 2.0% to its lowest since June as Australian yields hit 5.40%; Nikkei +3.3% on chip names.",
+    "Amazon signed a 20-year nuclear deal for Calvert Cliffs and joined Goldman's conviction list; Brent back above $100.",
+    "Tonight AEST: Fed's Jefferson 03:30, Bowman 05:00; US payrolls and Tesla Q3 deliveries Friday night."
   ]
 }
