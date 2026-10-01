@@ -1,46 +1,6 @@
 {
-  "as_of": "2026-09-30",
+  "as_of": "2026-10-01",
   "events": [
-    {
-      "key": "2026-09-29-hood-summit",
-      "date": "2026-09-29",
-      "time": "Tenev keynote 17:30 CT / 18:30 ET (Wed 08:30 AEST); day 2 Sep 30",
-      "ticker": "HOOD",
-      "title": "Robinhood HOOD Summit '26 'Engines of Creation', Houston (Sep 29-30)",
-      "type": "product",
-      "why": "Watchlist and loved company; new product launches are the usual stock catalyst.",
-      "link": "https://robinhood.com/us/en/newsroom/robinhood-presents-hood-summit-26-engines-of-creation/"
-    },
-    {
-      "key": "2026-09-29-us-jolts",
-      "date": "2026-09-29",
-      "time": "10:00 ET (Wed 00:00 AEST)",
-      "ticker": "MACRO",
-      "title": "US JOLTS job openings, August",
-      "type": "macro",
-      "why": "First labour read of the week ahead of Friday's payrolls.",
-      "link": "https://www.bls.gov/schedule/2026/09_sched_list.htm"
-    },
-    {
-      "key": "2026-09-29-openai-devday",
-      "date": "2026-09-29",
-      "time": "Keynote 10:00 PT / 13:00 ET (Wed 03:00 AEST)",
-      "ticker": "MACRO",
-      "title": "OpenAI DevDay 2026, San Francisco (managed agents expected)",
-      "type": "product",
-      "why": "Agent and pricing announcements set the competitive bar for Anthropic, Cursor, GOOGL and META.",
-      "link": "https://devday.openai.com/"
-    },
-    {
-      "key": "2026-09-29-rba-decision",
-      "date": "2026-09-29",
-      "time": "14:30 AEST decision, 15:30 AEST presser (00:30 ET Tue)",
-      "ticker": "RBA",
-      "title": "RBA cash rate decision (meeting Sep 28-29); markets price ~92-94% odds of +25bp to 4.60%",
-      "type": "central_bank",
-      "why": "All four majors forecast a hike; the AUD reaction translates the whole US book overnight.",
-      "link": "https://www.rba.gov.au/schedules-events/calendar/"
-    },
     {
       "key": "2026-09-30-hood-summit-day2",
       "date": "2026-09-30",
@@ -94,12 +54,12 @@
     {
       "key": "2026-10-01-byd-sales",
       "date": "2026-10-01",
-      "time": "TBC (HKEX filing, usually on the 1st; HKEX itself shut Oct 1)",
+      "time": "Not out at 12:30 AEST Thu; HKEX shut Oct 1, filing likely Fri Oct 2 (CnEVPost tracks it)",
       "ticker": "BYD",
-      "title": "BYD September sales (August: 440,293, overseas 189,466 = 43% of total)",
+      "title": "BYD September sales - not yet published (August: 440,293, overseas 189,466 = 43%)",
       "type": "other",
-      "why": "Watchlist; overseas volume is the growth story, domestic fell 14% y/y in August, so the mix matters more than the headline.",
-      "link": "https://cnevpost.com/byd/"
+      "why": "Watchlist; overseas volume is the growth story, domestic fell 14% y/y in August, so the mix matters more than the headline. Li Auto already reported September down 6.3% m/m to 31,817.",
+      "link": "https://cnevpost.com/"
     },
     {
       "key": "2026-10-01-fed-jefferson",
@@ -202,16 +162,6 @@
       "link": "https://investor.marvell.com/news-events/ir-calendar/detail/20261006-marvell-investor-day-2026"
     },
     {
-      "key": "2026-10-07-samsung-prelim",
-      "date": "2026-10-07",
-      "time": "Oct 7 or 8, TBC (Korean press leans Thu Oct 8); ~08:30 KST (10:30 AEDT; 19:30 ET prior evening)",
-      "ticker": "005930",
-      "title": "Samsung Electronics Q3 preliminary earnings (consensus ~107T won op profit)",
-      "type": "earnings",
-      "why": "First hard Q3 memory profit number and a direct read-across to MU (post-results) and SK hynix.",
-      "link": "https://www.samsung.com/global/ir/reports-disclosures/public-disclosure/"
-    },
-    {
       "key": "2026-10-07-fomc-minutes",
       "date": "2026-10-07",
       "time": "14:00 ET (05:00 AEDT Thu)",
@@ -220,6 +170,16 @@
       "type": "central_bank",
       "why": "Shows how split the committee is on the cut path under Warsh; the only Fed policy text before the Oct 27-28 meeting.",
       "link": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+    },
+    {
+      "key": "2026-10-08-samsung-prelim",
+      "date": "2026-10-08",
+      "time": "TBC - Korean press expects Thu Oct 8, ~08:30 KST (10:30 AEDT Thu; 19:30 ET Wed); Samsung IR calendar not yet updated",
+      "ticker": "005930",
+      "title": "Samsung Electronics Q3 preliminary earnings (Kiwoom cut op-profit estimate to ~107T won from 122T; sales ~111T won)",
+      "type": "earnings",
+      "why": "First hard Q3 memory profit number after Micron's 87% gross margin; direct read-across to MU and SK hynix (Q3 op profit forecasts ~7.4T won).",
+      "link": "https://biz.heraldcorp.com/article/10883742"
     },
     {
       "key": "2026-10-08-tsm-sept-revenue",
