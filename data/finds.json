@@ -1,13 +1,12 @@
 {
-  "as_of": "2026-09-30T14:55",
-  "summary": "Overnight pass. Both Lloyds container houses closed yesterday afternoon and Lloyds hides the result, so they are off the list; the last bids seen were $6,400 at Shepparton and $4,000 at Dubbo. Two unused units of the same brief are now up at Lloyds Austral NSW closing 7 Oct, bid $5,700 and $7,900, but Austral is 590km so a tilt-tray has to be priced in. The $800 Husqvarna 390 XP is pending; a serviced MS 661C with a 25in bar at $1,500 in Melbourne takes its place. Tractor and ripper: nothing new in range. Everything else is unchanged.",
+  "as_of": "2026-10-01T02:50",
+  "summary": "Noon pass, 1 Oct. A quiet twelve hours: all 40 live finds re-opened and every price is unchanged. Two listings come back onto the list, the Stihl MS 460 at Melton now the Husqvarna 390 XP is pending, and a Jarrett single-tyne pipe layer at Bywong for $600, which replaces the spec-less Grizzly page. Nothing new in range for the tractor, offsets, winch or Mac mini. The two Lloyds Austral container houses (590km) are at $7,900 and $6,300, closing 7 Oct.",
   "headlines": [
-    "Both Lloyds container houses closed yesterday; Lloyds hides the result. Last seen $6,400 Shepparton, $4,000 Dubbo.",
-    "Two more unused 2-room, kitchen, bathroom expandables at Lloyds Austral NSW, bids $5,700 and $7,900, close 7 Oct; 590km, price a tilt-tray.",
-    "Chainsaw: the $800 Husqvarna 390 XP is pending. New: Stihl MS 661C, serviced, 25in bar, $1,500, Melbourne.",
-    "Portable home: Cobram base-unit expanding cabin, 2 bedrooms and bathroom, no kitchen, $19,990, 210km.",
-    "Offsets: Armstrong WCH 24-plate with recent service, $7,250, Nagambie, 290km; replaces the worn-plate Baldan.",
-    "Mac mini: first private listing, sealed M5 Pro 64GB/1TB, $4,849, Sydney pickup, $100 under Apple. Tractor and ripper: nothing new."
+    "Quiet day: all 40 live finds re-checked, no price moves, nothing new worth a phone call.",
+    "Ripper: Jarrett single-tyne pipe layer with shear-bolt, $600, Bywong NSW, 340km; thin listing, ring first.",
+    "Chainsaw: Stihl MS 460 with 20in bar back on the list at $800, Melton, 40km; the $800 Husqvarna 390 XP is still pending.",
+    "Lloyds Austral NSW expandables (2 rooms, kitchen, bathroom) now bid $7,900 and $6,300, close 7 Oct; 590km.",
+    "Tractor: Deutz-Fahr Agrofarm 420, 232 hours, loader, $61,500 Forbes still the one to call; Pickles Kubota M108S sale opens 12 Oct."
   ],
   "finds": [
     {
@@ -33,7 +32,7 @@
       "status": "sold",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "photo": "img/finds/fb-2326766991424235.jpg"
     },
     {
@@ -59,7 +58,7 @@
       "why": "Low-hour MS 462 at $1,250 within 70km, seller inviting offers.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "ends": null,
       "photo": "img/finds/fb-3457382634440178.jpg"
     },
@@ -84,7 +83,7 @@
       "why": "Freshly serviced MS 461 in Melbourne at $1,275, mid price band.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "photo": "img/finds/fb-1578754150721955.jpg",
       "price_note": null,
       "ends": null
@@ -111,7 +110,7 @@
       "why": "MS 462 C-M with a lightweight bar in Melbourne; budget a new chain.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "price_note": null,
       "ends": null,
       "photo": "img/finds/fb-2926526714371486.jpg"
@@ -138,8 +137,32 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "photo": "img/finds/fb-1473300828187096.jpg"
+    },
+    {
+      "key": "fb-1736426260785685",
+      "want": "chainsaw",
+      "title": "Stihl MS 460, 20in bar",
+      "price_aud": 800,
+      "price_note": "reduced from $900",
+      "location": "Melton, VIC",
+      "distance_km": 40,
+      "detail": [
+        "MS 460 with 20in bar, Used - Good",
+        "West Coast Saw exhaust cover and dogs fitted",
+        "seller rated 17 reviews",
+        "no hours or service history stated"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1736426260785685/",
+      "verdict": "decent",
+      "why": "Cheapest qualifying saw on the list at $800, 40km out, back on now the 390 XP has gone; only a 20in bar and no history.",
+      "status": "live",
+      "ends": null,
+      "first_seen": "2026-10-01",
+      "updated": "2026-10-01",
+      "photo": "img/finds/fb-1736426260785685.jpg"
     },
     {
       "key": "fb-1828017725039231",
@@ -164,34 +187,8 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "photo": "img/finds/fb-1828017725039231.jpg"
-    },
-    {
-      "key": "melbmower-572xp-saw-279-bonus",
-      "want": "chainsaw",
-      "title": "Husqvarna 572 XP new, 20in bar, $250 off RRP",
-      "price_aud": 1949,
-      "price_note": "RRP $2,199; the $1,949 is the 20in bar only, 24in is $2,239 and 28in is $2,249; freight extra if not collected",
-      "location": "Mitcham / Bayswater / Dandenong, VIC (7 stores)",
-      "distance_km": 20,
-      "detail": [
-        "new 572 XP, 70.6cc, 4.3kW, 6.6kg",
-        "20in bar and chain at $1,949",
-        "24in $2,239, 28in $2,249 (over the $2,000 band)",
-        "in stock at 12:30 AEST 30 Sep",
-        "factory warranty"
-      ],
-      "source": "Melbourne's Mower Centre",
-      "url": "https://melbournesmowercentre.com.au/products/husqvarna-572xp-saw-279-bonus",
-      "verdict": "decent",
-      "why": "Cheapest new 572 XP found and in band with a 20in bar, but a 28in bar takes it to $2,249; correction to this morning's note that all bar lengths were $1,949.",
-      "status": "live",
-      "ends": null,
-      "first_seen": "2026-09-30",
-      "updated": "2026-09-30",
-      "photo": "img/finds/melbmower-572xp-saw-279-bonus.jpg",
-      "photo_url": "https://melbournesmowercentre.com.au/cdn/shop/files/572XPChainsaw-20in_d28eb665-6a89-4911-8c66-7aeb2036d7f4.png?v=1788227314&width=1200"
     },
     {
       "key": "fb-1119908973800443",
@@ -237,7 +234,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "photo": "img/finds/hayes-extra-heavy-duty-single-tine-tractor-ripper-pipelayer.jpg",
       "photo_url": "https://hayesproducts.com.au/wp-content/uploads/2019/05/Extra-Heavy-Duty-900x600.jpg"
     },
@@ -265,7 +262,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "photo": "img/finds/fb-1081563398060682.jpg"
     },
     {
@@ -289,9 +286,33 @@
       "why": "The heavy-frame unit is the right shape for root ripping at $350, but it has frame damage and is 390km away.",
       "status": "live",
       "first_seen": "2026-09-29",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "ends": null,
       "photo": "img/finds/fb-1685370453177370.jpg"
+    },
+    {
+      "key": "fb-1376645941299287",
+      "want": "deep-ripper",
+      "title": "Jarrett single-tyne ripper / pipe layer, 3PL",
+      "price_aud": 600,
+      "price_note": null,
+      "location": "Bywong, NSW",
+      "distance_km": 340,
+      "detail": [
+        "Jarrett 3PL pipe layer ripper, heavy single shank on a boxed A-frame",
+        "shear-bolt pin visible in the photo; replaceable point",
+        "estate sale, Used - Good, listed 2 weeks ago",
+        "one-line description; confirm shank depth and point condition by phone"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1376645941299287/",
+      "verdict": "decent",
+      "why": "Purpose-built heavy single tyne with shear release at $600, heavier than the Dubbo and Crookwell frames, but 340km away and thinly described.",
+      "status": "live",
+      "ends": null,
+      "first_seen": "2026-10-01",
+      "updated": "2026-10-01",
+      "photo": "img/finds/fb-1376645941299287.jpg"
     },
     {
       "key": "tradefarmmachinery-495937",
@@ -317,7 +338,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "photo": "img/finds/tradefarmmachinery-495937.jpg",
       "photo_url": "https://assets.primecreative.com.au/imagegen/p/1200/630/s3/digital-cougar-assets/momoads/2019/04/30/115536/5191236_FA106_1.jpg"
     },
@@ -342,33 +363,9 @@
       "why": "Closest and heaviest purpose-built tree-line ripper, but trailing not 3PL, POA, and 3.5t may be beyond a 90-130hp tractor; hp not stated.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "photo": "img/finds/colliermiller-cmtr.jpg",
       "photo_url": "https://www.colliermiller.com.au/images/ProductImages/CMTR.jpg",
-      "ends": null
-    },
-    {
-      "key": "grizzlyag-rl001-single-tine",
-      "want": "deep-ripper",
-      "title": "Grizzly Deep Digger RL001 single-tine root ripper (new)",
-      "price_aud": null,
-      "price_note": "POA",
-      "location": "Swan Hill, VIC",
-      "distance_km": 300,
-      "detail": [
-        "single tine, built for perimeter tree roots",
-        "no shank size, depth or hp published",
-        "Australian made"
-      ],
-      "source": "Grizzly Ag",
-      "url": "https://grizzlyag.com.au/equipments/single-tine-ripper/",
-      "verdict": "decent",
-      "why": "Page still live and root-specific, but still no price or specs; a phone call is the only way to size it.",
-      "status": "live",
-      "first_seen": "2026-09-29",
-      "updated": "2026-09-30",
-      "photo": "img/finds/grizzlyag-rl001-single-tine.jpg",
-      "photo_url": "https://grizzlyag.com.au/wp-content/uploads/2026/06/single-tine-ripper-featured.jpg",
       "ends": null
     },
     {
@@ -392,7 +389,7 @@
       "why": "Cheapest way to meet spec at $2,799; no retailer or refurb unit undercuts it yet.",
       "status": "live",
       "first_seen": "2026-09-29",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "photo": "img/finds/apple-au-macmini-m6-32gb-1tb.jpg",
       "photo_url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mac-mini-chip-unselect-202608-gallery-1?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1785998455498",
       "ends": null
@@ -417,7 +414,7 @@
       "why": "$1,250 over the M6 32GB for 48GB and the Pro chip; only Apple sells this config.",
       "status": "live",
       "first_seen": "2026-09-29",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "ends": null,
       "photo": "img/finds/apple-au-macmini-m5pro15-48gb-1tb.jpg",
       "photo_url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mac-mini-chip-unselect-202608-gallery-1?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1785998455498"
@@ -443,7 +440,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "photo": "img/finds/fb-1405455047790830.jpg"
     },
     {
@@ -466,7 +463,7 @@
       "why": "Top mini config at $4,949; $900 over the 48GB for 64GB and the 18/20-core chip.",
       "status": "live",
       "first_seen": "2026-09-29",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "ends": null,
       "photo": "img/finds/apple-au-macmini-m5pro18-64gb-1tb.jpg",
       "photo_url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mac-mini-chip-unselect-202608-gallery-1?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1785998455498"
@@ -495,7 +492,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "photo": "img/finds/fb-939357285873973.jpg"
     },
     {
@@ -523,7 +520,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "photo": "img/finds/fb-1054966007434070.jpg"
     },
     {
@@ -547,7 +544,7 @@
       "why": "Cheapest 28-disc 3.0m unit on the list but freight, duty and GST are unquoted and could double the landed cost.",
       "status": "live",
       "first_seen": "2026-09-29",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "photo": "img/finds/madeinchina-shandongliying-nkumziagvora.jpg",
       "photo_url": "https://image.made-in-china.com/3f2j00yGMUQOvCMdrA/Hot-Sale-Agriculture-Machine-1bz-BX-3-0-90-120HP-Tractor-Trailed-3m-Width-28-Discs-Semi-Mounted-Offset-Hydraulic-Heavy-Duty-Disc-Harrow.jpg",
       "ends": null
@@ -573,7 +570,7 @@
       "why": "Two of three variants fit the brief with the right hp match, but the price is a wide range and landed cost is unknown.",
       "status": "live",
       "first_seen": "2026-09-29",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "photo": "img/finds/madeinchina-sdycdadi-incrfehlqxuz.jpg",
       "photo_url": "https://image.made-in-china.com/3f2j00CRKoOVfhhDpH/Trailing-Offset-Disc-Harrow.webp",
       "ends": null
@@ -600,7 +597,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "photo": "img/finds/fb-1065954802504681.jpg"
     },
     {
@@ -624,7 +621,7 @@
       "why": "Closest 28-plate on the list with recent bearing work, but working width and hp match are not stated.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "ends": null,
       "photo": "img/finds/fb-1096043223368086.jpg"
     },
@@ -678,7 +675,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "photo": "img/finds/fb-1339529314984445.jpg"
     },
     {
@@ -724,7 +721,7 @@
       "why": "Unchanged, in stock at $22,990; new unit with bathroom, kitchen benches and 2 rooms from a dealer 210km away.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "price_note": "plus GST if applicable; free delivery within 30km of Cobram",
       "ends": null,
       "photo": "img/finds/fb-1729183591520678.jpg"
@@ -751,7 +748,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "photo": "img/finds/fb-1775632163757336.jpg"
     },
     {
@@ -829,7 +826,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "photo": "img/finds/fb-1117657974131225.jpg"
     },
     {
@@ -853,7 +850,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "photo": "img/finds/fb-3176771082681190.jpg"
     },
     {
@@ -879,7 +876,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "photo": "img/finds/fb-1111581224659646.jpg"
     },
     {
@@ -905,7 +902,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "photo": "img/finds/tfm-1094254.jpg",
       "photo_url": "https://assets.primecreative.com.au/imagegen/p/1200/630/assets/momoads/2026/09/23/154409/IMG_4973.JPG"
     },
@@ -932,7 +929,7 @@
       "status": "live",
       "ends": "2026-10-13",
       "first_seen": "2026-09-28",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "photo": "img/finds/pickles-62340303.jpg",
       "photo_url": "https://www.pickles.com.au/images/transform/w_detail/148bd26f-283d-472e-a10c-20ecc54fb72b/0ed36cf8-6fc8-4eb9-b05f-b5134e0a2c27.jpeg"
     },
@@ -957,7 +954,7 @@
       "why": "Right size and hours but no FEL listed and 390km away; ask whether a loader is available.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "ends": null
     },
     {
@@ -983,7 +980,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "photo": "img/finds/machines4u-1258818.jpg",
       "photo_url": "https://media.machines4u.com.au/machinery/18/1258818/12637-2011-JD-6130-Tractor-with-FEL-REDUCED-Beveridge-VIC_81402540.h.jpg"
     },
@@ -1030,7 +1027,7 @@
       "why": "Unchanged at $61,809; new Lovol with warranty but stock sits in Sydney/SA/TAS/QLD warehouses, so freight to the Riverina is on top.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "photo": "img/finds/machines4u-1022255.jpg",
       "photo_url": "https://media.machines4u.com.au/machinery/55/1022255/LOVOL-110HP-POWERSHIFT-4WD-A-C-CABIN-TRACTOR-WITH-4IN1-BUCKET-COMBO-DEAL-5-YEARS-WARRANTY_72855555.i.jpg?t=1",
       "ends": null
@@ -1056,7 +1053,7 @@
       "why": "Full loader kit but 4,819 hours misses the cap and 370km away; still live at the same price.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "ends": null
     },
     {
@@ -1082,7 +1079,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "photo": "img/finds/fb-1912803820124475.jpg"
     },
     {
@@ -1110,7 +1107,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "photo": "img/finds/4x4downunder-runva-ewl9500-12v-winch-with-synthetic-rope.jpg",
       "photo_url": "https://www.4x4downunder.com.au/cdn/shop/files/runva-ewl9500-12v-winch-synthetic-rope-electric-heavy-duty-911.webp?v=1745357772&width=800"
     },
@@ -1136,7 +1133,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "photo": "img/finds/fb-1408931847788039.jpg"
     },
     {
@@ -1163,7 +1160,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "photo": "img/finds/4x4downunder-runva-ewb9500-q-premium-12-24v-winch-with-synth.jpg",
       "photo_url": "https://www.4x4downunder.com.au/cdn/shop/files/runva-ewb9500-q-premium-12-24v-winch-synthetic-rope-electric-black-678.webp?v=1779698977&width=800"
     },
@@ -1191,7 +1188,7 @@
       "why": "Unchanged at $1,099, in stock, complete 10,000 lb synthetic kit with both remotes and the best warranty in the group.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "ends": null,
       "photo": "img/finds/carbonoffroad-carbon-scout-pro-10000lb-winch-v3.jpg",
       "photo_url": "https://carbonoffroad.com.au/cdn/shop/files/CW-10K_1.jpg?v=1790129519&width=800"
@@ -1218,7 +1215,7 @@
       "why": "Cheap 10k Warn in Melbourne; the photo shows a complete-looking kit with synthetic rope, but the text does not confirm it.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "ends": null,
       "photo": "img/finds/fb-1384656743754018.jpg"
     }
