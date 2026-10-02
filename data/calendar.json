@@ -144,7 +144,7 @@
     {
       "key": "2026-10-07-fomc-minutes",
       "date": "2026-10-07",
-      "time": "14:00 ET (05:00 AEDT Thu)",
+      "time": "Date confirmed Wed Oct 7 on the Fed FOMC calendar; time not stated there, usually 14:00 ET (05:00 AEDT Thu)",
       "ticker": "FED",
       "title": "FOMC minutes from the Sep 15-16 meeting",
       "type": "central_bank",
@@ -234,12 +234,12 @@
     {
       "key": "2026-10-14-asml-q3",
       "date": "2026-10-14",
-      "time": "TBC (ASML usually publishes 07:00 CET / 01:00 ET, 16:00 AEDT Wed; date from third-party calendars)",
+      "time": "Oct 14 per multiple outlets (UBS-note coverage Sep 29); ASML IR page did not load. Usually 07:00 CEST = 01:00 ET = 16:00 AEDT Wed",
       "ticker": "ASML",
       "title": "ASML Q3 2026 results and Q4 guide",
       "type": "earnings",
       "why": "Watchlist; EUV bookings from TSMC, Samsung and Micron are the cleanest forward read on 2027 AI-chip capacity.",
-      "link": "https://investor.asml.com/financial-events"
+      "link": "https://parameter.io/asml-asml-stock-gains-3-after-ubs-reaffirms-buy-rating-before-q3-results/"
     },
     {
       "key": "2026-10-14-fed-beige-book",
@@ -262,6 +262,16 @@
       "link": "https://www.bls.gov/schedule/2026/10_sched_list.htm"
     },
     {
+      "key": "2026-10-14-anthropic-investor-day",
+      "date": "2026-10-14",
+      "time": "TBC - invite-only session at Anthropic HQ, San Francisco; Wed Oct 14 PT = Thu Oct 15 AEDT (time not reported)",
+      "ticker": "MACRO",
+      "title": "Anthropic pre-IPO investor session (select institutions); formal IPO marketing now expected week of Nov 9",
+      "type": "other",
+      "why": "Bloomberg reports the first investor Q&A with senior executives ahead of a potential November listing at $1.8-2T under discussion; replaces the mid-October roadshow in earlier reports. Anthropic's $518B of compute commitments and ~$60B of Broadcom-led chip financing are the AI-infra read-through.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-anthropic-schedules-pre-083329143.html"
+    },
+    {
       "key": "2026-10-15-us-ppi",
       "date": "2026-10-15",
       "time": "08:30 ET (23:30 AEDT Thu)",
@@ -280,16 +290,6 @@
       "type": "macro",
       "why": "Consumer pulse into Prime Big Deal Days and the holiday quarter for AMZN, HOOD and the mortgage names; lands alongside PPI and TSMC's results.",
       "link": "https://www.census.gov/retail/release_schedule.html"
-    },
-    {
-      "key": "2026-10-15-anthropic-ipo-roadshow",
-      "date": "2026-10-15",
-      "time": "TBC - marketing 'as early as mid-October'; no date filed",
-      "ticker": "MACRO",
-      "title": "Anthropic IPO marketing/roadshow expected to start mid-October (Nasdaq; target now 'before Thanksgiving' per Oct 1 reports, ~$2.0-2.25T; S-1 not yet declared effective)",
-      "type": "other",
-      "why": "A $2T listing is the biggest test of AI-lab valuation and would reprice read-through for NVDA, AMZN, GOOGL and AI-infra suppliers; timing has slipped once already.",
-      "link": "https://cryptobriefing.com/anthropic-targets-mega-ipo-before-thanksgiving/"
     },
     {
       "key": "2026-10-15-tsla-roadster",

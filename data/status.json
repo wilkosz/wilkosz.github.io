@@ -1,112 +1,112 @@
 {
-  "as_of": "2026-10-02T02:30",
-  "market_summary": "Wall Street closed Thursday higher after recovering from early losses: S&P 500 7,666 (+0.2%), Nasdaq 26,872 (+0.04%), Dow 50,927 (+0.04%), VIX 16.4. The 10-year ended near 5.25% after touching a 24-year high of 5.34%, and October hike odds fell to about 25-29% after Fed Vice Chair Jefferson said the Fed may need more time. Fed Governor Cook named the AI buildout the top inflation risk for 2027, while Dallas Fed's Logan still wants 50bp or more of hikes. Asia is lower Friday: Nikkei -0.7%, MSCI Asia ex-Japan -0.5%, ASX 200 +0.5%, AUD/USD about 0.69; Brent about $102.50 and WTI about $92.85 with US-Iran talks stuck on sequencing and Washington pressing France and Germany on diesel stocks. Next 48h (AEST): Tesla Q3 deliveries before the US open Friday (consensus about 462k); US September payrolls Friday 22:30 (consensus about 84-93k, unemployment 4.1%); OPEC+ Sunday, expected to hold November targets; Sydney clocks go to AEDT at 02:00 Sunday; ISM services Tuesday 01:00 AEDT.",
+  "as_of": "2026-10-02T14:30",
+  "market_summary": "September payrolls rose just 29,000 against 84,000-89,000 expected, unemployment rose to 4.2%, and July and August were revised down by a combined 60,000. The 10-year fell to about 5.20%, the dollar index lost 0.4%, and October hike odds fell to about 17%. At 10:30 ET the S&P 500 was +1.0%, Nasdaq +1.7% at a record intraday, Dow +0.5%, SOX +3.3%, VIX 15.5; the S&P is flat on the week. Asia closed mixed: ASX 200 +0.8%, Nikkei -0.9%, Hang Seng -2.6%, its worst session since March; Stoxx 600 +0.9% at midday. Brent fell about 3% to $99 and WTI 4% to $89 as Europe discussed releasing 50m barrels of diesel and 50m of crude. Next: OPEC+ Sunday Oct 4 (expected to hold November targets); Sydney clocks go to AEDT at 02:00 Sunday; ISM services Tue 01:00 AEDT; Marvell investor day Oct 6; Samsung and TSMC September revenue Oct 8; US CPI Oct 14.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "Down 0.4% on the day and up 0.3% after hours, steadier than most of the tape. Goldman's conviction-list call and the redesigned Kindle line add nothing new to the thesis; AWS growth of 37% is still what matters.",
-      "price_usd": 248.23,
+      "reason": "Up about 1.6% in the first hour, outperforming a rising market on lower yields and the data center community pledge. The reported chip-financing idea is a balance-sheet detail, not a change to the thesis.",
+      "price_usd": 252.17,
       "updated": "2026-10-02"
     },
     "AXOS": {
       "take": "hold",
-      "reason": "Up 1.2% as bonds rallied into the close and mortgage rates fell, with no company news. Q1 FY27 results on Oct 29 are the next catalyst and the deposit and credit picture is unchanged.",
-      "price_usd": 87.61,
+      "reason": "Up about 1.1% on lower yields with no company news. Next earnings are due October 29, so nothing to act on before then.",
+      "price_usd": 88.6,
       "updated": "2026-10-02"
     },
     "BABA": {
       "take": "watch",
-      "reason": "Down 0.09% and +0.17% after hours. Class action notices keep landing ahead of the Oct. 5 lead-plaintiff deadline, alleging undisclosed Chinese military ties and AI distillation. Stay on the sidelines until the legal picture clears.",
-      "price_usd": 107.45,
+      "reason": "Down 0.9% while the US group rose, after the Hang Seng fell 2.6% on the US yield surge. Lead-plaintiff deadline for the class action is Oct 5 and an executive sale is on the tape, so wait for yields and China policy to settle.",
+      "price_usd": 106.5,
       "updated": "2026-10-02"
     },
     "ENPH": {
       "take": "watch",
-      "reason": "Down 0.5% on a quiet day with no company news, even as yields eased. Residential solar still needs lower rates to improve; wait for the Q3 report before acting.",
-      "price_usd": 32.82,
+      "reason": "Up about 2.8% with rates and tech, but recent target cuts from Citi, Jefferies and Goldman and falling revenue keep this a watch until residential demand shows up.",
+      "price_usd": 33.74,
       "updated": "2026-10-02"
     },
     "FIGR": {
       "take": "hold",
-      "reason": "Down 1.1% while the other mortgage names bounced, with no company news. Aletheia's new Buy and BofA's upgrade earlier this month support the story, and the Kiavi and Sierra moves are intact.",
-      "price_usd": 28.54,
+      "reason": "Up about 4% after a sharp slide earlier in the week. Softer rates help its home equity lending model, but there is no company news, so no change.",
+      "price_usd": 29.69,
       "updated": "2026-10-02"
     },
     "GOOGL": {
       "take": "add",
-      "reason": "Down 1.70% on the Gemini 4 Argon launch day, a sell-the-news dip rather than a change in the story. The orbital TPU test launched, and analysts stayed bullish. A lower entry on an unchanged thesis.",
-      "price_usd": 338.24,
+      "reason": "Up 1.8% on the day with no new negative news; the Gemini 4 Argon launch and the space-compute plans are still working through. A lower-yield tape helps long-duration growth, so the add stands.",
+      "price_usd": 344.38,
       "updated": "2026-10-02"
     },
     "LDI": {
       "take": "trim",
-      "reason": "Up 3.7% (and 2.1% more after hours) as the 30-year mortgage rate fell 6bp to 7.54%, but it is still under the NYSE price threshold and one rate dip is a bounce, not a trend. Keep trimming into strength.",
-      "price_usd": 0.613,
+      "reason": "Up about 4.4% on the rates bounce, but it is still a sub-dollar stock with losses, an NYSE price-compliance notice and a Sell consensus. Use the strength to trim.",
+      "price_usd": 0.64,
       "updated": "2026-10-02"
     },
     "META": {
       "take": "hold",
-      "reason": "Flat at +0.10% after a 27% September run, its best month since 2022. New Mexico asking up to $40 billion in penalties is a headline risk, though the judge has not ruled. Hold while the Muse momentum and the legal overhang offset.",
-      "price_usd": 725.93,
+      "reason": "Up 0.8%, lagging the other mega-caps after a 27% September. The New Mexico penalty claim is still unresolved, so hold rather than chase.",
+      "price_usd": 732.0,
       "updated": "2026-10-02"
     },
     "MRVL": {
       "take": "hold",
-      "reason": "Up 1.46% Thursday and +0.60% after hours, following the broader AI chip bid. No company news since the 2nm optical demos and GlobalFoundries capacity deal earlier in the month. Hold.",
-      "price_usd": 268.08,
+      "reason": "Up 2.9% on the day, among the stronger names in the group, with Investor Day on Oct 6 as the next catalyst. Hold through the event; one analyst note flags margin pressure from custom silicon.",
+      "price_usd": 275.8,
       "updated": "2026-10-02"
     },
     "MU": {
       "take": "hold",
-      "reason": "Rebounded 3.03% Thursday after a roughly 3% post-earnings slip, giving back 0.66% after hours. Cantor put a target of $2,000 on it, but the market is not rewarding the beat the way it used to. Hold and let the dust settle.",
-      "price_usd": 1097.39,
+      "reason": "Flat (down 0.1%) while the group rallied, so the record quarter is still not being rewarded on the tape. The YMTC suit is a minor IP item; nothing here changes the thesis.",
+      "price_usd": 1096.0,
       "updated": "2026-10-02"
     },
     "NFLX": {
       "take": "hold",
-      "reason": "Down 2.5% after Sarandos said growth is slower than he wants; Wells Fargo went Underweight with a price target of $57, while Guggenheim's target raise to $80 pulls the other way. The Oct 20 report decides it.",
-      "price_usd": 67.85,
+      "reason": "Down about 0.7% while the market rallies, after a 14% drop in September on the co-CEO's slower-growth comments. Nothing new Friday; wait for Q3 earnings.",
+      "price_usd": 67.4,
       "updated": "2026-10-02"
     },
     "NVDA": {
       "take": "hold",
-      "reason": "Up 1.09% Thursday with after-hours flat at +0.27%, rising alongside AMD and Intel on the Micron print. No new company-specific catalyst since the morning run; the stock keeps trending with the sector, so nothing to add or trim.",
-      "price_usd": 230.86,
+      "reason": "Up 2.8% on the day after Morgan Stanley reinstated it as top semiconductor pick and the weak jobs print cut October rate-hike odds. Already ahead of Thursday's close, so no reason to add into the move.",
+      "price_usd": 237.42,
       "updated": "2026-10-02"
     },
     "RKT": {
       "take": "watch",
-      "reason": "Up 4.0% as the 30-year mortgage rate fell 6bp to 7.54%, the first drop of any size in weeks. One day does not rebuild refi volume; Friday's jobs report decides whether the bond rally holds.",
-      "price_usd": 11.97,
+      "reason": "Up about 2.8%, lagging the rally. The 10-year yield barely moved from Thursday's close, so mortgage rates are still near multi-year highs. Watch for a sustained yield decline.",
+      "price_usd": 12.31,
       "updated": "2026-10-02"
     },
     "TSM": {
       "take": "add",
-      "reason": "Up 0.66% and flat after hours. Q3 results land Oct. 15 with analysts expecting about 47% revenue growth, and Texas expansion talk adds to the US build-out. Still the cleanest AI foundry exposure.",
-      "price_usd": 459.2,
+      "reason": "Up 2.3% on the day ahead of Q3 results on Oct 15, with the company guiding revenue in a tight range and Taiwan pledging support for local expansion. Keep adding on the weak-yield backdrop.",
+      "price_usd": 469.98,
       "updated": "2026-10-02"
     },
     "STRIPE": {
       "take": "hold",
-      "reason": "No new round or tender reported. The newsroom's latest posts are the Sept 30 Japan, Parafin and OUSD items, all already covered. Mark stays at the last tender.",
+      "reason": "No closed round or tender reported since the last run. A Benzinga item cites a private-market valuation estimate well above the mark, but it is not a closed deal and the article body could not be opened, so the mark is unchanged.",
       "price_usd": null,
       "updated": "2026-10-02",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "SoftBank closed the last $10B tranche of its earlier $30B commitment (13% stake), which is not a new round; the raise at $1.4T is still only reported as talks. A California subpoena and the FTC probe add regulatory risk. Mark unchanged.",
+      "reason": "No new closed round or tender since the last run. SoftBank finished its final tranche on Thursday; reported talks for a further $30 billion raise remain talks only, so the mark is unchanged.",
       "price_usd": null,
       "updated": "2026-10-02",
       "mark_multiple": 5.43
     }
   },
   "headlines": [
-    "Tonight AEST: US payrolls 10:30pm, consensus only 84-93k after August's 162k; Tesla Q3 deliveries before the US open, consensus 462k.",
-    "Wall Street recovered Thursday: S&P 500 +0.2%, 10-year back to 5.25% after a 24-year high; October Fed hike odds near 27%.",
-    "Micron rebounded 3.0%, Marvell 1.5% and Nvidia 1.1%; Alphabet slipped 1.7% on Gemini 4 launch day. No take changes.",
-    "Mortgage rates eased to 7.54%: Rocket up 4.0%, loanDepot 3.7%, Axos 1.2%; Netflix fell 2.5% after a Wells Fargo Underweight.",
-    "Anthropic IPO reportedly: investor day Oct 14, marketing from Nov 9, debut before Thanksgiving, valuation target up to $2T.",
-    "BYD fell 2.5% in Hong Kong despite record 2026 September sales; Fed's Cook named the AI buildout the top 2027 inflation risk."
+    "US payrolls rose only 29,000 against 85,000 expected and unemployment hit 4.2%; October Fed hike odds fell to about 17%.",
+    "S&P 500 +1.0% and Nasdaq +1.7% at 10:30 ET Friday, a record intraday; SOX +3.3% and the 10-year down to 5.20%.",
+    "Tesla delivered 486,532 cars against 462,000 expected, shares +5.6%, but storage missed. Nvidia +2.8%, Marvell +2.9%, TSMC +2.3%.",
+    "Watchlist: BYD and Teradyne cut to watch. BYD fell 2.3% in Hong Kong after JPMorgan's downgrade; Teradyne is at its consensus target.",
+    "Broadcom is reportedly lining up $60B of debt for Anthropic's chips; Anthropic's IPO banks named, marketing from the week of Nov 9.",
+    "Weekend: OPEC+ meets Sunday; clocks go to AEDT. Brent fell 3% to about $99 on talk of Europe releasing diesel and crude."
   ]
 }
