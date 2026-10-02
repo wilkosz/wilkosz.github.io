@@ -1,46 +1,6 @@
 {
-  "as_of": "2026-10-01",
+  "as_of": "2026-10-02",
   "events": [
-    {
-      "key": "2026-09-30-hood-summit-day2",
-      "date": "2026-09-30",
-      "time": "08:00-17:00 CT / 09:00-18:00 ET (23:00 AEST Wed to 08:00 AEST Thu), livestreamed",
-      "ticker": "HOOD",
-      "title": "HOOD Summit '26 day 2: Tenev, CFO Verma, Quirk, Guild on main stage",
-      "type": "product",
-      "why": "Watchlist and loved company; CFO and product sessions after Tuesday's launches are where the numbers and the stock reaction land.",
-      "link": "https://robinhood.com/us/en/campaign/presents/"
-    },
-    {
-      "key": "2026-09-30-us-pce-gdp3",
-      "date": "2026-09-30",
-      "time": "08:30 ET (22:30 AEST Wed)",
-      "ticker": "MACRO",
-      "title": "US August PCE inflation + Q2 GDP third estimate (BEA annual revisions)",
-      "type": "macro",
-      "why": "The Fed's preferred inflation gauge; sets the tone for the October FOMC and the rate-sensitive growth names in the book.",
-      "link": "https://www.bea.gov/news/schedule"
-    },
-    {
-      "key": "2026-09-30-mu-earnings",
-      "date": "2026-09-30",
-      "time": "After US close; call 14:30 MT / 16:30 ET (06:30 AEST Thu)",
-      "ticker": "MU",
-      "title": "Micron fiscal Q4 2026 results (guide ~$50B revenue, ~$31 EPS, ~86% gross margin)",
-      "type": "earnings",
-      "why": "Holding and memory bellwether; HBM4 pricing and FY27 supply commentary move MU, SK hynix and Samsung together.",
-      "link": "https://investors.micron.com/news/press-release/2026/Micron-Technology-to-Report-Fiscal-Fourth-Quarter-Results-on-September-30-2026/default.aspx"
-    },
-    {
-      "key": "2026-09-30-abs-cpi-aug",
-      "date": "2026-09-30",
-      "time": "11:30 AEST Wed (21:30 ET Tue)",
-      "ticker": "RBA",
-      "title": "ABS monthly CPI, August (plus household spending indicator)",
-      "type": "macro",
-      "why": "First inflation print after yesterday's hike to 4.60%; a hot number lifts Nov 3 hike odds and the AUD against the whole US book.",
-      "link": "https://www.abs.gov.au/release-calendar/future-releases-calendar/202609/rcc_economy"
-    },
     {
       "key": "2026-10-01-boj-tankan",
       "date": "2026-10-01",
@@ -106,19 +66,19 @@
       "date": "2026-10-02",
       "time": "08:30 ET (22:30 AEST Fri)",
       "ticker": "MACRO",
-      "title": "US September jobs report (government funded to Dec 11, so no shutdown delay)",
+      "title": "US September jobs report: consensus ~84-93K payrolls (CNBC 84K, Bloomberg 85K, Yahoo 93K), unemployment 4.1%; August was +162K vs 58K est, ADP Sep +90K",
       "type": "macro",
-      "why": "Biggest macro print of the window; sets pricing for the Oct 27-28 FOMC and the multiple on every growth holding.",
-      "link": "https://www.bls.gov/schedule/2026/10_sched_list.htm"
+      "why": "A hot print supports the Fed's hiking stance and pressures long-duration AI names; a soft one eases yields. Funded to Dec 11, so no shutdown delay.",
+      "link": "https://finance.yahoo.com/economy/articles/expect-september-jobs-report-134725167.html"
     },
     {
       "key": "2026-10-02-tsla-deliveries",
       "date": "2026-10-02",
-      "time": "TBC (usually before US open on the 2nd; 22:00-23:30 AEST Fri)",
+      "time": "TBC (date confirmed Fri Oct 2; release time not stated, usually before US open = 22:00-23:30 AEST Fri)",
       "ticker": "TSLA",
-      "title": "Tesla Q3 production and deliveries (Tesla IR consensus 461,974, -7% y/y; Q2 was 480,126)",
+      "title": "Tesla Q3 production and deliveries (company-compiled consensus 461,974, -7% y/y; analyst range 421,758 Cantor to 482,000; Q2 was 480,126; storage ~15.9 GWh)",
       "type": "other",
-      "why": "Watchlist; Tesla's own posted consensus of 24 analysts implies a q/q decline, so anything near 480k is a beat and under 450k reopens the demand debate.",
+      "why": "Sets the tone for Tesla's Q3 earnings and the US EV demand read; a miss below ~440K would feed the weak-demand narrative.",
       "link": "https://teslanorth.com/2026/09/29/tesla-ir-q3-2026-delivery-consensus/"
     },
     {
@@ -150,6 +110,16 @@
       "type": "other",
       "why": "Holding; earliest holiday-demand read for AMZN retail and ads before Q3 results.",
       "link": "https://www.aboutamazon.com/news/retail/amazon-prime-big-deals-day-2026-when-october-6-7"
+    },
+    {
+      "key": "2026-10-06-fed-bowman",
+      "date": "2026-10-06",
+      "time": "10:45 ET (01:45 AEDT Wed Oct 7)",
+      "ticker": "FED",
+      "title": "Fed Vice Chair Bowman speaks on modernizing regulation and supervision, Community Banking Research Conference, St. Louis",
+      "type": "central_bank",
+      "why": "Only Fed Board speech on the Oct calendar before the minutes; regional presidents' Oct 5-9 dates not published on federalreserve.gov.",
+      "link": "https://www.federalreserve.gov/newsevents/2026-october.htm"
     },
     {
       "key": "2026-10-06-us-trade-balance",
@@ -314,12 +284,12 @@
     {
       "key": "2026-10-15-anthropic-ipo-roadshow",
       "date": "2026-10-15",
-      "time": "TBC - 'middle of October' per sources; no date filed",
+      "time": "TBC - marketing 'as early as mid-October'; no date filed",
       "ticker": "MACRO",
-      "title": "Anthropic IPO marketing/roadshow expected to start mid-October (listing targeted before the Nov 3 US midterms, ~$2T)",
+      "title": "Anthropic IPO marketing/roadshow expected to start mid-October (Nasdaq; target now 'before Thanksgiving' per Oct 1 reports, ~$2.0-2.25T; S-1 not yet declared effective)",
       "type": "other",
-      "why": "The $518B compute-commitment ledger (Amazon, Google, Broadcom, Nvidia/xAI, Microsoft, AMD) gets priced by public investors for the first time; the roadshow narrative sets the tone for AI-infra names into Q3 prints.",
-      "link": "https://www.msn.com/en-us/money/economy/anthropic-delays-ipo-roadshow-as-2t-valuation-test-looms/ar-AA2bCnti"
+      "why": "A $2T listing is the biggest test of AI-lab valuation and would reprice read-through for NVDA, AMZN, GOOGL and AI-infra suppliers; timing has slipped once already.",
+      "link": "https://cryptobriefing.com/anthropic-targets-mega-ipo-before-thanksgiving/"
     },
     {
       "key": "2026-10-15-tsla-roadster",
