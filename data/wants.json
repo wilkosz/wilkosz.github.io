@@ -182,6 +182,29 @@
         "https://www.apple.com/au/shop/refurbished/mac"
       ],
       "added": "2026-09-29"
+    },
+    {
+      "key": "drop-deck-trailer",
+      "title": "Drop deck trailer, 2001 or newer, $5,000 to $20,000",
+      "short": "Drop deck trailer",
+      "status": "hunting",
+      "base": "darlington_point",
+      "max_km": 400,
+      "price_min": 5000,
+      "price_max": 20000,
+      "must": [
+        "drop deck (lowered loading deck) trailer",
+        "built 2001 or newer"
+      ],
+      "prefer": [
+        "carry rating to suit a loader tractor",
+        "tandem axle with brakes",
+        "ramps or beavertail",
+        "current registration"
+      ],
+      "notes": "Base and radius assumed to match the tractor and implement wants; the carry rating preference is a guess at hauling a loader tractor, so say if it should be different.",
+      "sources": [],
+      "added": "2026-10-02"
     }
   ]
 }
