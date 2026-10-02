@@ -1,12 +1,13 @@
 {
-  "as_of": "2026-10-01T14:50",
-  "summary": "Overnight pass, 2 Oct. One find worth a call: a 7.4m x 3.4m cabin on skids at Mathoura with bathroom, kitchen, bedroom and bunk room for $9,000, 190km away and listed four hours before the sweep. The MS 460 at Melton sold a day after it came back; a one-owner Husqvarna 592 XP at $1,600 in Bendigo fills the slot. Everything else is unchanged: 38 finds re-opened, no price moves, nothing new in range for the tractor, offsets, ripper, winch or Mac mini.",
+  "as_of": "2026-10-02T02:56",
+  "summary": "Noon pass, 2 Oct, with the new drop deck trailer want swept for the first time. The Mathoura cabin on skids sold within about eight hours of being listed and the Rushworth skid unit is pending, leaving the Deniliquin cabin at $7,000 as the cheapest live portable home. Light single-tyne rippers are now accepted, which brings in a $250 unit at West Wyalong, 100km away. The 24-plate Made-in-China search is on the offsets list. The best drop deck so far is a 2010 tri-axle beavertail at Murchison for $12,000, rated only 3.5 tonnes.",
   "headlines": [
-    "Portable home: cabin on skids, bathroom, kitchen, bedroom and bunk room, $9,000, Mathoura, 190km, listed tonight. Ring in the morning.",
-    "Chainsaw: MS 460 Melton sold. New: one-owner Husqvarna 592 XP, fresh chain, 24in bar, $1,600, Bendigo, 150km.",
-    "Tractor: 1997 JD 6210 with cab and Burder loader, $35,000, Jindera, 250km, but about 7,000 hours; nothing new in band.",
-    "Seen, held back: used Hayes pipe ripper $750 Echuca (model not stated); new-in-box Warn Zeon 10-S $1,500 Melbourne.",
-    "Lloyds Austral NSW expandables still $7,900 and $6,300, close 7 Oct; 590km. Offsets, winch, Mac mini: no change."
+    "Mathoura cabin on skids ($9,000) sold within about eight hours of listing; Rushworth unit pending. Deniliquin cabin, $7,000, still live, 150km.",
+    "Drop deck trailer, first sweep: 2010 Zannit tri-axle beavertail, $12,000, Murchison, 310km, but rated 3.5 tonnes with the brake battery missing.",
+    "Drop deck rated for a loader tractor: 2001 DoT 10 t ATM bogie plant trailer, $12,500, Melbourne, about 420km; ramps and brakes not stated.",
+    "Ripper, light units now accepted: single tyne $250 at West Wyalong, 100km, tip bent; used Hayes pipe ripper $750, Echuca, like new.",
+    "Offsets: Liying 1BZ-2.5 24-disc from China, US$1,000 to 2,000 FOB, replaces the 28-disc listing; under A$5,000 shipped only if the quote is near the low end.",
+    "Chainsaw, winch, Mac mini and tractors: no change. Deutz-Fahr Agrofarm 420, 232 hours, $61,500, Forbes is still the tractor to call."
   ],
   "finds": [
     {
@@ -58,7 +59,7 @@
       "why": "Low-hour MS 462 at $1,250 within 70km, seller inviting offers.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "ends": null,
       "photo": "img/finds/fb-3457382634440178.jpg"
     },
@@ -83,7 +84,7 @@
       "why": "Freshly serviced MS 461 in Melbourne at $1,275, mid price band.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "photo": "img/finds/fb-1578754150721955.jpg",
       "price_note": null,
       "ends": null
@@ -110,7 +111,7 @@
       "why": "MS 462 C-M with a lightweight bar in Melbourne; budget a new chain.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "price_note": null,
       "ends": null,
       "photo": "img/finds/fb-2926526714371486.jpg"
@@ -137,7 +138,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "photo": "img/finds/fb-1473300828187096.jpg"
     },
     {
@@ -185,7 +186,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "photo": "img/finds/fb-1828017725039231.jpg"
     },
     {
@@ -210,7 +211,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-01",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "photo": "img/finds/fb-1785449559380545.jpg"
     },
     {
@@ -257,9 +258,34 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "photo": "img/finds/hayes-extra-heavy-duty-single-tine-tractor-ripper-pipelayer.jpg",
       "photo_url": "https://hayesproducts.com.au/wp-content/uploads/2019/05/Extra-Heavy-Duty-900x600.jpg"
+    },
+    {
+      "key": "fb-1529309308826340",
+      "want": "deep-ripper",
+      "title": "Linkage single-tyne ripper, North Yalgogrin",
+      "price_aud": 250,
+      "price_note": "reduced from $350",
+      "location": "West Wyalong, NSW",
+      "distance_km": 100,
+      "detail": [
+        "single tyne, linkage mount",
+        "Used - Good",
+        "seller says the ripper tip is bent",
+        "pickup North Yalgogrin, about 40 minutes from Darlington Point",
+        "weight and shank size not stated"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1529309308826340/",
+      "verdict": "decent",
+      "why": "The closest single-tyne 3PL ripper at $250 and fine for light work now the owner accepts light units, but the tip is bent and needs a new point or straightening.",
+      "status": "live",
+      "ends": null,
+      "first_seen": "2026-10-02",
+      "updated": "2026-10-02",
+      "photo": "img/finds/fb-1529309308826340.jpg"
     },
     {
       "key": "fb-1081563398060682",
@@ -285,7 +311,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "photo": "img/finds/fb-1081563398060682.jpg"
     },
     {
@@ -309,7 +335,7 @@
       "why": "The heavy-frame unit is the right shape for root ripping at $350, but it has frame damage and is 390km away.",
       "status": "live",
       "first_seen": "2026-09-29",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "ends": null,
       "photo": "img/finds/fb-1685370453177370.jpg"
     },
@@ -334,62 +360,137 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-01",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "photo": "img/finds/fb-1376645941299287.jpg"
     },
     {
-      "key": "tradefarmmachinery-495937",
+      "key": "fb-2109641172975292",
       "want": "deep-ripper",
-      "title": "Farm-Aid FA106 heavy duty single tine ripper (new)",
-      "price_aud": 1145,
-      "price_note": "inc GST, freight extra, delivery Australia-wide",
-      "location": "Coopers Plains, QLD (posted)",
-      "distance_km": null,
+      "title": "Hayes pipe ripper and layer, 3PL",
+      "price_aud": 750,
+      "price_note": null,
+      "location": "Echuca, VIC",
+      "distance_km": 270,
       "detail": [
-        "single tine, Cat 2 3PL",
-        "suits 60+hp, upper limit not stated",
-        "150 x 50 billet shank",
-        "700mm working depth",
-        "reversible point 225 x 75 x 16mm",
-        "Australian made; weight and shear bolt not stated",
-        "ripper only, no pipelayer"
+        "Hayes brand, 3-point linkage",
+        "suits up to 2 inch poly pipe",
+        "Used - like new",
+        "pickup Echuca",
+        "Hayes model not stated, so hp rating unknown",
+        "listed 3 days ago"
       ],
-      "source": "Trade Farm Machinery",
-      "url": "https://www.tradefarmmachinery.com.au/detail/farmaid-single-tine-ripper-(heavy-duty)--suits-over-60hp--fa106-495937",
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/2109641172975292/",
       "verdict": "decent",
-      "why": "Cheapest 150x50 single tyne found, ripper only, but 200mm shallower than the Hayes, no top hp figure, and freight from Brisbane.",
+      "why": "Light single-tyne pipe-layer ripper in like-new order, but sized for 2 inch poly and dearer than the $250 to $350 options.",
       "status": "live",
       "ends": null,
-      "first_seen": "2026-09-30",
-      "updated": "2026-10-01",
-      "photo": "img/finds/tradefarmmachinery-495937.jpg",
-      "photo_url": "https://assets.primecreative.com.au/imagegen/p/1200/630/s3/digital-cougar-assets/momoads/2019/04/30/115536/5191236_FA106_1.jpg"
+      "first_seen": "2026-10-02",
+      "updated": "2026-10-02",
+      "photo": "img/finds/fb-2109641172975292.jpg"
     },
     {
-      "key": "colliermiller-cmtr",
-      "want": "deep-ripper",
-      "title": "Collier & Miller CMTR single-tyne tree-line deep ripper (new, trailing)",
-      "price_aud": null,
-      "price_note": "POA",
-      "location": "Griffith, NSW",
-      "distance_km": 40,
+      "key": "fb-1096398136210577",
+      "want": "drop-deck-trailer",
+      "title": "2010 Zannit plant trailer, tri axle, beavertail",
+      "price_aud": 12000,
+      "price_note": null,
+      "location": "Murchison, VIC",
+      "distance_km": 310,
       "detail": [
-        "single tyne, Bisalloy 400",
-        "ripping depth to 1,150mm",
-        "3,500kg trailing unit, dual-plane drawbar, hydraulic depth control",
-        "tractor hp not stated",
-        "ships in 2-5 days; optional poly pipe layer"
+        "2010 per the listing title",
+        "tri axle, beavertail with a single upright ramp",
+        "seller says good for 3.5 t legally and would handle more; no ATM or deck length stated",
+        "electric brakes fitted but battery missing",
+        "registered, expiry not stated",
+        "2 owners"
       ],
-      "source": "Collier & Miller",
-      "url": "https://www.colliermiller.com.au/cmtr-c-m-single-tyne-deep-ripper-tree-line-trailing-ripper",
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1096398136210577/",
       "verdict": "decent",
-      "why": "Closest and heaviest purpose-built tree-line ripper, but trailing not 3PL, POA, and 3.5t may be beyond a 90-130hp tractor; hp not stated.",
+      "why": "The only trailer found that clears the musts (2010, beavertail, in band, inside 400km), but the stated rating is 3.5 t, light for a loader tractor, and the brake battery is missing.",
       "status": "live",
-      "first_seen": "2026-09-28",
-      "updated": "2026-10-01",
-      "photo": "img/finds/colliermiller-cmtr.jpg",
-      "photo_url": "https://www.colliermiller.com.au/images/ProductImages/CMTR.jpg",
-      "ends": null
+      "ends": null,
+      "first_seen": "2026-10-02",
+      "updated": "2026-10-02",
+      "photo": "img/finds/fb-1096398136210577.jpg"
+    },
+    {
+      "key": "machines4u-1169819",
+      "want": "drop-deck-trailer",
+      "title": "2018 Heavy Haul bogie plant trailer, 4,500 ATM, spring-assist ramps",
+      "price_aud": 9000,
+      "price_note": "ex GST ($9,900 inc GST); dealer Nationwide Machinery Sales",
+      "location": "Dubbo, NSW",
+      "distance_km": 430,
+      "detail": [
+        "year 2018 stated",
+        "4,500 kg ATM, 1,180 kg tare, about 3.3 t payload",
+        "deck 4m x 1.65m with side step, galvanised, rocker suspension",
+        "spring-assist ramps, spare tyre, heavy-duty jack leg",
+        "brakes and rego not stated"
+      ],
+      "source": "Machines4u",
+      "url": "https://www.machines4u.com.au/view/advert/2018-Heavy-Haul-Plant-Trailer/1169819/",
+      "verdict": "stretch",
+      "why": "Right type and year at $9,000, but Dubbo is 430km out and the 3.3 t payload is short of the 5 to 7 t wanted.",
+      "status": "live",
+      "ends": null,
+      "first_seen": "2026-10-02",
+      "updated": "2026-10-02",
+      "photo": "img/finds/machines4u-1169819.jpg",
+      "photo_url": "https://media.machines4u.com.au/machinery/19/1169819/2018-Heavy-Haul-Plant-Trailer_82288214.l.jpg"
+    },
+    {
+      "key": "machines4u-754768",
+      "want": "drop-deck-trailer",
+      "title": "2001 DoT bogie plant trailer, 10,000 kg ATM, 5.2m x 1.97m",
+      "price_aud": 12500,
+      "price_note": "ex GST ($13,750 inc GST); dealer Diversified Sales & Hire, delivery Australia-wide listed",
+      "location": "Melbourne, VIC (dealer office St Kilda Rd; yard not stated)",
+      "distance_km": 420,
+      "detail": [
+        "year 2001 stated",
+        "10,000 kg ATM, bogie axle",
+        "deck 5.2m x 1.97m",
+        "ramps, brakes and rego not stated",
+        "road distance from Melbourne CBD; the real yard may differ"
+      ],
+      "source": "Machines4u",
+      "url": "https://www.machines4u.com.au/view/advert/DoT-10-000kg-ATM-Plant-Trailer-21120006/754768/",
+      "verdict": "stretch",
+      "why": "Best rating match so far: 2001, 10 t ATM bogie, $12,500, but about 420km out and ramps and brakes are not confirmed.",
+      "status": "live",
+      "ends": null,
+      "first_seen": "2026-10-02",
+      "updated": "2026-10-02",
+      "photo": "img/finds/machines4u-754768.jpg",
+      "photo_url": "https://media.machines4u.com.au/machinery/68/754768/DoT-10-000kg-ATM-Plant-Trailer-21120006_54945519.l.jpg"
+    },
+    {
+      "key": "machines4u-1177991",
+      "want": "drop-deck-trailer",
+      "title": "2007 Appcon APPT-6-04 6 t plant trailer, air brakes",
+      "price_aud": 15000,
+      "price_note": "ex GST ($16,500 inc GST); Dubbo dealer listing",
+      "location": "Cranbourne, VIC",
+      "distance_km": 460,
+      "detail": [
+        "year 2007 stated",
+        "6 t trailer, 1,850 kg tare, tray 4,950mm x 1,950mm",
+        "air brakes, Bartlett ball hitch",
+        "set up for a Bobcat sweeper; ramps not stated"
+      ],
+      "source": "Machines4u",
+      "url": "https://www.machines4u.com.au/view/advert/2007-Appcon-Appt-6-04-Bobcat-Setup/1177991/",
+      "verdict": "stretch",
+      "why": "6 t carry with air brakes suits a loader tractor, but Cranbourne is about 460km out and ramps are unconfirmed.",
+      "status": "live",
+      "ends": null,
+      "first_seen": "2026-10-02",
+      "updated": "2026-10-02",
+      "photo": "img/finds/machines4u-1177991.jpg",
+      "photo_url": "https://media.machines4u.com.au/machinery/91/1177991/2007-Appcon-Appt-6-04-Bobcat-Setup_82254207.l.jpg"
     },
     {
       "key": "apple-au-macmini-m6-32gb-1tb",
@@ -412,7 +513,7 @@
       "why": "Cheapest way to meet spec at $2,799; no retailer or refurb unit undercuts it yet.",
       "status": "live",
       "first_seen": "2026-09-29",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "photo": "img/finds/apple-au-macmini-m6-32gb-1tb.jpg",
       "photo_url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mac-mini-chip-unselect-202608-gallery-1?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1785998455498",
       "ends": null
@@ -437,7 +538,7 @@
       "why": "$1,250 over the M6 32GB for 48GB and the Pro chip; only Apple sells this config.",
       "status": "live",
       "first_seen": "2026-09-29",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "ends": null,
       "photo": "img/finds/apple-au-macmini-m5pro15-48gb-1tb.jpg",
       "photo_url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mac-mini-chip-unselect-202608-gallery-1?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1785998455498"
@@ -463,7 +564,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "photo": "img/finds/fb-1405455047790830.jpg"
     },
     {
@@ -486,7 +587,7 @@
       "why": "Top mini config at $4,949; $900 over the 48GB for 64GB and the 18/20-core chip.",
       "status": "live",
       "first_seen": "2026-09-29",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "ends": null,
       "photo": "img/finds/apple-au-macmini-m5pro18-64gb-1tb.jpg",
       "photo_url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mac-mini-chip-unselect-202608-gallery-1?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1785998455498"
@@ -515,7 +616,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "photo": "img/finds/fb-939357285873973.jpg"
     },
     {
@@ -543,34 +644,35 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "photo": "img/finds/fb-1054966007434070.jpg"
     },
     {
-      "key": "madeinchina-shandongliying-nkumziagvora",
+      "key": "madeinchina-shandongliying-ufxxtucyxdwl",
       "want": "offset-discs",
-      "title": "Shandong Liying 1BZ-3.0 trailed heavy offset disc, 28 discs, 3.0m (China)",
-      "price_aud": 2066,
-      "price_note": "USD 1,450 FOB for 1-9 units, converted at 1.434; freight, duty and GST to AU not quoted",
+      "title": "Shandong Liying 1BZ-2.5 24-disc trailed offset disc harrow (China)",
+      "price_aud": 1434,
+      "price_note": "US$1,000 to 2,000 FOB, quote needed; freight, duty free, GST 10% extra",
       "location": "Rizhao, China (ships to AU)",
       "distance_km": null,
       "detail": [
-        "28 discs",
-        "3.0m working width",
-        "100-110hp stated for this model",
-        "semi-mounted/trailed, hydraulic",
-        "FOB/CIF/DAP terms offered, no freight figure"
+        "listing US$1,000 to 2,000, MOQ 1 piece",
+        "1BZ-2.5: 24 discs, 2.5m working width, 660mm discs, 1,500 kg, 90 to 100hp",
+        "working depth 200 to 250mm; hydraulic trailed, hydraulic lifting wheels",
+        "disc thickness for this model not confirmed on the page (5 or 6mm)",
+        "Incoterms FOB, CFR, CIF, DAP; payment T/T or LC; sea shipment 25 to 40 days after payment",
+        "Diamond Member since 2020, audited, rating 4.7"
       ],
-      "source": "Made-in-China",
-      "url": "https://shandongliying.en.made-in-china.com/product/nKumZIaGvORA/China-Hot-Sale-Agriculture-Machine-1bz-BX-3-0-90-120HP-Tractor-Trailed-3m-Width-28-Discs-Semi-Mounted-Offset-Hydraulic-Heavy-Duty-Disc-Harrow.html",
+      "source": "Made-in-China (Shandong Liying)",
+      "url": "https://shandongliying.en.made-in-china.com/product/uFXxtUcyXDWL/China-Heavy-Duty-Hydraulic-24-Plate-Offset-Tractor-Disc-Harrow-Trailed-Harrow.html",
       "verdict": "decent",
-      "why": "Cheapest 28-disc 3.0m unit on the list but freight, duty and GST are unquoted and could double the landed cost.",
+      "why": "A 24-disc, 2.5m, 90 to 100hp unit that fits the brief, but it only gets under A$5,000 shipped if the quote lands near the low end before freight and GST.",
       "status": "live",
-      "first_seen": "2026-09-29",
-      "updated": "2026-10-01",
-      "photo": "img/finds/madeinchina-shandongliying-nkumziagvora.jpg",
-      "photo_url": "https://image.made-in-china.com/3f2j00yGMUQOvCMdrA/Hot-Sale-Agriculture-Machine-1bz-BX-3-0-90-120HP-Tractor-Trailed-3m-Width-28-Discs-Semi-Mounted-Offset-Hydraulic-Heavy-Duty-Disc-Harrow.jpg",
-      "ends": null
+      "ends": null,
+      "first_seen": "2026-10-02",
+      "updated": "2026-10-02",
+      "photo": "img/finds/madeinchina-shandongliying-ufxxtucyxdwl.jpg",
+      "photo_url": "https://image.made-in-china.com/2f0j00ljzfAeYdkIqO/Heavy-Duty-Hydraulic-24-Plate-Offset-Tractor-Disc-Harrow-Trailed-Harrow.jpg"
     },
     {
       "key": "madeinchina-sdycdadi-incrfehlqxuz",
@@ -593,7 +695,7 @@
       "why": "Two of three variants fit the brief with the right hp match, but the price is a wide range and landed cost is unknown.",
       "status": "live",
       "first_seen": "2026-09-29",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "photo": "img/finds/madeinchina-sdycdadi-incrfehlqxuz.jpg",
       "photo_url": "https://image.made-in-china.com/3f2j00CRKoOVfhhDpH/Trailing-Offset-Disc-Harrow.webp",
       "ends": null
@@ -620,7 +722,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "photo": "img/finds/fb-1065954802504681.jpg"
     },
     {
@@ -644,7 +746,7 @@
       "why": "Closest 28-plate on the list with recent bearing work, but working width and hp match are not stated.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "ends": null,
       "photo": "img/finds/fb-1096043223368086.jpg"
     },
@@ -698,7 +800,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "photo": "img/finds/fb-1339529314984445.jpg"
     },
     {
@@ -711,20 +813,17 @@
       "distance_km": 190,
       "detail": [
         "7.4m x 3.4m on steel skids, tilt-truck ready",
-        "bathroom: shower, toilet, vanity",
-        "kitchen: cupboards, sink, bench, hotplate",
-        "separate bedroom plus bunk room with triple bunks",
-        "Used - Good; pickup Picnic Point Caravan Park, Mathoura",
-        "listed 2 Oct, about 4 hours before the sweep"
+        "bathroom, kitchen, bedroom plus bunk room",
+        "marked Sold on Facebook at the 12:30 AEST check on 2 Oct, listed about 8 hours earlier"
       ],
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/1828139008357537/",
       "verdict": "strong",
-      "why": "Bathroom, kitchen and two sleeping rooms on skids for $9,000, 190km away; the cheapest finished unit on the list after the Deniliquin cabin.",
-      "status": "live",
+      "why": "Sold within about eight hours of being listed.",
+      "status": "sold",
       "ends": null,
       "first_seen": "2026-10-01",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "photo": "img/finds/fb-1828139008357537.jpg"
     },
     {
@@ -770,7 +869,7 @@
       "why": "Unchanged, in stock at $22,990; new unit with bathroom, kitchen benches and 2 rooms from a dealer 210km away.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "price_note": "plus GST if applicable; free delivery within 30km of Cobram",
       "ends": null,
       "photo": "img/finds/fb-1729183591520678.jpg"
@@ -797,7 +896,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "photo": "img/finds/fb-1775632163757336.jpg"
     },
     {
@@ -875,7 +974,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "photo": "img/finds/fb-1117657974131225.jpg"
     },
     {
@@ -887,20 +986,43 @@
       "location": "Rushworth, VIC",
       "distance_km": 260,
       "detail": [
-        "3.6m x 9m on skids",
-        "one bedroom, toilet, shower and kitchen area",
-        "Used - Good, currently used for dry storage",
-        "listed a week ago; three-line description"
+        "3.6m x 9m on skids, one bedroom, toilet, shower, kitchen area",
+        "marked Pending on Facebook at the 12:30 AEST check on 2 Oct"
       ],
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/3176771082681190/",
       "verdict": "decent",
-      "why": "Bathroom, bedroom and kitchen area on skids, in band, but only one bedroom and very little detail.",
-      "status": "live",
+      "why": "Marked Pending, treated as sold.",
+      "status": "sold",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "photo": "img/finds/fb-3176771082681190.jpg"
+    },
+    {
+      "key": "fb-1111581224659646",
+      "want": "portable-home",
+      "title": "Expandable container home, living, kitchen, bedroom, bathroom",
+      "price_aud": 28000,
+      "price_note": "transport at buyer's cost, +$1,000 to fold and disconnect",
+      "location": "Junortoun (Bendigo), VIC",
+      "distance_km": 310,
+      "detail": [
+        "6.6m wide x 5.7m long open; folds to container size",
+        "living room, kitchen with cabinets and sink",
+        "double bedroom with fold-out centre wall to make two",
+        "bathroom with shower, toilet, vanity; LPG instant hot water 6 months old",
+        "electrical upgraded to Aust spec",
+        "last opened 2 Oct 00:45 AEST, not re-opened at noon"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1111581224659646/",
+      "verdict": "decent",
+      "why": "Back on the list now two cabins have gone; clears every must with kitchen and bathroom but sits near the top of the band, 310km out.",
+      "status": "live",
+      "ends": null,
+      "first_seen": "2026-10-02",
+      "updated": "2026-10-02"
     },
     {
       "key": "tfm-1094254",
@@ -925,7 +1047,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "photo": "img/finds/tfm-1094254.jpg",
       "photo_url": "https://assets.primecreative.com.au/imagegen/p/1200/630/assets/momoads/2026/09/23/154409/IMG_4973.JPG"
     },
@@ -952,7 +1074,7 @@
       "status": "live",
       "ends": "2026-10-13",
       "first_seen": "2026-09-28",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "photo": "img/finds/pickles-62340303.jpg",
       "photo_url": "https://www.pickles.com.au/images/transform/w_detail/148bd26f-283d-472e-a10c-20ecc54fb72b/0ed36cf8-6fc8-4eb9-b05f-b5134e0a2c27.jpeg"
     },
@@ -979,7 +1101,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-01",
-      "updated": "2026-10-01"
+      "updated": "2026-10-02"
     },
     {
       "key": "fb-1924205741886371",
@@ -1002,7 +1124,7 @@
       "why": "Right size and hours but no FEL listed and 390km away; ask whether a loader is available.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "ends": null
     },
     {
@@ -1014,11 +1136,11 @@
       "location": "Beveridge, VIC",
       "distance_km": 380,
       "detail": [
-        "4,440 hours",
-        "85hp stated",
-        "JD 673 self-levelling FEL, Kerfab bucket and hay forks",
-        "FWA, serviced regularly",
-        "bonnet damaged and repaired",
+        "2011 John Deere 6130",
+        "JD 673 self-levelling loader, Kerfab bucket and hay forks",
+        "4,440 hours, just under the 4,500 cap",
+        "85hp stated, under the 90hp floor",
+        "FWA, serviced regularly, bonnet damaged and repaired",
         "cab not stated"
       ],
       "source": "Machines4u",
@@ -1028,7 +1150,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "photo": "img/finds/machines4u-1258818.jpg",
       "photo_url": "https://media.machines4u.com.au/machinery/18/1258818/12637-2011-JD-6130-Tractor-with-FEL-REDUCED-Beveridge-VIC_81402540.h.jpg"
     },
@@ -1075,7 +1197,7 @@
       "why": "Unchanged at $61,809; new Lovol with warranty but stock sits in Sydney/SA/TAS/QLD warehouses, so freight to the Riverina is on top.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "photo": "img/finds/machines4u-1022255.jpg",
       "photo_url": "https://media.machines4u.com.au/machinery/55/1022255/LOVOL-110HP-POWERSHIFT-4WD-A-C-CABIN-TRACTOR-WITH-4IN1-BUCKET-COMBO-DEAL-5-YEARS-WARRANTY_72855555.i.jpg?t=1",
       "ends": null
@@ -1103,7 +1225,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "photo": "img/finds/fb-1912803820124475.jpg"
     },
     {
@@ -1131,7 +1253,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "photo": "img/finds/4x4downunder-runva-ewl9500-12v-winch-with-synthetic-rope.jpg",
       "photo_url": "https://www.4x4downunder.com.au/cdn/shop/files/runva-ewl9500-12v-winch-synthetic-rope-electric-heavy-duty-911.webp?v=1745357772&width=800"
     },
@@ -1157,7 +1279,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "photo": "img/finds/fb-1408931847788039.jpg"
     },
     {
@@ -1184,7 +1306,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "photo": "img/finds/4x4downunder-runva-ewb9500-q-premium-12-24v-winch-with-synth.jpg",
       "photo_url": "https://www.4x4downunder.com.au/cdn/shop/files/runva-ewb9500-q-premium-12-24v-winch-synthetic-rope-electric-black-678.webp?v=1779698977&width=800"
     },
@@ -1212,7 +1334,7 @@
       "why": "Unchanged at $1,099, in stock, complete 10,000 lb synthetic kit with both remotes and the best warranty in the group.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "ends": null,
       "photo": "img/finds/carbonoffroad-carbon-scout-pro-10000lb-winch-v3.jpg",
       "photo_url": "https://carbonoffroad.com.au/cdn/shop/files/CW-10K_1.jpg?v=1790129519&width=800"
@@ -1239,7 +1361,7 @@
       "why": "Cheap 10k Warn in Melbourne; the photo shows a complete-looking kit with synthetic rope, but the text does not confirm it.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "ends": null,
       "photo": "img/finds/fb-1384656743754018.jpg"
     }
