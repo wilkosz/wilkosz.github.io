@@ -1,13 +1,12 @@
 {
-  "as_of": "2026-10-02T02:56",
-  "summary": "Noon pass, 2 Oct, with the new drop deck trailer want swept for the first time. The Mathoura cabin on skids sold within about eight hours of being listed and the Rushworth skid unit is pending, leaving the Deniliquin cabin at $7,000 as the cheapest live portable home. Light single-tyne rippers are now accepted, which brings in a $250 unit at West Wyalong, 100km away. The 24-plate Made-in-China search is on the offsets list. The best drop deck so far is a 2010 tri-axle beavertail at Murchison for $12,000, rated only 3.5 tonnes.",
+  "as_of": "2026-10-02T14:55",
+  "summary": "Midnight pass, 3 Oct. One new tractor worth knowing about: a Kubota M9540, 95hp, cab, loader with 4-in-1 bucket, 2,230 hours, pre-emission, $65,000 at Moss Vale. It meets every spec but is about 520km out, so it is a decent, not a call-today find. The drop deck trailer search turned up a 2020 Panus tri-axle drop deck at Pickles Dubbo, timed sale closing 6 Oct, and a 2005 plant trailer with ramps at Slattery Canberra, opening bid $1,800, closing 8 Oct. Everything else is unchanged across 44 finds.",
   "headlines": [
-    "Mathoura cabin on skids ($9,000) sold within about eight hours of listing; Rushworth unit pending. Deniliquin cabin, $7,000, still live, 150km.",
-    "Drop deck trailer, first sweep: 2010 Zannit tri-axle beavertail, $12,000, Murchison, 310km, but rated 3.5 tonnes with the brake battery missing.",
-    "Drop deck rated for a loader tractor: 2001 DoT 10 t ATM bogie plant trailer, $12,500, Melbourne, about 420km; ramps and brakes not stated.",
-    "Ripper, light units now accepted: single tyne $250 at West Wyalong, 100km, tip bent; used Hayes pipe ripper $750, Echuca, like new.",
-    "Offsets: Liying 1BZ-2.5 24-disc from China, US$1,000 to 2,000 FOB, replaces the 28-disc listing; under A$5,000 shipped only if the quote is near the low end.",
-    "Chainsaw, winch, Mac mini and tractors: no change. Deutz-Fahr Agrofarm 420, 232 hours, $61,500, Forbes is still the tractor to call."
+    "Tractor: Kubota M9540, 95hp, cab, loader and 4-in-1 bucket, 2,230 hours, no AdBlue, $65,000, Moss Vale. Meets every spec but is 520km out.",
+    "Drop deck: Pickles 2020 Panus tri-axle drop deck, 22 t ATM, Dubbo, timed sale closes 6 Oct, no price shown yet, likely over $20,000.",
+    "Drop deck: Slattery 2005 dual axle plant trailer with ramps, 5.3m deck, Canberra, opening bid $1,800, closes 8 Oct; flat deck, rating not stated.",
+    "Portable home: Bendigo expandable, kitchen and bathroom, $28,000, photo added. Deniliquin cabin, $7,000, still live, 150km.",
+    "Offsets, ripper, chainsaw, winch and Mac mini: no price moves. Lloyds Austral expandables $7,900 and $6,300 close Wed 7 Oct, 590km."
   ],
   "finds": [
     {
@@ -416,6 +415,57 @@
       "photo": "img/finds/fb-1096398136210577.jpg"
     },
     {
+      "key": "pickles-62412981",
+      "want": "drop-deck-trailer",
+      "title": "2020 Panus tri-axle drop deck trailer, 22,000 kg ATM",
+      "price_aud": null,
+      "price_note": "Pickles timed sale, no price shown yet, likely over $20,000; Pickles buyer fees apply",
+      "location": "Dubbo, NSW",
+      "distance_km": 420,
+      "detail": [
+        "year 2020",
+        "tri axle drop deck, 22,000 kg ATM",
+        "deck 8m x 2.4m with drop-down ramps 2.7m",
+        "timed sale closes 6 Oct",
+        "Dubbo is about 420km by road, over the 400km limit"
+      ],
+      "source": "Pickles",
+      "url": "https://www.pickles.com.au/used/details/trailers/2020-panus-tri-axle-trailer/62412981",
+      "verdict": "decent",
+      "why": "A genuine tri-axle drop deck from 2020 with a huge rating, but the price is unknown, probably above $20,000, and Dubbo is just over the limit.",
+      "status": "live",
+      "ends": "2026-10-06",
+      "first_seen": "2026-10-02",
+      "updated": "2026-10-02"
+    },
+    {
+      "key": "slattery-144806",
+      "want": "drop-deck-trailer",
+      "title": "2005 Ally Weld Tag 2 dual axle plant trailer",
+      "price_aud": 1800,
+      "price_note": "opening bid, no bids yet; Slattery buyer premium 16.5% inc GST; online auction closes about 7pm AEDT 8 Oct",
+      "location": "Canberra, ACT",
+      "distance_km": 410,
+      "detail": [
+        "year 2005 stated; 7,100 x 2,500mm overall",
+        "flat checker-plate deck 5,330mm long",
+        "twin fold-down rear loading ramps 1,400mm",
+        "chain tie-down points, spare wheel, spring suspension",
+        "ATM, payload and brakes not stated",
+        "flat deck, so not confirmed as a lowered deck"
+      ],
+      "source": "Slattery Auctions",
+      "url": "https://slatteryauctions.com.au/auctions/11817",
+      "verdict": "stretch",
+      "why": "2005 plant trailer with ramps and a 5.3m deck at a $1,800 opening bid, but flat deck, about 410km, and no rating or brake details.",
+      "status": "live",
+      "ends": "2026-10-08",
+      "first_seen": "2026-10-02",
+      "updated": "2026-10-02",
+      "photo": "img/finds/slattery-144806.jpg",
+      "photo_url": "https://s3-ap-southeast-2.amazonaws.com/slattery-salesforce/Assets/1-1-3-001206/01.jpg?v=0004767100"
+    },
+    {
       "key": "machines4u-1169819",
       "want": "drop-deck-trailer",
       "title": "2018 Heavy Haul bogie plant trailer, 4,500 ATM, spring-assist ramps",
@@ -446,20 +496,20 @@
       "want": "drop-deck-trailer",
       "title": "2001 DoT bogie plant trailer, 10,000 kg ATM, 5.2m x 1.97m",
       "price_aud": 12500,
-      "price_note": "ex GST ($13,750 inc GST); dealer Diversified Sales & Hire, delivery Australia-wide listed",
+      "price_note": "ex GST ($13,750 inc GST); dealer Diversified Sales & Hire, 470 St Kilda Rd Melbourne, delivers nationally; yard not stated",
       "location": "Melbourne, VIC (dealer office St Kilda Rd; yard not stated)",
-      "distance_km": 420,
+      "distance_km": 500,
       "detail": [
         "year 2001 stated",
         "10,000 kg ATM, bogie axle",
         "deck 5.2m x 1.97m",
-        "ramps, brakes and rego not stated",
-        "road distance from Melbourne CBD; the real yard may differ"
+        "ad does not mention ramps or brakes",
+        "Melbourne is roughly 500km by road, so over the 400km limit"
       ],
       "source": "Machines4u",
       "url": "https://www.machines4u.com.au/view/advert/DoT-10-000kg-ATM-Plant-Trailer-21120006/754768/",
       "verdict": "stretch",
-      "why": "Best rating match so far: 2001, 10 t ATM bogie, $12,500, but about 420km out and ramps and brakes are not confirmed.",
+      "why": "Best carry-rating match so far at 10 t ATM, 2001, $12,500, but it is Melbourne, over 400km, and ramps and brakes are not stated.",
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-02",
@@ -474,7 +524,7 @@
       "price_aud": 15000,
       "price_note": "ex GST ($16,500 inc GST); Dubbo dealer listing",
       "location": "Cranbourne, VIC",
-      "distance_km": 460,
+      "distance_km": 550,
       "detail": [
         "year 2007 stated",
         "6 t trailer, 1,850 kg tare, tray 4,950mm x 1,950mm",
@@ -1004,25 +1054,26 @@
       "want": "portable-home",
       "title": "Expandable container home, living, kitchen, bedroom, bathroom",
       "price_aud": 28000,
-      "price_note": "transport at buyer's cost, +$1,000 to fold and disconnect",
-      "location": "Junortoun (Bendigo), VIC",
-      "distance_km": 310,
+      "price_note": "fold-up for transport +$1,000; transport at buyer's cost",
+      "location": "Bendigo, VIC",
+      "distance_km": 360,
       "detail": [
-        "6.6m wide x 5.7m long open; folds to container size",
+        "6.6m x 5.7m open; folds to container size",
         "living room, kitchen with cabinets and sink",
-        "double bedroom with fold-out centre wall to make two",
-        "bathroom with shower, toilet, vanity; LPG instant hot water 6 months old",
+        "double bedroom with fold-out wall to make two",
+        "bathroom with vanity, shower, toilet; LPG instant hot water 6 months old",
         "electrical upgraded to Aust spec",
-        "last opened 2 Oct 00:45 AEST, not re-opened at noon"
+        "Used - good, listed 5 days ago"
       ],
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/1111581224659646/",
       "verdict": "decent",
-      "why": "Back on the list now two cabins have gone; clears every must with kitchen and bathroom but sits near the top of the band, 310km out.",
+      "why": "Clears bathroom, kitchen and bedroom, and folds for transport, but sits at the top of the price band and about 360km out.",
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-02",
-      "updated": "2026-10-02"
+      "updated": "2026-10-02",
+      "photo": "img/finds/fb-1111581224659646.jpg"
     },
     {
       "key": "tfm-1094254",
@@ -1050,6 +1101,32 @@
       "updated": "2026-10-02",
       "photo": "img/finds/tfm-1094254.jpg",
       "photo_url": "https://assets.primecreative.com.au/imagegen/p/1200/630/assets/momoads/2026/09/23/154409/IMG_4973.JPG"
+    },
+    {
+      "key": "fb-1800618844582287",
+      "want": "tractor",
+      "title": "Kubota M9540 95hp 4x4 cab with loader and 4-in-1 bucket",
+      "price_aud": 65000,
+      "price_note": null,
+      "location": "Moss Vale, NSW",
+      "distance_km": 520,
+      "detail": [
+        "2,230 hours, 95hp 4-cylinder Kubota, pre-emission engine so no AdBlue",
+        "Kubota loader with euro hitch and 3rd function hydraulics, 4-in-1 bucket",
+        "18-speed with forward/reverse shuttle, 4WD and diff lock, 2 rear remote sets",
+        "cab with air-suspension seat, UHF and radio fitted",
+        "recent service, one owner, ex slashing tractor",
+        "Nokian all-terrain tyres"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1800618844582287/",
+      "verdict": "decent",
+      "why": "Meets every spec (95hp, loader, 2,230 hours, Kubota, cab, no AdBlue, recent service) at $65,000, but is about 520km by road, over the 400km limit.",
+      "status": "live",
+      "ends": null,
+      "first_seen": "2026-10-02",
+      "updated": "2026-10-02",
+      "photo": "img/finds/fb-1800618844582287.jpg"
     },
     {
       "key": "pickles-62340303",
@@ -1174,32 +1251,6 @@
       "status": "sold",
       "first_seen": "2026-09-28",
       "updated": "2026-09-30",
-      "ends": null
-    },
-    {
-      "key": "machines4u-1022255",
-      "want": "tractor",
-      "title": "New Lovol 110hp powershift cab tractor with 4-in-1 bucket",
-      "price_aud": 61809,
-      "price_note": "ex GST ($67,990 inc), delivers nationally, freight extra",
-      "location": "Bradfield, NSW",
-      "distance_km": 570,
-      "detail": [
-        "new, 0 hours",
-        "110hp",
-        "FEL with 4-in-1 bucket",
-        "cab, A/C, powershift",
-        "5 year warranty"
-      ],
-      "source": "Machines4u",
-      "url": "https://www.machines4u.com.au/view/advert/LOVOL-110HP-POWERSHIFT-4WD-A-C-CABIN-TRACTOR-WITH-4IN1-BUCKET-COMBO-DEAL-5-YEARS-WARRANTY/1022255/",
-      "verdict": "stretch",
-      "why": "Unchanged at $61,809; new Lovol with warranty but stock sits in Sydney/SA/TAS/QLD warehouses, so freight to the Riverina is on top.",
-      "status": "live",
-      "first_seen": "2026-09-28",
-      "updated": "2026-10-02",
-      "photo": "img/finds/machines4u-1022255.jpg",
-      "photo_url": "https://media.machines4u.com.au/machinery/55/1022255/LOVOL-110HP-POWERSHIFT-4WD-A-C-CABIN-TRACTOR-WITH-4IN1-BUCKET-COMBO-DEAL-5-YEARS-WARRANTY_72855555.i.jpg?t=1",
       "ends": null
     },
     {
