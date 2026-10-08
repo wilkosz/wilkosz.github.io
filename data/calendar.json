@@ -44,12 +44,12 @@
     {
       "key": "2026-10-08-tsm-sept-revenue",
       "date": "2026-10-08",
-      "time": "13:30 Taipei (16:30 AEDT Thu; 01:30 ET), per TSMC's IR calendar",
+      "time": "Released 13:30 Taipei Thu Oct 8 (16:30 AEDT)",
       "ticker": "TSM",
-      "title": "TSMC September revenue (August was NT$514.81B, +53.3% y/y; Jan-Aug NT$3,386.87B, +39.3%)",
-      "type": "other",
-      "why": "Holding; Q3 guide of US$44.6-45.8B at NT$32 implies September of roughly NT$448-488B. Lands a week before Q3 results on Oct 15.",
-      "link": "https://investor.tsmc.com/english/monthly-revenue/2026"
+      "title": "TSMC September revenue NT$511.86B, up 54.6% y/y; Q3 above guidance",
+      "type": "earnings",
+      "why": "Pre-announces a Q3 beat ahead of the Oct 15 print; August was the record month at NT$514.81B.",
+      "link": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000680/tsm-revenue20261008.htm"
     },
     {
       "key": "2026-10-09-umich-sentiment-prelim",

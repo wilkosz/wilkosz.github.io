@@ -1,6 +1,150 @@
 [
   {
     "date": "2026-10-08",
+    "ticker": "TSM",
+    "headline": "TSMC September sales NT$511.86B, up 54.6% year on year",
+    "summary": "Monthly revenue fell 0.6% from August's record but is up 54.6% on September 2025; January-September is NT$3.90T (+41.1%). July-August plus September gives roughly US$46.7B for Q3 at the NT$32 guidance rate (own arithmetic), above the US$44.6-45.8B guide. Q3 results are due Oct 15.",
+    "source": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000680/tsm-revenue20261008.htm",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-08",
+    "ticker": "MACRO",
+    "headline": "US futures fall as oil jumps 4% and the 10-year yield reaches 5.34%",
+    "summary": "At 6:14am ET Dow futures were down 0.78%, S&P 500 down 0.4% and Nasdaq 100 down 0.57%. Brent rose more than 4% on attacks on Gulf shipping; Nvidia fell 0.6%, Broadcom 1.4% and Micron 1.2% premarket. Samsung's record forecast did not lift chip stocks.",
+    "source": "https://www.investing.com/news/stock-market-news/wall-st-futures-slide-as-rising-oil-yields-dampen-mood-4938454",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-08",
+    "ticker": "MACRO",
+    "headline": "Fed's Waller hints at an October pause; December hike still possible",
+    "summary": "Governor Waller suggested a possible pause at the next meeting while saying more hikes may be needed. Traders expect a hold on Oct 28, with a December hike still priced as possible. Brent was above US$105 and the 10-year about 5.32% before the open.",
+    "source": "https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-premarket-global-stocks-decline-as-oil-prices-surge/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-08",
+    "ticker": "AVGO",
+    "headline": "Broadcom reportedly lining up more than $50B of debt for OpenAI chips",
+    "summary": "Early-stage talks, with Apollo and Blackstone among the private-credit lenders, to fund OpenAI's co-developed custom chips; no definitive agreements expected before year-end. Broadcom fell about 1.4% premarket and Oracle is also seeking funds, raising concern about competition for capital.",
+    "source": "https://www.gurufocus.com/news/9114829/broadcom-avgo-explores-50b-debt-financing-to-support-ai-chip-development-with-openai",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-08",
+    "ticker": "NVDA",
+    "headline": "Nvidia, Broadcom and Marvell slip premarket as oil and yields rise",
+    "summary": "Nvidia was down about 1.0%, Broadcom 1.7% and Marvell 2.6% premarket. TipRanks cites oil above US$104, the 10-year near 5.33%, Samsung missing forecasts, AI financing worries and profit-taking in Marvell after a gain of more than 200% this year.",
+    "source": "https://www.tipranks.com/news/why-nvidia-broadcom-and-marvell-stocks-are-falling-in-premarket-today-october-8",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-08",
+    "ticker": "MU",
+    "headline": "Memory stocks fall premarket; Samsung profit misses and Taiwan strike vote passes",
+    "summary": "Micron was down 1.43%, SanDisk 1.09% and SK hynix 0.72% premarket. Samsung's Q3 operating profit of 107.4T won was a record but short of the 108.7T forecast, and Micron's Taiwan workers voted almost unanimously to authorise a strike.",
+    "source": "https://www.tipranks.com/news/why-are-micron-sandisk-and-sk-hynix-stocks-falling-today-october-8",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-08",
+    "ticker": "GOOGL",
+    "headline": "TD Cowen raises Alphabet target to $485 on Cloud preview",
+    "summary": "Buy maintained; target up from $475. The firm expects Google Cloud revenue to more than double year on year in Q3, against 82% growth in Q2.",
+    "source": "https://www.tipranks.com/news/the-fly/alphabet-price-target-raised-to-485-from-475-at-td-cowen-thefly-news",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-08",
+    "ticker": "GOOGL",
+    "headline": "Alphabet's Isomorphic Labs in early talks to raise at about $40B valuation",
+    "summary": "Bloomberg reports the AI drug-discovery unit is in fundraising talks at around a $40B valuation; the round has not closed and could change.",
+    "source": "https://www.tipranks.com/news/alphabets-ai-drugs-hunter-isomorphic-labs-in-fundraising-talks-to-hit-40b-valuation",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-08",
+    "ticker": "BABA",
+    "headline": "Citi lifts Alibaba target to $193 ahead of fiscal Q2 results",
+    "summary": "Buy kept; target up from $190. Citi now models 8.2% year-on-year consolidated revenue growth for the quarter.",
+    "source": "https://www.tipranks.com/news/the-fly/alibaba-price-target-raised-to-193-from-190-at-citi-thefly-news",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-08",
+    "ticker": "BABA",
+    "headline": "Hang Seng Tech falls 2.89% as mainland markets reopen",
+    "summary": "The Hang Seng fell 1.43% to 23,785.79 and Hang Seng Tech 2.89% to 4,073.38 on the first day back from Golden Week; Alibaba slipped about 1% and Tencent more than 2%. Southbound buying was HK$6.48B.",
+    "source": "https://finance.biggo.com/news/2a208372-34db-42f0-9289-dc0f3b18204d",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-08",
+    "ticker": "NFLX",
+    "headline": "Morgan Stanley trims Netflix target, stays Overweight",
+    "summary": "Target cut on flat viewing hours ahead of the Oct 20 Q3 results; rating unchanged at Overweight.",
+    "source": "https://www.tipranks.com/news/the-fly/netflix-price-target-lowered-to-80-from-83-at-morgan-stanley-thefly-news",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-08",
+    "ticker": "AMZN",
+    "headline": "Amazon launches Android-based Alexa tablets, on sale Oct 14",
+    "summary": "New Alexa+ tablets run Android with Google Play access and go on sale Oct 14. A consumer hardware launch, not a change to the AWS or retail thesis.",
+    "source": "https://techcrunch.com/2026/10/08/amazon-unveils-new-alexa-tablets-with-alexa-and-google-play-store-access/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-08",
+    "ticker": "AMZN",
+    "headline": "Amazon confirms fewer than 1,000 job cuts, mainly in retail",
+    "summary": "Yahoo Finance's live blog reports the cuts, which are small against Amazon's workforce. No guidance change; Q3 earnings are around Oct 29.",
+    "source": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-08",
+    "ticker": "ANTHROPIC",
+    "headline": "Anthropic releases Claude Haiku 5.5 at about 75% lower cost",
+    "summary": "Priced at $0.10 per million input tokens, with Sonnet 5.5 cache reads halved and monthly API credits added for Max and Team plans. Released Oct 7.",
+    "source": "https://aiweekly.co/alerts/anthropic-cuts-claude-haiku-55-price-75-below-haiku-45",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-08",
+    "ticker": "OPENAI",
+    "headline": "OpenRouter data: OpenAI passes Anthropic in weekly model spend",
+    "summary": "For the week of Sept 7-13, OpenAI models led combined spend for the first time in about 2.5 years (GPT-6 Astra 19% vs Claude Opus 5 16%). One weekly snapshot, and Anthropic still held the high 50s percent share in mid-August.",
+    "source": "https://aiweekly.co/alerts/openai-retakes-openrouter-weekly-spend-lead-after-25-years",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-08",
+    "ticker": "SPOT",
+    "headline": "Piper Sandler initiates Spotify at Neutral, $540 target",
+    "summary": "Analyst says the ad business rebuild may take time and expects premium subscriptions to make up about 60% of growth versus nearly 100% in 2020-2025. Q3 results are due Oct 22.",
+    "source": "https://www.tipranks.com/news/the-fly/spotify-initiated-with-a-neutral-at-piper-sandler-thefly-news",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-08",
+    "ticker": "MACRO",
+    "headline": "Hang Seng falls 1.4% to three-month low as mainland reopens",
+    "summary": "Hang Seng 23,785, Tech index -2.9%, Shanghai -0.8% to 3,811, Shenzhen -2.1%; HSBC and BOC Hong Kong fell nearly 5% on rising bond yields. Tencent -2% on a report of a US$5B bond sale to fund AI.",
+    "source": "http://www.thestandard.com.hk/finance/article/344966/Hang-Seng-Index-drops-to-three-month-low-on-fin-tech-selloffs-A-shares-fall-after-holiday",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-08",
+    "ticker": "005930",
+    "headline": "Samsung shares fall after Q3 profit of 107.4T won misses top-end forecasts",
+    "summary": "Operating profit +783% y/y but below the 108.7T won consensus in one survey; sales 195T won vs 199T expected. KOSPI under pressure; SK hynix and full Samsung results due later in October.",
+    "source": "https://newsquawk.com/headlines/newsquawk-daily-european-equity-opening-news---8th-october-2026",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-08",
     "ticker": "005930",
     "headline": "Samsung Q3 preliminary operating profit 107.4T won, first quarter above 100T",
     "summary": "Sales 195T won (+127% y/y); profit +20% q/q. HBM4 sales rose steeply ahead of Vera Rubin; DDR4 8Gb averaged $26 at quarter-end (+23.8% q/q). In line with consensus of ~106-109T.",
@@ -133,6 +277,14 @@
     "headline": "Fed minutes: all officials backed September hike, split on what comes next",
     "summary": "Per Bloomberg and Raisin, some regional presidents want 1-2 more hikes, others a pause. Data since (core PCE 3.0%, 29K payrolls) cut hike odds for Oct 28 to about 20%. Minutes text itself not retrieved.",
     "source": "https://www.bloomberg.com/news/articles/2026-10-07/fed-minutes-show-hawkish-unity-behind-september-rate-hike",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-06",
+    "ticker": "ENPH",
+    "headline": "Enphase sets Q3 results call for Oct 27 at 4:30pm ET",
+    "summary": "Confirms the earnings date previously only estimated; the Deutsche Bank sell call and target cuts land ahead of the print.",
+    "source": "https://www.globenewswire.com/news-release/2026/10/06/3375409/20176/en/enphase-energy-announces-conference-call-to-review-third-quarter-2026-financial-results.html",
     "impact": "neutral"
   },
   {
@@ -485,158 +637,6 @@
     "headline": "Asian shares fall before US jobs data; dollar at 17-month high",
     "summary": "Nikkei -0.7% (still +3.1% on the week), MSCI Asia ex-Japan -0.5%. USD/JPY 158.13, EUR/USD 1.1235 (lowest since May 2025), dollar index 102.08. September payrolls consensus about 90k, unemployment 4.1%.",
     "source": "https://www.investing.com/news/economy-news/asian-shares-fall-after-wild-swings-in-bonds-fx-before-us-jobs-data-4928814",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "ANTHROPIC",
-    "headline": "Anthropic and OpenAI skip Oct 1 Australian Senate AI hearing, citing short notice",
-    "summary": "Both asked for alternative dates for the Canberra hearing that followed an OpenAI agent's access to a Medicare statistics portal. Anthropic is reported to be sending US and Australian executives to parliament the following week.",
-    "source": "https://www.innovationaus.com/anthropic-openai-decline-to-attend-senate-ai-hearing/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "1211",
-    "headline": "JPMorgan cuts BYD to Neutral, target HK$88 from HK$124",
-    "summary": "Reasons given: weaker domestic demand in China, higher procurement costs and tariffs that could slow overseas expansion. BYD closed Friday at HK$73.90 (-2.25%), 3.5% above its 52-week low. Moved to watch.",
-    "source": "https://www.ad-hoc-news.de/boerse/news/unternehmesnachrichten/byd-s-export-boom-meets-a-wall-of-caution-as-jpmorgan-slashes-its-target/70215884",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "META",
-    "headline": "New Mexico asks for up to $40 billion in penalties from Meta after privacy verdict",
-    "summary": "After a jury found Meta violated consumer protection law in more than 43 million instances, the state is seeking penalties of $35 billion to $40 billion. The judge has not ruled on an amount.",
-    "source": "https://www.reuters.com/world/us/new-mexico-wants-meta-pay-up-40-billion-penalties-after-data-privacy-trial-2026-10-01/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "MU",
-    "headline": "Cantor's C.J. Muse puts a target of $2,000 on Micron",
-    "summary": "Muse says over 75% of 2027 output is already committed to customers and sees 2027 EPS of $188 against a consensus of $170. He expects buybacks to start December 9 once CHIPS Act limits lift.",
-    "source": "https://www.tipranks.com/news/too-cheap-to-ignore-top-analyst-c-j-muse-says-micron-stock-is-heading-to-200",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "GOOGL",
-    "headline": "Google launches its first TPU into orbit; Starship needs about 1,800 launches to make it pay",
-    "summary": "The Planet Labs satellite flew on a SpaceX rocket to test the TPU in space. Google's own estimate is about 180 Starship flights a year to reach cost parity, against a record of five a year.",
-    "source": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "BABA",
-    "headline": "Alibaba class action alleges undisclosed Chinese military ties and AI distillation",
-    "summary": "The suit covers June 26, 2025 to June 24, 2026 and cites two earlier drops of 3.9% and 4.7%. Lead-plaintiff deadline is Oct. 5.",
-    "source": "https://www.prnewswire.com/news-releases/alibaba-group-baba-investor-alert-securities-class-action-filed-hagens-berman-investigating-allegations-of-undisclosed-chinese-military-ties-and-fraudulent-ai-distillation-attacks-302895495.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "TSM",
-    "headline": "TSMC reports Oct. 15; analysts expect 47% Q3 revenue growth",
-    "summary": "Street forecasts are 47% revenue growth for Q3 and 53% for Q4. A price-hike announcement is the flagged upside catalyst; the ADR dividend of $1.11 pays Oct. 8.",
-    "source": "https://www.fool.com/investing/2026/10/01/prediction-taiwan-semiconductor-stock-will-skyrock/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "META",
-    "headline": "Meta shows Ray-Ban Meta Audio glasses and says Muse is coming to its glasses",
-    "summary": "The 43-gram glasses give 12 hours of battery. Muse, the personal AI agent, will roll out to the glasses in the coming months.",
-    "source": "https://www.tipranks.com/news/the-fly/ray-ban-meta-audio-coming-soon-as-meta-preps-muse-for-ai-glasses-thefly-news",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "RKT",
-    "headline": "30-year mortgage rate falls to 7.54% from 7.60% as bonds rally; Treasury yield near 5.3% after touching 5.34%",
-    "summary": "Mortgage News Daily called it a rare drop of more than a token amount, with no single cause: short covering before Friday's jobs report, European bond worries and technical buying when the Treasury yield hit 5.34%. Rocket closed up 4.0% and loanDepot up 3.7%.",
-    "source": "https://www.mortgagenewsdaily.com/newsletter/n/20261001",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "RKT",
-    "headline": "September jobs report lands Friday morning ET and is the next test for the bond rally",
-    "summary": "The preview notes September payrolls tend to be seasonally soft and miss estimates 64% of the time, after ADP came in at +90K against +75K expected. A strong print would put yields back on the climb.",
-    "source": "https://investinglive.com/news/preview-september-non-farm-payrolls-by-the-numbers/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "NFLX",
-    "headline": "Wells Fargo goes Underweight on Netflix after Sarandos growth comments, price target of $57",
-    "summary": "The bank read the co-CEO's remark that Netflix is 'not growing as fast as I want' as a sign that 'not all is well' on content and engagement. Shares closed down 2.5%.",
-    "source": "https://www.tipranks.com/news/the-fly/netflix-co-ceo-comments-indicate-not-all-is-well-says-wells-fargo-thefly-news",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "AMZN",
-    "headline": "Amazon unveils redesigned Kindle lineup, Paperwhite and Colorsoft open for preorder",
-    "summary": "New flush-front designs, up to 12 weeks of battery on Paperwhite, and 30% faster book opening. Small for the stock, which closed down 0.4%.",
-    "source": "https://www.tipranks.com/news/the-fly/amazon-unveils-new-completely-redesigned-kindle-lineup-thefly-news",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "OPENAI",
-    "headline": "SoftBank completes its final $10B tranche in OpenAI, taking its stake to 13%",
-    "summary": "This closes out SoftBank's earlier $30B follow-on commitment, funded partly by an $11B bond sale. It is not the new $30B raise at a $1.4T valuation, which is still reported only as talks.",
-    "source": "https://www.marketscreener.com/news/softbank-group-concludes-final-10-billion-follow-on-investment-in-openai-ce785ad3dc80f525",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "OPENAI",
-    "headline": "California attorney general issues investigative subpoena to OpenAI over cyber incidents",
-    "summary": "The subpoena covers cybersecurity incidents and risks tied to its models, part of the inquiry into the Hugging Face hack by OpenAI agents. It lands a day after the FTC said it is opening its own probe of OpenAI and Anthropic.",
-    "source": "https://www.innovationaus.com/california-attorney-general-subpoenas-openai-over-cyber-risks/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "ANTHROPIC",
-    "headline": "Anthropic IPO timeline firms up: investor day Oct 14, marketing from Nov 9, debut before Thanksgiving",
-    "summary": "Reports say Anthropic has invited institutional investors to a San Francisco meeting on Oct 14, with formal IPO marketing the week of Nov 9 and a debut as early as mid-November. Estimated value range is $1.8T to $2T, with Bloomberg citing a target of up to $2T.",
-    "source": "https://finance.yahoo.com/markets/stocks/articles/anthropic-reportedly-sends-investors-ipo-234834463.html",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "ANTHROPIC",
-    "headline": "Prospectus numbers: 2025 revenue about $4.6B, net loss about $42B, valuation target above $2T",
-    "summary": "About $34B of the 2025 net loss was an accounting charge from revaluing financing instruments, leaving an operating loss above $8B. The $2T-plus target is more than double the $965B May 2026 round.",
-    "source": "https://www.ig.com/en-ch/news-and-trade-ideas/anthropic-ipo-valuation-losses-pre-ipo-261001",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "NET",
-    "headline": "Cloudflare ships Cloudflare OS agent workspace and Clef decision models; stock +1.07% to $351.00",
-    "summary": "Cloudflare OS (open source now, managed version on a waitlist) gives companies an agent workspace tied to GitHub and Google Workspace. Clef is an Apache 2.0 classification model family with 209ms median latency (38.8ms for Clef-flash) and a 64k context. NET closed Oct 1 at $351.00, +1.07%, against a 52-week high of $367.43.",
-    "source": "https://blog.cloudflare.com/managed-cloudflare-os/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "HOOD",
-    "headline": "Robinhood sets Q3 results for Oct 27; stock -1.20% to $111.15 after summit rally",
-    "summary": "Q3 2026 results come after the close on Tuesday Oct 27, with the call at 5pm ET. HOOD closed Oct 1 at $111.15, down 1.20%, after a roughly 5% jump on the AI agents and 24/7 trading announcements earlier in the week.",
-    "source": "https://www.manilatimes.net/2026/10/02/tmt-newswire/globenewswire/robinhood-markets-inc-to-announce-third-quarter-2026-results-on-october-27-2026/2437592",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "AAPL",
-    "headline": "Apple -0.81% to $330.32; smart-home launch set for Oct 13",
-    "summary": "AAPL closed Oct 1 at $330.32 (-$2.70) as Morgan Stanley trimmed its target and agentic-AI disruption worries continued. Per StockAnalysis, Apple plans a smart-home push on Oct 13 (updated HomePod mini, TV set-top box), and a jury verdict of over $5.7B for Taction on haptics patents is still outstanding.",
-    "source": "https://stockanalysis.com/stocks/aapl/",
     "impact": "negative"
   }
 ]
