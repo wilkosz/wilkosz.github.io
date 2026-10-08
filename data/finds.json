@@ -1,13 +1,12 @@
 {
-  "as_of": "2026-10-08T00:43",
-  "summary": "Quiet-to-moderate day. Two new tractors and a strong Stihl MS 500i turned up; a handful of earlier finds sold. Prices on Apple builds and winches are flat. Gumtree, Grays and Pickles searches gave little usable data, so Facebook and dealer sites carried most of the sweep.",
+  "as_of": "2026-10-08T13:37",
+  "summary": "Quiet day. One new saw; the Slattery tractor and trailer lots closed. Every other live listing is still up at the same price. Gumtree, Grays, Manheim, RB and TFM were blocked or empty, so coverage leaned on Facebook and a few dealer sites.",
   "headlines": [
-    "Chainsaw: Stihl MS 500i with 25in bar, $1,200, Chadstone. Cheapest big Stihl seen; call today.",
-    "Tractor: 2021 Massey Ferguson 1204, 120hp, loader, 1,278 hours, $65,000 ex GST. Location unstated.",
-    "Tractor: Slattery 2013 JD 5090R, 1,053 hours, bid $23,300, closes 7pm tonight. Loader unconfirmed.",
-    "Trailer: 2006 beavertail tag, 12 t ATM, Bendigo (390km), $18,000. Griffith 2001 tandem is $24,000.",
-    "Sold or gone: Stihl MS 462 Balnarring, Deutz-Fahr 420 (232 hours), Pickles Panus trailer, Armstrong disc.",
-    "Mac mini and winches unchanged: M6 32GB/1TB $2,799; winches $380 to $1,099."
+    "Chainsaw: new Husqvarna 395 XP, spare bar plus new 25in chain, $1,200, Melbourne. Only new find today.",
+    "Slattery auction closed 8 Oct: Deere 5090R (last bid $23,300) and Ally Weld trailer ($2,600) marked sold.",
+    "Pickles Kubota M108S (Mildura, 3,621 hours) opens 12 Oct, closes 13 Oct.",
+    "Tractors, trailers, homes, discs, rippers, winches: all live listings still up, no price changes.",
+    "Mac mini unchanged: M6 32GB/1TB $2,799; M5 Pro 48GB $4,049; 64GB $4,949."
   ],
   "finds": [
     {
@@ -62,6 +61,31 @@
       "first_seen": "2026-10-08",
       "updated": "2026-10-08",
       "photo": "img/finds/fb-1417308616586147.jpg"
+    },
+    {
+      "key": "fb-1108551484878843",
+      "want": "chainsaw",
+      "title": "Husqvarna 395 XP with spare bar and chain, 25in speed tip bar",
+      "price_aud": 1200,
+      "price_note": null,
+      "location": "Melbourne, VIC",
+      "distance_km": null,
+      "detail": [
+        "395 XP",
+        "spare bar and chain included",
+        "new 25in speed tip bar and chain",
+        "Used - Good",
+        "hours and service history not stated"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1108551484878843/",
+      "verdict": "strong",
+      "why": "395 XP in Melbourne at $1,200 with a spare bar and new 25in chain, mid band.",
+      "status": "live",
+      "ends": null,
+      "first_seen": "2026-10-08",
+      "updated": "2026-10-08",
+      "photo": "img/finds/fb-1108551484878843.jpg"
     },
     {
       "key": "fb-3457382634440178",
@@ -240,30 +264,6 @@
       "first_seen": "2026-10-01",
       "updated": "2026-10-08",
       "photo": "img/finds/fb-1785449559380545.jpg"
-    },
-    {
-      "key": "fb-1781980306209770",
-      "want": "chainsaw",
-      "title": "Stihl MS 661 C-M Magnum",
-      "price_aud": 1650,
-      "price_note": "seller says negotiable",
-      "location": "Melbourne, VIC",
-      "distance_km": null,
-      "detail": [
-        "91cc class MS 661 C-M",
-        "Used - like new",
-        "described as good working condition",
-        "bar length, hours, service history not stated",
-        "pickup in Melbourne"
-      ],
-      "source": "Facebook Marketplace",
-      "url": "https://www.facebook.com/marketplace/item/1781980306209770/",
-      "verdict": "decent",
-      "why": "Like-new 661 C-M in Melbourne but $1,650 with no bar or hours stated; ask first.",
-      "status": "live",
-      "ends": null,
-      "first_seen": "2026-10-08",
-      "updated": "2026-10-08"
     },
     {
       "key": "hayes-extra-heavy-duty-single-tine-tractor-ripper-pipelayer",
@@ -545,7 +545,7 @@
       "want": "drop-deck-trailer",
       "title": "2005 Ally Weld Tag 2 dual axle plant trailer",
       "price_aud": 2600,
-      "price_note": "current bid (was $1,800 opening); Slattery buyer premium 16.5% inc GST; online auction closes 7:00pm AEDT 8 Oct",
+      "price_note": "auction closed 7:00pm AEDT 8 Oct; final bid not shown on the page; last bid read was $2,600",
       "location": "Canberra, ACT",
       "distance_km": 410,
       "detail": [
@@ -559,8 +559,8 @@
       "source": "Slattery Auctions",
       "url": "https://slatteryauctions.com.au/auctions/11817",
       "verdict": "stretch",
-      "why": "2005 plant trailer with ramps and a 5.3m deck at a $2,600 bid, but flat deck, about 410km, no rating or brake details, and it closes tonight.",
-      "status": "live",
+      "why": "Auction closed 8 Oct.",
+      "status": "sold",
       "ends": "2026-10-08",
       "first_seen": "2026-10-02",
       "updated": "2026-10-08",
@@ -589,7 +589,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-02",
-      "updated": "2026-10-02",
+      "updated": "2026-10-08",
       "photo": "img/finds/machines4u-1169819.jpg",
       "photo_url": "https://media.machines4u.com.au/machinery/19/1169819/2018-Heavy-Haul-Plant-Trailer_82288214.l.jpg"
     },
@@ -1333,7 +1333,7 @@
       "want": "tractor",
       "title": "2013 John Deere 5090R (ex lease), 1,053 hours",
       "price_aud": 23300,
-      "price_note": "current bid at time of reading; Slattery buyer premium applies (rate not read on this lot); online auction closes 7:00pm AEDT 8 Oct",
+      "price_note": "auction closed 7:00pm AEDT 8 Oct; final bid not shown on the page; last bid read was $23,300",
       "location": "Fyshwick, ACT",
       "distance_km": 410,
       "detail": [
@@ -1347,8 +1347,8 @@
       "source": "Slattery Auctions",
       "url": "https://slatteryauctions.com.au/assets/144082?auctionId=11817",
       "verdict": "stretch",
-      "why": "Known maker, 1,053 hours and a $23,300 bid, but a loader is not confirmed, hp and cab are not stated, Canberra is about 410km, and it closes tonight.",
-      "status": "live",
+      "why": "Auction closed 8 Oct.",
+      "status": "sold",
       "ends": "2026-10-08",
       "first_seen": "2026-10-08",
       "updated": "2026-10-08"
@@ -1376,7 +1376,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-01",
-      "updated": "2026-10-02"
+      "updated": "2026-10-08"
     },
     {
       "key": "fb-1924205741886371",
