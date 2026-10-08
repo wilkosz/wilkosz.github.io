@@ -1,5 +1,245 @@
 [
   {
+    "date": "2026-10-08",
+    "ticker": "005930",
+    "headline": "Samsung Q3 preliminary operating profit 107.4T won, first quarter above 100T",
+    "summary": "Sales 195T won (+127% y/y); profit +20% q/q. HBM4 sales rose steeply ahead of Vera Rubin; DDR4 8Gb averaged $26 at quarter-end (+23.8% q/q). In line with consensus of ~106-109T.",
+    "source": "https://en.sedaily.com/finance/2026/10/08/samsung-quarterly-operating-profit-tops-107-trillion-won",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-07",
+    "ticker": "MRVL",
+    "headline": "Brokers raise Marvell targets, TD Cowen upgrades to Buy",
+    "summary": "TD Cowen upgraded to Buy with a $350 target; Piper, Needham and BofA went to $400. Morgan Stanley (Equal Weight) and Goldman (Neutral) stayed cautious. The stock gave back some of the gain on Oct 7.",
+    "source": "https://247wallst.com/investing/2026/10/07/analysts-just-upgraded-marvell-heres-what-they-see-coming-next/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-07",
+    "ticker": "NVDA",
+    "headline": "Microsoft and Dell launch Nvidia RTX Spark AI PCs",
+    "summary": "Microsoft unveiled the Surface Laptop Ultra on Nvidia's RTX Spark chip from $2,600 plus a $6,000 dev box. Dell's XPS 16 Creator Edition also uses the chip. It opens a PC channel beyond data centres.",
+    "source": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-07",
+    "ticker": "MU",
+    "headline": "D.A. Davidson lifts Micron target to Street-high $3,000",
+    "summary": "The firm raised its target from $2,100 and kept Buy, saying investors are early in understanding a 3-5 year growth phase. The consensus target is far lower, at about $1,630.",
+    "source": "https://www.tipranks.com/news/the-fly/micron-price-target-raised-to-3000-from-2100-at-da-davidson-thefly-news",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-07",
+    "ticker": "MU",
+    "headline": "Micron Taoyuan union votes to authorise a strike",
+    "summary": "99% of voting members (1,994) backed strike action over the bonus scheme after mediation failed in September. No strike date is set, and shares fell about 3% premarket before closing higher.",
+    "source": "https://www.tipranks.com/news/micron-stock-drops-as-taiwan-union-secures-strike-mandate",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-07",
+    "ticker": "TSM",
+    "headline": "Citi raises TSMC target, expects Q3 beat on Oct 15",
+    "summary": "Citi lifted its target to NT$4,000 from NT$3,800, kept Buy and opened a 90-day upside catalyst watch, expecting TSMC to beat raised guidance. August revenue was up 53% year on year; September figures are still due.",
+    "source": "https://www.tipranks.com/news/the-fly/citi-ups-tsmc-target-opens-upside-90-day-catalyst-watch-thefly-news",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-07",
+    "ticker": "TSM",
+    "headline": "Musk says TSMC will not run his Terafab chip complex",
+    "summary": "Musk said there is 'zero doubt' his companies, not TSMC, will build and operate Terafab, a project costing up to $119B. TSM fell more than 1% intraday and Intel gained.",
+    "source": "https://www.tipranks.com/news/tsm-stock-falls-after-musk-says-zero-doubt-taiwan-semi-wont-run-its-terafab-ai-chip-complex",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-07",
+    "ticker": "GOOGL",
+    "headline": "Waymo upsizes first debt raise to $5B",
+    "summary": "Lenders include Pimco, Blackstone and Sixth Street, priced 5.25 points over the benchmark rate, per Bloomberg. It funds Waymo's global expansion without new Alphabet equity.",
+    "source": "https://www.tipranks.com/news/the-fly/waymo-increases-size-of-debt-raise-to-5b-bloomberg-says-thefly-news",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-07",
+    "ticker": "META",
+    "headline": "Meta launches Muse iPad app with business and retail connectors",
+    "summary": "The iPad app arrives a month after the mobile launch (over 6.6 million downloads) and adds Asana, Canva, GitHub, Walmart and Best Buy connectors. Meta is also working on an open standard for AI agents; the stock fell 2.4% on the day.",
+    "source": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-07",
+    "ticker": "NFLX",
+    "headline": "Barclays cuts Netflix target to $70 from $80",
+    "summary": "Equal Weight kept; the Q3 preview says earnings will be about narrative (mergers, AI) rather than the quarter itself.",
+    "source": "https://www.tipranks.com/news/the-fly/netflix-price-target-lowered-to-70-from-80-at-barclays-thefly-news",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-07",
+    "ticker": "ENPH",
+    "headline": "Deutsche Bank names Enphase a short-term sell idea",
+    "summary": "Citing high expectations for safe-harbor revenue into 2027, it expects softer core growth, a Q4 miss and lower 2027 estimates; Hold rating and $34 target kept.",
+    "source": "https://www.tipranks.com/news/the-fly/enphase-energy-named-short-term-sell-idea-at-deutsche-bank-thefly-news",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-07",
+    "ticker": "FIGR",
+    "headline": "Goldman trims Figure target to $41 from $48",
+    "summary": "Buy rating kept. BofA also cut to $44 from $49 on Oct 6.",
+    "source": "https://www.tipranks.com/news/the-fly/figure-technology-price-target-lowered-to-41-from-48-at-goldman-sachs-thefly-news",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-07",
+    "ticker": "STRIPE",
+    "headline": "No new Stripe round; secondary quote implies about $196B",
+    "summary": "The last tender was $159B in February. A secondary-market quote implies about $196B but is not a deal. Stripe added a FedEx Dataworks partnership and agreed to buy Parafin.",
+    "source": "https://stockanalysis.com/private/stripe/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-07",
+    "ticker": "AAPL",
+    "headline": "EU weighs annual lump-sum levy on very large companies",
+    "summary": "The FT reports the Commission has recast its digital tax as a flat annual contribution from all very large corporations, to avoid a US trade fight. No rate is set; Apple, Google and Meta would likely pay, with iCloud, Apple Music and Apple TV counted as EU revenue. Shares closed $336.67 (+0.9%), above the $328 consensus target.",
+    "source": "https://9to5mac.com/2026/10/07/apple-may-have-to-pay-an-annual-lump-sum-to-the-eu-in-a-tax-compromise/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-07",
+    "ticker": "SPOT",
+    "headline": "Spotify jumps about 5% to $513 on analyst support and a video deal",
+    "summary": "Evercore ISI raised its target to $700 from $650; UBS trimmed to $675 and KeyBanc to $660, all keeping Buy-equivalent ratings. Spotify will host full video episodes of the Open Mic and Verified podcasts. Q3 results are due Oct 22 before the open.",
+    "source": "https://stockstotrade.com/news/spotify-technology-sa-spot-news-2026_10_07/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-07",
+    "ticker": "HOOD",
+    "headline": "Robinhood slips as bitcoin falls below $83,000",
+    "summary": "Crypto-linked stocks including Robinhood, Coinbase and Strategy dropped on Oct 7; HOOD closed at $109.51 (-2.2%), 6% below its Oct 2 level. Q3 results are on Oct 27 after the close.",
+    "source": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-7-dow-sp-500-nasdaq-080241833.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-07",
+    "ticker": "MACRO",
+    "headline": "Fed minutes: all officials backed September hike, split on what comes next",
+    "summary": "Per Bloomberg and Raisin, some regional presidents want 1-2 more hikes, others a pause. Data since (core PCE 3.0%, 29K payrolls) cut hike odds for Oct 28 to about 20%. Minutes text itself not retrieved.",
+    "source": "https://www.bloomberg.com/news/articles/2026-10-07/fed-minutes-show-hawkish-unity-behind-september-rate-hike",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-06",
+    "ticker": "MRVL",
+    "headline": "Marvell investor day lifts targets to $20B revenue in FY28",
+    "summary": "Marvell projects a $400B addressable market by 2030, FY28 revenue of about $20B against $18.2B consensus, custom silicon above $12B by FY29, and FY31 revenue of $70-90B with EPS above $30. Shares reversed a 3% dip to close up about 6%.",
+    "source": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-stock-rallies-following-142513133.html",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-06",
+    "ticker": "TSM",
+    "headline": "Taiwan opens Phoenix office as TSMC Arizona total reaches $265B",
+    "summary": "TSMC has pledged another $100B for Phoenix, taking total Arizona investment to $265B, the largest foreign direct investment in US history. China objected to the office opening.",
+    "source": "https://fortune.com/2026/10/06/taiwan-opens-phoenix-office-as-265-billion-chip-investment-in-arizona-grows-over-chinas-objections/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-06",
+    "ticker": "AMZN",
+    "headline": "Tigress raises Amazon target to $385 from $315",
+    "summary": "Tigress kept Buy, citing AI, cloud, advertising and Prime engagement, and said returns on heavy investment are about to outgrow the capital needed. Prime Big Deal Days ran Oct 6-7.",
+    "source": "https://www.tipranks.com/news/the-fly/amazon-com-price-target-raised-to-385-from-315-at-tigress-financial-thefly-news",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-06",
+    "ticker": "GOOGL",
+    "headline": "Finland orders Google to pause work at two data-centre sites",
+    "summary": "The regulator wants an environmental assessment before building continues at Muhos and Kajaani; the stop takes effect by Oct 23. The sites are part of a $15B Finland plan through 2028.",
+    "source": "https://www.tipranks.com/news/googles-15b-finland-ai-buildout-hit-by-data-center-construction-halt",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-06",
+    "ticker": "META",
+    "headline": "Citi sees Meta's Muse as a $27B business by 2030",
+    "summary": "Citi estimates over $27B by 2030, mostly transactions and subscriptions, with 1.8 million daily users. PYMNTS notes few households pay for AI and compute costs are high.",
+    "source": "https://www.pymnts.com/news/artificial-intelligence/2026/metas-muse-could-become-27-billion-business-citi-says/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-06",
+    "ticker": "ENPH",
+    "headline": "Barclays cuts Enphase target to $44 from $50",
+    "summary": "Equal Weight kept. Oppenheimer also trimmed to $55 from $56 this week, ahead of Q3 results.",
+    "source": "https://www.tipranks.com/news/the-fly/enphase-energy-price-target-lowered-to-44-from-50-at-barclays-thefly-news",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-06",
+    "ticker": "FIGR",
+    "headline": "Figure reports Q3 marketplace volume of $5.1B, up 107% year on year",
+    "summary": "Volume was at the high end of the $4.8-5.2B guide, up 20% on Q2; September was $1.78B. YLDS in circulation fell 9% from Q2 to $504M.",
+    "source": "https://www.globenewswire.com/news-release/2026/10/06/3376144/0/en/figure-technology-solutions-reports-preliminary-september-q3-2026-operating-data.html",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-06",
+    "ticker": "OPENAI",
+    "headline": "OpenAI in early talks for $30B round at about $1.4T",
+    "summary": "Talks with Abu Dhabi's MGX (up to $10B) and BlackRock are early, with no lead investor and terms that may change. The last closed round was $122B at $852B post-money in March.",
+    "source": "https://en.cryptonomist.ch/2026/10/06/openai-30-billion-funding",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-06",
+    "ticker": "MRVL",
+    "headline": "Marvell investor day: FY31 revenue framework $70-90B, FY28 about $20B",
+    "summary": "Custom compute FY29 above $12B; addressable market ~$400B by 2030; consensus FY31 ~$47B. Shares rose Tuesday and slipped pre-market Wednesday; TD Cowen upgraded to Buy, Needham target $400.",
+    "source": "https://www.techtimes.com/articles/328671/20261006/marvell-targets-90b-revenue-2031-google-warrant-ties-120b-chip-buys-marvell-equity.htm",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-05",
+    "ticker": "BABA",
+    "headline": "Alibaba jumps 4% as AI cloud growth reclaims the narrative",
+    "summary": "June-quarter AI cloud and compute revenue grew 45% to $7.1B and adjusted EBITA rose 133% to $830M, but quarterly capex of nearly $10B is about 12 times cloud EBITA.",
+    "source": "https://www.gurufocus.com/news/9109743/alibaba-stocks-jump-4-as-ai-cloud-growth-reclaims-the-narrative",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-05",
+    "ticker": "ANTHROPIC",
+    "headline": "Pentagon says it has stopped using Anthropic products",
+    "summary": "A Defense Department official told the BBC the Pentagon 'has ceased the use of Anthropic products'. Sources said Claude was still running inside Palantir's Maven system as recently as last week. Government exposure is a disclosure risk ahead of the Oct 14 investor day and a planned November listing.",
+    "source": "https://aiweekly.co/ai-news-today/edition/2026-10-06",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-05",
+    "ticker": "NET",
+    "headline": "Cloudflare closes Birthday Week with 46 launches",
+    "summary": "Includes Pay Per Use (publishers billed when verified AI buyers use their content), a Monetization Gateway beta for AI-agent payments over HTTP 402, Basin GA on Iceberg and R2, and a Cloudflare OS agent workspace waitlist. The stock still fell 3.4% on Oct 7 to $342.97 with the wider tape.",
+    "source": "https://blog.cloudflare.com/birthday-week-2026-wrap-up/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-05",
+    "ticker": "MACRO",
+    "headline": "ISM services PMI 54.9; prices paid 74.0, highest since July 2022",
+    "summary": "Headline eased 0.5 to 54.9 (est 55.0); new orders 59.8, employment 50.1. Fuel costs and tariffs cited. Argues against a Fed pivot to cuts.",
+    "source": "https://www.roic.ai/news/us-services-activity-cools-in-septemberbut-inflation-pressures-intensify-ism-survey-shows-10-05-2026",
+    "impact": "negative"
+  },
+  {
     "date": "2026-10-02",
     "ticker": "NVDA",
     "headline": "Morgan Stanley reinstates Nvidia as top pick in semiconductors",
@@ -398,245 +638,5 @@
     "summary": "AAPL closed Oct 1 at $330.32 (-$2.70) as Morgan Stanley trimmed its target and agentic-AI disruption worries continued. Per StockAnalysis, Apple plans a smart-home push on Oct 13 (updated HomePod mini, TV set-top box), and a jury verdict of over $5.7B for Taction on haptics patents is still outstanding.",
     "source": "https://stockanalysis.com/stocks/aapl/",
     "impact": "negative"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "SPOT",
-    "headline": "Spotify +0.82% to $491.40; Evercore lifts target to $700, KeyBanc trims to $660",
-    "summary": "SPOT closed Oct 1 at $491.40, +0.82%, against a 52-week range of $405.00 to $721.67. Evercore ISI raised its target to $700 from $650 while KeyBanc cut to $660 from $680; next earnings Oct 22.",
-    "source": "https://stockanalysis.com/stocks/spot/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "SKHY",
-    "headline": "SK hynix ADR closes up 5.1% at $193.50; Seoul steady Friday",
-    "summary": "The ADR caught up with Seoul's 3.2% rise on Micron's tight-supply-through-2028 message, then eased 0.9% after hours. Seoul Friday: KRW 1,839,000 (+0.3%), KOSPI -0.15% at 6,961 at the open.",
-    "source": "https://finance.yahoo.com/quote/000660.KS/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "GEV",
-    "headline": "GE Vernova jumps 3.9% to $987.45 on a reiterated bullish call",
-    "summary": "Best large-cap move on the list on a day semiconductor ETFs rose about 1.5% and Treasury yields eased. Flat after hours; the Q3 orders print on Oct 28 is the next test.",
-    "source": "https://stockanalysis.com/stocks/gev/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "HOOD",
-    "headline": "Robinhood sets Q3 results for October 27",
-    "summary": "A week earlier than the Nov 4 estimate. The stock closed at $111.15 (-1.2%) as investors weigh valuation after the AI agents launch.",
-    "source": "https://stockanalysis.com/stocks/hood/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "AVGO",
-    "headline": "Broadcom falls 2.2% to $343.64 on the Anthropic loan, while semiconductor ETFs rise 1.5%",
-    "summary": "The up-to-$42B convertible loan to Anthropic is being read as supplier-financed demand. Consensus target is still $531.85 (+55%); +0.5% after hours.",
-    "source": "https://stockanalysis.com/stocks/avgo/forecast/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "MACRO",
-    "headline": "Wall Street recovers as Treasury yields retreat from 24-year high",
-    "summary": "S&P 500 ended at 7,666.45 (+0.19%), Nasdaq Composite 26,871.60 (+0.04%), Dow 50,926.74 (+0.04%) after early losses. VIX 16.39. The 10-year yield closed near 5.26% after peaking at 5.34% intraday. Futures are slightly higher overnight.",
-    "source": "https://www.investing.com/news/economy-news/dow-futures-hit-threemonth-low-as-yields-surge-micron-earnings-offer-support-4926657",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "MACRO",
-    "headline": "Jefferson leans against an October hike; Logan wants 50bp more",
-    "summary": "Fed Vice Chair Jefferson said any further adjustment depends on the data and may take more time; Williams saw no urgency. Odds of a hike at the Oct 27-28 meeting fell to about 25% from about 70% earlier in the week. Logan said the range needs to rise 50bp or more.",
-    "source": "https://www.investing.com/news/economy-news/fed-may-take-time-to-make-next-interest-rate-move-jefferson-says-4928035",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "MACRO",
-    "headline": "Fed's Cook names AI buildout as top inflation risk for 2027",
-    "summary": "Cook said AI expansion may create price pressures that persist longer than expected and that productivity gains are too uncertain to count on. She noted inflation was 3.4% in August and that the September hike was unanimous.",
-    "source": "https://www.investing.com/news/stock-market-news/feds-cook-sees-ai-buildup-as-top-inflation-risk-for-2027-93CH-4928751",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "MACRO",
-    "headline": "US presses France and Germany on diesel stocks; Iran talks stuck on sequencing",
-    "summary": "Energy Secretary Wright said he is highly confident Europe will release diesel reserves after reports of a US export-ban threat. Separately, Iran received a US reply to its proposal (US lifts port blockade, Iran reopens Hormuz within seven days); parties agree on steps but not order. Brent about $102.50.",
-    "source": "https://www.investing.com/news/commodities-news/us-energy-secretary-wright-highly-confident-europe-will-release-diesel-stocks-4928140",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "MACRO",
-    "headline": "Mizuho calls memory and semicap cheap after Micron results",
-    "summary": "Mizuho's Jordan Klein said memory supply is tight and tightens further next year, favouring memory, semiconductor equipment and foundries; he told clients to ignore daily chip-versus-software swings driven by quant and passive flows.",
-    "source": "https://www.investing.com/news/stock-market-news/these-ai-chip-stocks-are-dirt-cheap-mizuho-says-4927418",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "MU",
-    "headline": "Micron falls 3% in first regular session after record quarter",
-    "summary": "Shares slid about 3% Thursday morning despite record $54.23B revenue and above-consensus guidance; the pullback is read as profit-taking after a 268% year-to-date run and some margin softness. JPMorgan's Harlan Sur called it 'a decisive beat-and-raise' and D.A. Davidson said the cycle may extend rather than peak. Western Digital fell 2%.",
-    "source": "https://finance.yahoo.com/markets/stocks/articles/micron-slips-3-despite-record-141636340.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "MU",
-    "headline": "Goldman lifts Micron target to $1,250 but stays Neutral; Mizuho target to $1,400, Deutsche target $1,550",
-    "summary": "Goldman raised its target from $1,100 to $1,250, citing 26 long-term customer agreements covering ~35% of expected revenue through FY2030 but warning new industry supply could slow HBM pricing in 2028. Mizuho lifted its target to $1,400 from $1,300 (Outperform) on supply tightness into 2028; Deutsche kept Buy and its $1,550 target despite 'squishiness' on margins.",
-    "source": "https://www.tipranks.com/news/mu-stock-goldman-raises-target-after-earnings-beat-but-stays-neutral",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "NVDA",
-    "headline": "10-year Treasury hits 5.33%, highest since 2002, capping the Micron-led tech bid",
-    "summary": "Stocks opened higher on Micron then faded as the 10-year touched 5.34%; S&P 500 -0.2%, Nasdaq -0.1%, Dow -0.4% around 10:30 ET with crude up 1.4%. ISM manufacturing came in at 54.5 vs 55.0 expected (prices paid 77.9 from 71.1), and Waller's 10:00 ET speech was about FRED data and AI, with no policy comment.",
-    "source": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-touches-highest-level-since-2002-alphacheck-135255038.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "NVDA",
-    "headline": "Barclays sees at least $30B of hyperscaler revenue upside for Nvidia in 2026 and 2027",
-    "summary": "Analyst Tom O'Malley used Nvidia's disclosed share of top-five cloud capex (44% estimate for 2027) to imply hyperscaler revenue above Barclays' base case by at least $30B in each year, and said sentiment can keep improving on buybacks and the Hugging Face deal. Separately Cantor reiterated Overweight with a $350 target.",
-    "source": "https://finance.yahoo.com/markets/stocks/articles/fresh-data-suggests-upside-nvidia-140558159.html",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "GOOGL",
-    "headline": "Google TPUs launched to orbit on SpaceX Transporter-18 for Project Suncatcher",
-    "summary": "A pathfinder satellite carrying Google TPUs lifted off from Vandenberg Thursday to test radiation and heat handling for solar-powered AI compute in low Earth orbit. Google says orbit offers up to eight times more solar power than Earth; SpaceX plans Nvidia-chip AI satellites by late 2027.",
-    "source": "https://tech.yahoo.com/ai/gemini/articles/google-launches-ai-chips-orbit-121615910.html",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "GOOGL",
-    "headline": "JPMorgan keeps Overweight on Alphabet after Gemini 4 Argon, says Google must reclaim AI leadership",
-    "summary": "Shares rose as much as 1.5% premarket before fading. Argon launches at $2 per million input and $10 per million output tokens, initially only to trusted cyber defenders via the Fairwind program; JPMorgan said Google needs to 're-establish itself at the frontier' and flagged strength in coding, agentic workflows and cybersecurity.",
-    "source": "https://finance.yahoo.com/technology/ai/articles/googl-stock-rises-gemini-4-125240353.html",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "META",
-    "headline": "Meta spells out Muse monetisation: a fee on savings, subscriptions, 200M small businesses",
-    "summary": "President Dina Powell McCormick told CNBC Meta is 'thinking through the potential of taking a fee when we help you save money' and sees subscription opportunities, with roughly 200M small-business owners already on Meta's platforms. Muse is the top App Store download and Meta says it will come to its AI glasses in coming months.",
-    "source": "https://finance.yahoo.com/small-business/articles/meta-next-ai-gold-mine-120028511.html",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "META",
-    "headline": "Deutsche Bank names Meta and ServiceNow among nine picks for the next leg of the AI trade",
-    "summary": "Deutsche's strategists said the better opportunities now sit in targeted hardware value-chain names and software companies turning AI agents into revenue, citing Meta's investment at scale and its raised 2026 capex floor of $130B.",
-    "source": "https://finance.yahoo.com/technology/ai/articles/deutsche-bank-picks-meta-servicenow-125916376.html",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "TSM",
-    "headline": "TSMC weighs multi-fab Texas campus at $20B+ per fab, contingent on CHIPS credit renewal",
-    "summary": "Bloomberg reports early-stage planning for a Texas campus separate from the $265B Arizona commitment, with each fab costing at least $20B; renewal of the 35% advanced-manufacturing tax credit before year-end could decide it. North American customers are over 75% of wafer revenue. TSMC: 'no comment on market rumors'. Shares rose 1.3% in Taipei Thursday as the Taiex gained 0.9%.",
-    "source": "https://finance.yahoo.com/technology/articles/tsmc-mulls-multibillion-dollar-chip-135354924.html",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "MRVL",
-    "headline": "BofA lists Marvell, Nvidia and Micron among five must-own chips for Q4, lifts AI data-centre forecast to $2.2T",
-    "summary": "BofA raised its 2030 AI data-centre market forecast to $2.2T from $1.8T (40% annual growth) and named NVDA, INTC, MRVL, MU and LRCX, citing Marvell's Oct 6 analyst day and XPU ramp, Nvidia's buybacks and GTC events, and Micron's buybacks starting Dec 9. Q4/Q1 have historically delivered 300-500bp of outperformance for chips.",
-    "source": "https://finance.yahoo.com/technology/ai/articles/5-ai-chip-stocks-must-114614029.html",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "RKT",
-    "headline": "ISM manufacturing 54.5 in September, prices paid jumps to 77.9; 10-year yield holds above 5.3%, highest since 2002",
-    "summary": "The headline missed the 55.0 consensus but prices paid rose from 71.1 to 77.9 and new orders to 55.3, keeping the bond sell-off going. The 10-year traded as high as 5.34% Thursday after breaking its 2007 peak Wednesday; RKT, LDI and FIGR all opened lower.",
-    "source": "https://www.fxstreet.com/news/us-ism-manufacturing-pmi-fell-to-545-in-september-202610011406",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "LDI",
-    "headline": "30-year fixed mortgage rate 7.60% as of Sept 30, up 2bp, with the 10-year at a 20-year high",
-    "summary": "Mortgage News Daily's latest reading is 7.60% after a day that started better on PCE and ended worse. Thursday's reading will not post until the afternoon, but with yields higher again after ISM it is unlikely to improve.",
-    "source": "https://247wallst.com/investing/2026/10/01/the-10-year-yield-just-broke-its-2007-peak-here-is-what-comes-next/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "AMZN",
-    "headline": "Goldman adds Amazon to its US conviction list with a twelve-month target of $375",
-    "summary": "Goldman cites AWS revenue of $42.2B in Q2, up 37% year on year and the fastest in 18 quarters, plus total revenue above $200B for the first time. The stock still slipped 0.9% at the open as yields rose.",
-    "source": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-adds-amazon-conviction-131040547.html",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "AMZN",
-    "headline": "Amazon signs 20-year deal with Constellation for Calvert Cliffs nuclear output and funds a 190 MW uprate",
-    "summary": "The agreement covers 690 MW from the Maryland plant, with Amazon financing roughly 190 MW of added capacity due 2030-2032. It is Amazon's first deal to fund an uprate at an existing reactor and supports Constellation's licence renewals.",
-    "source": "https://finance.yahoo.com/energy/articles/amazon-signs-20-nuclear-power-113015798.html",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "NFLX",
-    "headline": "Sarandos at Bloomberg Screentime: Netflix is 'not growing as fast as I want'",
-    "summary": "The co-CEO said growth has fallen short of his ambitions and pointed to live events (about 5% of a $20B content budget, 1% of viewing) and creator-led video as the levers. Shares were down 2.0% in the first hour ahead of the Oct 20 report.",
-    "source": "https://finance.yahoo.com/media-advertising/articles/netflix-ceo-sounds-warning-growth-122148901.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "NFLX",
-    "headline": "Guggenheim raises Netflix target to $80 from $75, keeps Buy",
-    "summary": "Analyst Michael Morris held Q3 estimates at $12.9B revenue and said investor worries about revenue trajectory and the content slate are overdone. It follows Deutsche Bank's upgrade to Buy earlier in the week.",
-    "source": "https://www.tipranks.com/news/the-fly/netflix-price-target-raised-to-80-from-75-at-guggenheim-thefly-news",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "1211",
-    "headline": "BYD September sales 463,561, up 17.0% y/y and 5.3% on August, best month of 2026",
-    "summary": "Overseas 180,700 (39% of total, +153.6% y/y, -4.6% m/m). Passenger BEV 273,143 (+33.2%), PHEV 183,570 (-2.4%). Jan-Sep 3,131,576 (-3.9% y/y); overseas YTD 1,342,960. 2026 overseas guidance lifted to 1.9-2.0m, 2027 target 2.5m+.",
-    "source": "https://cnevpost.com/2026/10/01/byd-sept-2026-sales/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "ANTHROPIC",
-    "headline": "Broadcom to lend Anthropic up to $42b to lease TPUs, IPO filing shows",
-    "summary": "Facility covers about a third of Anthropic's TPU compute commitment; multi-gigawatt next-gen TPU capacity from 2027, when Anthropic is expected to be Broadcom's biggest compute customer. Filing flags conflict-of-interest and default-acceleration risks from Broadcom being both supplier and lender.",
-    "source": "https://www.thenews.com.pk/latest/1418340-broadcoms-42-billion-deal-with-anthropic-key-details-to-know",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "ANTHROPIC",
-    "headline": "Barclays targets Claude Code for 50% of developers by end-2026, majority in 2027",
-    "summary": "Claude-based Colleague Knowledge Assistant already used by 16,000+ staff with 1m+ searches; Global Markets using Claude on ~120,000 emails a day. Regulated-bank reference customer ahead of the IPO.",
-    "source": "https://www.anthropic.com/news/barclays-scales-claude",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-01",
-    "ticker": "HOOD",
-    "headline": "Robinhood unveils in-app AI agents that trade on customers' behalf; crypto perps up to 10x",
-    "summary": "HOOD Summit: agents get a dedicated agentic account, trade approvals on by default but can be switched off; builds on 150,000+ external-agent accounts since May. GPT-Luna free to Dec 31. Crypto perpetuals (10x BTC/ETH, 3x others) via Bitstamp; 24/7 stock trading early 2027 pending approval.",
-    "source": "https://finance.yahoo.com/technology/ai/articles/robinhood-unveils-app-ai-agents-094550758.html",
-    "impact": "positive"
   }
 ]

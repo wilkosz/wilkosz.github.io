@@ -1,146 +1,6 @@
 {
-  "as_of": "2026-10-02",
+  "as_of": "2026-10-08",
   "events": [
-    {
-      "key": "2026-10-01-boj-tankan",
-      "date": "2026-10-01",
-      "time": "08:50 JST (09:50 AEST Thu; 19:50 ET Wed)",
-      "ticker": "BOJ",
-      "title": "BoJ September Tankan",
-      "type": "macro",
-      "why": "AI/semis capex read for Keyence and Toyota and a BoJ hike input that moves the yen carry trade behind US tech.",
-      "link": "https://www.boj.or.jp/en/statistics/tk/index.htm"
-    },
-    {
-      "key": "2026-10-01-byd-sales",
-      "date": "2026-10-01",
-      "time": "Filed HKEX Oct 1 18:51 HKT (20:51 AEST Thu; 06:51 ET)",
-      "ticker": "BYD",
-      "title": "BYD September sales 463,561 (+17.0% y/y, +5.3% m/m); overseas 180,700 (+154% y/y); BEV 273,143 (+33%), PHEV 183,570 (-2.4%); Jan-Sep 3.13M (-3.9%)",
-      "type": "other",
-      "why": "Watchlist; a 2026 high and fifth straight y/y gain, but overseas is 39% of volume and does all the growth - PHEV still shrinking and year-to-date still down. Li Auto fell 6.3% m/m, Xpeng 41,256 (-0.8% y/y), Nio 37,408, Zeekr 37,216 record, GWM -14%.",
-      "link": "https://cnevpost.com/2026/10/01/byd-sept-2026-sales/"
-    },
-    {
-      "key": "2026-10-01-fed-jefferson",
-      "date": "2026-10-01",
-      "time": "Jefferson 13:30 ET (03:30 AEST Fri); Waller 10:00 ET (00:00 AEST), Bowman 15:00 ET (05:00 AEST), Cook 15:30 ET (05:30 AEST)",
-      "ticker": "FED",
-      "title": "Fed Vice Chair Jefferson on 'US Economy and Monetary Policy'; Waller, Bowman and Cook also speak",
-      "type": "central_bank",
-      "why": "Only Board-level Fed speeches in the window; no Warsh appearance is on the Board calendar through Oct 15.",
-      "link": "https://www.federalreserve.gov/newsevents/2026-october.htm"
-    },
-    {
-      "key": "2026-10-01-china-golden-week",
-      "date": "2026-10-01",
-      "time": "Shanghai/Shenzhen closed Oct 1-7, reopen Thu Oct 8; HKEX closed Oct 1 only",
-      "ticker": "MACRO",
-      "title": "China National Day Golden Week market closure",
-      "type": "other",
-      "why": "Thin trading for BABA, BYD and China-exposed names; mainland news and any policy moves back up into Oct 8.",
-      "link": "https://www.tradinghours.com/markets/sse/holidays"
-    },
-    {
-      "key": "2026-10-01-us-ism-manufacturing",
-      "date": "2026-10-01",
-      "time": "10:00 ET (00:00 AEST Fri)",
-      "ticker": "MACRO",
-      "title": "US ISM manufacturing PMI, September (August 54.6)",
-      "type": "macro",
-      "why": "Industrial capex pulse for GEV, TER and the machinery names; prices-paid feeds the Fed debate.",
-      "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/"
-    },
-    {
-      "key": "2026-10-01-rba-fsr",
-      "date": "2026-10-01",
-      "time": "11:30 AEST Thu (21:30 ET Wed)",
-      "ticker": "RBA",
-      "title": "RBA Financial Stability Review, October 2026",
-      "type": "central_bank",
-      "why": "First RBA view of household stress after four hikes; shapes how far the Board thinks it can push before Nov 3.",
-      "link": "https://www.rba.gov.au/schedules-events/calendar/"
-    },
-    {
-      "key": "2026-10-02-us-jobs-report",
-      "date": "2026-10-02",
-      "time": "08:30 ET (22:30 AEST Fri)",
-      "ticker": "MACRO",
-      "title": "US September jobs report: consensus ~84-93K payrolls (CNBC 84K, Bloomberg 85K, Yahoo 93K), unemployment 4.1%; August was +162K vs 58K est, ADP Sep +90K",
-      "type": "macro",
-      "why": "A hot print supports the Fed's hiking stance and pressures long-duration AI names; a soft one eases yields. Funded to Dec 11, so no shutdown delay.",
-      "link": "https://finance.yahoo.com/economy/articles/expect-september-jobs-report-134725167.html"
-    },
-    {
-      "key": "2026-10-02-tsla-deliveries",
-      "date": "2026-10-02",
-      "time": "TBC (date confirmed Fri Oct 2; release time not stated, usually before US open = 22:00-23:30 AEST Fri)",
-      "ticker": "TSLA",
-      "title": "Tesla Q3 production and deliveries (company-compiled consensus 461,974, -7% y/y; analyst range 421,758 Cantor to 482,000; Q2 was 480,126; storage ~15.9 GWh)",
-      "type": "other",
-      "why": "Sets the tone for Tesla's Q3 earnings and the US EV demand read; a miss below ~440K would feed the weak-demand narrative.",
-      "link": "https://teslanorth.com/2026/09/29/tesla-ir-q3-2026-delivery-consensus/"
-    },
-    {
-      "key": "2026-10-04-aedt-starts",
-      "date": "2026-10-04",
-      "time": "02:00 AEST Sun (clocks forward to 03:00 AEDT)",
-      "ticker": "MACRO",
-      "title": "Sydney daylight saving starts: US open is now 00:30 AEDT, close 07:00 AEDT",
-      "type": "other",
-      "why": "All US times land one hour later on the owner's clock from here on.",
-      "link": "https://www.nsw.gov.au/about-nsw/daylight-saving"
-    },
-    {
-      "key": "2026-10-05-us-ism-services",
-      "date": "2026-10-05",
-      "time": "10:00 ET (01:00 AEDT Tue)",
-      "ticker": "MACRO",
-      "title": "US ISM services PMI, September (August 55.4)",
-      "type": "macro",
-      "why": "Services is most of the economy; a hot prices-paid line is what would push Warsh's Fed toward a pause.",
-      "link": "https://www.financecalendar.com/us-ism-services-pmi/"
-    },
-    {
-      "key": "2026-10-06-amzn-prime-big-deal-days",
-      "date": "2026-10-06",
-      "time": "Oct 6-7, from 00:01 PT / 03:01 ET (18:01 AEDT Tue)",
-      "ticker": "AMZN",
-      "title": "Amazon Prime Big Deal Days (22 countries incl. Australia, 35+ categories)",
-      "type": "other",
-      "why": "Holding; earliest holiday-demand read for AMZN retail and ads before Q3 results.",
-      "link": "https://www.aboutamazon.com/news/retail/amazon-prime-big-deals-day-2026-when-october-6-7"
-    },
-    {
-      "key": "2026-10-06-fed-bowman",
-      "date": "2026-10-06",
-      "time": "10:45 ET (01:45 AEDT Wed Oct 7)",
-      "ticker": "FED",
-      "title": "Fed Vice Chair Bowman speaks on modernizing regulation and supervision, Community Banking Research Conference, St. Louis",
-      "type": "central_bank",
-      "why": "Only Fed Board speech on the Oct calendar before the minutes; regional presidents' Oct 5-9 dates not published on federalreserve.gov.",
-      "link": "https://www.federalreserve.gov/newsevents/2026-october.htm"
-    },
-    {
-      "key": "2026-10-06-us-trade-balance",
-      "date": "2026-10-06",
-      "time": "08:30 ET (23:30 AEDT Tue)",
-      "ticker": "MACRO",
-      "title": "US international trade in goods and services, August",
-      "type": "macro",
-      "why": "Tariff pass-through and the AI-server import bill (Taiwan/Mexico) show up here first; also a Q3 GDP input ahead of the FOMC.",
-      "link": "https://www.census.gov/economic-indicators/calendar-listview.html"
-    },
-    {
-      "key": "2026-10-06-mrvl-investor-day",
-      "date": "2026-10-06",
-      "time": "Morning ET, New York; livestream from ~09:00 ET (00:00 AEDT Wed)",
-      "ticker": "MRVL",
-      "title": "Marvell Investor Day 2026",
-      "type": "conference",
-      "why": "Holding; multi-year custom-silicon and optics TAM targets are the main catalyst before December earnings.",
-      "link": "https://investor.marvell.com/news-events/ir-calendar/detail/20261006-marvell-investor-day-2026"
-    },
     {
       "key": "2026-10-07-fomc-minutes",
       "date": "2026-10-07",
@@ -154,22 +14,42 @@
     {
       "key": "2026-10-08-samsung-prelim",
       "date": "2026-10-08",
-      "time": "TBC - Korean press expects Thu Oct 8, ~08:30 KST (10:30 AEDT Thu; 19:30 ET Wed); Samsung IR calendar not yet updated",
+      "time": "Released 08:28 KST Thu Oct 8 (10:28 AEDT; 19:28 ET Wed)",
       "ticker": "005930",
-      "title": "Samsung Electronics Q3 preliminary earnings (Kiwoom cut op-profit estimate to ~107T won from 122T; sales ~111T won)",
+      "title": "Samsung Electronics Q3 preliminary: operating profit 107.4T won (+783% y/y, +20% q/q), sales 195T won; first quarter above 100T won",
       "type": "earnings",
-      "why": "First hard Q3 memory profit number after Micron's 87% gross margin; direct read-across to MU and SK hynix (Q3 op profit forecasts ~7.4T won).",
-      "link": "https://biz.heraldcorp.com/article/10883742"
+      "why": "Read-across to MU and SK hynix (SKHY): in line with the ~106-109T consensus, HBM4 sales jumped ahead of Vera Rubin, memory shortage continues. Full results later in October.",
+      "link": "https://en.sedaily.com/finance/2026/10/08/samsung-quarterly-operating-profit-tops-107-trillion-won"
+    },
+    {
+      "key": "2026-10-08-fed-waller",
+      "date": "2026-10-08",
+      "time": "04:30 ET Thu Oct 8 (19:30 AEDT Thu)",
+      "ticker": "FED",
+      "title": "Fed Governor Waller, 'Economic Outlook', Istanbul Economic Forum (Central Bank of Turkiye)",
+      "type": "central_bank",
+      "why": "Waller was the dove open to a pause before September; his read after the minutes and the 29K payrolls print matters for the Oct 27-28 odds (~20% for a hike).",
+      "link": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+    },
+    {
+      "key": "2026-10-08-china-reopen",
+      "date": "2026-10-08",
+      "time": "09:30 CST open (12:30 AEDT Thu; 21:30 ET Wed)",
+      "ticker": "MACRO",
+      "title": "Shanghai and Shenzhen reopen after Golden Week (closed Oct 1-7)",
+      "type": "other",
+      "why": "First mainland session since Sep 30 for BABA-linked and China EV/tech names; seven days of US yield and oil moves to price in.",
+      "link": "https://www.tradinghours.com/markets/sse/holidays"
     },
     {
       "key": "2026-10-08-tsm-sept-revenue",
       "date": "2026-10-08",
-      "time": "13:30 Taipei (16:30 AEDT Thu; 01:30 ET)",
+      "time": "13:30 Taipei (16:30 AEDT Thu; 01:30 ET), per TSMC's IR calendar",
       "ticker": "TSM",
-      "title": "TSMC September revenue (completes Q3; results Oct 15)",
+      "title": "TSMC September revenue (August was NT$514.81B, +53.3% y/y; Jan-Aug NT$3,386.87B, +39.3%)",
       "type": "other",
-      "why": "Holding; confirms Q3 revenue vs guidance a week before results, and lands the same day mainland China reopens.",
-      "link": "https://investor.tsmc.com/english/financial-calendar"
+      "why": "Holding; Q3 guide of US$44.6-45.8B at NT$32 implies September of roughly NT$448-488B. Lands a week before Q3 results on Oct 15.",
+      "link": "https://investor.tsmc.com/english/monthly-revenue/2026"
     },
     {
       "key": "2026-10-09-umich-sentiment-prelim",
@@ -182,6 +62,16 @@
       "link": "https://data.sca.isr.umich.edu/fetchdoc.php?docid=79628"
     },
     {
+      "key": "2026-10-12-fed-hammack",
+      "date": "2026-10-12",
+      "time": "12:10 ET Mon (03:10 AEDT Tue Oct 13), per a calendar snapshot; not on the Board calendar",
+      "ticker": "FED",
+      "title": "Cleveland Fed President Hammack, luncheon speech, NABE annual meeting",
+      "type": "central_bank",
+      "why": "Hammack dissented for a hike in July; the minutes show regional presidents wanting 1-2 more hikes, so this is the hawkish read before CPI.",
+      "link": "https://capital.com/en-gb/news/federal-reserve-events"
+    },
+    {
       "key": "2026-10-12-ocp-summit",
       "date": "2026-10-12",
       "time": "Oct 12-15, San Jose; US bond market shut Oct 12 (Columbus Day), equities open",
@@ -190,6 +80,16 @@
       "type": "conference",
       "why": "Data-centre hardware roadmaps for NVDA, MRVL, ALAB, AVGO, GEV; rack-power and optics news tends to leak by the Tuesday.",
       "link": "https://www.raritan.com/about-us/events/detail/events-2026-ocp-global-summit"
+    },
+    {
+      "key": "2026-10-12-imf-wb-meetings",
+      "date": "2026-10-12",
+      "time": "Oct 12-18, Bangkok; plenary Oct 16",
+      "ticker": "MACRO",
+      "title": "IMF and World Bank Annual Meetings, Bangkok",
+      "type": "conference",
+      "why": "Global growth and AI-capex outlook from the IMF, plus possible US-Japan talk on yen weakness; finance ministers and central bankers on the sidelines.",
+      "link": "https://www.imf.org/en/meetings/2026/annual"
     },
     {
       "key": "2026-10-13-aapl-home-products",
@@ -214,12 +114,12 @@
     {
       "key": "2026-10-13-big-banks-q3",
       "date": "2026-10-13",
-      "time": "JPM results ~07:00 ET (22:00 AEDT), call 08:30 ET (23:30 AEDT); GS, WFC, C same morning; BAC and MS Wed Oct 14 pre-open",
+      "time": "JPM 07:00 ET (22:00 AEDT), call 08:30 ET; WFC 07:00 ET, call 10:00 ET; Citi ~08:00 ET, call 11:00 ET; GS pre-open, call 09:30 ET (company date not seen); BAC and MS Wed Oct 14 pre-open",
       "ticker": "JPM",
-      "title": "Q3 bank earnings start: JPMorgan, Goldman, Wells Fargo, Citi (BAC, MS Oct 14)",
+      "title": "Q3 bank earnings start: JPMorgan, Wells Fargo, Citi, Goldman (BAC, MS Oct 14)",
       "type": "earnings",
-      "why": "Opens Q3 season; credit, mortgage and dealmaking commentary reads straight across to AXOS, RKT, LDI and HOOD.",
-      "link": "https://www.jpmorganchase.com/ir/news/2026/jpmc-to-host-third-quarter-2026-earnings-call"
+      "why": "Opens Q3 season; credit, mortgage and dealmaking commentary reads straight across to AXOS, RKT, LDI and HOOD, with the 10-year at 5.3% a live theme.",
+      "link": "https://finviz.com/news/398645/wells-fargo-to-announce-third-quarter-2026-earnings-on-oct-13-2026"
     },
     {
       "key": "2026-10-13-rba-minutes",
@@ -234,12 +134,12 @@
     {
       "key": "2026-10-14-asml-q3",
       "date": "2026-10-14",
-      "time": "Oct 14 per multiple outlets (UBS-note coverage Sep 29); ASML IR page did not load. Usually 07:00 CEST = 01:00 ET = 16:00 AEDT Wed",
+      "time": "Oct 14 per MarketScreener and Akros calendars (company page not seen). Usually 07:00 CEST = 01:00 ET = 16:00 AEDT Wed",
       "ticker": "ASML",
       "title": "ASML Q3 2026 results and Q4 guide",
       "type": "earnings",
-      "why": "Watchlist; EUV bookings from TSMC, Samsung and Micron are the cleanest forward read on 2027 AI-chip capacity.",
-      "link": "https://parameter.io/asml-asml-stock-gains-3-after-ubs-reaffirms-buy-rating-before-q3-results/"
+      "why": "Watchlist; EUV bookings from TSMC, Samsung and Micron are the cleanest forward read on 2027 AI-chip capacity, and Samsung's 107T won quarter raises the bar.",
+      "link": "https://uk.marketscreener.com/quote/stock/ASML-HOLDING-6268/calendar/"
     },
     {
       "key": "2026-10-14-fed-beige-book",
@@ -272,6 +172,16 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-anthropic-schedules-pre-083329143.html"
     },
     {
+      "key": "2026-10-14-china-cpi",
+      "date": "2026-10-14",
+      "time": "09:30 CST Wed (12:30 AEDT Wed; 21:30 ET Tue)",
+      "ticker": "MACRO",
+      "title": "China September CPI (NBS)",
+      "type": "macro",
+      "why": "Domestic demand pulse for BABA, BYD and the China internet names; NBS dates are preliminary.",
+      "link": "https://www.financecalendar.com/?p=2105"
+    },
+    {
       "key": "2026-10-15-us-ppi",
       "date": "2026-10-15",
       "time": "08:30 ET (23:30 AEDT Thu)",
@@ -292,6 +202,16 @@
       "link": "https://www.census.gov/retail/release_schedule.html"
     },
     {
+      "key": "2026-10-15-au-labour-force",
+      "date": "2026-10-15",
+      "time": "11:30 AEDT Thu (20:30 ET Wed), per financecalendar; confirm on the ABS calendar",
+      "ticker": "MACRO",
+      "title": "Australia labour force, September (ABS)",
+      "type": "macro",
+      "why": "Last jobs read before the RBA's Nov 3 meeting after the Sep 29 hike to 4.60%; ANZ is the only major bank calling a November hike.",
+      "link": "https://www.abs.gov.au/release-calendar/future-releases/202610/rcc_labour"
+    },
+    {
       "key": "2026-10-15-tsla-roadster",
       "date": "2026-10-15",
       "time": "TBC (evening CT; Fri morning AEDT)",
@@ -304,12 +224,12 @@
     {
       "key": "2026-10-15-tsm-q3-results",
       "date": "2026-10-15",
-      "time": "14:00-15:30 Taipei (17:00 AEDT Thu; 02:00 ET)",
+      "time": "14:00 Taipei (17:00 AEDT Thu; 02:00 ET); quiet period Oct 5-14",
       "ticker": "TSM",
-      "title": "TSMC Q3 2026 results, Q4 guide and 2026 capex update",
+      "title": "TSMC Q3 2026 results, Q4 guide and 2026 capex update (Q3 guide $44.6-45.8B, GM 65-67%)",
       "type": "earnings",
-      "why": "Holding; the single best read on AI demand for NVDA, AVGO, MRVL and ALAB, and it lands in the owner's evening.",
-      "link": "https://investor.tsmc.com/english/financial-calendar"
+      "why": "Holding; the single best read on AI demand for NVDA, AVGO, MRVL and ALAB, and it lands in the owner's evening. Consensus ~$45.8B, top of the range.",
+      "link": "https://investor.tsmc.com/english/quarterly-results"
     },
     {
       "key": "2026-10-16-us-import-prices-ip",
@@ -320,6 +240,66 @@
       "type": "macro",
       "why": "Last tariff-pass-through and factory-output reads before the Oct 27-28 FOMC; IP is the machinery-capex pulse for GEV, TER and the industrial names.",
       "link": "https://www.bls.gov/schedule/2026/10_sched_list.htm"
+    },
+    {
+      "key": "2026-10-19-china-gdp",
+      "date": "2026-10-19",
+      "time": "10:00 CST Mon (13:00 AEDT Mon; 22:00 ET Sun)",
+      "ticker": "MACRO",
+      "title": "China Q3 GDP (NBS)",
+      "type": "macro",
+      "why": "Growth read for BABA, BYD and China-exposed semis; NBS has delayed releases before, so treat the date as preliminary.",
+      "link": "https://www.financecalendar.com/?p=2108"
+    },
+    {
+      "key": "2026-10-19-tceq-compliance",
+      "date": "2026-10-19",
+      "time": "Deadline, no time set",
+      "ticker": "MACRO",
+      "title": "Texas TCEQ compliance report due under Abbott's data-center permit freeze",
+      "type": "other",
+      "why": "A reporting deadline, not an end to the pause; shows how broadly the freeze reaches (including island-mode generation) for GEV, VRT and Texas AI campuses.",
+      "link": "https://www.texastribune.org/2026/09/21/texas-data-center-moratorium-water-energy/"
+    },
+    {
+      "key": "2026-10-20-nflx-q3",
+      "date": "2026-10-20",
+      "time": "13:01 PT Tue (16:01 ET; 07:01 AEDT Wed Oct 21); video interview 13:45 PT (07:45 AEDT Wed)",
+      "ticker": "NFLX",
+      "title": "Netflix Q3 2026 results (company outlook: revenue $12.86B, operating income $4.27B, EPS $0.82)",
+      "type": "earnings",
+      "why": "Holding; first read on the co-CEO era's ad tier and content spend, and a consumer-internet check before AMZN, GOOGL and META at month end.",
+      "link": "https://s22.q4cdn.com/959853165/files/doc_news/Netflix-to-Announce-Third-Quarter-2026-Financial-Results-2026.pdf"
+    },
+    {
+      "key": "2026-10-20-nvidia-gtc-berlin",
+      "date": "2026-10-20",
+      "time": "Oct 20-22, Berlin; keynote time TBC",
+      "ticker": "NVDA",
+      "title": "Nvidia GTC Berlin (Washington D.C. edition is Nov 30-Dec 3, keynote Dec 1)",
+      "type": "conference",
+      "why": "Holding; European sovereign-AI and Rubin deployment announcements. Dates from Nvidia's session catalog; Nvidia's own event page for Berlin was not opened.",
+      "link": "https://www.nvidia.com/gtc/session-catalog/sessions/gtc26-p81211/"
+    },
+    {
+      "key": "2026-10-21-tsla-q3",
+      "date": "2026-10-21",
+      "time": "After close Wed; Q&A webcast 16:30 CT (17:30 ET; 08:30 AEDT Thu Oct 22)",
+      "ticker": "TSLA",
+      "title": "Tesla Q3 2026 results and update",
+      "type": "earnings",
+      "why": "Watchlist; margins, energy storage and the AI5 / Optimus memory plan (halved LPDDR5) after the Q3 deliveries print.",
+      "link": "https://www.sec.gov/Archives/edgar/data/0001318605/000162828026064366/exhibit991111111.htm"
+    },
+    {
+      "key": "2026-10-22-spot-q3",
+      "date": "2026-10-22",
+      "time": "Before US open Thu; call 08:00 ET (23:00 AEDT Thu), per aggregators; confirm on Spotify IR",
+      "ticker": "SPOT",
+      "title": "Spotify Q3 2026 results",
+      "type": "earnings",
+      "why": "Loves list; subscriber and margin read plus any AI-music or pricing changes.",
+      "link": "https://bullstory.io/en/stocks/spot/earnings/2026-q3"
     }
   ]
 }

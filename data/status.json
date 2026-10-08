@@ -1,112 +1,112 @@
 {
-  "as_of": "2026-10-02T14:30",
-  "market_summary": "September payrolls rose just 29,000 against 84,000-89,000 expected, unemployment rose to 4.2%, and July and August were revised down by a combined 60,000. The 10-year fell to about 5.20%, the dollar index lost 0.4%, and October hike odds fell to about 17%. At 10:30 ET the S&P 500 was +1.0%, Nasdaq +1.7% at a record intraday, Dow +0.5%, SOX +3.3%, VIX 15.5; the S&P is flat on the week. Asia closed mixed: ASX 200 +0.8%, Nikkei -0.9%, Hang Seng -2.6%, its worst session since March; Stoxx 600 +0.9% at midday. Brent fell about 3% to $99 and WTI 4% to $89 as Europe discussed releasing 50m barrels of diesel and 50m of crude. Next: OPEC+ Sunday Oct 4 (expected to hold November targets); Sydney clocks go to AEDT at 02:00 Sunday; ISM services Tue 01:00 AEDT; Marvell investor day Oct 6; Samsung and TSMC September revenue Oct 8; US CPI Oct 14.",
+  "as_of": "2026-10-08T00:35",
+  "market_summary": "US stocks ended Oct 7 slightly lower after Tuesday's records: S&P 500 7,801.77 (-0.22%, +1.0% since Oct 2), Nasdaq 27,538.69 (-0.22%, +1.3%), Dow 51,179.87. The 10-year hit 5.365% on Oct 7, the highest since April 2002 (30-year 5.732%), then eased to about 5.28-5.31% after a $39B note auction; the Fed minutes showed all participants backed the September hike to 3.75-4.00% but split between 1-2 more hikes and an immediate pause, and futures price only about 20% for another hike on Oct 28 after 3.0% core PCE and 29K payrolls. Brent settled at $100.20 and WTI $88.28 (-1.3%); ISM services prices paid hit 74.0, the highest since July 2022, and OPEC+ held November output flat on Oct 4. AI hardware news remains strong (Samsung Q3 profit 107.4T won on Oct 8, Marvell's $70-90B FY31 target on Oct 6) while GPU rental indexes keep making highs (H100 $2.81), so the pressure on AI/Internet names is the cost of capital rather than demand. DXY and the China reopening reaction on Oct 8 were not verified (DXY was 101.92 on Oct 2). Next: TSMC September sales and China's reopening Thu Oct 8; ASML bookings and US CPI Wed Oct 14 (AEDT Thu morning); TSMC Q3 results Oct 15.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "Up about 1.6% in the first hour, outperforming a rising market on lower yields and the data center community pledge. The reported chip-financing idea is a balance-sheet detail, not a change to the thesis.",
-      "price_usd": 252.17,
-      "updated": "2026-10-02"
+      "reason": "Up about 3.3% since Oct 2 and 1.4% on Oct 7 as the market slipped from records; Tigress raised its target to $385 on AI, cloud and ads. Prime Big Deal Days ran Oct 6-7 with no results published yet, and Q3 earnings are due around Oct 29, so no change.",
+      "price_usd": 259.92,
+      "updated": "2026-10-08"
     },
     "AXOS": {
       "take": "hold",
-      "reason": "Up about 1.1% on lower yields with no company news. Next earnings are due October 29, so nothing to act on before then.",
-      "price_usd": 88.6,
-      "updated": "2026-10-02"
+      "reason": "Down 1.4% since Oct 2 and 1.5% on Oct 7 as the 10-year yield hit 24-year highs. No company news; fiscal Q1 results are due Oct 29 after the close, so nothing to act on before then.",
+      "price_usd": 87.68,
+      "updated": "2026-10-08"
     },
     "BABA": {
       "take": "watch",
-      "reason": "Down 0.9% while the US group rose, after the Hang Seng fell 2.6% on the US yield surge. Lead-plaintiff deadline for the class action is Oct 5 and an executive sale is on the tape, so wait for yields and China policy to settle.",
-      "price_usd": 106.5,
-      "updated": "2026-10-02"
+      "reason": "Up 1.1% since Oct 2 but down 2.1% on Oct 7, after a 4.7% jump on Oct 5 on AI cloud momentum (cloud and AI revenue up 45% last quarter). The class-action lead-plaintiff deadline passed Oct 5 with no ruling; wait for China policy and the Nov 24 earnings.",
+      "price_usd": 107.0,
+      "updated": "2026-10-08"
     },
     "ENPH": {
       "take": "watch",
-      "reason": "Up about 2.8% with rates and tech, but recent target cuts from Citi, Jefferies and Goldman and falling revenue keep this a watch until residential demand shows up.",
-      "price_usd": 33.74,
-      "updated": "2026-10-02"
+      "reason": "Flat over the period (down 1.2% on Oct 7) with more target cuts: Barclays to $44, Oppenheimer to $55, and Deutsche Bank named it a short-term sell into Q3 results on safe-harbor revenue risk. Stay on watch until the print.",
+      "price_usd": 33.5,
+      "updated": "2026-10-08"
     },
     "FIGR": {
       "take": "hold",
-      "reason": "Up about 4% after a sharp slide earlier in the week. Softer rates help its home equity lending model, but there is no company news, so no change.",
-      "price_usd": 29.69,
-      "updated": "2026-10-02"
+      "reason": "Down 3.0% since Oct 2 though up 1.2% on Oct 7. Preliminary Q3 marketplace volume of $5.1B (up 107% year on year) hit the high end of guidance; Goldman and BofA trimmed targets to $41 and $44 but kept Buy, so hold.",
+      "price_usd": 27.68,
+      "updated": "2026-10-08"
     },
     "GOOGL": {
       "take": "add",
-      "reason": "Up 1.8% on the day with no new negative news; the Gemini 4 Argon launch and the space-compute plans are still working through. A lower-yield tape helps long-duration growth, so the add stands.",
-      "price_usd": 344.38,
-      "updated": "2026-10-02"
+      "reason": "Up 2.0% since Oct 2 and 0.8% on Oct 7, the steadiest mega-cap. A 20-year Constellation nuclear power deal and Unity gaming tie-up add to the AI buildout; the Finland data-centre construction stop (by Oct 23) is a delay to a $15B plan, not a thesis change.",
+      "price_usd": 350.5,
+      "updated": "2026-10-08"
     },
     "LDI": {
       "take": "trim",
-      "reason": "Up about 4.4% on the rates bounce, but it is still a sub-dollar stock with losses, an NYSE price-compliance notice and a Sell consensus. Use the strength to trim.",
-      "price_usd": 0.64,
-      "updated": "2026-10-02"
+      "reason": "Down about 3% since Oct 2 and flat on Oct 7, still a sub-dollar stock with an NYSE compliance notice. Mortgage rates are at their highest in about a year, so there is no near-term catalyst; keep trimming into strength.",
+      "price_usd": 0.62,
+      "updated": "2026-10-08"
     },
     "META": {
       "take": "hold",
-      "reason": "Up 0.8%, lagging the other mega-caps after a 27% September. The New Mexico penalty claim is still unresolved, so hold rather than chase.",
-      "price_usd": 732.0,
-      "updated": "2026-10-02"
+      "reason": "Down 0.9% since Oct 2 and 2.4% on Oct 7, the weakest mega-cap on the day despite the Muse iPad launch and a Citi note seeing Muse as a $27B business by 2030. Florida filed to force teen-safety changes on top of the New Mexico penalty claim; hold rather than add.",
+      "price_usd": 721.31,
+      "updated": "2026-10-08"
     },
     "MRVL": {
       "take": "hold",
-      "reason": "Up 2.9% on the day, among the stronger names in the group, with Investor Day on Oct 6 as the next catalyst. Hold through the event; one analyst note flags margin pressure from custom silicon.",
-      "price_usd": 275.8,
-      "updated": "2026-10-02"
+      "reason": "Up 4.6% since Oct 2 after a 5.8% jump on investor day and a 0.8% pullback on Oct 7. Management targets $20B revenue in FY28 and $70-90B in FY31, and about 15 brokers raised targets (Morgan Stanley and Goldman stay neutral); at roughly 60x forward earnings, hold and do not chase.",
+      "price_usd": 284.68,
+      "updated": "2026-10-08"
     },
     "MU": {
       "take": "hold",
-      "reason": "Flat (down 0.1%) while the group rallied, so the record quarter is still not being rewarded on the tape. The YMTC suit is a minor IP item; nothing here changes the thesis.",
-      "price_usd": 1096.0,
-      "updated": "2026-10-02"
+      "reason": "Up 1.2% since Oct 2, with a 4.1% rise on Oct 7 despite a Taiwan plant strike vote and a morning sell-off in memory names. D.A. Davidson set a Street-high $3,000 target; the strike has no date and the Netlist patent dispute settled, so hold.",
+      "price_usd": 1088.0,
+      "updated": "2026-10-08"
     },
     "NFLX": {
       "take": "hold",
-      "reason": "Down about 0.7% while the market rallies, after a 14% drop in September on the co-CEO's slower-growth comments. Nothing new Friday; wait for Q3 earnings.",
-      "price_usd": 67.4,
-      "updated": "2026-10-02"
+      "reason": "Up 3.9% since Oct 2 and 1.5% on Oct 7, a partial bounce after the 14% September drop. Barclays cut its target to $70 from $80 ahead of Q3; the print is the next test.",
+      "price_usd": 69.7,
+      "updated": "2026-10-08"
     },
     "NVDA": {
       "take": "hold",
-      "reason": "Up 2.8% on the day after Morgan Stanley reinstated it as top semiconductor pick and the weak jobs print cut October rate-hike odds. Already ahead of Thursday's close, so no reason to add into the move.",
-      "price_usd": 237.42,
-      "updated": "2026-10-02"
+      "reason": "Up 1.5% since Oct 2 but down 0.7% on Oct 7, just under its record. Microsoft and Dell launched RTX Spark PCs, a new consumer channel, while concentration and yield risk grow; hold.",
+      "price_usd": 237.47,
+      "updated": "2026-10-08"
     },
     "RKT": {
       "take": "watch",
-      "reason": "Up about 2.8%, lagging the rally. The 10-year yield barely moved from Thursday's close, so mortgage rates are still near multi-year highs. Watch for a sustained yield decline.",
-      "price_usd": 12.31,
-      "updated": "2026-10-02"
+      "reason": "Down 2.2% since Oct 2 and 1.3% on Oct 7 as the 30-year mortgage rate index reached 7.59%, near its 52-week high. Mortgage stocks need a sustained fall in yields, which is not happening, so watch.",
+      "price_usd": 11.44,
+      "updated": "2026-10-08"
     },
     "TSM": {
       "take": "add",
-      "reason": "Up 2.3% on the day ahead of Q3 results on Oct 15, with the company guiding revenue in a tight range and Taiwan pledging support for local expansion. Keep adding on the weak-yield backdrop.",
-      "price_usd": 469.98,
-      "updated": "2026-10-02"
+      "reason": "Flat since Oct 2 after a 2.8% jump on Oct 5 and a 2.1% drop on Oct 7 when Musk said TSMC will not run his Terafab complex. Citi raised its target and expects a Q3 beat on Oct 15; September revenue is not yet out, so keep adding on weakness.",
+      "price_usd": 472.2,
+      "updated": "2026-10-08"
     },
     "STRIPE": {
       "take": "hold",
-      "reason": "No closed round or tender reported since the last run. A Benzinga item cites a private-market valuation estimate well above the mark, but it is not a closed deal and the article body could not be opened, so the mark is unchanged.",
+      "reason": "No closed round or tender since the February tender at a $159B valuation. A secondary-market quote implies a higher figure, but that is not a closed deal, so the mark is unchanged.",
       "price_usd": null,
-      "updated": "2026-10-02",
+      "updated": "2026-10-08",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "No new closed round or tender since the last run. SoftBank finished its final tranche on Thursday; reported talks for a further $30 billion raise remain talks only, so the mark is unchanged.",
+      "reason": "Reports from Sep 29 to Oct 6 say OpenAI is in early talks for a $30B round at about $1.4T pre-money, with MGX and BlackRock; it is not closed and has no lead investor. The mark stays until a round or tender is confirmed.",
       "price_usd": null,
-      "updated": "2026-10-02",
+      "updated": "2026-10-08",
       "mark_multiple": 5.43
     }
   },
   "headlines": [
-    "US payrolls rose only 29,000 against 85,000 expected and unemployment hit 4.2%; October Fed hike odds fell to about 17%.",
-    "S&P 500 +1.0% and Nasdaq +1.7% at 10:30 ET Friday, a record intraday; SOX +3.3% and the 10-year down to 5.20%.",
-    "Tesla delivered 486,532 cars against 462,000 expected, shares +5.6%, but storage missed. Nvidia +2.8%, Marvell +2.9%, TSMC +2.3%.",
-    "Watchlist: BYD and Teradyne cut to watch. BYD fell 2.3% in Hong Kong after JPMorgan's downgrade; Teradyne is at its consensus target.",
-    "Broadcom is reportedly lining up $60B of debt for Anthropic's chips; Anthropic's IPO banks named, marketing from the week of Nov 9.",
-    "Weekend: OPEC+ meets Sunday; clocks go to AEDT. Brent fell 3% to about $99 on talk of Europe releasing diesel and crude."
+    "10-year yield hit 5.365% Wednesday, highest since 2002; S&P 500 and Nasdaq slipped 0.2% from Tuesday's records.",
+    "Marvell targets $70-90B revenue in FY31; shares jumped about 6% on investor day Oct 6.",
+    "Samsung forecasts record Q3 operating profit of 107.4T won on HBM4; Micron rose 4% Wednesday.",
+    "Fed minutes: all backed September's hike, split on more. December hike odds about 85%, October about 17%.",
+    "Pentagon says it has stopped using Anthropic products, a new IPO risk; investor session Oct 14.",
+    "Next: TSMC September sales Thu, then ASML bookings and US CPI on Oct 14."
   ]
 }
