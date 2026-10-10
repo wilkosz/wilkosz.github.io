@@ -28,8 +28,18 @@
         "cab over ROPS",
         "service history"
       ],
-      "notes": "Build quality matters more than hours alone. A tidy 3,000-hour Deere beats a rough 1,500-hour no-name.",
-      "sources": [],
+      "notes": "Build quality matters more than hours alone. A tidy 3,000-hour Deere beats a rough 1,500-hour no-name. Sweep the dealer used pages below as well as the auction and classifieds sites. farmmachinerysales.com.au blocks WebFetch and curl (403): open it in Chrome like Facebook, or skip it on a cloud run and say so in notes.",
+      "sources": [
+        "https://www.lloydsauctions.com.au/",
+        "https://www.farmmachinerysales.com.au/items/tractors-category/",
+        "https://auctionsplus.com.au/browse/machinery?categoryMachinery=Agriculture&categoryType=Tractor",
+        "https://www.hutcheonandpearce.com.au/used-equipment/",
+        "https://www.machinefinder.com.au/ww/en-AU/super-category/used-tractors",
+        "https://www.haeuslers.com.au/WP/used-equipment/",
+        "https://www.emmetts.com.au/machinery/used/tractors/",
+        "https://oconnorscaseih.com.au/product-category/used-machines/tractors/",
+        "https://www.codemomachinery.com.au/used-products"
+      ],
       "added": "2026-09-28"
     },
     {
