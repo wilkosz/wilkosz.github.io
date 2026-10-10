@@ -5,6 +5,9 @@
     },
     "melbourne": {
       "label": "Melbourne, VIC"
+    },
+    "moonee_ponds": {
+      "label": "Moonee Ponds, VIC"
     }
   },
   "wants": [
@@ -215,6 +218,63 @@
       "notes": "Base and radius assumed to match the tractor and implement wants; the carry rating preference is a guess at hauling a loader tractor, so say if it should be different.",
       "sources": [],
       "added": "2026-10-02"
+    },
+    {
+      "key": "dog-cooling-mat",
+      "title": "Dog cooling mat for the golden retriever",
+      "short": "Dog cooling mat",
+      "status": "hunting",
+      "base": "moonee_ponds",
+      "max_km": 20,
+      "price_min": null,
+      "price_max": 150,
+      "must": [
+        "large or extra large: at least 90 x 50 cm, so a 30 kg golden retriever can lie flat on it",
+        "actually cools: pressure-activated gel, water-filled or evaporative design, not a plain fabric bed"
+      ],
+      "prefer": [
+        "self-cooling gel, no fridge, water or power needed",
+        "chew and scratch resistant cover, wipe clean",
+        "folds or rolls up",
+        "pickup within 20 km of Moonee Ponds, or posted"
+      ],
+      "notes": "Price ceiling is a guess: a good XL gel mat is $40-$100 new, so a used one under $40 or a new one on sale is the value play. Posts easily, so Australia-wide listings with shipping count as decent.",
+      "sources": [
+        "https://www.petstock.com.au/",
+        "https://www.petbarn.com.au/",
+        "https://www.kmart.com.au/",
+        "https://www.bunnings.com.au/"
+      ],
+      "added": "2026-10-10"
+    },
+    {
+      "key": "dog-trough",
+      "title": "500 L poly water trough or tub for the dog to cool off in",
+      "short": "500L poly dog trough",
+      "status": "hunting",
+      "base": "moonee_ponds",
+      "max_km": 20,
+      "price_min": null,
+      "price_max": 500,
+      "must": [
+        "plastic (poly) trough or tub, roughly 400 to 600 L",
+        "low enough for a golden retriever to step in: sides about 300 to 450 mm",
+        "wide enough to lie in: at least 1.2 m across or long"
+      ],
+      "prefer": [
+        "drain bung",
+        "UV stabilised, food grade poly",
+        "smooth inside, no sharp edges",
+        "pickup within 20 km of Moonee Ponds, or delivered"
+      ],
+      "notes": "Benchmark: Tank World 500 L sheep trough, 1,570 mm across, 340 mm deep, 50 mm drain bung. New poly troughs this size are a few hundred dollars from tank makers, rural stores and Bunnings; a used one on Marketplace is the value play. Price ceiling is a guess.",
+      "sources": [
+        "https://www.tankworld.com.au/?p=10491",
+        "https://www.bushmantanks.com.au/product-category/poly-stock-troughs/500lt-round-trough/",
+        "https://www.stratco.com.au/au/plumbing/rainwater-tanks-water-tanks/stock-troughs/urban-stock-trough-500l/",
+        "https://www.bunnings.com.au/"
+      ],
+      "added": "2026-10-10"
     }
   ]
 }
