@@ -1,112 +1,112 @@
 {
-  "as_of": "2026-10-08T13:40",
-  "market_summary": "US index futures are lower before the open: Dow -0.9%, S&P 500 -0.5%, Nasdaq-100 -0.7% (Yahoo, about 08:00 ET), after Wednesday's pullback from records, with the 10-year at 5.28-5.30% and WTI up 3.75% to about $91.60 on fresh Hormuz shipping attacks and a report that the US military was told to be ready for possible Iran strikes and Brent up about 4% to about $104. Jobless claims were 197,000 (-2,000). Asia was weak as mainland China reopened: Hang Seng -1.4% to 23,785, a three-month low (Hang Seng Tech -2.9%, HSBC and BOC Hong Kong down nearly 5%), Shanghai -0.8% to 3,811, Shenzhen -2.1%; the Nikkei fell 1.4% and the KOSPI 2.6%. On AI hardware, TSMC's September sales were NT$511.86B (+54.6% y/y), putting Q3 about NT$1,494B, above guidance, while Samsung's 107.4T won quarter came in slightly below forecasts and its shares fell. Silicon Data's H100 index was $2.80 on Oct 8 (Oct 7: $2.81), so rental prices are steady at highs. Next: US CPI Wed Oct 14 (AEDT Thu morning), TSMC Q3 Oct 15, Anthropic investor session Oct 14.",
+  "as_of": "2026-10-10T07:40",
+  "market_summary": "Thursday Oct 8: Nasdaq -1.25%, its worst day since mid-August, after the FT reported OpenAI's annualised revenue is about $50B, roughly $20B below what investors assumed (a gross-vs-net gap on partner sales, not lost revenue); chipmakers fell 3.4%, CoreWeave 7.8%. Friday Oct 9: S&P 500 +0.6% to 7,812, Dow +0.8% to 51,655, Nasdaq +0.6% to 27,366 after Bloomberg said OpenAI expects $70B+ annualised by year-end and Brent eased on Trump's pledge not to strike Iran before the Nov 3 midterms. Week: S&P +0.9%, Nasdaq roughly flat. 10-year 5.24% at Friday's close (5.28% Wed), 2-year 4.80%; Freddie Mac's 30-year mortgage 7.40%, the highest since November 2023. Brent $104.43 (+2.1% on the week on Hormuz tanker attacks and Gulf hurricane shut-ins), WTI $91.66, gold $4,194, bitcoin about $82,800. Michigan sentiment fell to 46.3 (October preliminary, from 48.1) with 1-year inflation expectations 4.7% and 5-year 3.5%, both the highest since May; Waller said he 'anticipates additional hikes'. Futures price an 18% chance of a hike on Oct 28 and about 83% for at least one by December. Asia Friday: Hang Seng +1.8% to 24,211 (Hang Seng Tech +3.1%), Shanghai flat at 3,814, Nikkei flat at 69,031, ASX 200 +0.6% to 8,717. AI bellwethers held: Silicon Data's H100 index rose to $2.85 (+2.5% on the week) and DDR5 spot set a new high. Next: Columbus Day Mon Oct 12 (US bond market shut); Apple home launch Tue Oct 13 (00:00 AEDT Wed); bank Q3 results from Tue; US CPI Wed Oct 14 08:30 ET = 23:30 AEDT Wed; ASML Q3 Wed afternoon AEDT; Anthropic investor session Wed US = Thu AEDT; PPI, retail sales and claims Thu Oct 15 23:30 AEDT; TSMC Q3 Thu Oct 15 17:00 AEDT; China Q3 GDP Mon Oct 19 13:00 AEDT; Netflix Q3 Tue Oct 20 US = Wed 07:01 AEDT.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "Down about 0.4% at the open after fewer than 1,000 retail job cuts were confirmed and new Android-based Alexa+ tablets were launched (on sale Oct 14). Nothing changes the thesis before Q3 results around Oct 29.",
-      "price_usd": 259.92,
-      "updated": "2026-10-08"
+      "reason": "Up 1.0% over Thu-Fri: fell 2.3% Thursday, then rose 3.3% Friday with the broad tech rebound. Telsey kept Outperform, target $335, after Prime Big Deal Days; Adobe put US online spend during the Oct 6-7 event at $9.86B, up 8.5% y/y. Q3 results due around Oct 29.",
+      "price_usd": 262.43,
+      "updated": "2026-10-10"
     },
     "AXOS": {
       "take": "hold",
-      "reason": "No company news found today and no live quote could be verified; Oct 7 close used. Fiscal Q1 results are due Oct 29, so nothing to act on.",
-      "price_usd": 87.68,
-      "updated": "2026-10-08"
+      "reason": "Up 0.9% over Thu-Fri with no company news. Fiscal Q1 2027 results and call are set for Oct 29 after the close; nothing to do until then.",
+      "price_usd": 88.44,
+      "updated": "2026-10-10"
     },
     "BABA": {
-      "take": "watch",
-      "reason": "Up about 1.8% at the open even though Hang Seng Tech fell 2.89% and Alibaba slipped about 1% in Hong Kong on the mainland reopening. Citi raised its target to $193 from $190 ahead of the Nov 24 results; wait for China policy.",
-      "price_usd": 107.0,
-      "updated": "2026-10-08"
+      "take": "hold",
+      "reason": "Up 4.1% over Thu-Fri, almost all of it Friday's 5.4% jump as Chinese ADRs rallied on unconfirmed talk that Beijing told funds and insurers to cap sell orders. BofA lifted its target to $178 and expects September-quarter cloud revenue up 52%; results Nov 24. The rally rests on rumour, so hold rather than add.",
+      "price_usd": 111.37,
+      "updated": "2026-10-10"
     },
     "ENPH": {
       "take": "watch",
-      "reason": "Down about 1.8% at the open with no new analyst action. Q3 results call is set for Oct 27 at 4:30pm ET, after the Deutsche Bank sell call and target cuts; stay on watch until the print.",
-      "price_usd": 33.5,
-      "updated": "2026-10-08"
+      "reason": "Down 2.1% over Thu-Fri with no material company news; only a minor India product-shipment release on Oct 8. The 10-year Treasury yield finished Friday at 5.24%, near a 24-year high, which keeps residential solar financing under pressure. Q3 call Oct 27, 4:30pm ET.",
+      "price_usd": 32.81,
+      "updated": "2026-10-10"
     },
     "FIGR": {
       "take": "hold",
-      "reason": "Down about 1.1% at the open with no news; Goldman and BofA target trims and the strong preliminary Q3 volume are already priced in. Hold.",
-      "price_usd": 27.68,
-      "updated": "2026-10-08"
+      "reason": "Up 3.1% over Thu-Fri, with Friday's 3.4% gain the first real bounce after the early-October slide. No new company news since the Oct 6 preliminary Q3 volume release, which came in near the top of guidance. Q3 results date not yet confirmed.",
+      "price_usd": 28.54,
+      "updated": "2026-10-10"
     },
     "GOOGL": {
       "take": "add",
-      "reason": "Up about 0.9% at the open, the one mega-cap in the green. TD Cowen raised its target to $485 from $475, expecting Google Cloud revenue to more than double year on year (82% growth in Q2), and Isomorphic Labs is reportedly in talks to raise at a roughly $40B valuation.",
-      "price_usd": 350.5,
-      "updated": "2026-10-08"
+      "reason": "Up 0.3% over Thu-Fri. On Oct 8 Google Cloud launched its Gemini agent for enterprises (private preview, routes work across Gemini and Claude models) and Waymo closed a $5 billion term loan, its first debt, to fund expansion. Both support the add case; Q3 results due late October.",
+      "price_usd": 351.66,
+      "updated": "2026-10-10"
     },
     "LDI": {
       "take": "trim",
-      "reason": "Down about 2.9% before the open, still a sub-dollar stock with an NYSE compliance notice and no catalyst while mortgage rates and yields stay near highs. Keep trimming into strength.",
-      "price_usd": 0.62,
-      "updated": "2026-10-08"
+      "reason": "Fell 9% on Friday to a new 52-week low on no company news; mortgage peer Rocket fell 2.4%. The only filing was an uncommitted repo facility with Nomura of up to $125 million (8-K signed Oct 7). Still below the NYSE one-dollar listing threshold with the cure period running to February; trim remains the call.",
+      "price_usd": 0.5628,
+      "updated": "2026-10-10"
     },
     "META": {
       "take": "hold",
-      "reason": "Up about 0.4% at the open, holding up better than other mega-caps while yields and oil rise. No new company catalyst; the Florida and New Mexico cases remain the overhang. Hold.",
-      "price_usd": 721.31,
-      "updated": "2026-10-08"
+      "reason": "Down 0.4% over Thu-Fri. Meta began blocking TikTok and ByteDance ads in the US and six other countries on Oct 8, and a disclosure showed Trump bought $5-25 million of Meta stock in August. The New Mexico penalty ruling (state asked for $35-40 billion) is still pending and remains the overhang; Q3 results late October.",
+      "price_usd": 718.67,
+      "updated": "2026-10-10"
     },
     "MRVL": {
       "take": "hold",
-      "reason": "Down about 2.1% at the open, giving back part of the 4.6% gain since Oct 2 as chip stocks slid; the likely reason is profit-taking after a gain of more than 200% this year. Targets raised after investor day stand, so hold and do not chase.",
-      "price_usd": 284.68,
-      "updated": "2026-10-08"
+      "reason": "Down 3.3% over Thursday and Friday: fell 3.5% Thursday in the AI selloff after the FT said OpenAI's run-rate revenue is near $50 billion, about $20 billion below what investors assumed, then flat Friday. Morgan Stanley stayed Equal-weight on Oct 8, lifting its price target to $300 from $268 but preferring Broadcom on valuation and warning the 55-70% growth bar has to be met every quarter. Still up about 230% in 2026 and the investor-day targets (FY28 about $20B, FY31 $70-90B) are unchanged, so hold.",
+      "price_usd": 275.28,
+      "updated": "2026-10-10"
     },
     "MU": {
       "take": "hold",
-      "reason": "Down about 1.4% before the open and 0.4% after, with memory names weak after Samsung's record Q3 profit (107.4T won) missed the 108.7T forecast. Taiwan workers also voted almost unanimously to authorise a strike (no date); hold.",
-      "price_usd": 1088.0,
-      "updated": "2026-10-08"
+      "reason": "Down 5.4% over Thursday and Friday, the worst of the group: fell 4.8% Thursday on the OpenAI revenue report and another 0.7% Friday while the Nasdaq rebounded. The Taoyuan union's strike authorisation (1,994 to 14) stands, a rally is called for Oct 19 and the larger Taichung union returns to mediation Oct 22, so the labour overhang runs at least two more weeks. No analyst actions in the window; TrendForce still sees Q4 DRAM contract prices up 10-15%. Hold.",
+      "price_usd": 1029.0,
+      "updated": "2026-10-10"
     },
     "NFLX": {
       "take": "hold",
-      "reason": "Up about 0.6% at the open despite Morgan Stanley trimming its target to $80 from $83 (Overweight) on flat viewing hours. Q3 results are due Oct 20, so hold into the print.",
-      "price_usd": 69.7,
-      "updated": "2026-10-08"
+      "reason": "Up 0.9% over Thursday and Friday: rose 2.7% Thursday as money left AI names, gave back 1.8% Friday. No company news in the window; Oct 8 previews centre on Q3 results due Oct 20, with guidance implying about 11.7% revenue growth and a 2026 ad revenue goal of about $3 billion, roughly double 2025. Shares sit about 44% below the 52-week high, so hold into the print.",
+      "price_usd": 70.3,
+      "updated": "2026-10-10"
     },
     "NVDA": {
       "take": "hold",
-      "reason": "Down 1.0% before the open and 1.2% after it, in line with chips as oil and yields rise and AI debt financing (Broadcom $50B for OpenAI, SpaceX $40B for Nvidia chips) draws attention. Demand signals unchanged; hold.",
-      "price_usd": 237.47,
-      "updated": "2026-10-08"
+      "reason": "Down 3.4% over Thursday and Friday: fell 2.9% Thursday, the worst Dow stock, after the FT reported OpenAI's annualised revenue was near $50 billion rather than the roughly $70 billion investors assumed (a gross-vs-net accounting gap, not lost sales), and slipped 0.5% Friday even as Bloomberg reported OpenAI expects to reach $70 billion by year-end. Nvidia committed $1 billion over five years to US science at the White House summit Oct 8. Demand story intact; GTC Berlin Oct 20-22 is the next catalyst. Hold.",
+      "price_usd": 229.28,
+      "updated": "2026-10-10"
     },
     "RKT": {
       "take": "watch",
-      "reason": "Down about 0.6% at the open with no company news. The last verified 30-year mortgage rate average was 7.28% on Oct 1 and the 10-year yield is near 5.3%, so mortgage stocks stay on watch.",
-      "price_usd": 11.44,
-      "updated": "2026-10-08"
+      "reason": "Up 0.4% over Thursday and Friday: rose 2.8% Thursday, fell 2.4% Friday. Freddie Mac's 30-year rate hit 7.40% on Oct 8, up from 7.28%, the seventh straight weekly rise and the highest since November 2023; the 10-year sat near 5.24% Friday. Refinance economics keep worsening and Q3 results are due around Oct 29, so stay on watch.",
+      "price_usd": 11.48,
+      "updated": "2026-10-10"
     },
     "TSM": {
       "take": "add",
-      "reason": "September sales were NT$511.86B (down 0.6% from August, up 54.6% year on year); my arithmetic puts Q3 near US$46.7B at the NT$32 guidance rate, above the top of the US$44.6-45.8B range. The ADR was down about 0.6% at the open on the tech sell-off, so keep adding ahead of the Oct 15 results.",
-      "price_usd": 472.2,
-      "updated": "2026-10-08"
+      "reason": "ADR down 4.0% over Thursday and Friday: fell 3.0% Thursday with the AI complex and another 1.0% Friday, despite Q3 revenue of about $46.7 billion (+50% y/y) landing above the company's $44.6-45.8 billion guidance and the 19-analyst forecast, with September up 54.6% y/y. Taiwan's market is shut for the holiday until Oct 12; Q3 results and Q4 guidance come Oct 15 at 14:00 Taipei. Fundamentals are running ahead of the price, so add stays.",
+      "price_usd": 453.31,
+      "updated": "2026-10-10"
     },
     "STRIPE": {
       "take": "hold",
-      "reason": "No closed round or tender today; the 2.27x mark is unchanged. Hold.",
+      "reason": "No new round, tender or secondary mark reported since Oct 8; the last company tender was February at $159 billion, so the mark multiple stays 2.27. Only pre-window news on the newsroom: the FedEx Dataworks cross-border commerce partnership (Oct 6) and the Parafin acquisition for platform lending (Sept 30). Nothing on the IPO. Hold.",
       "price_usd": null,
-      "updated": "2026-10-08",
+      "updated": "2026-10-10",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "No closed round or tender. Broadcom is reportedly seeking more than $50B of private debt for OpenAI's custom chips (talks only, nothing signed before year-end), and OpenRouter data showed OpenAI passing Anthropic in weekly model spend. Mark unchanged at 5.43x.",
+      "reason": "The FT reported Oct 8 that OpenAI's annualised revenue was near $50 billion at end-September, about $20 billion below the figure investors had assumed; the gap is gross-vs-net accounting of partner sales, not lost revenue, but it knocked AI stocks 3-6% that day. Bloomberg reported Oct 9 that OpenAI told investors it expects to reach or exceed $70 billion annualised by year-end. The $30 billion round at a $1.4 trillion pre-money valuation is still in talks with MGX and BlackRock, not closed, so the mark multiple stays 5.43. Hold.",
       "price_usd": null,
-      "updated": "2026-10-08",
+      "updated": "2026-10-10",
       "mark_multiple": 5.43
     }
   },
   "headlines": [
-    "Futures fall before Thursday's US open: Brent topped $104, the 10-year is near 5.3%, Hang Seng Tech fell 2.9% on China's reopening.",
-    "TSMC September sales rose 54.6% to NT$511.86B, putting Q3 above guidance; TSMC reports Oct 15.",
-    "Samsung's record Q3 profit came in slightly below forecasts; memory stocks fell, Micron down about 1% premarket.",
-    "Broadcom reportedly lining up $50B+ of debt for OpenAI chips; Nvidia and Marvell down 1-2% at the open.",
-    "Alphabet: TD Cowen lifts target to $485 on Cloud growth; it was the only mega-cap up at the open.",
-    "Next: US CPI Wed Oct 14 (Thu morning AEDT), Anthropic investor session Oct 14, TSMC results Oct 15."
+    "FT put OpenAI's run-rate revenue near $50B, not $70B: Nasdaq fell 1.25% Thursday, Nvidia 2.9%, Micron 4.8%; Friday steadied on a $70B year-end claim.",
+    "Rates bite: Waller flagged more hikes, Michigan 1-year inflation expectations hit 4.7%, the 10-year held 5.24% and mortgages reached 7.40%.",
+    "Bellwethers held through the selloff: H100 rental index up 2.5% on the week to $2.85, DDR5 spot at a new high.",
+    "Alibaba +5.4% Friday on talk Beijing capped fund selling; TSM ADR -4% in two days despite a Q3 beat; loanDepot -9% to a 52-week low.",
+    "Anthropic disclosed Claude agents took unintended actions on government websites in testing and briefed the White House; investor session still Oct 14.",
+    "Credo and Celestica join the watchlist; Cloudflare closed at a 52-week high above consensus; next: US CPI Wed 23:30 AEDT, TSMC Q3 Thu."
   ]
 }
