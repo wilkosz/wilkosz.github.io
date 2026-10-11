@@ -1,13 +1,13 @@
 {
-  "as_of": "2026-10-10T13:51",
-  "summary": "Overnight sweep, 10 wants. The $800 Warn Zeon sold within 14 hours, which says the used Warn end of the winch market clears fast. A Stihl MS 461 at $1,000 in Werribee is now the cheapest 30in-capable saw on the list. The Pickles 2021 Kubota M108S loader at Mildura opens for bidding Monday morning and closes Tuesday evening. Everything else held at the same prices.",
+  "as_of": "2026-10-11T13:48",
+  "summary": "Overnight sweep, 10 wants. Two tractors sold and a 2013 Claas Arion 620 with Stoll loader came up just over budget. The Leeton 24-plate offset disc, used once, is now the pick at 50km, with the Griffith maker's new 28-plate at $20,845 as the ceiling. Two Stihl MS 461s now sit at $1,000. The Pickles Kubota M108S opens for bidding at 9am today.",
   "headlines": [
-    "Warn Zeon 10-S at $800 sold within 14 hours. Warn VR Evo 10-S in Tatura is now the best live winch, cut to $900, postable.",
-    "New: Stihl MS 461, full service kit, two spare chains, $1,000 at Werribee, 30km. Cheapest 30in-capable saw so far.",
-    "Pickles 2021 Kubota M108S loader, 3,621 hrs, Mildura 390km: bidding opens Mon 12 Oct 9am, closes Tue 13 Oct 6:30pm AEDT.",
-    "New: Pawzy 120 x 75 cm gel cooling mat, boxed, $39 at Camberwell, 10km. The $15 Yarraville mat is still up.",
-    "New: Massey Ferguson single-tine ripper $350 at Bendigo, 310km. Zannit and Heavy Haul plant trailers downgraded: 3.5 t rating, too light for a tractor.",
-    "No price moves elsewhere. Grays Shepparton 2-bed container house still $22,000 with no bids, closes Wed 15 Oct 9:40pm."
+    "Pickles 2021 Kubota M108S loader, Mildura 390km: bidding opens today 9am, closes Tue 13 Oct 6:30pm. Still no price shown.",
+    "Tractors sold: Deutz-Fahr 4080.4E ($47,500) and JD 5101 ($65,000+GST). New: 2013 Claas Arion 620, 135hp, 3,765 hrs, Stoll loader, $90,200 drive away.",
+    "Leeton 24-plate offset disc, used once, $12,000, 50km, now strong. New Serafin 28-plate from the Griffith maker: $20,845, 3.2m, 100-110hp.",
+    "Stihl MS 461 at Wallan cut to $1,000 from $1,200. New: ex-government MS 462 C, just serviced, $1,295 at Wonga Park, 40km.",
+    "Dog cooling mat: Lexi & Me 98 x 81 cm gel mat, $10 at St Kilda East, 10km. Tank World now says a pool fence is needed above 300mm.",
+    "Bendigo 12 t beavertail ($18,000) down to decent: ad says single axle and 12 t ATM. Ask for the compliance plate before driving."
   ],
   "finds": [
     {
@@ -26,12 +26,35 @@
       "source": "Gumtree",
       "url": "https://www.gumtree.com.au/web/listing/garden-tools/1344729751",
       "verdict": "strong",
-      "why": "Cheapest 30in-capable saw found at $1,000 and 30km away; ask about bar length and the muffler mod before driving out.",
+      "why": "Joint cheapest 30in-capable saw at $1,000 and 30km away; ask about bar length and the muffler mod first.",
       "status": "live",
       "first_seen": "2026-10-10",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/gumtree-1344729751.jpg",
       "photo_url": "https://images.gumtree.com.au/image/private/t_$_58/gumtree/dd94f442-661e-4341-95f6-6dda5a218fa7.jpg"
+    },
+    {
+      "key": "fb-1017903701320382",
+      "want": "chainsaw",
+      "title": "Stihl MS 461 Magnum, 20in bar",
+      "price_aud": 1000,
+      "location": "Wallan, VIC",
+      "distance_km": 55,
+      "detail": [
+        "20in bar",
+        "Owner moved to a 661 five years ago",
+        "Used - Good, relisted a day ago",
+        "Price cut $200 since last run"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1017903701320382/",
+      "verdict": "strong",
+      "why": "One-owner 461 with a bar now $1,000, a $200 drop; a 30in bar is a cheap add.",
+      "status": "live",
+      "first_seen": "2026-10-10",
+      "updated": "2026-10-11",
+      "photo": "img/finds/fb-1017903701320382.jpg",
+      "price_note": "Reduced from $1,200"
     },
     {
       "key": "fb-1470810591050751",
@@ -43,15 +66,15 @@
       "detail": [
         "20in bar, chain near new",
         "Used - like new, test run offered on pickup",
-        "Relisted 7 hours ago, seller rated 9"
+        "Relisted a day ago, seller rated 9"
       ],
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/1470810591050751/",
       "verdict": "strong",
-      "why": "Cheapest MS 462 in Melbourne at roughly half RRP, 25km away, still live after a fresh relist.",
+      "why": "Cheapest MS 462 in Melbourne at $1,100, 25km away, still live.",
       "status": "live",
       "first_seen": "2026-10-10",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/fb-1470810591050751.jpg"
     },
     {
@@ -72,32 +95,11 @@
       "url": "https://www.facebook.com/marketplace/item/1417308616586147/",
       "verdict": "strong",
       "why": "Fuel-injected 500i with a 25in bar for $1,200, 15km from the CBD; the best power-per-dollar on the list.",
-      "status": "live",
+      "status": "sold",
       "ends": null,
       "first_seen": "2026-10-08",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/fb-1417308616586147.jpg"
-    },
-    {
-      "key": "fb-1017903701320382",
-      "want": "chainsaw",
-      "title": "Stihl MS 461 Magnum, 20in bar",
-      "price_aud": 1200,
-      "location": "Wallan, VIC",
-      "distance_km": 55,
-      "detail": [
-        "20in bar",
-        "Owner moved to a 661 five years ago",
-        "Used - Good, relisted 9 hours ago"
-      ],
-      "source": "Facebook Marketplace",
-      "url": "https://www.facebook.com/marketplace/item/1017903701320382/",
-      "verdict": "strong",
-      "why": "Honest one-owner 461 at $1,200 with a bar; a 30in bar is a $150 add.",
-      "status": "live",
-      "first_seen": "2026-10-10",
-      "updated": "2026-10-10",
-      "photo": "img/finds/fb-1017903701320382.jpg"
     },
     {
       "key": "fb-1108551484878843",
@@ -167,34 +169,36 @@
       "url": "https://www.facebook.com/marketplace/item/1578754150721955/",
       "verdict": "strong",
       "why": "The best-documented service on the list for $1,275; pickup is Wonga Park, about 40km.",
-      "status": "live",
+      "status": "sold",
       "first_seen": "2026-09-28",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/fb-1578754150721955.jpg",
       "price_note": null,
       "ends": null
     },
     {
-      "key": "fb-1071473712011045",
+      "key": "gumtree-1345077023",
       "want": "chainsaw",
-      "title": "Husqvarna 390 XP, new 24in bar",
-      "price_aud": 1400,
-      "location": "Launching Place, VIC",
-      "distance_km": 60,
+      "title": "Stihl MS 462 C, ex-government, just serviced",
+      "price_aud": 1295,
+      "location": "Wonga Park, VIC",
+      "distance_km": 40,
       "detail": [
-        "88cc, recently serviced",
-        "New 24in bar and chain",
-        "Price firm, seller ignores offers",
-        "Listed 6 weeks ago, seller rated 30"
+        "Ex Vic government fire-management saw, regularly serviced",
+        "20in Stihl Rollomatic bar and 3/8 chain",
+        "Just serviced: clutch drum replaced, new NGK plug, AV mounts checked",
+        "Listed 6 hours ago; pickup Wonga Park or Rupanyup",
+        "Hours not stated"
       ],
-      "source": "Facebook Marketplace",
-      "url": "https://www.facebook.com/marketplace/item/1071473712011045/",
+      "source": "Gumtree",
+      "url": "https://www.gumtree.com.au/web/listing/garden-tools/1345077023",
       "verdict": "strong",
-      "why": "Only clean Husqvarna big-bore saw inside 100km; serviced with a new 24in bar at $1,400, no haggling.",
+      "why": "Best-documented 462 on the market at $1,295; same seller's 461 went within days, so call early.",
       "status": "live",
-      "first_seen": "2026-10-10",
-      "updated": "2026-10-10",
-      "photo": "img/finds/fb-1071473712011045.jpg"
+      "first_seen": "2026-10-11",
+      "updated": "2026-10-11",
+      "photo": "img/finds/gumtree-1345077023.jpg",
+      "photo_url": "https://images.gumtree.com.au/image/private/t_$_s-l800/gumtree/e19a6839-844e-4015-a8db-0e5767a46b31.jpg"
     },
     {
       "key": "fb-1828017725039231",
@@ -223,6 +227,50 @@
       "photo": "img/finds/fb-1828017725039231.jpg"
     },
     {
+      "key": "fb-1071473712011045",
+      "want": "chainsaw",
+      "title": "Husqvarna 390 XP, new 24in bar",
+      "price_aud": 1400,
+      "location": "Launching Place, VIC",
+      "distance_km": 60,
+      "detail": [
+        "88cc, recently serviced",
+        "New 24in bar and chain",
+        "Price firm, seller ignores offers",
+        "Listed 6 weeks ago"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1071473712011045/",
+      "verdict": "decent",
+      "why": "Only big-bore Husqvarna inside 100km, but $1,400 firm sits $300-400 above four comparable Stihls.",
+      "status": "live",
+      "first_seen": "2026-10-10",
+      "updated": "2026-10-11",
+      "photo": "img/finds/fb-1071473712011045.jpg"
+    },
+    {
+      "key": "fb-1059127519798227",
+      "want": "chainsaw",
+      "title": "Stihl MS 462, 20in bar",
+      "price_aud": 1400,
+      "location": "Moorooduc, VIC",
+      "distance_km": 60,
+      "detail": [
+        "20in bar",
+        "Used - like new",
+        "Cash only, pickup Mornington",
+        "Listed 10 weeks ago; service history not stated"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1059127519798227/",
+      "verdict": "decent",
+      "why": "Clean 462 but $300 dearer than Wollert and 10 weeks unsold, so there is room to offer.",
+      "status": "live",
+      "first_seen": "2026-10-11",
+      "updated": "2026-10-11",
+      "photo": "img/finds/fb-1059127519798227.jpg"
+    },
+    {
       "key": "pipeliner-495937",
       "want": "deep-ripper",
       "title": "Farm-Aid FA106 heavy duty single-tine ripper (new)",
@@ -234,6 +282,7 @@
         "single tine",
         "150 x 50 mm billet shank",
         "700 mm working depth",
+        "reversible point 225 x 75 x 16 mm",
         "suits 60 hp and up",
         "3-point linkage",
         "new, dealer stock, Farm Supplies 07 3085 2777"
@@ -241,10 +290,10 @@
       "source": "Pipeliner (Farm Supplies)",
       "url": "https://www.pipeliner.com.au/detail/farmaid-single-tine-ripper-(heavy-duty)--suits-over-60hp--fa106-495937",
       "verdict": "strong",
-      "why": "Cheapest new heavy-shank single tyne that clearly suits a 90-130 hp tractor; still $1,145 today, freight to Darlington Point to be quoted.",
+      "why": "Cheapest new heavy single tyne that suits 90-130 hp; still $1,145 today, freight to Darlington Point to be quoted.",
       "status": "live",
       "first_seen": "2026-10-10",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/pipeliner-495937.jpg",
       "photo_url": "https://assets.primecreative.com.au/imagegen/p/1280/960/s3/digital-cougar-assets/momoads/2019/04/30/115536/5191236_FA106_1.jpg"
     },
@@ -257,9 +306,9 @@
       "location": "Pakenham, VIC (ships)",
       "distance_km": null,
       "detail": [
-        "single 150 x 50 mm solid steel shank",
+        "single 150 x 50 mm solid steel billet shank",
         "rated 60-120 hp",
-        "about 650 mm ripping depth",
+        "about 650 mm ripping depth (spec table says 900 mm max, lower pin to tip)",
         "155 kg, Cat 2 linkage",
         "reversible replaceable cutting tooth",
         "removable pipelayer, 80 mm ID",
@@ -268,13 +317,13 @@
       "source": "Hayes Products",
       "url": "https://hayesproducts.com.au/product/extra-heavy-duty-single-tine-tractor-ripper-pipelayer/",
       "verdict": "strong",
-      "why": "Heaviest shank of any listing and the only one with a published 120 hp rating; unchanged at $1,290, pipelayer is a bonus.",
+      "why": "Only listing with a published 120 hp rating and a 150 x 50 mm billet shank; unchanged at $1,290.",
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/hayes-extra-heavy-duty-single-tine-tractor-ripper-pipelayer.jpg",
-      "photo_url": "https://hayesproducts.com.au/wp-content/uploads/2019/05/Extra-Heavy-Duty-900x600.jpg"
+      "photo_url": "https://hayesproducts.com.au/wp-content/uploads/2019/05/Extra-Heavy-Duty.jpg"
     },
     {
       "key": "fb-1529309308826340",
@@ -294,11 +343,11 @@
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/1529309308826340/",
       "verdict": "decent",
-      "why": "Closest unit to home at $250, but the bent tip needs a look and no hp or shank size is given.",
+      "why": "Closest unit to home at $250, unchanged; the bent tip needs a look and no hp or shank size is given.",
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-02",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/fb-1529309308826340.jpg"
     },
     {
@@ -318,10 +367,10 @@
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/1088983130503390/",
       "verdict": "decent",
-      "why": "Cheap single tyne but thin on detail and 380 km away; unchanged since last run.",
+      "why": "Cheap single tyne but thin on detail and 380 km away; unchanged, listed a week now.",
       "status": "live",
       "first_seen": "2026-10-10",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/fb-1088983130503390.jpg"
     },
     {
@@ -342,11 +391,11 @@
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/1166415099041888/",
       "verdict": "decent",
-      "why": "The heavy-frame unit is the pick at $270, but it has frame damage and is 390 km away.",
+      "why": "The heavy-frame unit is the pick at $270, but it has frame damage and is 390 km away; unchanged.",
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-08",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/fb-1166415099041888.jpg"
     },
     {
@@ -367,10 +416,10 @@
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/1794651221505734/",
       "verdict": "decent",
-      "why": "New today: a solid-looking MF single tine at $350, closer than the Crookwell pair and without the frame damage, but no hp or depth stated.",
+      "why": "Solid-looking MF single tine at $350 firm, closer than Crookwell and undamaged, but no hp or depth stated; unchanged.",
       "status": "live",
       "first_seen": "2026-10-10",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/fb-1794651221505734.jpg"
     },
     {
@@ -425,6 +474,30 @@
       "photo": "img/finds/fb-2109641172975292.jpg"
     },
     {
+      "key": "fb-977393682040191",
+      "want": "dog-cooling-mat",
+      "title": "Lexi & Me cooling mat Large, 98 x 81 cm (Mykonos blue)",
+      "price_aud": 10,
+      "price_note": "reduced from $20",
+      "location": "St Kilda East, VIC",
+      "distance_km": 10,
+      "detail": [
+        "size L, 81 x 98 cm",
+        "self-cooling non-toxic gel inside, no fridge needed",
+        "reversible, wipe or hose clean",
+        "used, good condition",
+        "pickup St Kilda East"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/977393682040191/",
+      "verdict": "strong",
+      "why": "Branded gel mat well over the size floor for $10, cheaper than all but the stained $5 Kew mat.",
+      "status": "live",
+      "first_seen": "2026-10-11",
+      "updated": "2026-10-11",
+      "photo": "img/finds/fb-977393682040191.jpg"
+    },
+    {
       "key": "fb-1692511419246924",
       "want": "dog-cooling-mat",
       "title": "Large self-cooling dog mat, 108 x 78 cm (avocado print)",
@@ -443,7 +516,7 @@
       "why": "Biggest cheap mat on the list at $15, barely used, and the seller will drop it off locally.",
       "status": "live",
       "first_seen": "2026-10-10",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/fb-1692511419246924.jpg"
     },
     {
@@ -465,7 +538,7 @@
       "why": "Branded gel mat well over the size floor for $20, and it can be posted if the drive is a bother.",
       "status": "live",
       "first_seen": "2026-10-10",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/fb-1798679421574373.jpg"
     },
     {
@@ -477,7 +550,7 @@
       "distance_km": 0,
       "detail": [
         "99 x 59 cm",
-        "new, in stock online",
+        "new, add to bag available online",
         "$29 full price, no sale"
       ],
       "source": "Kmart",
@@ -486,7 +559,7 @@
       "why": "Cheapest new option that clears 90 x 50 cm, and it can be in hand today from Highpoint.",
       "status": "live",
       "first_seen": "2026-10-10",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/kmart-43715732.jpg",
       "photo_url": "https://assets.kmart.com.au/transform/af312b6b-bf5b-48bc-89ba-0d582cc20ea2/43715732-1"
     },
@@ -501,7 +574,7 @@
         "120 x 75 cm",
         "pressure-activated self-cooling gel, no fridge or power",
         "waterproof PVC cover, foldable",
-        "new in box; ad listed 29 Jan 2026"
+        "new in box"
       ],
       "source": "Gumtree",
       "url": "https://www.gumtree.com.au/web/listing/pet-products/1340097142",
@@ -509,7 +582,7 @@
       "why": "Largest mat on the list, new and boxed, for $39 against a $40-100 new range, and it is a short drive.",
       "status": "live",
       "first_seen": "2026-10-10",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/gumtree-1340097142.jpg",
       "photo_url": "https://images.gumtree.com.au/image/private/t_$_s-l800/gumtree/8c06ad0c-8886-46db-903c-949c3c579caa.jpg"
     },
@@ -523,38 +596,17 @@
       "detail": [
         "90 x 50 cm, right on the size floor",
         "used, fair condition, some staining from camping",
+        "cooling type not stated",
         "door pickup, Kew"
       ],
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/1089350763462883/",
       "verdict": "decent",
-      "why": "Only $5 but it is the minimum size and stained, so a spare rather than the main mat.",
+      "why": "Only $5 but it is the minimum size, stained and the cooling type is not stated; the $10 Lexi & Me mat is the better buy.",
       "status": "live",
       "first_seen": "2026-10-10",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/fb-1089350763462883.jpg"
-    },
-    {
-      "key": "fb-1124291586844657",
-      "want": "dog-cooling-mat",
-      "title": "New large cooling pet mat, 95 x 80 cm, unused",
-      "price_aud": 20,
-      "location": "Alphington, VIC",
-      "distance_km": 10,
-      "detail": [
-        "95 x 80 cm",
-        "new, not used; seller paid $60",
-        "stays cool, cooling type not stated",
-        "pickup Alphington"
-      ],
-      "source": "Facebook Marketplace",
-      "url": "https://www.facebook.com/marketplace/item/1124291586844657/",
-      "verdict": "decent",
-      "why": "Unused and a good size for $20, but the listing does not say whether it is gel or water filled.",
-      "status": "live",
-      "first_seen": "2026-10-10",
-      "updated": "2026-10-10",
-      "photo": "img/finds/fb-1124291586844657.jpg"
     },
     {
       "key": "tankworld-500l-dog-pool",
@@ -569,17 +621,88 @@
         "340 mm deep",
         "40 mm drain bung",
         "solid polyethylene, smooth inside, reinforced top edge",
+        "Tank World says pools fillable to 300 mm+ need a pool fence; check council rules",
         "Zone 1 delivery covers Melbourne; charge only by phone or the on-page address calculator"
       ],
       "source": "Tank World",
       "url": "https://www.tankworld.com.au/product/500l-dog-pool/",
       "verdict": "decent",
-      "why": "Same mould as the benchmark sheep trough without the float valve, under the $500 ceiling before freight, but delivered cost is still unknown.",
+      "why": "Still the only listing that meets all three size musts, under the $500 ceiling before freight, but the delivered price is still unknown.",
       "status": "live",
       "first_seen": "2026-10-10",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/tankworld-500l-dog-pool.jpg",
       "photo_url": "https://static.tankworld.com.au/uploads/2022/09/500-1.png"
+    },
+    {
+      "key": "fb-2350024812200862",
+      "want": "dog-trough",
+      "title": "Horse trough (green poly, round)",
+      "price_aud": 200,
+      "location": "Diamond Creek, VIC",
+      "distance_km": 30,
+      "detail": [
+        "Used - good; seller will clean before pickup",
+        "Photos show a round green poly trough with a covered float valve",
+        "Size, capacity, depth and drain not stated"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/2350024812200862/",
+      "verdict": "stretch",
+      "why": "The only used poly trough near Melbourne tonight and $295 under the Dog Pool, but no size is given and it is 10 km past the 20 km limit.",
+      "status": "live",
+      "first_seen": "2026-10-11",
+      "updated": "2026-10-11",
+      "photo": "img/finds/fb-2350024812200862.jpg"
+    },
+    {
+      "key": "bunnings-0971583",
+      "want": "dog-trough",
+      "title": "RapidPlas Round Livestock Feed Trough 500 L, black",
+      "price_aud": 345,
+      "price_note": "Bunnings Marketplace, online only, shipped by RapidPlas; delivery charge not checked",
+      "location": "Online (ships)",
+      "distance_km": null,
+      "detail": [
+        "Bunnings spec: 1,300 mm wide, 500 mm high",
+        "2-inch drain bung",
+        "food-grade polyethylene, stackable",
+        "Sold as a feed trough; no UV or inside-finish detail"
+      ],
+      "source": "Bunnings",
+      "url": "https://www.bunnings.com.au/rapidplas-round-livestock-feed-trough-500-litre-black_p0971583",
+      "verdict": "stretch",
+      "why": "$150 cheaper than the Dog Pool and wide enough, but the 500 mm sides are 50 mm over the step-in limit for a golden.",
+      "status": "live",
+      "first_seen": "2026-10-11",
+      "updated": "2026-10-11",
+      "photo": "img/finds/bunnings-0971583.jpg",
+      "photo_url": "https://media.bunnings.com.au/api/public/content/cc9833b2d68249e296368e8160b88417"
+    },
+    {
+      "key": "tankworld-700l-dog-pool",
+      "want": "dog-trough",
+      "title": "Tank World 700 L poly Dog Pool (DP700)",
+      "price_aud": 535,
+      "price_note": "RRP $625; $535 in rivergum, black or off-white, $585 other colours; plus delivery from Swan Hill, charge not published",
+      "location": "Swan Hill, VIC (delivers to Melbourne, Zone 1)",
+      "distance_km": 340,
+      "detail": [
+        "1,850 mm across",
+        "370 mm deep",
+        "700 L, above the 400-600 L range",
+        "40 mm drain bung",
+        "polyethylene, smooth inside, reinforced top edge"
+      ],
+      "source": "Tank World",
+      "url": "https://www.tankworld.com.au/product/700l-dog-pool/",
+      "verdict": "stretch",
+      "why": "Sides still low at 370 mm and 280 mm wider for a lying dog, but $35 over the ceiling before freight and above the 600 L range.",
+      "status": "live",
+      "first_seen": "2026-10-11",
+      "updated": "2026-10-11",
+      "photo": "img/finds/tankworld-700l-dog-pool.jpg",
+      "photo_url": "https://static.tankworld.com.au/uploads/2022/09/700-1.png"
     },
     {
       "key": "tankworld-500l-sheep-trough",
@@ -602,37 +725,9 @@
       "why": "The benchmark itself, but $65 more than the Dog Pool for a float valve the dog does not need and already over the $500 ceiling before freight.",
       "status": "live",
       "first_seen": "2026-10-10",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/tankworld-500l-sheep-trough.jpg",
       "photo_url": "https://static.tankworld.com.au/uploads/2021/11/Product-Images-2025-02-04T094932.897-1-600x600.png"
-    },
-    {
-      "key": "fb-2993323807675841",
-      "want": "drop-deck-trailer",
-      "title": "2006 beavertail tag trailer, 12 t ATM, 6 m deck with ramps",
-      "price_aud": 18000,
-      "price_note": null,
-      "location": "Bendigo, VIC",
-      "distance_km": 300,
-      "detail": [
-        "2006",
-        "12 t ATM",
-        "6 m deck",
-        "beavertail with ramps",
-        "Bartlett coupling",
-        "single axle per seller",
-        "very few km per seller",
-        "listed 4 weeks ago, 1 owner"
-      ],
-      "source": "Facebook Marketplace",
-      "url": "https://www.facebook.com/marketplace/item/2993323807675841/",
-      "verdict": "strong",
-      "why": "Still the only listing in band whose 12 t rating covers a 4-6 t loader tractor with margin; seller says single axle, so confirm that and the rego before the 300 km drive.",
-      "status": "live",
-      "ends": null,
-      "first_seen": "2026-10-08",
-      "updated": "2026-10-10",
-      "photo": "img/finds/fb-2993323807675841.jpg"
     },
     {
       "key": "machines4u-754768",
@@ -646,20 +741,47 @@
         "2001",
         "10,000 kg ATM",
         "5.2 m x 1.97 m deck",
-        "bogie axle",
+        "bogie axle per description",
         "ramps and brakes not stated",
         "Qld origin, rego not stated"
       ],
       "source": "Machines4u",
       "url": "https://www.machines4u.com.au/view/advert/DoT-10-000kg-ATM-Plant-Trailer-21120006/754768/",
       "verdict": "decent",
-      "why": "Only 10 t unit under $14k, but it is the oldest year allowed, a Melbourne dealer past the radius, and the ad says nothing about ramps or brakes; delivery cost decides it.",
+      "why": "Cheapest confirmed 10 t unit, but it is a 2001 build at a Melbourne dealer beyond the radius, and the ad says nothing about ramps or brakes. Delivery cost decides it.",
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-02",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/machines4u-754768.jpg",
       "photo_url": "https://media.machines4u.com.au/machinery/68/754768/DoT-10-000kg-ATM-Plant-Trailer-21120006_54945519.h.jpg"
+    },
+    {
+      "key": "fb-2993323807675841",
+      "want": "drop-deck-trailer",
+      "title": "2006 beavertail tag trailer, 12 t ATM claimed, 6 m deck with ramps",
+      "price_aud": 18000,
+      "price_note": null,
+      "location": "Bendigo, VIC",
+      "distance_km": 300,
+      "detail": [
+        "2006, 1 owner",
+        "seller text, word for word: 6m long single axle, 12 tonne ATM capacity",
+        "4 photos: none shows the axle group side-on, only one rear wheel, so axle count is unconfirmed",
+        "a single axle and a 12 t ATM rarely go together, so one of the two claims is probably wrong",
+        "Bartlett coupling, fold-up ramps, Beavertail-branded drawbar",
+        "number plate fitted at rear; rego status not stated",
+        "listed 4 weeks ago"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/2993323807675841/",
+      "verdict": "decent",
+      "why": "Best price in band for a claimed 12 t tag, but the ad's single-axle wording undercuts that rating. Ask for a photo of the compliance plate and the wheels before driving 300 km.",
+      "status": "live",
+      "ends": null,
+      "first_seen": "2026-10-08",
+      "updated": "2026-10-11",
+      "photo": "img/finds/fb-2993323807675841.jpg"
     },
     {
       "key": "fb-2112447919624014",
@@ -673,16 +795,16 @@
         "9 t ATM",
         "spring suspension",
         "condition used - good",
-        "axles and ramps not stated",
+        "axles, ramps, deck size and rego not stated",
         "listed 4 weeks ago"
       ],
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/2112447919624014/",
       "verdict": "decent",
-      "why": "Right rating and closest of the capable units, but $2,500 over the ceiling and the listing is thin; 4 weeks up suggests room to negotiate.",
+      "why": "Its stated 9 t rating covers the tractor, and it is the closest capable unit after Griffith. It is $2,500 over the ceiling and the ad is thin, but 4 weeks unsold leaves room to offer.",
       "status": "live",
       "first_seen": "2026-10-10",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/fb-2112447919624014.jpg"
     },
     {
@@ -753,11 +875,11 @@
       "source": "Machines4u",
       "url": "https://www.machines4u.com.au/view/advert/2018-Heavy-Haul-Plant-Trailer/1169819/",
       "verdict": "stretch",
-      "why": "Newest and cheapest, but 4,500 ATM less 1,180 tare leaves about 3.3 t, short of a 4-6 t tractor, and Dubbo is at the edge of the radius.",
+      "why": "Newest and cheapest, but about 3.3 t payload is short of a 4-6 t tractor, and Dubbo is at the edge of the radius.",
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-02",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/machines4u-1169819.jpg",
       "photo_url": "https://media.machines4u.com.au/machinery/19/1169819/2018-Heavy-Haul-Plant-Trailer_82288214.h.jpg"
     },
@@ -782,11 +904,11 @@
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/1096398136210577/",
       "verdict": "stretch",
-      "why": "Seller now states 3.5 t legal capacity, which is under a 90-140 hp loader tractor; only worth it if the tractor ends up at the light end.",
+      "why": "The seller states 3.5 t legal capacity, below a 90-140 hp loader tractor. Only worth it if the tractor ends up at the light end.",
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-02",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/fb-1096398136210577.jpg"
     },
     {
@@ -800,24 +922,25 @@
       "detail": [
         "2001",
         "16 t capacity",
-        "tandem axle",
+        "tandem axle, near-new axles",
         "Bartlett 8-ball hitch",
         "manual ramps",
-        "near-new axles",
         "4,380 kg tare",
         "7.5 m x 2.5 m deck, 6 m flat",
         "9.5 m overall",
         "no rego",
+        "seller may help with local transport",
         "listed 22 weeks ago"
       ],
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/2448447978937324/",
       "verdict": "stretch",
-      "why": "Closest and strongest unit but $4,000 over even before rego, 4.4 t tare needs a truck not a ute, and 22 weeks unsold says the price is not moving.",
+      "why": "Closest and most capable unit, but $4,000 over before rego, and the 4.4 t tare needs a truck to tow. 22 weeks unsold makes an ONO offer near $20k worth a try.",
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-08",
-      "updated": "2026-10-10"
+      "updated": "2026-10-11",
+      "photo": "img/finds/fb-2448447978937324.jpg"
     },
     {
       "key": "apple-au-macmini-m6-32gb-1tb",
@@ -837,10 +960,10 @@
       "source": "Apple AU",
       "url": "https://www.apple.com/au/shop/buy-mac/mac-mini/m6-chip-12-core-cpu-12-core-gpu-32gb-memory-1tb-storage",
       "verdict": "decent",
-      "why": "Cheapest way to clear the must list; price unchanged at $2,799 and nobody in Australia is undercutting it.",
+      "why": "Cheapest way to clear the must list; still $2,799 and no refurb or private sale in Australia is undercutting it.",
       "status": "live",
       "first_seen": "2026-09-29",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/apple-au-macmini-m6-32gb-1tb.jpg",
       "photo_url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mac-mini-chip-unselect-202608-gallery-1?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1785998455498",
       "ends": null
@@ -863,10 +986,10 @@
       "source": "Apple AU",
       "url": "https://www.apple.com/au/shop/buy-mac/mac-mini/m5-pro-chip-15-core-cpu-16-core-gpu-48gb-memory-1tb-storage",
       "verdict": "decent",
-      "why": "The 48GB step costs $1,250 over the M6 32GB; unchanged at $4,049 and the eBay UK import of the same build is $4,878.",
+      "why": "The 48GB step costs $1,250 over the M6 32GB; unchanged at $4,049 with no cheaper refurb or used unit found.",
       "status": "live",
       "first_seen": "2026-09-29",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "ends": null,
       "photo": "img/finds/apple-au-macmini-m5pro15-48gb-1tb.jpg",
       "photo_url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mac-mini-chip-unselect-202608-gallery-1?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1785998455498"
@@ -913,13 +1036,38 @@
       "source": "Apple AU",
       "url": "https://www.apple.com/au/shop/buy-mac/mac-mini/m5-pro-chip-18-core-cpu-20-core-gpu-64gb-memory-1tb-storage",
       "verdict": "decent",
-      "why": "Top memory config, unchanged at $4,949; the only other 64GB/1TB units are UK imports on eBay from $5,579.",
+      "why": "Top memory config, unchanged at $4,949; no 64GB/1TB unit below it found locally today.",
       "status": "live",
       "first_seen": "2026-09-29",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "ends": null,
       "photo": "img/finds/apple-au-macmini-m5pro18-64gb-1tb.jpg",
       "photo_url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mac-mini-chip-unselect-202608-gallery-1?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1785998455498"
+    },
+    {
+      "key": "fb-28592605743684529",
+      "want": "offset-discs",
+      "title": "24-plate trailing offset disc, used once (Eco-Offset decal)",
+      "price_aud": 12000,
+      "location": "Leeton, NSW",
+      "distance_km": 50,
+      "detail": [
+        "24 plates",
+        "condition listed as new, used once",
+        "seller says needs 75hp to pull",
+        "selling because the farm is being sold",
+        "frame decal reads Eco-Offset; maker not stated in text",
+        "width not stated",
+        "listed 2 weeks"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/28592605743684529/",
+      "verdict": "strong",
+      "why": "Near-new 24-plate 50 km away at $12,000, about $7,400 under a new Serafin Eco 24; confirm the width and maker on the phone.",
+      "status": "live",
+      "first_seen": "2026-10-11",
+      "updated": "2026-10-11",
+      "photo": "img/finds/fb-28592605743684529.jpg"
     },
     {
       "key": "fb-939357285873973",
@@ -934,16 +1082,16 @@
         "2.4m working width",
         "new 22in scallop discs on front gang",
         "new front gang bolt",
-        "listed 6 weeks"
+        "listed 7 weeks"
       ],
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/939357285873973/",
       "verdict": "decent",
-      "why": "Cheapest proper unit on the list with fresh front discs, but 2.4m is narrow and hp match is not stated.",
+      "why": "Cheapest proper unit, with new front discs, but 2.4 m is narrow and the listing gives no hp rating.",
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/fb-939357285873973.jpg"
     },
     {
@@ -990,10 +1138,10 @@
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/1096043223368086/",
       "verdict": "decent",
-      "why": "Closest find at 40km with the bearing work done; worth a look in person to measure width and plate wear.",
+      "why": "Closest used 28-plate, and the bearing work is done. Measure the width and check plate wear in person.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "ends": null,
       "photo": "img/finds/fb-1096043223368086.jpg"
     },
@@ -1016,43 +1164,19 @@
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/1054966007434070/",
       "verdict": "decent",
-      "why": "Clears the must list with recent front-gang work, but it is at the edge of the range and rear plates are half worn.",
+      "why": "Meets every must and the front gang was just redone, but it is at the edge of the 400 km range and the rear plates are 60% worn.",
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/fb-1054966007434070.jpg"
-    },
-    {
-      "key": "fb-1730861284788002",
-      "want": "offset-discs",
-      "title": "Baldan CRSG28 28-plate offset trailing discs",
-      "price_aud": 8000,
-      "location": "Myrtleford, VIC",
-      "distance_km": 330,
-      "detail": [
-        "28 plates",
-        "about 2.4 tonne",
-        "oil bath bearings, owned since new",
-        "plates worn, seller quoted $135 ex GST per new plate",
-        "RHS bar added at rear for rollers",
-        "width not stated"
-      ],
-      "source": "Facebook Marketplace",
-      "url": "https://www.facebook.com/marketplace/item/1730861284788002/",
-      "verdict": "decent",
-      "why": "Sound frame and bearings from a one-owner set, but budget for new plates on top of the $8,000.",
-      "status": "live",
-      "first_seen": "2026-10-10",
-      "updated": "2026-10-10",
-      "photo": "img/finds/fb-1730861284788002.jpg"
     },
     {
       "key": "fb-1005183285292089",
       "want": "offset-discs",
       "title": "Jarrett 28-plate offset discs",
       "price_aud": 9000,
-      "price_note": "ONO; page today shows the price as US$9,000, seller text says $9000 ono",
+      "price_note": "ONO; page shows US$9,000, seller text says $9000 ono",
       "location": "Katamatite, VIC",
       "distance_km": 180,
       "detail": [
@@ -1064,10 +1188,10 @@
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/1005183285292089/",
       "verdict": "decent",
-      "why": "Low-hours 28-plate within 200km, but the listing is thin and the price display needs confirming with the seller.",
+      "why": "Lightly used 28-plate under 200 km away, but the listing is thin and the price currency needs confirming.",
       "status": "live",
       "first_seen": "2026-10-10",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/fb-1005183285292089.jpg"
     },
     {
@@ -1083,15 +1207,15 @@
         "hoses and tyres maintained, greased before every use",
         "condition listed as like new",
         "width not stated",
-        "listed 9 weeks"
+        "listed 10 weeks"
       ],
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/1736086710766636/",
       "verdict": "decent",
-      "why": "Well-kept unit but the dearest 24-plate on the list and width is not stated.",
+      "why": "Well kept, but it costs more than the Leeton set, is 190 km further away, and the width is not stated.",
       "status": "live",
       "first_seen": "2026-10-10",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/fb-1736086710766636.jpg"
     },
     {
@@ -1141,11 +1265,11 @@
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/1339529314984445/",
       "verdict": "strong",
-      "why": "Cheapest unit that clears every must, 170km away and the seller is open to offers; condition is fair so inspect before paying.",
+      "why": "Cheapest unit that clears every must, 170km away and the seller is open to offers; condition is fair, so inspect before paying.",
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/fb-1339529314984445.jpg"
     },
     {
@@ -1212,11 +1336,11 @@
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/1117657974131225/",
       "verdict": "strong",
-      "why": "New two-bed with full bathroom from a dealer 180km away, in stock and inspectable; GST may push it toward $22k.",
+      "why": "New two-bed with a full bathroom from a dealer 180km away, in stock and open for inspection; GST may push it toward $22k.",
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/fb-1117657974131225.jpg"
     },
     {
@@ -1238,10 +1362,10 @@
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/1729183591520678/",
       "verdict": "strong",
-      "why": "Same Cobram dealer, premium model with the kitchen fitted; clears every must and every prefer at 180km.",
+      "why": "Premium model from the same Cobram dealer with the kitchen fitted; it clears every must and every prefer at 180km.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "price_note": "plus GST if applicable",
       "ends": null,
       "photo": "img/finds/fb-1729183591520678.jpg"
@@ -1338,15 +1462,15 @@
         "toilet and shower",
         "20ft expandable",
         "used, like new",
-        "view in Whittlesea"
+        "dimensions and make not stated"
       ],
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/1125704206638375/",
       "verdict": "decent",
-      "why": "Clears every must at $20,000 but it is 370km out and the ad gives no dimensions or make.",
+      "why": "Clears every must at $20,000, but it is 370km out and the ad gives no dimensions or make.",
       "status": "live",
       "first_seen": "2026-10-10",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/fb-1125704206638375.jpg"
     },
     {
@@ -1376,7 +1500,7 @@
       "want": "portable-home",
       "title": "Unused expandable 2-bed container house with ensuite and kitchenette",
       "price_aud": 22000,
-      "price_note": "current price, 0 bids, reserve applies, plus 8% buyer premium and admin fee",
+      "price_note": "current price, 0 bids, plus 8% buyer premium (GST included in premium)",
       "location": "Shepparton, VIC",
       "distance_km": 230,
       "detail": [
@@ -1387,16 +1511,16 @@
         "ships 5950 x 2200 x 2515mm, about 3945kg",
         "unused, model L0206-BR2",
         "sold unwired",
-        "no delivery, collection by appointment"
+        "inspection and collection by appointment, 3-5 Fordyce St Shepparton"
       ],
       "source": "Grays",
       "url": "https://www.grays.com/lot/0001-3037095/mining-quarries/expandable-2-bedroom-container-house-with-ensuite-unused",
       "verdict": "decent",
-      "why": "Unused two-bed with ensuite 230km away, but $22,000 plus 8% lands near $23,800 before transport and wiring, and no bids yet means the reserve is untested.",
+      "why": "Unused two-bed with an ensuite 230km away, but $22,000 plus 8% is about $23,800 before transport and wiring, and still no bids three days out.",
       "status": "live",
       "ends": "2026-10-15",
       "first_seen": "2026-10-10",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/grays-0001-3037095.jpg",
       "photo_url": "https://res3.grays.com/handlers/imagehandler.ashx?t=sh&id=50185571&s=fl&index=0&ts=639271476060000000"
     },
@@ -1421,11 +1545,11 @@
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/1111581224659646/",
       "verdict": "decent",
-      "why": "The most finished unit on the list with Australian-spec wiring and hot water, but $28,000 plus $1,000 fold-up plus transport from 330km puts it at the top of the band.",
+      "why": "The most finished unit on the list, with Australian-spec wiring and hot water, but $28,000 plus $1,000 fold-up plus transport from 330km puts it at the top of the band.",
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-02",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/fb-1111581224659646.jpg"
     },
     {
@@ -1467,7 +1591,7 @@
         "cab with air seat, UHF",
         "one owner ex-slashing tractor, recent service",
         "Nokian all-terrain tyres, dealer can swap to ag tyres",
-        "dealer listing (Highlands Equipment)"
+        "dealer listing (Highlands Equipment), still in stock 12 Oct"
       ],
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/1800618844582287/",
@@ -1476,8 +1600,35 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-02",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/fb-1800618844582287.jpg"
+    },
+    {
+      "key": "machines4u-1280220",
+      "want": "tractor",
+      "title": "2021 Massey Ferguson 1204 4WD cab with FEL",
+      "price_aud": 65000,
+      "price_note": "$71,500 inc GST; confirm with seller if additional costs apply",
+      "location": "NSW, suburb not stated",
+      "distance_km": null,
+      "detail": [
+        "1,278 hours",
+        "120hp (88.2 kW)",
+        "front end loader listed, make not stated",
+        "cab with air conditioning",
+        "2021",
+        "seller account opened Sep 2026 with 1 listing; spec text has garbled fields and an incomplete phone number"
+      ],
+      "source": "Machines4u",
+      "url": "https://www.machines4u.com.au/view/advert/MASSEY-FERGUSON-1204-TRACTOR-AVAILABLE-FOR-SALE/1280220/",
+      "verdict": "decent",
+      "why": "Low hours and in band at $71,500 inc GST, but no suburb and a brand-new seller account with messy spec text; inspect in person before paying anything.",
+      "status": "live",
+      "ends": null,
+      "first_seen": "2026-10-08",
+      "updated": "2026-10-11",
+      "photo": "img/finds/machines4u-1280220.jpg",
+      "photo_url": "https://media.machines4u.com.au/machinery/20/1280220/MASSEY-FERGUSON-1204-TRACTOR-AVAILABLE-FOR-SALE_82531092.h.jpg"
     },
     {
       "key": "farmmachinerysales-oag-ad-26006942",
@@ -1500,62 +1651,63 @@
       "url": "https://www.farmmachinerysales.com.au/items/details/john-deere-5101/OAG-AD-26006942/",
       "verdict": "decent",
       "why": "Simple non-emission 100hp Deere with a proper 563 loader at $71,500 inc GST, but 500 km away and 4,270 hrs is close to the ceiling.",
-      "status": "live",
+      "status": "sold",
       "first_seen": "2026-10-10",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/farmmachinerysales-oag-ad-26006942.jpg",
       "photo_url": "https://farmmachinerysales.pxcrush.net/farmmachinerysales/cars/dealer/dvnvmehli23ygmne13gjq1wij.jpg"
     },
     {
-      "key": "machines4u-1280220",
+      "key": "farmmachinerysales-oag-ad-26308757",
       "want": "tractor",
-      "title": "2021 Massey Ferguson 1204 4WD cab with FEL",
-      "price_aud": 65000,
-      "price_note": "$71,500 inc GST; confirm with seller if additional costs apply",
-      "location": "NSW, suburb not stated",
+      "title": "2013 Claas Arion 620 with Stoll FZ loader, bucket and forks",
+      "price_aud": 82000,
+      "price_note": "plus GST; $90,200 drive away",
+      "location": "Riverina, NSW (town not stated)",
       "distance_km": null,
       "detail": [
-        "1,278 hours",
-        "120hp (88.2 kW)",
-        "front end loader listed",
-        "cab with air conditioning",
-        "2021"
+        "3,765 hours",
+        "135hp, 6.8L engine",
+        "24-speed partial powershift with power shuttle, 540/1000 PTO",
+        "Stoll 40.1 FZ Profiline loader with bucket and forks",
+        "tyres 420/70R28 front, 520/70R38 rear",
+        "cab not stated on the listing",
+        "dealer: Murrumbidgee Machinery Brokers, 02 8317 8718; listed under the Riverina region"
       ],
-      "source": "Machines4u",
-      "url": "https://www.machines4u.com.au/view/advert/MASSEY-FERGUSON-1204-TRACTOR-AVAILABLE-FOR-SALE/1280220/",
+      "source": "Farm Machinery Sales",
+      "url": "https://www.farmmachinerysales.com.au/items/details/2013-claas-arion-620/OAG-AD-26308757/",
       "verdict": "decent",
-      "why": "Low hours and in band at $71,500 inc GST, but the suburb is still not stated so distance is unknown.",
+      "why": "Clears every must with a proper Stoll loader and is listed in the Riverina, but $82k + GST is just over the $80k ceiling.",
       "status": "live",
-      "ends": null,
-      "first_seen": "2026-10-08",
-      "updated": "2026-10-10",
-      "photo": "img/finds/machines4u-1280220.jpg",
-      "photo_url": "https://media.machines4u.com.au/machinery/20/1280220/MASSEY-FERGUSON-1204-TRACTOR-AVAILABLE-FOR-SALE_82531092.h.jpg"
+      "first_seen": "2026-10-11",
+      "updated": "2026-10-11",
+      "photo": "img/finds/farmmachinerysales-oag-ad-26308757.jpg",
+      "photo_url": "https://farmmachinerysales.pxcrush.net/farmmachinerysales/agriculture/dealer/906424c38ee011489ee419d9b65dc656.jpg"
     },
     {
       "key": "pickles-62340303",
       "want": "tractor",
       "title": "2021 Kubota M108S with loader (Pickles National Agricultural Online, lot 27)",
       "price_aud": null,
-      "price_note": "online auction, bidding opens 12 Oct 09:00 AEDT; processing fees apply (pickles.com.au/fees/industrial); GST not stated",
+      "price_note": "online auction, bidding opens Mon 12 Oct 09:00 AEDT and closes Tue 13 Oct 18:30; processing fees apply (pickles.com.au/fees/industrial); no bid shown yet; GST not stated",
       "location": "Mildura, VIC",
       "distance_km": 390,
       "detail": [
         "3,621 hours (from Pickles search listing)",
         "listed as Tractor / Loader; loader model not stated on page",
         "hp not stated on page",
-        "bidding not yet open: page says Item Not Yet Available for Sale",
+        "re-read 00:40 AEDT Mon: page still says Item Not Yet Available for Sale",
         "viewing by appointment only, 1300 052 392",
         "payment due within 24 hours of close, collection within 3 business days"
       ],
       "source": "Pickles",
       "url": "https://www.pickles.com.au/used/details/earthmoving-and-mobile-plant/2021-kubota-m108s/62340303",
       "verdict": "decent",
-      "why": "Right size, right distance, hours under the cap, but no bid yet and thin on detail; worth a phone inspection enquiry before Monday.",
+      "why": "Right size and distance with hours under the cap, but there is no bid or hp on the page yet; watch it from 09:00 today.",
       "status": "live",
       "ends": "2026-10-13",
       "first_seen": "2026-09-28",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/pickles-62340303.jpg",
       "photo_url": "https://www.pickles.com.au/images/transform/w_detail/148bd26f-283d-472e-a10c-20ecc54fb72b/0ed36cf8-6fc8-4eb9-b05f-b5134e0a2c27.jpeg"
     },
@@ -1653,9 +1805,9 @@
       "url": "https://www.facebook.com/marketplace/item/1236989615312285/",
       "verdict": "stretch",
       "why": "Cheap, new and low-houred, but the seller never states hp and the 4080 is likely under 90hp.",
-      "status": "live",
+      "status": "sold",
       "first_seen": "2026-10-10",
-      "updated": "2026-10-10"
+      "updated": "2026-10-11"
     },
     {
       "key": "fb-2991128731219863",
@@ -1693,7 +1845,7 @@
         "JD 640 FEL plus Challenge bag loader and hay forks",
         "second owner since 2014, serviced annually by H&P John Deere Dubbo",
         "one new rear tyre",
-        "listed 5 days ago"
+        "listed 6 days ago, same price"
       ],
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/957825510716147/",
@@ -1701,7 +1853,32 @@
       "why": "Well-kept dealer-serviced Deere, but 5,180 hrs is over the cap and $65,000 is a lot for a 2002.",
       "status": "live",
       "first_seen": "2026-10-10",
-      "updated": "2026-10-10"
+      "updated": "2026-10-11"
+    },
+    {
+      "key": "fb-2255283578378069",
+      "want": "tractor",
+      "title": "2012 Kubota M8540 85hp with X-36 FEL and forks (clearing sale 17 Oct)",
+      "price_aud": null,
+      "price_note": "onsite clearing sale, Sat 17 Oct 10am, no GST, no buyer premium; Facebook placeholder price only",
+      "location": "Katunga, VIC",
+      "distance_km": 170,
+      "detail": [
+        "2,006 hours",
+        "85hp",
+        "X-36 front end loader and forks",
+        "registered to 24 Jan 2027",
+        "no items sold prior to auction",
+        "cab or ROPS not stated"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/2255283578378069/",
+      "verdict": "stretch",
+      "why": "The closest loader tractor on the list, low-houred and no premium, but 85hp sits under the 90hp floor; only worth it if it goes cheap on the day.",
+      "status": "live",
+      "ends": "2026-10-17",
+      "first_seen": "2026-10-11",
+      "updated": "2026-10-11"
     },
     {
       "key": "fb-2552961608451192",
@@ -1737,18 +1914,19 @@
       "distance_km": 170,
       "detail": [
         "10,000 lb (VR Evo 10-S)",
-        "synthetic rope (S model)",
+        "synthetic rope, hawse fairlead and hook visible in photo",
+        "wired remote, control pack and wiring loom in photo; wireless remote not shown",
         "factory fitted, driveway test runs only",
-        "VR Evo ships with control pack, wireless and wired remote, hawse fairlead and hook; seller does not itemise them",
         "listed 2 weeks ago; 170 km but small enough to post"
       ],
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/2142858426315007/",
       "verdict": "strong",
-      "why": "With the $800 Zeon gone this is the best unit on the board: a like-new 10,000 lb synthetic Warn at $900 against roughly $1,400+ new, and it can be posted.",
+      "why": "Still the best complete unit on the board: a like-new 10,000 lb synthetic Warn with control pack and remote at $900, and it can be posted.",
       "status": "live",
       "first_seen": "2026-10-10",
-      "updated": "2026-10-10"
+      "updated": "2026-10-11",
+      "photo": "img/finds/fb-2142858426315007.jpg"
     },
     {
       "key": "fb-1384656743754018",
@@ -1763,15 +1941,15 @@
         "has remote, working",
         "used, good condition",
         "rope type, control box and fairlead not stated",
-        "seller is a parts trader; suburb not stated; listed 5 weeks ago"
+        "suburb not stated; listed 6 weeks ago"
       ],
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/1384656743754018/",
       "verdict": "decent",
-      "why": "Cheapest Warn 10k on the board at $380, but the listing is thin: no rope, control box or fairlead detail, so it needs a call to confirm it is complete.",
+      "why": "Cheapest Warn 10k on the board at $380. The listing gives no rope, control box or fairlead detail, so call to confirm it is complete.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "ends": null,
       "photo": "img/finds/fb-1384656743754018.jpg"
     },
@@ -1793,11 +1971,11 @@
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/1912803820124475/",
       "verdict": "decent",
-      "why": "Complete Warn Magnum 10k with remote at $700 is fair, but rope type and suburb are not stated and it has sat five weeks.",
+      "why": "Complete Warn Magnum 10k with remote at $700 is fair, but rope type and suburb are not stated and it has been listed five weeks.",
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/fb-1912803820124475.jpg"
     },
     {
@@ -1813,15 +1991,15 @@
         "wireless hand controller included",
         "bought new from ARB and fitted, never used",
         "control box and fairlead not itemised in listing",
-        "listed Adelaide, would need posting"
+        "listed in Adelaide, would need posting"
       ],
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/1042115578509422/",
       "verdict": "decent",
-      "why": "Unused Warn VR EVO 10 with wireless remote at $800 is good money, but it is steel cable and 730 km away so it only works if the seller will post it.",
+      "why": "An unused Warn VR EVO 10 with wireless remote is good value at $800, but it has steel cable and is 730 km away, so it only works if the seller posts it.",
       "status": "live",
       "first_seen": "2026-10-10",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/fb-1042115578509422.jpg"
     },
     {
@@ -1833,45 +2011,49 @@
       "location": "Online (ships)",
       "distance_km": null,
       "detail": [
-        "9,500 lb (4,309 kg)",
+        "9,500 lb",
         "10 mm x 25 m Dyneema synthetic rope",
         "3.7 m wired remote plus wireless remote",
-        "control box, cables and brackets included",
+        "control box, cables, isolator and hook included",
         "2-in-1 aluminium hawse fairlead",
         "254 x 114.3 mm mount, 4 x M10"
       ],
       "source": "4x4 Down Under",
       "url": "https://www.4x4downunder.com.au/products/runva-ewl9500-12v-winch-with-synthetic-rope",
       "verdict": "decent",
-      "why": "Cheapest new complete 9,500 lb synthetic kit with both remotes at $815 delivered; it is the fallback if the used Warns go.",
+      "why": "Cheapest new complete 9,500 lb synthetic kit with both remotes at $815 delivered. It is the fallback if the used Warns go.",
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "photo": "img/finds/4x4downunder-runva-ewl9500-12v-winch-with-synthetic-rope.jpg",
       "photo_url": "https://www.4x4downunder.com.au/cdn/shop/files/runva-ewl9500-12v-winch-synthetic-rope-electric-heavy-duty-911.webp?v=1745357772&width=800"
     },
     {
-      "key": "fb-1408931847788039",
+      "key": "4x4downunder-carbon-offroad-10000lb-scout-pro-extreme-winch-",
       "want": "winch",
-      "title": "TJM TORQ 9,500 lb, brand new in box, synthetic rope",
-      "price_aud": 1000,
-      "location": "Burwood, VIC",
-      "distance_km": 20,
+      "title": "Carbon Scout Pro 10K V3, synthetic rope, wired and wireless remote (new)",
+      "price_aud": 999,
+      "price_note": "Was $1,099; shipping by postcode",
+      "location": "Online (ships)",
+      "distance_km": null,
       "detail": [
-        "9,500 lb (TJM TORQ, part 947TJMTQ95DAA)",
-        "synthetic rope, black or yellow",
-        "brand new in box",
-        "remotes and fairlead not itemised in listing (TORQ kit normally includes wireless and wired remote)",
-        "seller offers fitting; listed 6 weeks ago"
+        "10,000 lb",
+        "24 m x 10 mm synthetic rope",
+        "wired remote (3.7 m) plus wireless remote",
+        "control box, wiring loom and isolator switch included",
+        "billet aluminium fairlead and Megapro hook",
+        "mount pattern not stated on the page"
       ],
-      "source": "Facebook Marketplace",
-      "url": "https://www.facebook.com/marketplace/item/1408931847788039/",
+      "source": "4x4 Down Under",
+      "url": "https://www.4x4downunder.com.au/products/carbon-offroad-10000lb-scout-pro-extreme-winch-v3",
       "verdict": "decent",
-      "why": "New in box 9,500 lb synthetic TJM at $1,000 in Burwood is a safe buy but no cheaper than retail, and the listing has sat six weeks.",
+      "why": "Complete new 10,000 lb synthetic kit with both remotes for $999, the same as the boxed TJM on Facebook but with full spec and a warranty.",
       "status": "live",
-      "first_seen": "2026-10-10",
-      "updated": "2026-10-10"
+      "first_seen": "2026-10-11",
+      "updated": "2026-10-11",
+      "photo": "img/finds/4x4downunder-carbon-offroad-10000lb-scout-pro-extreme-winch-.jpg",
+      "photo_url": "https://www.4x4downunder.com.au/cdn/shop/files/carbon-offroad-10-000lb-scout-pro-extreme-winch-v3-electric-678_1200x1200.jpg?v=1791258739"
     }
   ]
 }
