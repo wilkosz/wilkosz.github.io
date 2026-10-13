@@ -1,112 +1,112 @@
 {
-  "as_of": "2026-10-12T07:15",
-  "market_summary": "Monday Oct 12 in Asia: KOSPI -3.65% to 6,384 as Samsung and SK hynix fell more than 3% on Chinese DRAM maker CXMT's 4F2 design progress; Taiwan's Taiex reopened after the holiday flat (-0.02% to 49,302) after a 1.1% intraday dip, with TSMC -0.4%; Shanghai -0.4%, Shenzhen -2.0%; Hang Seng +0.2% and Hang Seng Tech -0.7% in late trade (HK closes 19:00 AEDT); Tokyo shut for Sports Day; ASX 200 +0.8% to 8,783. US futures S&P +0.2-0.3%, Nasdaq +0.2-0.4% ahead of a Columbus Day session with the bond market shut. Brent -1.2% to $103.46 and WTI -1.6% to $90.39 after Trump announced a Russia-Ukraine 'energy ceasefire' that neither side has confirmed, despite a weekend Houthi strike on Riyadh airport that killed 13; gold flat at $4,194, bitcoin about $84,100 (+0.6%). Friday for reference: S&P 500 7,812, Nasdaq 27,366, 10-year 5.24%. Next: US open 00:30 AEDT Tue; Apple home launch 00:00 AEDT Wed; JPM, WFC, Citi and Goldman before the US open Tue (22:00-22:30 AEDT Tue); US CPI 23:30 AEDT Wed; ASML Wed; Anthropic investor session Thu AEDT; TSMC Q3 17:00 AEDT Thu; PPI, retail sales and claims 23:30 AEDT Thu; FOMC blackout from Sat Oct 17; China Q3 GDP 13:00 AEDT Mon Oct 19; Netflix 07:01 AEDT Wed Oct 21.",
+  "as_of": "2026-10-13T07:45",
+  "market_summary": "Monday's US session (Columbus Day, bond market shut) ended mixed: S&P 500 -0.06% to 7,807, Nasdaq -0.44% to 27,246, Dow +0.38% to 51,851, while the Philadelphia chip index fell 2.7% to a three-week low as Micron, SanDisk and Western Digital sold off on China's CXMT DRAM progress. Brent settled +1.8% at $106.65 and WTI +2.1% at $93.74 as the Saudi airport attacks outweighed Trump's Russia-Ukraine 'energy ceasefire', which Zelenskiy said Russia looks unlikely to accept; December gold fell 0.6% to $4,191, the dollar index hit an 18-month high of 102.59, and Cleveland Fed's Hammack said policy should move 'relatively quickly' toward restrictive. Tuesday in Asia the memory sell-off deepened: KOSPI -5.47% to 6,035 after a sell-side sidecar (SK hynix -10.1%, Samsung -7.4%), Taiex -1.95% to 48,341, Nikkei about -1.8% near 67,800 on its return from the holiday (Kioxia, SoftBank, Tokyo Electron led), Shanghai about -1% and Shenzhen -2.2%, Hang Seng -0.4% and Hang Seng Tech -1.5% at the midday break, and the ASX 200 flat (+0.008%) as banks offset tech -4.4%. RBA minutes showed the 4.60% hike was unanimous and the Board is ready to go again if needed. US futures at 01:33 ET: Nasdaq 100 -0.5%, S&P 500 -0.1%, Dow +0.3%; Brent -1.1% to $105.52, WTI -1.2% to $92.63; bitcoin dipped below $82,000 on Oct 12 before recovering above $83,000. Next: JPM, Wells, Citi, Goldman 22:00-22:30 AEDT Tue; Apple home event 00:00 AEDT Wed; US open 00:30 AEDT Wed; China CPI/PPI 12:30 AEDT Wed with September trade data also Wed; ASML 16:00 AEDT Wed; US CPI 23:30 AEDT Wed (core seen +0.2%), BAC and MS before that open; Anthropic investor session Thu AEDT; AU jobs 11:30 AEDT Thu; TSMC 17:00 AEDT Thu; PPI, retail sales and claims 23:30 AEDT Thu; Warsh 14:30 AEDT Fri; FOMC blackout from Sat Oct 17; China Q3 GDP 13:00 AEDT Mon Oct 19; Netflix 07:01 AEDT Wed Oct 21; Meta (now confirmed) 07:30 AEDT Thu Oct 22.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "No trading since Friday's close and no weekend company news; Saturday's coverage was opinion pieces only. Alexa tablets go on sale Wed Oct 14 and Q3 results are due around Oct 29 (Fri Oct 30 about 07:00 AEDT). Bank results Tue and US CPI Wed 23:30 AEDT set the macro tone this week. Hold.",
-      "price_usd": 262.43,
-      "updated": "2026-10-12"
+      "reason": "Fell 1.1% Monday after the WSJ reported Amazon is in talks to buy AI chip-software startup Decart for about $7 billion; Decart was valued near $4 billion in May and no deal is signed. A small deal for Amazon's size that supports Trainium. Alexa tablets go on sale Wed Oct 14; Q3 about Fri Oct 30 07:00 AEDT. Hold.",
+      "price_usd": 259.53,
+      "updated": "2026-10-13"
     },
     "AXOS": {
       "take": "hold",
-      "reason": "No weekend company news. Big-bank Q3 results Tue Oct 13 before the US open (about 22:00 AEDT) from JPMorgan, Wells Fargo, Citi and Goldman give the first read on deposit costs and credit ahead of Axos's own fiscal Q1 call on Oct 29 at 5pm ET (Fri Oct 30 08:00 AEDT). Hold.",
-      "price_usd": 88.44,
-      "updated": "2026-10-12"
+      "reason": "No company news. JPMorgan, Wells Fargo, Citi and Goldman report tonight before the US open (22:00-22:30 AEDT Tue), the first read on deposit costs and credit ahead of Axos's fiscal Q1 call Fri Oct 30 08:00 AEDT. US CPI Wed 23:30 AEDT. Hold.",
+      "price_usd": 88.91,
+      "updated": "2026-10-13"
     },
     "BABA": {
       "take": "hold",
-      "reason": "Hong Kong shares were up about 1.5% in Monday afternoon trade while Hang Seng Tech fell 0.7%; no company news and nothing new on the Beijing sell-order talk behind Friday's 5.4% jump. China CPI, PPI and trade data Wed Oct 14 at 12:30 AEDT; results Nov 24. Hold until the rally has more than rumour behind it.",
-      "price_usd": 111.37,
-      "updated": "2026-10-12"
+      "reason": "US ADR slipped 0.5% Monday, giving back little of Friday's 5.4% jump; Hong Kong shares opened 0.5% lower Tuesday as Hang Seng Tech fell about 1% on chip weakness. No company news. China CPI, PPI and trade data Wed 12:30 AEDT; results Nov 24. Hold.",
+      "price_usd": 110.78,
+      "updated": "2026-10-13"
     },
     "ENPH": {
       "take": "watch",
-      "reason": "No weekend company or solar-policy news. Friday's 10-year yield of 5.24% and Mortgage News Daily's 7.48% 30-year rate keep home-solar financing expensive; US CPI Wed 23:30 AEDT is the week's rate catalyst. Q3 call Oct 27 at 4:30pm ET (Wed Oct 28 07:30 AEDT). Watch.",
-      "price_usd": 32.81,
-      "updated": "2026-10-12"
+      "reason": "Fell 4.0% Monday with no company or solar-policy news found; the dollar index hit an 18-month high and oil rose 2%, while rates stay high (Mortgage News Daily's 30-year was last 7.48%). US CPI Wed 23:30 AEDT is the week's rate test; Q3 call Wed Oct 28 07:30 AEDT. Watch.",
+      "price_usd": 31.49,
+      "updated": "2026-10-13"
     },
     "FIGR": {
       "take": "hold",
-      "reason": "No weekend company news and the Q3 results date is still unannounced; the Q2 date was set about four weeks ahead, so a mid-October notice would fit the pattern. Bank results from Tue and US CPI Wed 23:30 AEDT drive the rate-sensitive names this week. Hold.",
-      "price_usd": 28.54,
-      "updated": "2026-10-12"
+      "reason": "Down 0.3% Monday on no company news, holding most of Friday's 3.4% gain; the Q3 results date is still unannounced. Bank results tonight (22:00-22:30 AEDT) and US CPI Wed 23:30 AEDT drive the rate-sensitive names this week. Hold.",
+      "price_usd": 28.46,
+      "updated": "2026-10-13"
     },
     "GOOGL": {
       "take": "add",
-      "reason": "No weekend company news; Saturday coverage only recapped the Waymo $5 billion loan and the Gemini enterprise agent. Nothing company-specific is scheduled this week and Q3 results come late October. Add stays.",
-      "price_usd": 351.66,
-      "updated": "2026-10-12"
+      "reason": "Up 0.3% Monday while the Nasdaq fell 0.4% and chips sold off, the steadiest of the AI holdings. No company news; the communications sector led the S&P with +1%. Q3 results late October. Add stays.",
+      "price_usd": 352.72,
+      "updated": "2026-10-13"
     },
     "LDI": {
       "take": "trim",
-      "reason": "No weekend company news after Friday's 9% drop to a 52-week low. Mortgage News Daily's 30-year rate ended Friday at 7.48%, its lowest since Sept 25 but still near a two-year high; the US bond market is shut Mon Oct 12 and CPI Wed 23:30 AEDT is the next rate test. Still below the NYSE one-dollar threshold with the cure period to February; trim.",
-      "price_usd": 0.5628,
-      "updated": "2026-10-12"
+      "reason": "Bounced 3.6% Monday on no news after Friday's 9% drop to a 52-week low. The bond market was shut for Columbus Day, so Mortgage News Daily's 30-year is still the Friday reading of 7.48%. Still below the NYSE one-dollar threshold with the cure period to February; CPI Wed 23:30 AEDT is the next rate test. Trim.",
+      "price_usd": 0.5831,
+      "updated": "2026-10-13"
     },
     "META": {
       "take": "hold",
-      "reason": "No ruling yet from Judge Mathew on the New Mexico privacy penalty: the state asked for $35-40 billion, a legal-news report says Meta's latest brief asks for no more than $1.53 billion, and the judge has said he will rule by late October. No other weekend news. Q3 results late October; hold through the ruling.",
-      "price_usd": 718.67,
-      "updated": "2026-10-12"
+      "reason": "Rose 3.4% Monday after Zuckerberg said Meta has caught up with rivals on frontier AI models and hinted at a strong upcoming model, the best move among the holdings. Still no New Mexico penalty ruling: the state wants $35-40 billion, Meta asks for no more than $1.53 billion, and the judge plans to rule by late October. Meta confirmed Q3 results for Wed Oct 21 after the US close (call 07:30 AEDT Thu Oct 22), a week earlier than expected. Hold.",
+      "price_usd": 742.96,
+      "updated": "2026-10-13"
     },
     "MRVL": {
       "take": "hold",
-      "reason": "No weekend company news; the only Saturday item repackaged Bank of America's Oct 8 note (Buy, target raised to $400 from $365) that followed the investor-day targets. Bank results Tue and CPI Wed 23:30 AEDT set the tone, and TSMC's Q3 call Thu 17:00 AEDT is the week's first read on AI demand. Hold.",
-      "price_usd": 275.28,
-      "updated": "2026-10-12"
+      "reason": "Fell 3.4% Monday as the Philadelphia chip index dropped 2.7%, its fourth straight loss, and optical names Lumentum, Ciena and Coherent fell 8-10%. No company news. Taiwan fell 1.95% Tuesday; TSMC's Q3 call Thu 17:00 AEDT is the week's first read on AI demand. Hold.",
+      "price_usd": 265.86,
+      "updated": "2026-10-13"
     },
     "MU": {
       "take": "hold",
-      "reason": "Korean peers Samsung and SK hynix fell more than 3% Monday after China's CXMT said it plans DDR5 server modules on a denser DRAM design by end-2026, a read-through risk when the US opens tonight. DRAM spot still made new highs Monday (DDR5 16Gb +0.9%). No new Taiwan union news: rally Oct 19, Taichung mediation Oct 22. Hold.",
-      "price_usd": 1029.0,
-      "updated": "2026-10-12"
+      "reason": "Fell 3.9% Monday as China's CXMT denser-DRAM plan hit memory names (SanDisk -6%), then Korea deepened the slide Tuesday: KOSPI closed down 5.5% with SK hynix -10.1% and Samsung -7.4%, so expect more pressure tonight. CXMT's server parts are an end-2026 target and TrendForce calls the date ambitious, while DDR5 spot set another high Tuesday. Hold, but three sessions down.",
+      "price_usd": 989.04,
+      "updated": "2026-10-13"
     },
     "NFLX": {
       "take": "hold",
-      "reason": "Puck reported Friday that Netflix plans a restructuring cutting about 5% of staff (roughly 800 people), possibly announced this week; Netflix declined to comment. Q3 results Tue Oct 20 after the close (Wed Oct 21 07:00 AEDT), with guidance of $12.86 billion revenue (+12%) and a 33.2% operating margin. Cuts help margins but confirm the slower-growth story; hold into the print.",
-      "price_usd": 70.3,
-      "updated": "2026-10-12"
+      "reason": "Up 0.4% Monday. The 5% job cuts Puck reported Friday (about 800-850 roles) are still not confirmed by Netflix. Q3 results Wed Oct 21 07:00 AEDT, guided to $12.86 billion revenue (+12%) and a 33.2% operating margin. Hold into the print.",
+      "price_usd": 70.61,
+      "updated": "2026-10-13"
     },
     "NVDA": {
       "take": "hold",
-      "reason": "The FT reported Saturday that Nvidia is in early talks to buy Reflection AI or deepen its $800 million stake, with an acqui-hire among the options and a deal possible within weeks; Reuters could not verify it. Otherwise no weekend news. TSMC's Q3 call Thu 17:00 AEDT is the first supply-chain read, then GTC Berlin Oct 20-22. Hold.",
-      "price_usd": 229.28,
-      "updated": "2026-10-12"
+      "reason": "Fell 1.3% Monday, far less than the chip index's 2.7% drop. Nothing new on the FT-reported Reflection AI talks (acquisition, acqui-hire or bigger stake; Reflection's last valuation was $25 billion pre-money). TSMC's Q3 call Thu 17:00 AEDT is the first supply-chain read, then GTC Berlin Oct 20-22. Hold.",
+      "price_usd": 226.32,
+      "updated": "2026-10-13"
     },
     "RKT": {
       "take": "watch",
-      "reason": "No weekend company news. Mortgage News Daily's 30-year rate finished Friday at 7.48%, down 0.02 points on the day and the lowest since Sept 25, while Freddie Mac's weekly 7.40% was still the highest since 2023. The US bond market is shut Mon Oct 12; bank results Tue and CPI Wed 23:30 AEDT set rates for the week. Q3 around Oct 29; watch.",
-      "price_usd": 11.48,
-      "updated": "2026-10-12"
+      "reason": "Fell 5.3% Monday with no company news found, a third straight decline. The bond market was shut, so Mortgage News Daily's 30-year is still Friday's 7.48% and Freddie Mac's weekly 7.40% is the highest since 2023. Bank results tonight 22:00-22:30 AEDT and CPI Wed 23:30 AEDT; Q3 around Oct 29. Watch.",
+      "price_usd": 10.87,
+      "updated": "2026-10-13"
     },
     "TSM": {
       "take": "add",
-      "reason": "Taiwan shares fell only 0.4% on Monday's reopen after the holiday, against the ADR's 4% slide on Thu-Fri, so the local market did not join the OpenAI scare. Q3 results Thu Oct 15 at 14:00 Taipei (17:00 AEDT): consensus is about $45.4 billion revenue against the $46.7 billion already reported, gross margin guided 65-67%. Add stays.",
-      "price_usd": 453.31,
-      "updated": "2026-10-12"
+      "reason": "ADR fell 2.0% Monday with the chip selloff, then Taipei shares fell 2.0% Tuesday as the Taiex lost 1.95% on Korea's memory rout. TSMC's own numbers are unaffected: Q3 revenue already reported at about $46.7 billion against a $45.4 billion consensus. Results Thu Oct 15 17:00 AEDT. Add stays.",
+      "price_usd": 444.35,
+      "updated": "2026-10-13"
     },
     "STRIPE": {
       "take": "hold",
-      "reason": "No new round, tender or secondary mark over the weekend; the last company tender was February at $159 billion, so the mark multiple stays 2.27. Newsroom items remain the Oct 6 FedEx Dataworks partnership and the Parafin acquisition. Hold.",
+      "reason": "No new round, tender or secondary mark reported; the last company tender was February at $159 billion, so the mark multiple stays 2.27. No company news since the Oct 6 FedEx Dataworks partnership. Hold.",
       "price_usd": null,
-      "updated": "2026-10-12",
+      "updated": "2026-10-13",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "No weekend movement on the $30 billion round at a $1.4 trillion pre-money valuation; it is still in talks with MGX and BlackRock, so the mark multiple stays 5.43. Friday's AP report that OpenAI fired three safety researchers for a 'breach of trust' (they say it was for prioritising safety) is a governance wobble, not a valuation event. Anthropic's investor session Wed US (Thu AEDT) is the week's private-AI reference point. Hold.",
+      "reason": "The $30 billion round at about a $1.4 trillion pre-money valuation is still in talks with an MGX-led UAE group (up to $10 billion) and BlackRock, with no close reported, so the mark multiple stays 5.43. No new deals or follow-up on the safety-researcher firings found. Anthropic's investor session Thu AEDT is the week's private-AI reference. Hold.",
       "price_usd": null,
-      "updated": "2026-10-12",
+      "updated": "2026-10-13",
       "mark_multiple": 5.43
     }
   },
   "headlines": [
-    "KOSPI fell 3.65% Monday as China's CXMT showed denser DRAM; Samsung and SK hynix down over 3%, a risk for Micron tonight.",
-    "TSMC fell just 0.4% in Taipei after the holiday, far less than the ADR's 4% slide; results Thursday 17:00 AEDT.",
-    "FT: Nvidia in early talks to buy Reflection AI or add to its $800M stake; Puck says Netflix plans 5% job cuts.",
-    "White House demands transparency from Anthropic over Claude's false police tip, two days before its investor session (Thu AEDT).",
-    "AI debt issuance fell to $23B in September from $113B in June; H100 rent dipped 2c to $2.83, DDR5 spot at a new high.",
-    "Next: US opens 00:30 AEDT Tue, Apple event 00:00 AEDT Wed, CPI Wed 23:30 AEDT (core seen +0.2%), ASML Wed 16:00 AEDT."
+    "Memory rout spread: KOSPI fell 5.5% Tuesday, SK hynix 10%, Samsung 7%, after Micron lost 3.9% Monday on China's CXMT DRAM plan.",
+    "Chip index fell 2.7% Monday, a fourth straight loss; Marvell -3.4%, TSMC -2% in New York and again in Taipei.",
+    "Meta rose 3.4% after Zuckerberg said it caught up on frontier AI; Q3 results now Oct 21, 07:30 AEDT Thu Oct 22.",
+    "WSJ: Amazon in talks to buy AI startup Decart for about $7B; Amazon fell 1.1%, Alphabet edged up 0.3%.",
+    "Physical demand held: DDR5 spot set another high Tuesday and H100 rent rose 2c to $2.85.",
+    "Next: banks 22:00 AEDT tonight, Apple 00:00 AEDT Wed, ASML 16:00 AEDT Wed, US CPI 23:30 AEDT Wed, TSMC 17:00 AEDT Thu."
   ]
 }
