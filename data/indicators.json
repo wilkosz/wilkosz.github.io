@@ -1,66 +1,66 @@
 {
-  "as_of": "2026-10-13",
+  "as_of": "2026-10-14",
   "explainer": "The single best AI-bubble bellwether is the rental price of an installed Nvidia GPU, measured in dollars per GPU-hour, and specifically the H100: it is the daily marginal clearing price for AI compute, it is published by independent indexes (Silicon Data's SDH100RT, SemiAnalysis's one-year contract index), and a CME futures contract on it is pending: the CFTC extended its review to November 9, 2026, so a forward curve is coming but not yet listed. Right now it is saying the opposite of discounting: the Silicon Data index sits at $2.75/hr (Sep 30), a new high, one-year contract rates rose about 40% from $1.70 to $2.35 between October 2025 and March 2026, spot has run at roughly twice contract, and a four-year-old chip is renting for more than it did a year ago while CoreWeave says it has contracted 2020-vintage GPUs out to 2029 at full price. Pair it with three things: neocloud credit spreads (CoreWeave's July loan cleared at SOFR+550 for a 10.44% yield with maintenance covenants, and its CDS implies roughly a coin-flip default probability), which is the financing leg and the one signal already flashing red; server DRAM and HBM contract-price momentum (+13-18% QoQ in 3Q26 after +93-98% in 1Q26, with 4Q26 guided to only +3-8%), because memory is the first physical input that will roll over; and hyperscaler backlog growth versus capex growth (Microsoft commercial RPO +84%, Oracle RPO +363%, roughly $2.4 trillion of committed cloud backlog against about $1 trillion of 2026 capex), because the bubble only deflates if the buyers stop signing. Over the next one to two quarters watch Nvidia's August 26 print for gross margin and customer concentration (three direct customers were already 54% of revenue), the shape of the CME H100/B200 curve if the CFTC clears it in November (a steep backwardation would be the first public forecast of discounting), whether 4Q26 memory contract talks and 2027 HBM4 pricing turn negative, and what ERCOT's December audit says about how much of Texas's 474 GW interconnection queue is phantom demand. The threshold that would flip the call is simple: the H100 index sustained below about $2.00/hr, or spot trading below the one-year contract rate, while Blackwell and Rubin volumes keep arriving; until then compute is being sold at a premium, not a discount, and the risk lives in who is borrowing to build it rather than in the price of the product.",
   "indicators": [
     {
       "key": "h100_rental",
       "name": "H100 rental price, $/GPU-hour (Silicon Data index; 1-yr contract and spot)",
-      "value": "Silicon Data SDH100RT $2.85/hr as of Oct 12 (+1.1% 7d), back up 2c from $2.83 Oct 11 and level with the Oct 9 high. H200 $3.35 (+1.8% 7d) vs $3.44; A100 $1.51 (+0.7%); MI300X $2.64 (0.0%). CME H100/B200 futures: CFTC review extended, launch Nov 9 or later.",
+      "value": "Silicon Data SDH100RT $2.85/hr as of Oct 13, unchanged from Oct 12 and level with the Oct 9 high; page now shows +7.1% 7d. H200 $3.38 (+3.0% 7d), up 3c; A100 $1.52 (+3.8%), up 1c; MI300X $2.64 (0.0%). CME H100/B200 futures: launch Nov 9 or later.",
       "trend": "up",
       "signal": "bullish",
       "why": "Hopper spot firmed through the Oct 8 OpenAI revenue scare: every Silicon Data index rose over the week, so rented compute is still being bid, not discounted.",
       "watch": "Bearish flip if SDH100RT prints below ~$2.00 for a month or spot drops under the 1-yr contract rate. Next: whether the Oct 8 demand scare shows up in the index with a lag, and the CME/CFTC listing decision.",
-      "note": "Changed since Oct 11: the headline index recovered 2c to $2.85 (Oct 12 reading) and the 7-day gain widened from +0.7% to +1.1%, so Monday's 2.67% SOX selloff and the CXMT memory scare did not reach rented compute. H200 fell 9c to $3.35 and its 7-day gain narrowed from +4.2% to +1.8%; A100 slipped 2c to $1.51. The page FAQ still shows a stale $2.53, which is ignored, and no CME/CFTC update was found. Trend and signal held. Watch whether the index holds $2.80+ through ASML (Wed 16:00 AEDT), Anthropic's investor day (Wed US) and TSMC (Thu 17:00 AEDT).",
+      "note": "Changed since Oct 12: the headline held at $2.85 on Oct 13 while Korean memory stocks fell 7-10% and Micron 3.6%, so the chip-equity selloff again did not reach rented compute. H200 rose 3c to $3.38 and A100 1c to $1.52. The page's 7-day figures jumped (H100 from +1.1% to +7.1%) with only a flat price move, which points to a low base-week reading rather than a new rally, so read the level, not the percentage. The FAQ still shows a stale $2.53 and no CME/CFTC update was found. Trend and signal held; watch the index through US CPI (Wed 23:30 AEDT), Anthropic (Wed US) and TSMC (Thu 17:00 AEDT).",
       "source": "https://www.silicondata.com/products/silicon-index/h100",
-      "updated": "2026-10-13"
+      "updated": "2026-10-14"
     },
     {
       "key": "b200_rental",
       "name": "B200 rental price, $/GPU-hour (Silicon Data index) and B200/H100 ratio",
-      "value": "Silicon Data B200 $5.94 as of Oct 12 (+1.2% 7d), up 1c from $5.93; B300 $6.65 (+2.5% 7d) vs $6.67. B200/H100 ratio 2.08x (5.94/2.85), down from 2.10x because Hopper recovered. Both still above the $4.50 and 2x triggers.",
+      "value": "Silicon Data B200 $5.95 as of Oct 13 (+4.0% 7d), up 1c from $5.94; B300 $6.65 (+6.3% 7d), unchanged. B200/H100 ratio 2.09x (5.95/2.85), up from 2.08x. Both above the $4.50 and 2x triggers.",
       "trend": "up",
       "signal": "bullish",
       "why": "Blackwell rents rose again and B300 rose faster than B200; the newest capacity is still clearing at a premium, which is what a supply-constrained market looks like.",
       "watch": "Bearish if B200 drops below $4.50 or the B200/H100 ratio falls under 2x. Also watch whether B300 keeps widening its premium over B200 as Rubin nears.",
-      "note": "Changed since Oct 11: B200 rose 1c to $5.94 and its 7-day gain widened to +1.2%; B300 eased 2c to $6.65 but its 7-day gain rose to +2.5%. The ratio narrowed to 2.08x only because H100 rose 2c, so it is above the 2x line with a little less room than last week. The FAQ's stale $5.45 is again ignored and there is no new CME/CFTC news. Trend and signal held. Watch TSMC's Thursday guide and any Rubin timing for B300, and whether the ratio drifts toward 2.0x.",
+      "note": "Changed since Oct 12: B200 added 1c to $5.95 and B300 held at $6.65, so the ratio ticked up to 2.09x. As with H100, the 7-day percentages jumped (B200 +1.2% to +4.0%, B300 +2.5% to +6.3%) without a matching price move, so treat them as a base-week effect. The FAQ's stale $5.45 is ignored and there is no CME/CFTC news. ASML said Wednesday that planned 2027-28 tool supply will not fully meet AI demand, which supports a tight Blackwell/Rubin market. Trend and signal held; watch TSMC's Thursday guide and any Rubin timing.",
       "source": "https://www.silicondata.com/products/silicon-index/b200",
-      "updated": "2026-10-13"
+      "updated": "2026-10-14"
     },
     {
       "key": "hopper_residual",
       "name": "Hopper residual value: A100 index floor, used H100 prices, GPU useful-life accounting",
-      "value": "A100 index $1.51 Oct 12 (+0.7% 7d; trigger $1.50), down 2c from $1.53 and one cent above the floor. H200 $3.35, down 9c. Silicon Data residual study (Jan 30 data): used H100 ~65-75% of new at 2 yrs, 45-55% at 3 yrs; low end $12-16K. No new impairments Oct 12-13.",
+      "value": "A100 index $1.52 Oct 13 (+3.8% 7d; trigger $1.50), up 1c and two cents above the floor. H200 $3.38, up 3c. Silicon Data residual study (Jan 30 data): used H100 ~65-75% of new at 2 yrs, 45-55% at 3 yrs; low end $12-16K. No new impairments Oct 13-14.",
       "trend": "flat",
       "signal": "bullish",
       "why": "A100 is still a cent or three above the $1.50 floor and ticked up this week; the residual-value question is unresolved rather than deteriorating.",
       "watch": "A100 index under $1.50; any hyperscaler or neocloud shortening GPU useful life or booking a Hopper impairment in Q3 results (late Oct onward); used H100 SXM asks drifting below $18K.",
-      "note": "Changed since Oct 11: A100 slipped 2c to $1.51, one cent above the $1.50 floor, although its 7-day change is still +0.7%; H200 gave back 9c to $3.35. No used-H100 price reports, impairments or useful-life changes were found Oct 12-13, so the residual-study ranges are carried forward. Trend and signal held because the floor has not been breached, but this is the closest the A100 has been to it in this series. A print under $1.50 would move the signal to neutral; watch it daily this week and in Q3 results from late October.",
+      "note": "Changed since Oct 12: A100 rose 1c to $1.52, moving back from one cent to two cents above the $1.50 floor, and H200 recovered 3c to $3.38. The floor was not breached, so the signal stays bullish and the trend flat. No used-H100 price reports, impairments or useful-life changes were found Oct 13-14, so the residual-study ranges are carried forward. A print under $1.50 would still move the signal to neutral. Watch it daily and in Q3 results from late October.",
       "source": "https://www.silicondata.com/use-cases/h100-gpu-market-value-trends",
-      "updated": "2026-10-13"
+      "updated": "2026-10-14"
     },
     {
       "key": "dc_cost_per_gw",
       "name": "Data-centre cost per GW and the cost of capital (10-yr Treasury)",
-      "value": "No new campus $/GW prints Oct 12-13 (last: Vera Rubin ~$47B/GW, gas campus ~$60B/GW, Project Jupiter ~$67B/GW). 10-yr Treasury held at Friday's 5.24%; cash bonds shut Monday for Columbus Day. Intel CEO Oct 12: the challenge is 'capital and the cost of capital'.",
+      "value": "10-yr Treasury par yield 5.21% on Oct 13 (Treasury), down 3bp from 5.24% on Oct 9 and 10bp below the Oct 5 high of 5.31%. No new campus $/GW prints (last: Vera Rubin ~$47B/GW, gas campus ~$60B/GW, Project Jupiter ~$67B/GW).",
       "trend": "flat",
       "signal": "neutral",
-      "why": "Build cost per GW is unchanged and the cost of capital eased 4bp off the Oct 7 high but is still above 5.2%, so every GW is funded at the most expensive rates in two decades.",
+      "why": "Build cost per GW is unchanged and the 10-yr has eased about 10bp from its October high but is still above 5.2%, so every GW is funded at the most expensive rates in two decades.",
       "watch": "10-yr back above 5.30%; any new campus announcement implying more than ~$60B/GW; Amazon's newly disclosed data-centre deal terms now that it is dropping NDAs.",
-      "note": "No new reading since Oct 12: the Treasury cash market was closed Monday (TheStreet), so the 10-year stays at Friday's 5.24% par yield. At the DBS forum in Singapore on Oct 12, Intel's Lip-Bu Tan said 'if there's any challenge in the front, it's capital and the cost of capital', and Broadcom's Hock Tan said capital could bind before chips, memory or power (MLQ). Etoday lists those remarks among the reasons Korean chip stocks fell 5.5% on Tuesday. No new $/GW figure was found. Trend and signal held; watch Tuesday's Treasury reopening against the 5.30% line.",
-      "source": "https://mlq.ai/news/intel-and-broadcom-ceos-warn-capital-not-chips-could-constrain-ai-buildout/",
-      "updated": "2026-10-13"
+      "note": "Changed since Oct 12: the Treasury cash market reopened Tuesday after Columbus Day and the 10-year par yield printed 5.21%, 3bp lower than Friday (Treasury daily par curve). Seoul Economic Daily credits easing yields partly to a New York Fed official downplaying the need for more hikes next year. No new $/GW figure was found. Trend and signal held: the move is small and the yield is still above 5.2%. Watch US CPI Wed 23:30 AEDT against the 5.30% line.",
+      "source": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+      "updated": "2026-10-14"
     },
     {
       "key": "memory_prices",
       "name": "Memory prices: DRAM spot and contract, HBM, Samsung and Micron readthrough",
-      "value": "TrendForce spot Oct 13: DDR5 16Gb $59.90 (+0.79%), new high; DDR4 16Gb $83.86 (+0.06%); DDR4 8Gb $46.06 (-0.05%). Samsung -7.4%, SK hynix -10.1% at Tuesday's close on CXMT's 4F2 server DDR5 plan; MU -3.9% Monday. Contract table still 2H Aug; TrendForce 4Q26 DRAM contract +10-15%.",
+      "value": "TrendForce spot Oct 14: DDR5 16Gb $60.10 (+0.33%), new high and first print above $60; DDR4 16Gb $83.61 (-0.30%); DDR4 8Gb $45.97 (-0.19%). SK hynix -1.7%, Samsung flat at Wed close after -10.1%/-7.4% Tue; MU -3.6% Tue. Public contract table still 2H Aug.",
       "trend": "up",
       "signal": "bullish",
-      "why": "Spot DRAM kept inching up through the AI selloff and Samsung's preliminary profit confirms the pricing power; the only soft spot is demand destruction in PCs, which does not touch server DRAM or HBM.",
-      "watch": "TrendForce's October contract-price update (the table is still 2H Aug); whether DDR5 16Gb spot stops rising as CXMT's 4F2 server DDR5 nears launch; Samsung full Q3 late Oct; DDR4 16Gb spot rolling over from $83-84.",
-      "note": "Changed since Oct 12: DDR5 16Gb spot rose another 47c to $59.90 and DDR4 16Gb held at $83.86, so prices kept rising while the shares fell hard. Etoday reports the Kospi closed -5.46% Tuesday with Samsung -7.39% and SK hynix -10.09%, a sell sidecar and W4.49T of foreign net selling, after the SOX fell 2.67% Monday and Micron 3.87% despite lifting its buyback to $35.16B (TheStreet). The trigger is CXMT's Oct 10 plan for 4F2 server DDR5 RDIMMs by year-end with 30-50% more density; TrendForce calls the date ambitious and says volume production is a separate hurdle. Prices, not shares, drive this indicator, so trend and signal hold; a DDR5 spot rollover would be the first sign the CXMT threat reaches pricing. Watch TrendForce's October contract update, Micron's Taoyuan rally Oct 19 and Samsung's full Q3.",
+      "why": "Server-grade DDR5 spot keeps setting highs through the CXMT selloff; the only soft spot is DDR4 and PC demand, which does not touch server DRAM or HBM.",
+      "watch": "TrendForce's September/October contract update (a Sept 30 update exists but is paywalled); whether DDR5 16Gb spot stops rising as CXMT's 4F2 server DDR5 nears launch; DDR4 16Gb spot rolling over from $83-84; Samsung full Q3 late Oct.",
+      "note": "Changed since Oct 13: DDR5 16Gb spot rose 20c to $60.10, so the part CXMT is targeting is still getting dearer, while DDR4 16Gb slipped 25c to $83.61, its first decline in this series. An early Wednesday bounce in Seoul faded: KOSPI closed -0.44%, SK hynix -1.66% and Samsung flat. Micron fell 3.6% Tuesday (GuruFocus cites fears of a peak in memory prices). TrendForce lists a Sept 30 contract update behind its paywall; the public table is still 2H Aug. Trend and signal held because prices, not shares, drive this indicator; watch whether DDR4 keeps slipping.",
       "source": "https://www.trendforce.com/price/dram",
-      "updated": "2026-10-13"
+      "updated": "2026-10-14"
     },
     {
       "key": "power_bottleneck",
@@ -70,21 +70,21 @@
       "signal": "bullish",
       "why": "Grid capacity is still the binding constraint on how fast compute can be deployed: PJM is issuing tight-conditions advisories in October and only just fast-tracking its first new generators, which keeps existing GPU capacity scarce.",
       "watch": "Texas TWDB report Oct 14 and TCEQ compliance report Oct 19; PJM's revised large-load filing after FERC's Oct 9 rejection; ERCOT Batch Zero timing; GE Vernova Q3 backlog (late Oct).",
-      "note": "Changed since Oct 12: Utility Dive (Oct 12) reports FERC's Oct 9 order rejected the core of PJM's large-load plan, the Interim Resource Adequacy Service that would have let data centres connect without matching new capacity if they accepted curtailment, plus its bring-your-own-capacity rules, citing state jurisdiction and discrimination; FERC approved PJM's large-load definition and registry. Inference: the quickest route for new AI load onto PJM is shut for now, which keeps existing capacity scarce. No new Texas or turbine prints were found Oct 12-13. Trend and signal held. Watch the Texas Water Development Board report Wed Oct 14, PJM's next filing, and TCEQ's compliance report Oct 19.",
+      "note": "No new reading since Oct 13: no Texas, ERCOT, PJM or turbine news was found for Oct 13-14, and the Texas Water Development Board's data-centre report due Oct 14 was not yet published in search results. The FERC rejection of PJM's interim large-load service (Oct 9) remains the latest change and keeps the quickest route for new AI load onto PJM shut for now. Trend and signal held. Watch the TWDB report, PJM's next filing and TCEQ's compliance report Oct 19.",
       "source": "https://www.utilitydive.com/news/ferc-pjm-large-load-interconnection-iras-byonc/832716/",
-      "updated": "2026-10-13"
+      "updated": "2026-10-14"
     },
     {
       "key": "capex_vs_backlog",
       "name": "Capex vs backlog: hyperscaler spend, RPO, AI-lab commitments and buyer revenue quality",
-      "value": "OpenAI annualised revenue 'approaching $50B' (FT, Oct 8) vs ~$70B assumed. AI-related debt issuance $23B in Sept vs $113B in June. Broadcom and Intel CEOs (Oct 12): capital may bind before chips; banks preparing ~$60B for Broadcom-linked AI equipment (Bloomberg via MLQ). Anthropic investor day Wed US.",
+      "value": "ASML Q3 (Oct 14): sales EUR 11.66B, a hair under consensus; GM 57.5%; Q4 guide EUR 14.2-15.2B; 2026 raised to EUR 44-45B. Says planned 2027-28 supply will not meet demand; some customers asking for 2029-30 slots. OpenAI run-rate 'approaching $50B' (FT) vs ~$70B assumed.",
       "trend": "down",
       "signal": "neutral",
-      "why": "The commitments did not change but the biggest buyer's revenue base is ~30% smaller than the market assumed, so backlog coverage by customer revenue got worse on paper; it is an accounting gap, not a demand drop, which keeps this neutral rather than bearish.",
-      "watch": "Anthropic investor session Oct 14; OpenAI's $30B round at $1.4T pre-money closing or re-priced; Q3 hyperscaler capex guides late Oct; whether Bloomberg's reported $70B+ year-end run-rate is confirmed by OpenAI.",
-      "note": "Changed since Oct 12: no new revenue or capex numbers, but the chip suppliers themselves flagged financing. At the DBS forum in Singapore on Oct 12, Intel's Lip-Bu Tan named 'capital and the cost of capital' as the main challenge and said investors will eventually want a return, and Broadcom's Hock Tan said capital could bind before chips (MLQ). MLQ also cites Bloomberg that banks are preparing about $60B for Broadcom-related AI equipment, a $42B senior tranche plus $18B junior led by Blackstone, on top of the $35B Apollo/Blackstone platform tied to Anthropic capacity. No OpenAI round or Anthropic update was found Oct 12-13. Trend and signal held. Watch Anthropic's investor day (Wed US) and TSMC's capex guide (Thu 17:00 AEDT).",
-      "source": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-      "updated": "2026-10-13"
+      "why": "Equipment demand says the build keeps accelerating, but the biggest buyer's revenue base is ~30% smaller than the market assumed, so backlog coverage by customer revenue got worse on paper; it is an accounting gap, not a demand drop, which keeps this neutral rather than bearish.",
+      "watch": "Anthropic investor session Oct 14 (US); OpenAI's $30B round at $1.4T pre-money closing or re-priced; TSMC capex guide Thu 17:00 AEDT; Q3 hyperscaler capex guides late Oct.",
+      "note": "Changed since Oct 13: ASML's Q3 is the strongest capex signal this week. CEO Christophe Fouquet said customers keep raising forecasts 'driven primarily by their expectations for the scale and duration of AI-related investments', that planned 2027-28 supply will fall short, and that ASML is looking beyond its planned 30% capacity increase for 2028 (Yahoo). ASML no longer reports quarterly bookings, and its US shares fell about 3% overnight on the small sales miss. This shows supplier-side capex rising, but it says nothing new about whether buyers' revenue covers the spend, so trend and signal held. No OpenAI round or Anthropic update was found Oct 13-14; watch Anthropic (Wed US) and TSMC (Thu 17:00 AEDT).",
+      "source": "https://finance.yahoo.com/markets/stocks/articles/asml-raises-sales-forecast-third-061145434.html",
+      "updated": "2026-10-14"
     },
     {
       "key": "neocloud_credit",
@@ -94,21 +94,21 @@
       "signal": "neutral",
       "why": "The most levered neocloud fell 7.8% in one session because its anchor customer's revenue was restated; with bonds already in the low teens, a weaker tenant base is the direct path to a funding problem.",
       "watch": "CoreWeave 2031 bond quote and any DDTL draw; Q3 results early Nov; OpenAI's $30B round closing; Nebius, Lambda, Crusoe raises; Broadcom's OpenAI debt talks.",
-      "note": "No new bond or loan quote since Oct 12. 24/7 Wall St. (Oct 12) had CoreWeave down about 2% near $80 and Nebius down 3-5% in Monday trading, with Nebius off 11% over the week despite a new Rosenblatt Buy; it notes CoreWeave's Q2 capex of $6.42B against free cash flow of -$5.74B keeps it tied to capital markets. The Intel and Broadcom CEOs' Oct 12 warning that capital, not chips, is the bottleneck makes the same point from the supplier side. Nothing crosses the 11% bond line, so the signal stays neutral and trend down. Watch any CoreWeave 2031 quote, Oracle risk-transfer pricing and Anthropic's session Wednesday.",
+      "note": "No new reading since Oct 13: no CoreWeave, Nebius or Oracle bond, loan or CDS quote was found for Oct 13-14, and no Tuesday move for CoreWeave was reported in the sources checked. The 10-year eased 3bp to 5.21% on Tuesday, a small help to refinancing costs but not a credit print. Nothing crosses the 11% bond line, so the signal stays neutral and the trend down. Watch any CoreWeave 2031 quote, Oracle risk-transfer pricing and Anthropic's session Wednesday US.",
       "source": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-      "updated": "2026-10-13"
+      "updated": "2026-10-14"
     },
     {
       "key": "nvidia_dc",
       "name": "Nvidia data centre: revenue, margin, concentration, backstops and demand signals",
-      "value": "NVDA about -1.3% Monday (MarketBeat) as the SOX fell 2.67%, its fourth straight loss, on CXMT memory fears. MarketBeat flags Microsoft leaning more on in-house Maia chips for inference. Reflection AI talks still preliminary. DC rev $89.0B (+117%), GM 75.0%, Q3 guide $108B, $150B buyback unchanged. No China news.",
+      "value": "NVDA +0.97% Tuesday while MU fell 3.6% and the Nasdaq slipped. Agreed a minority stake in Doctolib. Reflection AI talks still preliminary. DC rev $89.0B (+117%), GM 75.0%, Q3 guide $108B, $150B buyback unchanged. No China or export news.",
       "trend": "up",
       "signal": "bullish",
       "why": "Fundamentals and guidance are unchanged, but the OpenAI revenue restatement cuts the revenue base behind Nvidia's largest customer programme by ~30%, which is a concentration risk the market priced on Thursday and did not reverse on Friday.",
-      "watch": "Anthropic investor session Oct 14; any OpenAI round re-pricing; GTC Washington Nov 30-Dec 3; Q3 FY27 results in late Nov (inference from prior cadence); CFTC/CME GPU futures listing.",
-      "note": "Changed since Oct 12: Nvidia fell about 1.3% Monday in a light holiday session while the SOX lost 2.67% and Micron 3.87%, so the selloff centred on memory, not GPUs. MarketBeat names Microsoft's plan to rely more on its own Maia chips for inference as the main near-term headwind; inference: in-house silicon at a top customer adds to the concentration risk. No export-rule or China news was found Oct 12-13, and the Reflection AI talks are still described as preliminary. Trend and signal held: margin, guide and buyback are unchanged and H100 and B200 rents both rose. Watch ASML Wed 16:00 AEDT, Anthropic Wed US and TSMC Thu 17:00 AEDT.",
-      "source": "https://www.marketbeat.com/instant-alerts/price-nvidia-nasdaq-nvda-shares-down-13-heres-why-2026-10-12/",
-      "updated": "2026-10-13"
+      "watch": "Anthropic investor session Oct 14; any OpenAI round re-pricing; TSMC Thu 17:00 AEDT; GTC Washington Nov 30-Dec 3; Q3 FY27 results in late Nov (inference from prior cadence); CFTC/CME GPU futures listing.",
+      "note": "Changed since Oct 13: Nvidia rose 0.97% Tuesday as money rotated out of memory names into GPU and platform stocks, and its only company news was a minority stake in French health-software firm Doctolib (HeyGoTrade). Yahoo reports Nvidia turned negative in overnight trading as ASML's small sales miss weighed on chips, even though ASML said 2027-28 tool supply will fall short of AI demand. No export-rule, China or Reflection AI update was found Oct 13-14. Trend and signal held: margin, guide and buyback are unchanged and H100 and B200 rents held or rose. Watch Anthropic (Wed US) and TSMC (Thu 17:00 AEDT).",
+      "source": "https://www.heygotrade.com/en/news/nvidia-nvda-stock-news-october-14-2026/",
+      "updated": "2026-10-14"
     }
   ]
 }

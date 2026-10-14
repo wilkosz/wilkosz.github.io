@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-10-14",
+    "ticker": "ASML",
+    "headline": "ASML shares fall about 4% in first reaction: sales slightly under the EUR 11.72B consensus, profit well above",
+    "summary": "XTB: revenue EUR 11.66B vs EUR 11.72B expected; net profit EUR 4.96B vs about EUR 4.1B; gross margin 57.5% vs about 56.1%. Amsterdam had already closed down 4.2% Tuesday at EUR 1,509.60.",
+    "source": "https://xtb.com/int/market-analysis/news-and-research/asml-disappoints-on-revenue-but-delivers-stronger-profits-and-raises-guidance-what-s-next-for-the-ai-sector",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-14",
+    "ticker": "ASML",
+    "headline": "ASML Q3 sales EUR 11.66B, a hair under consensus; says 2027-28 supply will not meet AI demand",
+    "summary": "Net income EUR 4.96B and gross margin 57.5%, above the 55-57% guide. Q4 guided to EUR 14.2-15.2B and 2026 raised to EUR 44-45B from EUR 43-45B. CEO Christophe Fouquet said customers keep raising forecasts on AI investment, some want 2029-30 orders, and ASML is studying capacity beyond its planned 30% increase for 2028. No quarterly bookings are published any more. US-listed shares fell about 3% overnight; Micron, SanDisk and Intel fell 1-2.6%.",
+    "source": "https://finance.yahoo.com/markets/stocks/articles/asml-raises-sales-forecast-third-061145434.html",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-14",
+    "ticker": "MACRO",
+    "headline": "China's September exports jump 36.3% y/y, imports 31%; surplus $133.5B",
+    "summary": "Both beat forecasts (Reuters poll 25.5% and 24.5%) and accelerated from August's 25% and 28.2%. Export growth was the fastest since February. The nine-month surplus reached $938B, on track to top last year's $1.2 trillion record. The IMF cut its 2026 China growth forecast 0.1 point to 4.5%.",
+    "source": "https://www.clickondetroit.com/business/2026/10/14/chinas-exports-surge-363-in-september-as-pressure-ramps-up-to-rebalance-trade/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-14",
+    "ticker": "MACRO",
+    "headline": "China PPI rises 5.0% y/y in September, fastest since June 2022; CPI 0.9%, just under forecast",
+    "summary": "Producer prices beat the 4.5% forecast and rose 1.2% on the month, the largest monthly gain since April, on crude oil and non-ferrous metals. Consumer prices rose 0.9% y/y vs 1.0% expected and 0.2% m/m. Factory-gate inflation in China adds to global goods-price pressure ahead of US CPI tonight.",
+    "source": "https://www.gurufocus.com/news/9122609/chinas-september-2026-inflation-data-highlights-rising-producer-prices-cny-reacts",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-13",
+    "ticker": "MU",
+    "headline": "Micron Taiwan workers vote 99% to authorise a strike as CXMT fears extend the memory selloff",
+    "summary": "Workers at Micron's Taoyuan plant voted 99% to authorise a strike, seeking permanent profit-sharing equal to 15% of quarterly operating profit; no strike date was given. Micron fell 3.6% Tuesday, a third straight loss, alongside CXMT's 4F2 DRAM progress.",
+    "source": "https://www.investing.com/news/stock-market-news/why-is-micron-technology-stock-sliding-today-93CH-4945811",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-13",
+    "ticker": "MACRO",
+    "headline": "JPMorgan misses on EPS for the first time in about three years; Goldman profit +29%, Wells and Citi beat",
+    "summary": "JPMorgan earned $15.3B ($5.57/share) vs about $5.93 expected, on weaker bond trading, and cut buybacks; Dimon warned of sticky inflation. Goldman earned $5.29B, Citi profit rose about 40%, Wells $1.87/share beat. Consumers still paying bills.",
+    "source": "https://fortune.com/2026/10/13/jpmorgan-goldman-sachs-citigroup-wells-fargo-interest-inflation/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-13",
+    "ticker": "RKT",
+    "headline": "Rocket hits a 52-week low as JPMorgan and Morgan Stanley cut targets; loanDepot -4.8%",
+    "summary": "Rocket fell 0.4% to a new 52-week low on volume 32% above average, down 44% this year, after JPMorgan and Morgan Stanley lowered price targets. loanDepot fell 4.8%; S&P 500 -0.02%, Nasdaq -0.15%.",
+    "source": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-13-215532255.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-13",
+    "ticker": "LDI",
+    "headline": "Mortgage News Daily 30-year eases to 7.46%, a two-week low",
+    "summary": "With the bond market reopened after Columbus Day, MND's 30-year fixed slipped 0.02 points to 7.46% Tuesday, a two-week low, ahead of Wednesday's US CPI.",
+    "source": "https://www.mortgagenewsdaily.com/mortgage-rates",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-13",
+    "ticker": "AAPL",
+    "headline": "Apple launches HomeView hub ($299, ships Nov 13), Apple TV 4K ($299, Nov 13) and HomePod mini 2 ($149, Oct 30)",
+    "summary": "Pre-orders opened Oct 13. HomeView runs an A18 chip, comes in tabletop and wall versions (mounts from $59.95) and is not sold in the EU. Siri AI on HomePod mini 2 comes in a later update. Third-party Home Collection accessories from December. Apple closed up 0.09% at $341.27 after trading as high as $348.15.",
+    "source": "https://www.macobserver.com/news/homeview-homepod-mini-2-apple-tv-4k-release-dates/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-13",
+    "ticker": "1211",
+    "headline": "BYD launches Da Han EV at 235,900-275,900 yuan, up to 24,000 yuan below pre-sale prices",
+    "summary": "Three versions on a 102.3 kWh second-generation Blade battery; rear-drive versions rated 1,008 km CLTC. Pre-sale prices in August were 249,900-299,900 yuan. Hong Kong shares closed down 1.48% Tuesday at HK$73.25.",
+    "source": "https://cnevpost.com/2026/10/13/byd-launches-da-han-ev/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-13",
+    "ticker": "MACRO",
+    "headline": "US stocks end flat as memory names fall again and banks report: S&P 500 -0.02%, Nasdaq -0.15%",
+    "summary": "Micron -3.62% on the China DRAM news; 10-year yield 5.24%; energy led the sectors. Watchlist chip names were mixed: Celestica +2.9%, Astera +0.4%, Credo -1.3%, Teradyne -0.9%.",
+    "source": "https://www.fool.com/coverage/stock-market-today/2026/10/13/stock-market-today-oct-13-markets-edge-lower-as-earnings-season-kicks-off/",
+    "impact": "neutral"
+  },
+  {
     "date": "2026-10-13",
     "ticker": "TSM",
     "headline": "Taiex falls 1.95% and TSMC 2.0% in Taipei two days before Q3 results",
@@ -30,6 +118,30 @@
     "summary": "Cleveland Fed President Hammack said Monday the Fed should move relatively quickly toward a restrictive stance, preferring smaller, faster adjustments. CME FedWatch on Oct 13 priced more than 80.6% for a hold on Oct 28 and about 84.7% for a hike in December. Japan's September wholesale prices rose 6.8% y/y; the yen was near 158.25.",
     "source": "https://fxstreet.com/news/japanese-yen-strengthens-despite-softer-ppi-data-202610130250",
     "impact": "negative"
+  },
+  {
+    "date": "2026-10-12",
+    "ticker": "META",
+    "headline": "Meta releases Muse Wonder, its first frontier model, at $4/$20 per million tokens",
+    "summary": "Meta Superintelligence Lab released Muse Wonder (API) and Muse Wonder Full (Muse Code subscribers only). Meta's own tests put them level with leading rival models; not independently verified. Meta rose 2.6% Tuesday after 3.4% Monday.",
+    "source": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-12",
+    "ticker": "1211",
+    "headline": "China-EU hybrid deal: EU says imports cut by 'several million cars over four years'; BYD falls 1.8%",
+    "summary": "BYD is China's largest hybrid exporter to Europe and sold more plug-in hybrids than EVs in the first eight months. Citi says caps, price floors and carve-outs are still being negotiated.",
+    "source": "https://kelo.com/2026/10/12/chinas-7-5-billion-eu-hybrid-boom-faces-new-curbs-under-china-eu-deal/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-12",
+    "ticker": "ALAB",
+    "headline": "Astera Labs, Lumentum and Corning demo PCIe over optics at OCP using Astera's Scorpio switch",
+    "summary": "Demo of 1060 nm VCSEL-based optical PCIe links for rack-scale AI, on show Oct 12-15. Shares rose 0.4% Tuesday after an intraday low of $300.44.",
+    "source": "https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Astera-Labs-and-Corning-to-Demonstrate-1060-nm-VCSEL-Based-PCIe-over-Optics-for-AI-Rack-Scale-Connectivity-at-the-2026-OCP-Global-Summit/default.aspx",
+    "impact": "neutral"
   },
   {
     "date": "2026-10-12",
@@ -198,6 +310,14 @@
     "summary": "A Q3 electric semi marked the milestone as BYD pushes into long-haul freight. Adds a new volume line as passenger-car margins stay thin.",
     "source": "https://cnevpost.com/2026/10/10/byd-150000-commercial-nev-production-focus-trucks/",
     "impact": "neutral"
+  },
+  {
+    "date": "2026-10-09",
+    "ticker": "MELI",
+    "headline": "AtlasIntel/Bloomberg runoff poll: Flavio Bolsonaro 52.8%, Lula 47.2% of valid votes",
+    "summary": "Total votes 51.1% to 45.7%, margin of error 1 point. Second poll to show Bolsonaro ahead before the Oct 25 runoff.",
+    "source": "https://www.moneytimes.com.br/pesquisa-atlasintel-9-de-outubro-gaep/",
+    "impact": "positive"
   },
   {
     "date": "2026-10-09",
@@ -517,126 +637,6 @@
     "headline": "Emails show Tesla pressed Dutch regulator RDW to ease its FSD review",
     "summary": "Reuters-sourced emails reported by Electrek show Tesla lobbying the Netherlands' RDW, the lead EU type-approval authority for FSD, to speed and soften its review. Raises the odds of a slower European rollout.",
     "source": "https://electrek.co/2026/10/08/tesla-fsd-europe-rdw-pressure-reuters/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "1211",
-    "headline": "BYD launches the Ti 7 (Fang Cheng Bao Tai 7) in Uzbekistan at about $43,340",
-    "summary": "Five-seat all-wheel-drive DM-p hybrid SUV; another overseas market for the export push that is carrying BYD's growth while China volumes flatten.",
-    "source": "https://cnevpost.com/2026/10/08/byd-launches-fang-cheng-bao-tai-7-uzbekistan/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "MACRO",
-    "headline": "OpenAI told investors annualised revenue is approaching $50B, about $20B below the ~$70B the market assumed",
-    "summary": "FT figure reported by TechCrunch. The gap is methodology: Anthropic counts sales through cloud partners, OpenAI does not. OpenAI's IPO has slipped to early 2027. Chipmakers fell about 3.4% and CoreWeave 7.8% on the day.",
-    "source": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "MACRO",
-    "headline": "PJM accepted the first three projects into its expedited interconnection track; Oct 9 capacity advisory for Oct 12-13",
-    "summary": "First concrete fast-track for new large generation in PJM; a tight-conditions advisory in October underlines how little spare capacity the grid has.",
-    "source": "https://insidelines.pjm.com/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "FED",
-    "headline": "Waller: labour market stable, inflation too high, 'I anticipate additional hikes'",
-    "summary": "Speaking in Istanbul on the signalling value of the SEP, Governor Waller said he supported the September hike to 3.75-4.00% and that holding at the December-to-September setting would not return inflation to 2% in a timely manner. Core PCE ran 3.0% over 12 months to August; he cited Middle East energy prices, AI-driven high-tech consumer prices and tariff threats as persistent pressures and said he is concerned the acceleration will push up inflation expectations. Hikes need not be at consecutive meetings. He is not greatly concerned tighter policy causes a damaging slowdown. Sixteen of 18 dot-plot participants expect at least one more hike in 2026.",
-    "source": "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "TSM",
-    "headline": "TSMC September sales NT$511.86B, up 54.6% year on year",
-    "summary": "Monthly revenue fell 0.6% from August's record but is up 54.6% on September 2025; January-September is NT$3.90T (+41.1%). July-August plus September gives roughly US$46.7B for Q3 at the NT$32 guidance rate (own arithmetic), above the US$44.6-45.8B guide. Q3 results are due Oct 15.",
-    "source": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000680/tsm-revenue20261008.htm",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "MACRO",
-    "headline": "US futures fall as oil jumps 4% and the 10-year yield reaches 5.34%",
-    "summary": "At 6:14am ET Dow futures were down 0.78%, S&P 500 down 0.4% and Nasdaq 100 down 0.57%. Brent rose more than 4% on attacks on Gulf shipping; Nvidia fell 0.6%, Broadcom 1.4% and Micron 1.2% premarket. Samsung's record forecast did not lift chip stocks.",
-    "source": "https://www.investing.com/news/stock-market-news/wall-st-futures-slide-as-rising-oil-yields-dampen-mood-4938454",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "MACRO",
-    "headline": "Fed's Waller hints at an October pause; December hike still possible",
-    "summary": "Governor Waller suggested a possible pause at the next meeting while saying more hikes may be needed. Traders expect a hold on Oct 28, with a December hike still priced as possible. Brent was above US$105 and the 10-year about 5.32% before the open.",
-    "source": "https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-premarket-global-stocks-decline-as-oil-prices-surge/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "AVGO",
-    "headline": "Broadcom reportedly lining up more than $50B of debt for OpenAI chips",
-    "summary": "Early-stage talks, with Apollo and Blackstone among the private-credit lenders, to fund OpenAI's co-developed custom chips; no definitive agreements expected before year-end. Broadcom fell about 1.4% premarket and Oracle is also seeking funds, raising concern about competition for capital.",
-    "source": "https://www.gurufocus.com/news/9114829/broadcom-avgo-explores-50b-debt-financing-to-support-ai-chip-development-with-openai",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "NVDA",
-    "headline": "Nvidia, Broadcom and Marvell slip premarket as oil and yields rise",
-    "summary": "Nvidia was down about 1.0%, Broadcom 1.7% and Marvell 2.6% premarket. TipRanks cites oil above US$104, the 10-year near 5.33%, Samsung missing forecasts, AI financing worries and profit-taking in Marvell after a gain of more than 200% this year.",
-    "source": "https://www.tipranks.com/news/why-nvidia-broadcom-and-marvell-stocks-are-falling-in-premarket-today-october-8",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "MU",
-    "headline": "Memory stocks fall premarket; Samsung profit misses and Taiwan strike vote passes",
-    "summary": "Micron was down 1.43%, SanDisk 1.09% and SK hynix 0.72% premarket. Samsung's Q3 operating profit of 107.4T won was a record but short of the 108.7T forecast, and Micron's Taiwan workers voted almost unanimously to authorise a strike.",
-    "source": "https://www.tipranks.com/news/why-are-micron-sandisk-and-sk-hynix-stocks-falling-today-october-8",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "GOOGL",
-    "headline": "TD Cowen raises Alphabet target to $485 on Cloud preview",
-    "summary": "Buy maintained; target up from $475. The firm expects Google Cloud revenue to more than double year on year in Q3, against 82% growth in Q2.",
-    "source": "https://www.tipranks.com/news/the-fly/alphabet-price-target-raised-to-485-from-475-at-td-cowen-thefly-news",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "GOOGL",
-    "headline": "Alphabet's Isomorphic Labs in early talks to raise at about $40B valuation",
-    "summary": "Bloomberg reports the AI drug-discovery unit is in fundraising talks at around a $40B valuation; the round has not closed and could change.",
-    "source": "https://www.tipranks.com/news/alphabets-ai-drugs-hunter-isomorphic-labs-in-fundraising-talks-to-hit-40b-valuation",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "BABA",
-    "headline": "Citi lifts Alibaba target to $193 ahead of fiscal Q2 results",
-    "summary": "Buy kept; target up from $190. Citi now models 8.2% year-on-year consolidated revenue growth for the quarter.",
-    "source": "https://www.tipranks.com/news/the-fly/alibaba-price-target-raised-to-193-from-190-at-citi-thefly-news",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "BABA",
-    "headline": "Hang Seng Tech falls 2.89% as mainland markets reopen",
-    "summary": "The Hang Seng fell 1.43% to 23,785.79 and Hang Seng Tech 2.89% to 4,073.38 on the first day back from Golden Week; Alibaba slipped about 1% and Tencent more than 2%. Southbound buying was HK$6.48B.",
-    "source": "https://finance.biggo.com/news/2a208372-34db-42f0-9289-dc0f3b18204d",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "NFLX",
-    "headline": "Morgan Stanley trims Netflix target, stays Overweight",
-    "summary": "Target cut on flat viewing hours ahead of the Oct 20 Q3 results; rating unchanged at Overweight.",
-    "source": "https://www.tipranks.com/news/the-fly/netflix-price-target-lowered-to-80-from-83-at-morgan-stanley-thefly-news",
     "impact": "negative"
   }
 ]
