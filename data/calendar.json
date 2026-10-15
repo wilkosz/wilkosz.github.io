@@ -1,85 +1,15 @@
 {
-  "as_of": "2026-10-14",
+  "as_of": "2026-10-15",
   "events": [
-    {
-      "key": "2026-10-13-byd-da-han-launch",
-      "date": "2026-10-13",
-      "time": "Launched Oct 13 (China)",
-      "ticker": "1211",
-      "title": "BYD Da Han EV launched at 235,900-275,900 yuan",
-      "type": "product",
-      "why": "Done. Prices 14,000-24,000 yuan below pre-sale; a read on how hard BYD is pricing in the domestic price war.",
-      "link": "https://cnevpost.com/2026/10/13/byd-launches-da-han-ev/"
-    },
-    {
-      "key": "2026-10-13-aapl-home-products",
-      "date": "2026-10-13",
-      "time": "Held 9:00 a.m. ET Tue Oct 13 (00:00 AEDT Wed Oct 14)",
-      "ticker": "AAPL",
-      "title": "Apple 'Welcome home': HomeView $299, Apple TV 4K $299, HomePod mini 2 $149",
-      "type": "product",
-      "why": "Done. Pre-orders open; HomePod mini 2 ships Oct 30, HomeView and Apple TV Nov 13. Stock +0.09% on the day.",
-      "link": "https://www.macobserver.com/news/homeview-homepod-mini-2-apple-tv-4k-release-dates/"
-    },
-    {
-      "key": "2026-10-13-fed-waller-ai",
-      "date": "2026-10-13",
-      "time": "03:45 ET (18:45 AEDT Tue)",
-      "ticker": "FED",
-      "title": "Fed Governor Waller discussion on AI, Bloomberg New Economy Forum, New Delhi",
-      "type": "central_bank",
-      "why": "Waller said Oct 8 he expects more hikes and named AI-driven high-tech consumer prices as an inflation pressure; an AI-focused session is where he could tie the capex boom to the rate path.",
-      "link": "https://www.federalreserve.gov/newsevents/2026-october.htm"
-    },
-    {
-      "key": "2026-10-13-big-banks-q3",
-      "date": "2026-10-13",
-      "time": "JPM 07:00 ET (22:00 AEDT), call 08:30 ET; WFC 07:00 ET, call 10:00 ET; Citi ~08:00 ET, call 11:00 ET; Goldman 07:30 ET (22:30 AEDT), call 09:30 ET (00:30 AEDT Wed); BAC and MS Wed Oct 14 pre-open",
-      "ticker": "JPM",
-      "title": "Q3 bank earnings start: JPMorgan, Wells Fargo, Citi, Goldman (BAC, MS Oct 14)",
-      "type": "earnings",
-      "why": "Goldman's Oct 13 date and 07:30 ET release confirmed by the firm's own schedule; opens Q3 season with a read on deal flow and consumer credit at a 5.24% 10-year.",
-      "link": "https://www.akrostec.com/indices/AUL500/events/2026-10-13t00-00-00z-goldman-sachs-group-inc-the-gs-financial-results-7f34f222"
-    },
-    {
-      "key": "2026-10-13-us-existing-home-sales",
-      "date": "2026-10-13",
-      "time": "10:00 ET Tue (01:00 AEDT Wed Oct 14)",
-      "ticker": "MACRO",
-      "title": "US existing-home sales, September (NAR)",
-      "type": "macro",
-      "why": "First resale print with the 30-year mortgage at 7.40%; matters for RKT, LDI and AXOS.",
-      "link": "https://www.financecalendar.com/?p=1655"
-    },
-    {
-      "key": "2026-10-13-semicon-west",
-      "date": "2026-10-13",
-      "time": "Oct 13-15, Moscone Center, San Francisco (last autumn edition; moves to Phoenix in spring 2027)",
-      "ticker": "MACRO",
-      "title": "SEMICON West 2026",
-      "type": "conference",
-      "why": "Chip-equipment and packaging demand commentary in the same week as ASML and TSMC results.",
-      "link": "https://www.semi.org/en/semi-press-release/semi-announces-new-spring-schedule-for-semicon-west-beginning-march-30-april-1-2027"
-    },
-    {
-      "key": "2026-10-13-rba-minutes",
-      "date": "2026-10-13",
-      "time": "Released 11:30 AEDT Tue (20:30 ET Mon)",
-      "ticker": "RBA",
-      "title": "RBA minutes of the Sep 28-29 meeting: unanimous hike to 4.60%, door open to more",
-      "type": "central_bank",
-      "why": "Board cited a wider Middle East conflict and oil, global AI-boom cost pressures and tighter domestic capacity; a hold was considered only briefly. Markets priced about 15bp more by year-end; next tests are AU jobs Oct 15 and CPI Oct 28.",
-      "link": "https://investinglive.com/central-banks/rba-minutes-show-three-reasons-for-hike-to-4-60-and-leave-door-open-to-further-increases/"
-    },
     {
       "key": "2026-10-14-anthropic-investor-day",
       "date": "2026-10-14",
-      "time": "TBC (San Francisco)",
+      "time": "Held Wed Oct 14, San Francisco",
       "ticker": "ANTHROPIC",
-      "title": "Anthropic pre-IPO investor day",
+      "title": "Anthropic investor day: Q3 revenue $16.8B, adjusted profit; IPO marketing from week of Nov 9",
       "type": "other",
-      "why": "Management Q&A on growth, compute costs; public S-1 would need to follow by about Oct 23 for a Nov 9 roadshow.",
-      "link": "https://financefeeds.com/anthropics-14-october-investor-day-nears-but-its-s-1-still-isnt-public-the-ipo-timeline-explained/"
+      "why": "Done. Growth slowed to about 50% q/q; valuation range $1.8-2T. Public S-1 still not filed; it needs to land about 15 days before a roadshow.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-hits-16-8b-revenue-234550826.html"
     },
     {
       "key": "2026-10-14-asml-q3",
@@ -94,22 +24,22 @@
     {
       "key": "2026-10-14-bac-q3",
       "date": "2026-10-14",
-      "time": "Release about 06:45 ET (21:45 AEDT Wed); call 08:30 ET (23:30 AEDT Wed)",
+      "time": "Released before US open Wed",
       "ticker": "BAC",
-      "title": "Bank of America Q3 2026 results and call",
+      "title": "Bank of America Q3: EPS $0.91 after a $1.2B money-laundering fine (about 17 cents a share); revenue $29.96B",
       "type": "earnings",
-      "why": "Biggest US deposit franchise after JPMorgan; follows four big-bank reports that beat on trading but sold off on net interest income and provisions. Read for AXOS, FIGR, RKT.",
-      "link": "https://newsroom.bankofamerica.com/content/newsroom/press-releases/2026/09/bank-of-america-to-report-third-quarter-2026-financial-results-a.html"
+      "why": "Reported. Shares fell 4.8%. Read for AXOS, FIGR and the mortgage names: the fine, not credit, drove the miss.",
+      "link": "https://www.sec.gov/Archives/edgar/data/0000070858/000007085826000481/bac-09302026ex993.htm"
     },
     {
       "key": "2026-10-14-fed-beige-book",
       "date": "2026-10-14",
-      "time": "14:00 ET (05:00 AEDT Thu)",
+      "time": "Released 14:00 ET (05:00 AEDT Thu)",
       "ticker": "FED",
-      "title": "Fed Beige Book",
+      "title": "Fed Beige Book: growth slight overall, manufacturing leads; price growth robust in three districts, picked up in four",
       "type": "central_bank",
-      "why": "Anecdotal read on hiring and pricing two weeks before the FOMC; matters only if it contradicts the CPI print that morning.",
-      "link": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+      "why": "Reported. Higher oil prices showed up in every district; five districts said firms slowed hiring after investing in AI.",
+      "link": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20261014.pdf"
     },
     {
       "key": "2026-10-14-fed-bowman-bangkok",
@@ -124,12 +54,12 @@
     {
       "key": "2026-10-14-us-cpi",
       "date": "2026-10-14",
-      "time": "08:30 ET (23:30 AEDT Wed)",
+      "time": "Released 08:30 ET (23:30 AEDT Wed)",
       "ticker": "MACRO",
-      "title": "US September CPI (PPI follows Thu Oct 15, 08:30 ET)",
+      "title": "US September CPI: +0.6% m/m, 3.7% y/y; core +0.3%, 2.6% (both above consensus)",
       "type": "macro",
-      "why": "Last inflation print before the Oct 27-28 FOMC; a hot core number is the main risk to long-duration growth holdings.",
-      "link": "https://www.bls.gov/schedule/2026/10_sched_list.htm"
+      "why": "Reported. Hot print lifted October hike odds to about a third and drove the Nasdaq down 1.9%.",
+      "link": "https://www.bls.gov/news.release/cpi.nr0.htm"
     },
     {
       "key": "2026-10-14-china-cpi",
@@ -154,12 +84,12 @@
     {
       "key": "2026-10-14-ms-q3",
       "date": "2026-10-14",
-      "time": "Release about 07:30 ET (22:30 AEDT Wed); call 09:30 ET (00:30 AEDT Thu)",
+      "time": "Released before US open Wed",
       "ticker": "MS",
-      "title": "Morgan Stanley Q3 2026 results and call",
+      "title": "Morgan Stanley Q3: EPS $3.03 (from $2.80), revenue $20.3B, equities +41%, record wealth revenue $9.1B",
       "type": "earnings",
-      "why": "Goldman's equities desk made $6.44B in Q3; Morgan Stanley shows whether trading and wealth flows held across the Street.",
-      "link": "https://www.morganstanley.com/about-us-ir/morgan-stanley-third-quarter-2026-investor-conference-call"
+      "why": "Reported. Shares still fell about 3% in the CPI selloff.",
+      "link": "https://www.sec.gov/Archives/edgar/data/0000895421/000089542126000288/a3q26msearningsrelease.htm"
     },
     {
       "key": "2026-10-15-fed-hammack-2",
@@ -202,16 +132,6 @@
       "link": "https://www.census.gov/retail/release_schedule.html"
     },
     {
-      "key": "2026-10-15-au-labour-force",
-      "date": "2026-10-15",
-      "time": "11:30 AEDT Thu (20:30 ET Wed)",
-      "ticker": "MACRO",
-      "title": "Australia labour force, September (ABS)",
-      "type": "macro",
-      "why": "Confirmed on the ABS release calendar. Last jobs print before September CPI on Oct 28 and the RBA's November meeting.",
-      "link": "https://www.abs.gov.au/release-calendar/future-releases"
-    },
-    {
       "key": "2026-10-15-us-jobless-claims",
       "date": "2026-10-15",
       "time": "08:30 ET (23:30 AEDT Thu)",
@@ -242,6 +162,16 @@
       "link": "https://tradingeconomics.com/united-states/calendar"
     },
     {
+      "key": "2026-10-15-au-labour-force",
+      "date": "2026-10-15",
+      "time": "Released 11:30 AEDT Thu",
+      "ticker": "RBA",
+      "title": "Australia September jobs: -39,300 (+19,600 expected), unemployment 4.7% (4.6% expected)",
+      "type": "macro",
+      "why": "Reported. Participation fell to 66.8%; weakens the case for a November RBA hike, though ANZ still expects one.",
+      "link": "https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/latest-release"
+    },
+    {
       "key": "2026-10-15-tsla-roadster",
       "date": "2026-10-15",
       "time": "TBC (evening CT; Fri morning AEDT)",
@@ -254,12 +184,12 @@
     {
       "key": "2026-10-15-tsm-q3-results",
       "date": "2026-10-15",
-      "time": "14:00 Taipei (17:00 AEDT Thu; 02:00 ET); quiet period Oct 5-14",
+      "time": "Released 14:00 Taipei (17:00 AEDT Thu), after the Taipei close",
       "ticker": "TSM",
-      "title": "TSMC Q3 2026 results, Q4 guide and 2026 capex update (Q3 guide $44.6-45.8B, GM 65-67%)",
+      "title": "TSMC Q3 2026: record net profit NT$763.06B, +68.7% y/y, above estimates",
       "type": "earnings",
-      "why": "Holding; the single best read on AI demand for NVDA, AVGO, MRVL and ALAB, and it lands in the owner's evening. Consensus ~$45.8B, top of the range.",
-      "link": "https://investor.tsmc.com/english/quarterly-results"
+      "why": "Reported. Sixth straight record quarter; shares fell 2.2% in Taipei before the release as the Taiex dropped 3.4%. First US reaction at the 00:30 AEDT Fri open.",
+      "link": "https://www.investing.com/news/stock-market-news/asia-stocks-slump-as-chip-rout-deepens-after-hotter-us-inflation-4950421"
     },
     {
       "key": "2026-10-16-us-import-prices-ip",
@@ -422,6 +352,16 @@
       "link": "https://www.marketbeat.com/stocks/NYSE/VRT/earnings/"
     },
     {
+      "key": "2026-10-22-be-q3",
+      "date": "2026-10-22",
+      "time": "After US close; call 14:00 PT / 17:00 ET (08:00 AEDT Fri Oct 23)",
+      "ticker": "BE",
+      "title": "Bloom Energy Q3 2026 results and call",
+      "type": "earnings",
+      "why": "Confirmed by Bloom Oct 12 (replaces the 2026-10-27-be-q3 estimate). Consensus EPS $0.14; FY26 guide $3.9-4.2B; shares down 9% Oct 14.",
+      "link": "https://www.bloomenergy.com/news/bloom-energy-to-announce-third-quarter-2026-financial-results-on-october-22-2026/"
+    },
+    {
       "key": "2026-10-22-us-jobless-claims",
       "date": "2026-10-22",
       "time": "08:30 ET (23:30 AEDT Thu)",
@@ -482,14 +422,14 @@
       "link": "https://www.marketscreener.com/news/flavio-bolsonaro-takes-lead-over-lula-brazilian-real-and-stock-market-soar-ce785ddbd081fe25"
     },
     {
-      "key": "2026-10-27-be-q3",
-      "date": "2026-10-27",
-      "time": "TBC",
-      "ticker": "BE",
-      "title": "Bloom Energy Q3 2026 results (estimated, not announced)",
+      "key": "2026-10-26-cls-q3",
+      "date": "2026-10-26",
+      "time": "Results after US close Mon (about 07:00 AEDT Tue Oct 27); call 08:00 ET Tue Oct 27 (23:00 AEDT Tue)",
+      "ticker": "CLS",
+      "title": "Celestica Q3 2026 results, call and Investor and Analyst Day",
       "type": "earnings",
-      "why": "MarketBeat estimate based on last year's schedule; Bloom has not posted a notice. Consensus EPS $0.14 (one estimate). FY26 revenue guide $3.9-4.2B.",
-      "link": "https://www.marketbeat.com/stocks/NYSE/BE/earnings/"
+      "why": "Watchlist. Q3 guide $5.25-5.55B revenue, EPS $2.88-3.08; investor day should give 2027 targets after a 9.6% drop Oct 14.",
+      "link": "https://finviz.com/news/399550/celestica-to-hold-q3-2026-financial-results-and-2026-investor-and-analyst-day-conference-call"
     },
     {
       "key": "2026-10-27-enph-q3",
@@ -564,12 +504,12 @@
     {
       "key": "2026-10-28-meta-msft-q3",
       "date": "2026-10-28",
-      "time": "TBC (after US close per third-party calendars; ~07:30 AEDT Thu Oct 29)",
+      "time": "After US close Wed Oct 28 (Thu Oct 29 morning AEDT); call time not yet posted",
       "ticker": "MSFT",
-      "title": "Microsoft fiscal Q1 2027 results (date not yet confirmed by the company)",
+      "title": "Microsoft fiscal Q1 2027 results (date confirmed on Microsoft IR)",
       "type": "earnings",
-      "why": "Meta has moved out of this slot to a confirmed Oct 21. Microsoft Oct 28, Apple and Amazon Oct 29 are still estimates only (timefeed.ai notes Amazon has not announced). Azure growth and capex guide are the AI read.",
-      "link": "https://timefeed.ai/en/calendars/cmqjg7b94002u4khmn2yjwtu4"
+      "why": "Azure growth and capex guidance the same evening as Alphabet; key read on AI spending after this week's AI-debt selloff.",
+      "link": "https://www.microsoft.com/en-us/investor/events/fy-2027/earnings-fy-2027-q1"
     },
     {
       "key": "2026-10-28-skhy-q3",
@@ -620,6 +560,26 @@
       "type": "earnings",
       "why": "Outside the window; foundry and PC-CPU demand read for the semis, lands the day after the FOMC.",
       "link": "https://www.intc.com/"
+    },
+    {
+      "key": "2026-10-29-us-gdp-q3-advance",
+      "date": "2026-10-29",
+      "time": "08:30 ET Thu (23:30 AEDT Thu Oct 29)",
+      "ticker": "MACRO",
+      "title": "US Q3 GDP, advance estimate (BEA)",
+      "type": "macro",
+      "why": "Lands the day after the FOMC decision; first full read on Q3 growth with energy prices up 20% y/y.",
+      "link": "https://www.bea.gov/news/schedule"
+    },
+    {
+      "key": "2026-10-29-us-pce-sept",
+      "date": "2026-10-29",
+      "time": "08:30 ET Thu (23:30 AEDT Thu Oct 29), same slot as GDP",
+      "ticker": "MACRO",
+      "title": "US September personal income and outlays, PCE inflation (BEA)",
+      "type": "macro",
+      "why": "The Fed's preferred inflation gauge; after a 0.3% core CPI, a hot core PCE would back a December hike.",
+      "link": "https://www.bea.gov/news/schedule"
     },
     {
       "key": "2026-10-29-net-q3",

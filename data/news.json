@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-10-15",
+    "ticker": "TSM",
+    "headline": "TSMC Q3 beats: revenue $46.72B (+41.2% y/y) vs $44.6-45.8B guide, gross margin 66.4%, EPS NT$29.43 (+68.7%)",
+    "summary": "Net income NT$763.06B. Gross margin 66.4% sat inside the 65-67% guide, down from 67.7% in Q2 on early 2nm costs; operating margin 58.7%. 2nm was 8% of wafer revenue (3% in Q2), 3nm 33%. HPC rose to 68% of revenue from 66% in Q2 and 57% a year ago. Q3 capex NT$443.2B. EPS is US$4.60 per ADR.",
+    "source": "https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/526b65af7305df2dde6b9ece6812b1fdf1e49f9b/3Q26%20EarningsRelease.pdf",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-15",
+    "ticker": "TSM",
+    "headline": "TSMC guides Q4 revenue to $52.3-54.3B, about 14% above Q3 at the midpoint, with 65-67% gross margin",
+    "summary": "Operating margin guided to 56.5-58.5% at 31.8 NT$ per US$. CFO Wendell Huang cited continued strong leading-edge demand and the steep 2nm ramp. Good read for Nvidia and custom-chip suppliers like Marvell; it says nothing directly about memory.",
+    "source": "https://investor.tsmc.com/english/quarterly-results/2026/q3",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-15",
+    "ticker": "MACRO",
+    "headline": "Taiwan shares close down 3.41% at 46,969.87 before TSMC's results",
+    "summary": "The Taiex fell 1,655.96 points on turnover of NT$1.32 trillion. TSMC closed down 2.0% in Taipei; results came out after the close.",
+    "source": "https://focustaiwan.tw/business/202610150007",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-15",
+    "ticker": "BABA",
+    "headline": "Hong Kong opens lower on US rate-hike bets; Alibaba and Tencent down nearly 2%",
+    "summary": "Hang Seng -0.8% at the open and the tech index -2.21%; Hua Hong -5.6%, SMIC -3.3%. The Hang Seng closed down 1.4%.",
+    "source": "https://www.thestandard.com.hk/finance/article/345526/Hong-Kong-shares-open-lower-as-US-inflation-boosts-rate-hike-fears",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-15",
+    "ticker": "ANTHROPIC",
+    "headline": "Q3 growth slowdown tempers the $2T pitch; SemiAnalysis sees about $74B run rate at year-end",
+    "summary": "Q3 growth of about 50% compares with roughly 140% in Q2. Some investors had talked of $100B+ annualised revenue by year-end; SemiAnalysis now projects about $74B (from $65B in July). Pressures cited: Meta and Microsoft using own models, cut distillation revenue (5-7% of sales), price war with OpenAI and Chinese labs. Commitments of at least $518B over a decade; Goldman Sachs and Morgan Stanley lead the IPO.",
+    "source": "https://finance.yahoo.com/technology/ai/articles/anthropic-2-trillion-ipo-pitch-045117254.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-15",
+    "ticker": "TSM",
+    "headline": "TSMC guides Q4 revenue $52.3-54.3B vs about $48.8B expected",
+    "summary": "Q4 gross margin guide 65-67% (expected 66.1%), operating margin 56.5-58.8% (expected 58.0%). Midpoint implies about 14% sequential growth. Read-through for ASML, Teradyne and the AI-connectivity names: accelerator volumes still rising into year-end.",
+    "source": "https://www.newsquawk.com/headlines/tsmc-2330-tt-guides-q4-revenue-between-usd-523-543bln-exp-488bln",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-15",
+    "ticker": "SKHY",
+    "headline": "KOSPI hits circuit breaker; SK hynix falls 11% and Samsung 10% in Seoul",
+    "summary": "Kospi was down 8.13% at 13:17 KST after a sell-sidecar at 09:07 and a 20-minute circuit breaker at 12:38; Kosdaq also halted. SK hynix closed at 1,262,000 won (-11.06%), market cap below 1,000 trillion won. Follows Wall Street's CPI-driven tech selloff and the week's CXMT DRAM worries; KOSPI on a seven-session losing streak.",
+    "source": "https://www.koreaherald.com/article/10903746",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-15",
+    "ticker": "MACRO",
+    "headline": "KOSPI closes down 7.57% after a circuit breaker; Nikkei -4.9%, Taiex -3.41% in an Asia chip rout",
+    "summary": "KOSPI 5,554.22, KOSDAQ 760.82; SK hynix and Samsung fell about 10-11%. Nikkei 64,425.95 (SoftBank -9.4%, Kioxia -11.2%); Taiex 46,969.87. Hot US CPI, AI-debt worries (CoreWeave bonds, a Gartner impairment warning) and an IMF warning that an AI correction would hit Asia hardest.",
+    "source": "https://en.sedaily.com/finance/2026/10/15/kospi-plunges-757-percent-to-close-at-555422",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-15",
+    "ticker": "RBA",
+    "headline": "Australia sheds 39,300 jobs in September; unemployment 4.7% vs 4.6% expected",
+    "summary": "Economists expected a 19,600 gain; August revised to +29,300 and 4.7%. Participation 66.8%. AUD -0.3%. ANZ still expects a November hike; Oxford Economics says the RBA has room to wait for Q3 CPI on Oct 28.",
+    "source": "https://finance.yahoo.com/economy/policy/articles/australia-loses-39-300-jobs-013035431.html",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-14",
+    "ticker": "NVDA",
+    "headline": "Nvidia falls 3.2% on CPI, IDC China share data and Microsoft's Maia 300 plan",
+    "summary": "IDC said Nvidia's share of China's AI data-centre chip market fell to 34% in H1 2026 as Huawei grew. Microsoft plans to deploy over a million Maia 300 chips from 2027. Huang said he would halt supply to a customer building unsafe AI, calling it hypothetical.",
+    "source": "https://www.investing.com/news/stock-market-news/why-is-nvidia-stock-sliding-today-93CH-4949876",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-14",
+    "ticker": "NFLX",
+    "headline": "Netflix confirms about 6% job cuts, nearly 1,000 roles, its largest since 2022",
+    "summary": "Co-CEO memo; product, technology, legal and HR most affected. Netflix had about 16,000 full-time staff at end-2025. Q3 results due Oct 20 US (07:00 AEDT Wed Oct 21).",
+    "source": "https://www.tribuneindia.com/news/usa-news/netflix-is-laying-off-6-of-its-workforce-in-biggest-round-of-job-cuts-at-streaming-giant-in-years/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-14",
+    "ticker": "ANTHROPIC",
+    "headline": "Anthropic tells investors Q3 revenue was $16.8B, adjusted profitable and cash-flow positive",
+    "summary": "At its San Francisco investor day (FT, via Investing.com): Q3 revenue $16.8B, up nearly 50% from about $11.5B in Q2; second straight quarter of adjusted profit; $1.70 of revenue per $1 of compute. Growth slowed from earlier in 2026 and annualised revenue is expected to fall short of $100B. Unaudited, from people familiar.",
+    "source": "https://finance.yahoo.com/technology/ai/articles/anthropic-tells-investors-q3-revenue-030140226.html",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-14",
+    "ticker": "MACRO",
+    "headline": "Hot US CPI (3.7% vs 3.6%) drives Nasdaq down 1.9%; AI stocks lead losses",
+    "summary": "September CPI 3.7% y/y vs 3.6% expected (August 3.4%); core 2.6% vs 2.5%. S&P 500 -1.1%, Nasdaq -1.9%, Dow -0.1%; 10-year yield near 5.2-5.3%. Odds of an October Fed hike rose. Watchlist AI-infrastructure names fell 6-10% (Credo, Celestica, Bloom, Astera, GE Vernova, Vertiv). Bank of America fell about 5% after a $1.2B regulatory penalty.",
+    "source": "https://finance.yahoo.com/markets/live/stock-market-today-hot-inflation-report-drops-tech-drives-sp-500-nasdaq-down-152206632.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-14",
+    "ticker": "MACRO",
+    "headline": "CoreWeave falls 15.5% as its 2032 bonds drop below 80c and yield near 15%",
+    "summary": "The 9.625% notes sold at par in June fell below 78c per Bloomberg, a yield of about 14.8%; CDS imply a better-than-50% five-year default probability. Nebius fell 10.1% and Oracle 8.8%.",
+    "source": "https://en.sedaily.com/international/2026/10/15/hot-us-inflation-squeezes-ai-debt-and-rich-world-budgets",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-14",
+    "ticker": "MACRO",
+    "headline": "US September CPI 3.7% y/y and core 2.6%, both above forecasts; gasoline up 34% on the year",
+    "summary": "Headline +0.6% m/m (3.6% y/y expected, 3.4% in August); core +0.3% m/m vs 0.2% expected. Energy +5.2% m/m, gasoline +9.1% m/m, over half the monthly rise; shelter +0.4%. Last CPI before the Oct 27-28 FOMC.",
+    "source": "https://www.bls.gov/news.release/cpi.nr0.htm",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-14",
+    "ticker": "MACRO",
+    "headline": "Bank of America EPS $0.91 after $1.2B money-laundering fine; Morgan Stanley EPS $3.03 on 41% equities growth",
+    "summary": "BofA's non-deductible fine cost about 17 cents a share (about $1.08 before it); revenue $29.96B. Morgan Stanley revenue $20.3B, ROTCE 22.6%, record wealth revenue $9.1B. Shares fell 4.8% and about 3%.",
+    "source": "https://www.sec.gov/Archives/edgar/data/0000895421/000089542126000288/a3q26msearningsrelease.htm",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-14",
+    "ticker": "FED",
+    "headline": "Beige Book: oil prices in every district, price growth picking up in four; firms slow hiring after AI investment",
+    "summary": "Two districts reported moderate growth, three modest, four slight, three flat; manufacturing led. Three districts called price growth robust; firms expect further increases as contracts reset. Five districts said firms cut staff by attrition or delayed hiring after AI productivity gains.",
+    "source": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20261014.pdf",
+    "impact": "neutral"
+  },
+  {
     "date": "2026-10-14",
     "ticker": "ASML",
     "headline": "ASML shares fall about 4% in first reaction: sales slightly under the EUR 11.72B consensus, profit well above",
@@ -118,6 +254,14 @@
     "summary": "Cleveland Fed President Hammack said Monday the Fed should move relatively quickly toward a restrictive stance, preferring smaller, faster adjustments. CME FedWatch on Oct 13 priced more than 80.6% for a hold on Oct 28 and about 84.7% for a hike in December. Japan's September wholesale prices rose 6.8% y/y; the yen was near 158.25.",
     "source": "https://fxstreet.com/news/japanese-yen-strengthens-despite-softer-ppi-data-202610130250",
     "impact": "negative"
+  },
+  {
+    "date": "2026-10-12",
+    "ticker": "BE",
+    "headline": "Bloom Energy sets Q3 results for Oct 22, earlier than the Oct 27 estimate",
+    "summary": "Results after the US close Thu Oct 22; call 2pm PT / 5pm ET (08:00 AEDT Fri Oct 23). Shares fell 9.15% Oct 14 into the print in the CPI selloff.",
+    "source": "https://www.bloomenergy.com/news/bloom-energy-to-announce-third-quarter-2026-financial-results-on-october-22-2026/",
+    "impact": "neutral"
   },
   {
     "date": "2026-10-12",
@@ -494,149 +638,5 @@
     "summary": "Total votes 49% to 45%. Lula led the previous Datafolha poll (Oct 3). The lead is within the margin of error, so it is a statistical tie heading into the Oct 25 runoff; MELI has rallied on a Bolsonaro win being priced in.",
     "source": "https://www.jornaldocomercio.com/politica/2026/10/1266369-flavio-bolsonaro-tem-52-e-lula-48-em-votos-validos-no-segundo-turno-mostra-datafolha.html",
     "impact": "neutral"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "AMZN",
-    "headline": "Adobe: US online spend hit $9.86B during Prime Big Deal Days, up 8.5%",
-    "summary": "Adobe estimates US shoppers spent $9.86 billion across all online retailers during the Oct 6-7 event, up 8.5% year on year, with discounts peaking around 20%. Amazon's own figures were not broken out.",
-    "source": "https://www.digitalcommerce360.com/2026/10/08/amazon-prime-day-big-deal-days-sales-2026/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "GOOGL",
-    "headline": "Google Cloud launches Gemini agent, a single enterprise agent across Workspace, Slack and Microsoft 365",
-    "summary": "Announced at Gemini at Work, the agent takes goals rather than step-by-step prompts, spins up sub-agents for long-running jobs and routes each task across Gemini and Claude models. It is in private preview with wide availability promised soon for select Workspace plans.",
-    "source": "https://9to5google.com/2026/10/08/gemini-agent-google-cloud/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "GOOGL",
-    "headline": "Waymo closes $5 billion term loan, its first debt financing",
-    "summary": "PIMCO, Blackstone and Sixth Street led the loan, with Goldman Sachs as sole bookrunner. It sits alongside the $16 billion equity round closed earlier in 2026 and funds expansion of the robotaxi service in the US and abroad.",
-    "source": "https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "META",
-    "headline": "Disclosure shows Trump bought up to $25 million of Meta stock in August",
-    "summary": "CNBC reported the August filing lists an Aug 21 Meta purchase valued at $5-25 million, the largest of 517 trades, plus up to $5 million of SpaceX debt. The White House says independent advisers manage the portfolio; the item is a governance headline rather than a price driver.",
-    "source": "https://www.newsquawk.com/headlines/us-president-trump-bought-up-to-usd-25mln-shares-in-meta-meta-and-an-investment-as-much-as-usd-5mln-in-spacex-spcx-in-august-before-signing-a-policy-aimed-at-expanding-us-commercial-space-transportation-cnbc-reports",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "OPENAI",
-    "headline": "FT: OpenAI annualised revenue near $50 billion, about $20 billion below what investors assumed",
-    "summary": "Financial documents reviewed by the FT put OpenAI's run rate at roughly $50 billion at end-September versus the roughly $70 billion widely reported; the higher figure came from investors counting gross partner revenue to match Anthropic's method. The Nasdaq fell 1.25%, its worst day since mid-August.",
-    "source": "https://finance.yahoo.com/technology/article/openais-annualized-revenue-20-billion-lower-than-prior-investor-estimates-174058048.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "NVDA",
-    "headline": "Nvidia fell 2.9% Thursday as the OpenAI revenue report hit AI stocks; Oracle down 5.5%, CoreWeave down 8%",
-    "summary": "SiliconANGLE's wrap: OpenAI told prospective investors its net annualised revenue was near $50 billion, not the $68 billion gross figure reported in August; it also cited 77% run-rate growth and 107% enterprise run-rate growth in Q3. AMD and Broadcom fell 4%, Intel 5.3%.",
-    "source": "https://siliconangle.com/2026/10/08/ai-stocks-crumble-on-report-that-openais-annualized-revenue-is-much-lower-than-previously-believed/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "MRVL",
-    "headline": "Morgan Stanley keeps Marvell Equal-weight, lifts price target to $300 from $268, prefers Broadcom",
-    "summary": "Joseph Moore raised his FY2030 Marvell revenue estimate to $50 billion on optical and custom compute but kept the neutral rating on valuation, warning 55-70% growth expectations must be met every quarter. Broadcom is Overweight with a price target of $505.",
-    "source": "https://www.tipranks.com/news/broadcom-or-marvell-top-morgan-stanley-analyst-says-one-ai-stock-is-worth-buying-but-the-other-falls-short",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "MU",
-    "headline": "Micron's Taoyuan union sets an Oct 19 rally; larger Taichung union returns to mediation Oct 22",
-    "summary": "The 1,994-to-14 vote (88% of eligible members) authorises but does not call a strike. The union wants 15% of operating profit through a formula; Samsung's union settled in May at a 10.5% pool. Taiwan made most of Micron's 2025 DRAM output and the two unions cover over 80% of its 15,000 Taiwan staff.",
-    "source": "https://247wallst.com/investing/2026/10/08/micron-is-making-record-profits-but-a-taiwan-union-just-voted-99-to-authorize-a-strike/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "TSM",
-    "headline": "TSMC Q3 revenue about $46.7 billion, above its own guidance and the 19-analyst forecast, ahead of Oct 15 results",
-    "summary": "Reuters tallies Q3 at NT$1.49 trillion, up 50% y/y and a record, versus July guidance of $44.6-45.8 billion. Analysts expect Q3 net profit up 64%. Taipei shares closed 1.35% lower Thursday before the data and the market is shut until Oct 12.",
-    "source": "https://finance.yahoo.com/markets/stocks/articles/tsmc-q3-revenue-tops-own-113733291.html",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "RKT",
-    "headline": "Freddie Mac 30-year mortgage rate rises to 7.40%, highest since November 2023, seventh straight weekly gain",
-    "summary": "Up from 7.28% a week earlier and 6.30% a year ago; the 15-year averaged 6.73%. Realtor.com's Joel Berner says rates have the housing market spooked, with the 10-year averaging 5.28% for the week. Pending home sales fell y/y in August and September.",
-    "source": "https://www.foxbusiness.com/economy/mortgage-rates-10-8-2026",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "ANTHROPIC",
-    "headline": "Claude Dashboards and Claude Motion launch in beta; Docs, Slides and Design go GA on all plans",
-    "summary": "Reuters: Claude Dashboards (beta, paid plans) builds live dashboards from plain-language questions over connected business data; Claude Motion (beta, Team and Enterprise) produces editable animations exportable as video. Claude Docs, Slides and Design moved from beta to general availability across all Claude plans.",
-    "source": "https://wmbdradio.com/?p=691795",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "ANTHROPIC",
-    "headline": "Anthropic commits $150m over three years to the US Genesis Mission and launches a Cyber Mission with 11 partners",
-    "summary": "Announced at a White House OSTP science summit: Claude, Claude Code and API credits for several hundred Genesis Mission projects across 15+ agencies including NASA, NIH and NSF, with DOE national labs. Same day it launched the Anthropic Cyber Mission: a Critical Infrastructure Defense Program with Accenture, Booz Allen, CrowdStrike, Deloitte, Dragos, Hitachi, Palo Alto Networks, PwC and Rockwell, plus a free OSS Scanner for open-source projects.",
-    "source": "https://www.anthropic.com/news/genesis-mission-commitment",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "CURSOR",
-    "headline": "OpenAI hires Cursor's Europe sales chief, its second sales executive taken from SpaceX-owned Cursor in a month",
-    "summary": "Ismail Elmas, Cursor's SVP for EMEA, becomes OpenAI's VP of sales for EMEA based in Munich; Brian McCarthy, formerly Cursor's president of global revenue, became OpenAI's VP of worldwide sales earlier. In June Elmas had said Cursor would open a London head office and grow to about 200 staff there. OpenAI is separately winding down Cursor's access to its models, currently set to end November 12.",
-    "source": "https://thenextweb.com/news/openai-ismail-elmas-emea-sales-spacex-cursor",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "AAPL",
-    "headline": "Apple confirms Oct 13 'Welcome home' event: press-only Apple Experience in New York at 9:00 a.m. ET",
-    "summary": "Apple sent invitations on Oct 8 for an \"Apple Experience\" in Tribeca, New York on Oct 13 at 9:00 a.m. ET, not a traditional keynote; it has not said whether there will be a livestream. Reports expect three products: a 6-inch HomePad smart display, a new Apple TV 4K with an A19-class chip and Siri AI, and a HomePod mini 2. Pricing and names are unconfirmed.",
-    "source": "https://9to5mac.com/2026/10/09/apple-welcome-home-event-three-new-products/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "SPOT",
-    "headline": "Spotify renews multi-year Joe Rogan Experience licensing deal; WSJ puts it at terms similar to the prior ~$250m earnout",
-    "summary": "Spotify said JRE stays on the platform weekly and on other platforms (non-exclusive since the 2024 renewal), with 18 million Spotify followers and the top podcast across major platforms in 2025. Terms undisclosed; the Wall Street Journal reported they are similar to the previous deal's estimated $250 million earnout. Shares rose 2.63% to $526.42 on the day.",
-    "source": "https://newsroom.spotify.com/2026-10-08/joe-rogan-experience-partnership/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "SPOT",
-    "headline": "Spotify packages its internal developer tools as 'Spotify Technology', an enterprise software brand",
-    "summary": "SVP Tyson Singer announced Spotify Technology, grouping Portal (sold since 2024), Xirp (agentic development, launched earlier in 2026), Confidence (experimentation, sold since 2023) and Spotify for Backstage under one brand with its own site. No pricing, customer count or revenue disclosed; enterprise sales are not broken out in Spotify's reporting.",
-    "source": "https://engineering.atspotify.com/2026/10/introducing-spotify-technology-proven-at-spotify-now-yours",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "SKHY",
-    "headline": "Samsung's record Q3 (107.4T won operating profit) misses lofty estimates; memory stocks cool, SK hynix ADR -4.4%",
-    "summary": "Preliminary revenue ~195T won vs 205T expected; operating profit 107.4T vs 112.7T. Samsung fell 2.4% in Seoul, Micron ~2%, Sandisk and Seagate ~3%. Analysts say big numbers no longer impress and investors are asking what happens to prices once supply grows. Samsung reports full results Oct 29.",
-    "source": "https://finance.yahoo.com/markets/stocks/articles/memory-trade-cools-samsung-preliminary-155142154.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "TSLA",
-    "headline": "Emails show Tesla pressed Dutch regulator RDW to ease its FSD review",
-    "summary": "Reuters-sourced emails reported by Electrek show Tesla lobbying the Netherlands' RDW, the lead EU type-approval authority for FSD, to speed and soften its review. Raises the odds of a slower European rollout.",
-    "source": "https://electrek.co/2026/10/08/tesla-fsd-europe-rdw-pressure-reuters/",
-    "impact": "negative"
   }
 ]
