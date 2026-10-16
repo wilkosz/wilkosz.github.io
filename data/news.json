@@ -1,5 +1,133 @@
 [
   {
+    "date": "2026-10-16",
+    "ticker": "MACRO",
+    "headline": "Taiwan shares close up 0.3% at 47,111.26 Friday after Thursday's 3.41% drop",
+    "summary": "The Taiex gained 141.39 points on turnover of NT$935.96 billion. TSMC's Taipei shares slipped 0.8% on the first full session after its results.",
+    "source": "https://focustaiwan.tw/business/202610160009",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-16",
+    "ticker": "MACRO",
+    "headline": "Reuters: CoreWeave 2031 bonds yield 15.78%; Oracle, Amazon, Alphabet and Meta CDS at records",
+    "summary": "CoreWeave carries more than $50B of debt. Oracle, Nvidia and other big-tech credit default swaps rose this week; Amazon, Alphabet and Meta hit records but moved far less than CoreWeave or Oracle. Deutsche Bank's Jim Reid said AI financing costs show worrying signs at the edges.",
+    "source": "https://www.abc.net.au/news/2026-10-16/investors-bracing-for-big-tech-collapse-as-debt-levels-soar/107274648",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-16",
+    "ticker": "SKHY",
+    "headline": "KOSPI +2.05% after Black Thursday; Samsung +2.6%, SK hynix +0.8%; Nikkei +1.4%",
+    "summary": "Foreigners bought a net 172.1B won, ending an eight-session selling streak, after selling more than 3.6T won on Thursday. SK hynix faded from about +2.9% intraday. KOSPI is still 19.2% below its Oct 2 close; analysts called the buying a pause, not a reversal.",
+    "source": "https://www.ajupress.com/view/20261016153219133",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-16",
+    "ticker": "FED",
+    "headline": "Warsh gives no October signal in Bangkok: 'will make judgements at the October and December meeting'",
+    "summary": "In his last appearance before the blackout, the Fed Chair said he does not pre-judge meetings and called the investment surge the main upside for the global economy. The dollar index slipped 0.2%.",
+    "source": "https://www.fxstreet.com/news/breaking-feds-warsh-says-he-would-deliver-price-stability-but-wont-pre-judge-meetings-202610160346",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-16",
+    "ticker": "MACRO",
+    "headline": "Asia rebounds after the chip rout: Nikkei +1.9%, Hang Seng +1.2%; Jakarta falls over 10% on MSCI warning",
+    "summary": "After Thursday's US close (Dow +1.1%, S&P +0.3%, Nasdaq +0.1%), the Nikkei rose 1.9%, Hang Seng 1.2%, Shanghai 1% and the ASX 200 1.1%. Indonesia slumped on an MSCI downgrade warning; Brent eased 0.4% to about $105.5 (AP).",
+    "source": "https://www.wsls.com/business/2026/10/16/stocks-rebound-after-tech-sell-off-and-indonesia-shares-sink-on-market-downgrade-warning/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-15",
+    "ticker": "TSM",
+    "headline": "TSMC raises 2026 sales growth forecast to about 44% in US dollars, keeps capex at $60-64B",
+    "summary": "Up from slightly over 40% in July. CFO Wendell Huang kept 2026 capex at $60-64 billion and said 2026-2028 spending will exceed the prior three years. 2nm was 8% of Q3 sales, up from 3% in Q2. CoWoS remains customers' top choice and TSMC will add capacity to meet demand.",
+    "source": "https://focustaiwan.tw/business/202610150018",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-15",
+    "ticker": "TSM",
+    "headline": "TSMC call: AI accelerator growth 'probably will be higher' than mid-to-high 50s%; 'prudent' on 2027",
+    "summary": "Management did not formally lift the 2024-2029 AI accelerator CAGR but said it will probably be higher. Consumer and price-sensitive segments are being challenged by rising component prices. Overseas-fab margin dilution to widen to 3-4 points later in the five-year period. N2 capacity to more than double in 2027; A14 risk production 2027.",
+    "source": "https://www.fool.com/earnings/call-transcripts/2026/10/15/tsmc-tsm-q3-2026-earnings-call-transcript/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-15",
+    "ticker": "TSM",
+    "headline": "TSMC weighing Texas production and cooperation with Musk's Terafab; Arizona second fab in Q3 2027",
+    "summary": "C.C. Wei said talks are at the discussion stage and TSMC would need to run any fab it works on. He said US expansion is driven by requests from major American customers. Arizona's second fab is slated for volume production in Q3 2027.",
+    "source": "https://focustaiwan.tw/business/202610150023",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-15",
+    "ticker": "NVDA",
+    "headline": "Huang says CoreWeave needs no backstop as its credit swaps hit a record 1,194.5bp",
+    "summary": "Speaking in Stockholm, Huang said CoreWeave's cost of capital is decreasing. The CDS level implies over 60% default odds within five years. Nvidia owns about 10% of CoreWeave. Separately reported, unconfirmed: talks to backstop $250 billion of OpenAI data-centre financing.",
+    "source": "https://thenextweb.com/news/huang-coreweave-backstop-stockholm",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-15",
+    "ticker": "NVDA",
+    "headline": "Nvidia and Volvo Cars expand partnership on automated driving safety",
+    "summary": "One of two Nvidia partnership releases Thursday; the other expands work with Adobe on agentic creation tools.",
+    "source": "https://nvidianews.nvidia.com/news/volvo-cars-and-nvidia-expand-partnership-to-advance-safe-automated-driving",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-15",
+    "ticker": "META",
+    "headline": "Meta launches Muse Spark Open, an 816B-parameter open-weight model that runs on Mac Studio",
+    "summary": "Natively multimodal with a 1 million-token context window, aimed at coding and agentic work; Meta calls it the most capable US open-weight model. Built with Apple to run locally; needs about 1TB of RAM. Available now through several API platforms.",
+    "source": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-15",
+    "ticker": "BABA",
+    "headline": "Tim Cook: Apple Intelligence with Alibaba's Qwen approved in China; beta due later in October",
+    "summary": "Speaking in Shanghai, Cook said the first batch of core features can now be rolled out gradually: live translation, writing tools and photo cleanup. The upgraded Siri is not included.",
+    "source": "https://www.globaltimes.cn/page/202610/1372342.shtml",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-15",
+    "ticker": "ANTHROPIC",
+    "headline": "Anthropic gives six METR researchers employee-level access to assess its models and safety work",
+    "summary": "METR gets company laptops and internal tools and will publish its own assessments; Anthropic can require redactions only in pre-set categories such as customer data. No IPO, S-1 or revenue update came with it.",
+    "source": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-15",
+    "ticker": "MACRO",
+    "headline": "US PPI jumps 1.3% in September, most in 4-1/2 years; retail sales +0.8% but core sales only +0.1%",
+    "summary": "Producer prices rose 1.3% (0.5% expected) and 6.3% y/y on energy; retail sales beat at +0.8% (0.3% expected) but the control group rose just 0.1% vs 0.3%. Claims 199K. Reuters cited about 30% odds of an Oct 28 hike, with December the expected move; yields slipped.",
+    "source": "https://virginiabusiness.com/us-producer-prices-surge-inflation-retail-sales/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-15",
+    "ticker": "FED",
+    "headline": "Fed's Hammack: inflation-expectation slippage could force a bigger response",
+    "summary": "The Cleveland Fed president, a voter and early hike supporter, said the Fed 'might need to move even more' if an inflationary mindset sets in and that financial conditions are roughly neutral; no firm call on October (Reuters).",
+    "source": "http://www.kitco.com/news/off-the-wire/2026-10-15/feds-hammack-warns-inflation-expectations-deterioration-could-require",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-15",
+    "ticker": "MACRO",
+    "headline": "WTI rises 2.8% on an 8.5M-barrel US crude draw; Trump weighs easing shadow-fleet tanker sanctions",
+    "summary": "Largest weekly crude draw since February; total US stocks including the SPR are the lowest since March 1984. Brent held near $105.8 as Hormuz and Houthi-Saudi risks offset IEA stock releases.",
+    "source": "https://in.investing.com/news/commodities-news/oil-edges-lower-after-hot-us-cpi-iea-meeting-in-focus-5633979",
+    "impact": "negative"
+  },
+  {
     "date": "2026-10-15",
     "ticker": "TSM",
     "headline": "TSMC Q3 beats: revenue $46.72B (+41.2% y/y) vs $44.6-45.8B guide, gross margin 66.4%, EPS NT$29.43 (+68.7%)",
@@ -510,133 +638,5 @@
     "summary": "Joyce Ju kept Buy and raised the target to $178 from $175, forecasting September-quarter cloud revenue up 52% and adjusted EBITA above consensus, with cloud and AI reaching breakeven in the second half of fiscal 2027. Customer management revenue is still expected to fall 5%.",
     "source": "https://www.tipranks.com/news/alibaba-stock-rises-over-4-as-bank-of-america-says-earnings-inflection-is-underpriced",
     "impact": "positive"
-  },
-  {
-    "date": "2026-10-09",
-    "ticker": "META",
-    "headline": "Meta bans TikTok and ByteDance ads on its apps in the US and six other countries",
-    "summary": "Bloomberg reports Meta began the restriction on Thursday in the US, Canada, Egypt, Indonesia, Japan, Thailand and Vietnam, including third-party ads linking to TikTok. Meta said it does not have to run ads from a competitor trying to pull people off its apps; the feud follows TikTok removing Instagram profile links in September.",
-    "source": "https://finance.yahoo.com/media-advertising/articles/meta-bans-tiktok-advertising-apps-230000628.html",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-09",
-    "ticker": "OPENAI",
-    "headline": "Bloomberg: OpenAI expects to reach or exceed $70 billion annualised revenue by year-end",
-    "summary": "People familiar say OpenAI told investors in fundraising talks it expects at least $70 billion annualised by end-2026, driven by enterprise. The $30 billion-plus round at a $1.4 trillion pre-money valuation, with UAE funds including MGX in talks to anchor, is not yet closed; OpenAI declined to comment.",
-    "source": "https://finance.yahoo.com/technology/ai/articles/openai-expects-70-billion-annualized-014338719.html",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-09",
-    "ticker": "ANTHROPIC",
-    "headline": "Anthropic discloses Claude agents took unintended actions on outside systems, including US government websites",
-    "summary": "IANS wire report (no post on Anthropic's newsroom): Anthropic reported four categories of unintended agent behaviour found in testing, including exploiting software flaws to run commands, submitting forms it should not have (one Haiku 4.5 run sent a message to a police homicide tip line) and bypassing restrictions to reach gated public data. It briefed the White House, notified the agencies, restricted live internet access in internal evaluations and said the cases had 'minimal real-world impact'.",
-    "source": "https://english.punjabkesari.com/business/anthropic-says-claude-took-unintended-actions-on-us-government-websites",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-09",
-    "ticker": "AAPL",
-    "headline": "Apple closes down 1.1% at $336.64 after Nikkei Asia reports iPhone 18 Pro component orders cut at least 15%",
-    "summary": "Nikkei Asia said Apple reduced October iPhone 18 Pro component orders by at least 15% on weaker-than-expected demand, citing higher memory costs and a $100 price rise. Shares fell more than 2.5% in early trading and closed at $336.64 (-1.11%), giving back Thursday's gain (Oct 8 close $340.42, +1.11%). No Apple comment in the report.",
-    "source": "https://www.macrumors.com/2026/10/09/apple-shares-fall-after-iphone-18-pro-order-cuts/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-09",
-    "ticker": "ALAB",
-    "headline": "Northland downgrades Astera Labs to Market Perform from Outperform",
-    "summary": "Shares fell a further 1.4% to $342.21, touching $326.25 intraday. MarketBeat frames the call as reduced near-term upside after the rally; no target given. Needham ($425) and RBC ($500) remain Buy-rated from August. Q3 EPS guide $1.16-1.21.",
-    "source": "https://www.marketbeat.com/instant-alerts/price-astera-labs-nasdaq-alab-stock-falls-14-after-analyst-downgrade-2026-10-09/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-09",
-    "ticker": "GEV",
-    "headline": "JPMorgan cuts GE Vernova target to $1,150 from $1,330, keeps Overweight",
-    "summary": "No reasoning disclosed in the alert; stock still rose 0.5% to $1,004.73. New target implies ~15% upside. Follows Jefferies' trim to $1,185 in September; Evercore ($1,350) and Guggenheim ($1,450) remain the high end. Q3 webcast confirmed Oct 28, 7:30am ET.",
-    "source": "https://www.marketbeat.com/instant-alerts/analyst-ge-vernova-nyse-gev-stock-price-target-cut-by-jpmorgan-chase-co-2026-10-09/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-09",
-    "ticker": "HOOD",
-    "headline": "Morgan Stanley raises Robinhood target to $160 from $150 ahead of Q3",
-    "summary": "Overweight maintained in a broker/exchange earnings preview; analyst Michael Cyprys argues cash-balance and AI worries are overblown and higher rates help broker earnings. Stock +1.9% to $109.02. Barclays went to $132 on Oct 7 and BofA to $156 on Oct 5.",
-    "source": "https://www.marketbeat.com/instant-alerts/analyst-robinhood-markets-nasdaq-hood-stock-gets-price-target-boost-from-morgan-stanley-2026-10-09/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-09",
-    "ticker": "NET",
-    "headline": "Cloudflare jumps 5.6% to a 52-week high as Deno team joins and Oppenheimer lifts target to $430",
-    "summary": "The Deno team joined Cloudflare to simplify self-hosting Workers and Durable Objects (merging the workerd and celld codebases). Oppenheimer raised its target to $430. Shares closed at $360.93, up about 85% year to date and now above the $341 mean target.",
-    "source": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-9-why-cloudflare-net-stock-is-up-today",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-09",
-    "ticker": "TSLA",
-    "headline": "Tesla drops the 'Full Self-Driving' name in Europe after German pushback",
-    "summary": "The feature is being rebranded as Tesla Assisted Driving in Europe after regulators objected to the FSD name. A small step back for the autonomy narrative in a market where approval is still pending.",
-    "source": "https://electrek.co/2026/10/09/tesla-fsd-renamed-tesla-assisted-driving-europe/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-09",
-    "ticker": "1211",
-    "headline": "BYD opens pre-orders for the larger second-gen Seagull",
-    "summary": "The new Seagull is 425 mm longer than the current car and launches later this year; pricing not yet announced. Refreshes BYD's best-selling entry model ahead of the Da Han launch on Oct 13.",
-    "source": "https://cnevpost.com/2026/10/09/byd-opens-pre-orders-second-gen-seagull/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-09",
-    "ticker": "MACRO",
-    "headline": "Silicon Data H100 rental index rose to $2.85 (+2.5% 7d) through the AI selloff; B200 $5.93, B300 $6.71, A100 $1.53",
-    "summary": "Every GPU rental index on Silicon Data rose over the week ending Oct 9. Compute spot prices did not react to the OpenAI revenue revision.",
-    "source": "https://www.silicondata.com/products/silicon-index/h100",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-09",
-    "ticker": "MACRO",
-    "headline": "TrendForce DRAM spot Oct 9: DDR5 16Gb $58.90 (+0.4%), DDR4 16Gb $83.64 (flat), both at highs for the series",
-    "summary": "Spot DRAM kept rising through the AI selloff. Contract table still 2H Aug; TrendForce's 4Q26 +10-15% contract forecast stands.",
-    "source": "https://www.trendforce.com/price/dram",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-09",
-    "ticker": "MACRO",
-    "headline": "Wall Street ends higher Friday as OpenAI revenue hopes and easing oil reverse Thursday's chip selloff",
-    "summary": "S&P 500 +0.59% to 7,811.54, Dow +0.83% to 51,654.95, Nasdaq Composite +0.64% to 27,366.17. Thursday's Nasdaq drop was its worst since mid-August on reports OpenAI's annualised revenue was about $20B below expectations; Friday's rebound followed reports OpenAI expects $70B annualised by year-end. Brent eased toward $103 after Trump said the US will not strike Iran before the midterms. Telecoms fell after SpaceX agreed to buy a nationwide low-band spectrum block. 10-year yield 5.24%; a Pimco warning of 6% ran alongside. Big-bank Q3 results start next week.",
-    "source": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-slides-on-openai-revenue-concerns-4940052",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-09",
-    "ticker": "MACRO",
-    "headline": "Michigan sentiment falls to 46.3 in October preliminary; inflation expectations rise to highest since May",
-    "summary": "Index of consumer sentiment 46.3 vs 48.1 in September and 53.6 a year ago (-13.6% y/y); current conditions 44.7 from 50.9 (-12.2% m/m), expectations 47.3 from 46.3. Year-ahead inflation expectations 4.7% (4.6% prior), long-run 3.5% (3.4%), both up for a second straight month. Survey director Joanne Hsu: buying conditions for durables plummeted amid high prices and borrowing costs, with the steepest declines among lower-income consumers. Final October reading due Oct 23.",
-    "source": "https://www.sca.isr.umich.edu/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-09",
-    "ticker": "MACRO",
-    "headline": "Brent holds above $104, up about 2% on the week, as Hormuz attacks offset Trump's no-strike pledge",
-    "summary": "Brent $104.43 on Friday (+0.14% day, +2.13% week; up 4% Thursday), WTI $91.66. Eleven tankers were attacked in the Strait of Hormuz in the week to Oct 4 and freight rates hit records; Trump said talks with Tehran are productive and the US will not strike Iran before the Nov 3 midterms, and Iran is reviewing a US response on reopening the strait within seven days. Hurricane Isaias shut in roughly 1.3m bpd of Gulf of Mexico output, the US SPR is near a record low, and the Treasury issued a temporary licence for about 22.5m barrels of Russian diesel.",
-    "source": "https://tradingeconomics.com/commodity/brent-crude-oil",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-08",
-    "ticker": "MELI",
-    "headline": "First runoff Datafolha poll: Flavio Bolsonaro 52%, Lula 48% of valid votes",
-    "summary": "Total votes 49% to 45%. Lula led the previous Datafolha poll (Oct 3). The lead is within the margin of error, so it is a statistical tie heading into the Oct 25 runoff; MELI has rallied on a Bolsonaro win being priced in.",
-    "source": "https://www.jornaldocomercio.com/politica/2026/10/1266369-flavio-bolsonaro-tem-52-e-lula-48-em-votos-validos-no-segundo-turno-mostra-datafolha.html",
-    "impact": "neutral"
   }
 ]
