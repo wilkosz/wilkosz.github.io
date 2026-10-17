@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-10-17",
+    "ticker": "NVDA",
+    "headline": "CoreWeave ends week down 24% on debt fears",
+    "summary": "CoreWeave, which rents out Nvidia GPU capacity, fell about 24% for the week. Some of its bond yields neared 15% and its credit default swaps spiked. Evercore ISI and JPMorgan still rate it a buy, citing a backlog of more than $100B.",
+    "source": "https://www.tipranks.com/news/weekend-updates/coreweaves-ai-dream-collides-with-mounting-debt-fears",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-17",
+    "ticker": "ANTHROPIC",
+    "headline": "FT: Anthropic offers Blackstone a coupon above 10% on a $9B slice of $60B TPU debt",
+    "summary": "Broadcom-arranged $60B package: $42B senior bank loan plus an $18B junior tranche, half of which ($9B) Blackstone funds would take. Coupon above 10% vs about 7% for similar-rated public bonds. It funds part of a $125.2B five-year Google TPU lease, 3.5 GW from 2027. The prospectus flags Broadcom's dual role as supplier and lender, and says some defaults could accelerate lease obligations.",
+    "source": "https://aiweekly.co/alerts/anthropic-offers-blackstone-10-yield-in-9b-chip-debt-deal",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-17",
+    "ticker": "AAPL",
+    "headline": "iPhone Duo US delivery dates slip to late January within 30 minutes of pre-orders",
+    "summary": "Pre-orders opened Fri Oct 16; US estimates reached late January 2027, about three months out, ahead of the Oct 23 in-store launch. Same recap: HomePod mini 2 ($149) ships Oct 30, Apple TV 4K and HomeView ($299 each) ship Nov 13, and Bloomberg reports a media event on Oct 28 for OLED touchscreen MacBook Pros and M6 Macs.",
+    "source": "https://www.macrumors.com/2026/10/17/top-stories-apple-homeview-intro/",
+    "impact": "positive"
+  },
+  {
     "date": "2026-10-16",
     "ticker": "BABA",
     "headline": "Alibaba rises 2.3% in Hong Kong as Hang Seng Tech gains 1.16%",
@@ -614,29 +638,5 @@
     "summary": "Paris runs Oct 12-18 (Oct 12 media only). Tesla shows a Cybercab from its US robotaxi fleet, Optimus Gen 2 and offers FSD (Supervised) test drives in six cars. No Europe Cybercab service announced; an EU-wide FSD recognition decision is now expected in December.",
     "source": "https://driveteslacanada.ca/news/tesla-cybercab-paris-motor-show-2026/",
     "impact": "neutral"
-  },
-  {
-    "date": "2026-10-12",
-    "ticker": "MACRO",
-    "headline": "KOSPI falls 3.65% as Samsung and SK hynix drop on CXMT's denser DRAM design",
-    "summary": "CXMT said it plans DDR5 server modules on a 4F2 cell design by end-2026; Samsung -3.6%, SK hynix -3.4%. A competition worry for Micron and the memory upcycle.",
-    "source": "https://finance.yahoo.com/markets/stocks/articles/samsung-sk-hynix-shares-drop-053408695.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-12",
-    "ticker": "TSM",
-    "headline": "TSMC slips 0.4% in Taipei as Taiwan reopens flat after the holiday",
-    "summary": "Taiex -0.02% to 49,302 after a 1.1% intraday dip; a much smaller move than the ADR's 4% two-day fall. Q3 results Thursday.",
-    "source": "https://udn.com/news/story/7251/9809362",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-12",
-    "ticker": "MACRO",
-    "headline": "Oil falls over 1% Monday on Trump's unconfirmed Russia-Ukraine 'energy ceasefire'",
-    "summary": "Brent -1.2% to $103.46, WTI -1.6% to $90.39 despite a Houthi strike on Riyadh airport that killed 13. ASX 200 +0.8% to 8,783.",
-    "source": "https://abc.net.au/news/2026-10-12/asx-markets-business-live-news/107253878",
-    "impact": "positive"
   }
 ]

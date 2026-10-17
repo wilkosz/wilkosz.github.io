@@ -1,26 +1,6 @@
 {
-  "as_of": "2026-10-17",
+  "as_of": "2026-10-18",
   "events": [
-    {
-      "key": "2026-10-16-us-import-prices-ip",
-      "date": "2026-10-16",
-      "time": "Released 08:30 ET (23:30 AEDT Fri) and 09:15 ET (00:15 AEDT Sat)",
-      "ticker": "MACRO",
-      "title": "US September import prices +1.1% m/m (fuel +4.8%), 8.1% y/y; industrial production +0.7% (0.4% expected)",
-      "type": "macro",
-      "why": "Reported. Export prices +2.2% m/m; IP lifted by utilities +3.5%, manufacturing +0.3%, capacity use 76.9%. Firm data, but hike odds still fell after Warsh.",
-      "link": "https://www.federalreserve.gov/releases/g17/current/default.htm"
-    },
-    {
-      "key": "2026-10-16-opex",
-      "date": "2026-10-16",
-      "time": "Done: US close 16:00 ET (07:00 AEDT Sat Oct 17)",
-      "ticker": "MACRO",
-      "title": "Options expiry day: S&P 500 -1.1%, Nasdaq -2.1%, VIX up about 21% to near 20",
-      "type": "other",
-      "why": "Done. Nasdaq's worst week since June (-4.5%); chips fell an eighth straight day.",
-      "link": "https://wtop.com/national/2026/10/how-major-us-stock-indexes-fared-friday-10-16-2026"
-    },
     {
       "key": "2026-10-17-fomc-blackout",
       "date": "2026-10-17",
@@ -30,6 +10,16 @@
       "type": "central_bank",
       "why": "No Fed speakers from Oct 17 until the Oct 28 decision, so the hike-vs-hold debate moves to the data (housing starts, claims, flash PMI) and Treasury auctions.",
       "link": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+    },
+    {
+      "key": "2026-10-17-hormuz-tanker-mines",
+      "date": "2026-10-17",
+      "time": "Saturday (reported Sat AEDT evening / Sun morning)",
+      "ticker": "MACRO",
+      "title": "Iran's Guards say two oil tankers caught fire after hitting mines in Hormuz (unverified)",
+      "type": "other",
+      "why": "IRNA says each carried about 2M barrels; no independent confirmation. Follows a week of record attacks and Brent's $109.86 close Friday, so oil could open higher Monday.",
+      "link": "https://boereport.com/2026/10/17/irans-guards-say-two-tankers-hit-mines-in-strait-of-hormuz/"
     },
     {
       "key": "2026-10-19-china-gdp",
@@ -294,12 +284,12 @@
     {
       "key": "2026-10-27-ter-q3",
       "date": "2026-10-27",
-      "time": "TBC (estimated date)",
+      "time": "Results 16:30 ET or later Tue (07:30 AEDT Wed Oct 28); call 08:30 ET Wed Oct 28 (23:30 AEDT Wed)",
       "ticker": "TER",
-      "title": "Teradyne Q3 2026 results",
+      "title": "Teradyne Q3 2026 results (confirmed Oct 13)",
       "type": "earnings",
-      "why": "Q3 guide was $1.2-1.3B; stock is down 10% into the print after a 182% one-year run.",
-      "link": "https://stockanalysis.com/stocks/ter/"
+      "why": "Now confirmed by the company; call on Teradyne's IR calendar. Q3 guide $1.2-1.3B; AI test demand read for the semis drawdown.",
+      "link": "https://investors.teradyne.com/news-events/ir-calendar/detail/20261028-q3-2026-teradyne-inc-earnings-conference-call"
     },
     {
       "key": "2026-10-28-fomc-decision",
@@ -364,12 +354,12 @@
     {
       "key": "2026-10-28-skhy-q3",
       "date": "2026-10-28",
-      "time": "TBC (likely morning KST = Tue Oct 27 evening ET)",
+      "time": "Call 09:00 KST Wed (11:00 AEDT Wed Oct 28; 20:00 ET Tue Oct 27)",
       "ticker": "SKHY",
-      "title": "SK hynix Q3 2026 results (date unconfirmed)",
+      "title": "SK hynix Q3 2026 results and call (confirmed Oct 14)",
       "type": "earnings",
-      "why": "TipRanks lists Oct 27 after US close, Quartr Oct 28; company has not posted. Consensus EPS $6.13 vs $1.25 a year ago. Samsung's prelim miss sets a nervous backdrop.",
-      "link": "https://www.tipranks.com/stocks/skhy/earnings"
+      "why": "Company 6-K sets Oct 28 Seoul time, settling the Oct 27/28 conflict. HBM pricing and capex read for MU, NVDA and TSM.",
+      "link": "https://www.tipranks.com/news/company-announcements/sk-hynix-sets-october-28-conference-call-for-q3-2026-earnings"
     },
     {
       "key": "2026-10-28-vrt-q3",
@@ -380,6 +370,16 @@
       "type": "earnings",
       "why": "Guided Q3 revenue $3.65-3.85B, EPS $1.77-1.83. Data-center power and cooling read in the same week as the hyperscaler capex guides.",
       "link": "https://finviz.com/news/402308/vertiv-announces-date-of-third-quarter-2026-earnings-release-and-conference-call"
+    },
+    {
+      "key": "2026-10-29-samsung-q3",
+      "date": "2026-10-29",
+      "time": "Results and call 10:00 KST Thu (12:00 AEDT Thu Oct 29; 21:00 ET Wed Oct 28)",
+      "ticker": "005930",
+      "title": "Samsung Electronics full Q3 2026 results and call",
+      "type": "earnings",
+      "why": "Detail behind the Oct 8 preliminary miss: memory margins and HBM4 progress, the day after SK hynix. Memory read for MU.",
+      "link": "https://www.investegate.co.uk/announcement/rns/samsung-electronics-co-ltd-att---smsd/notice-of-3q-2026-earnings-release-schedule/9812151"
     },
     {
       "key": "2026-10-29-keyence-q2",
@@ -452,14 +452,14 @@
       "link": "https://www.bea.gov/news/schedule"
     },
     {
-      "key": "2026-10-29-net-q3",
+      "key": "2026-10-29-rkt-q3",
       "date": "2026-10-29",
-      "time": "TBC (estimated date, after US close)",
-      "ticker": "NET",
-      "title": "Cloudflare Q3 2026 results",
+      "time": "TBC (estimated after US close, call 16:30 ET = 07:30 AEDT Fri Oct 30)",
+      "ticker": "RKT",
+      "title": "Rocket Companies Q3 2026 results (date not confirmed)",
       "type": "earnings",
-      "why": "Stock is at a 52-week high above the mean target; the print has to beat and raise.",
-      "link": "https://stockanalysis.com/stocks/net/"
+      "why": "Holding. No company notice yet; MarketBeat and Investing.com estimate Oct 29, AJ Bell Oct 30, Yahoo Nov 5. Last year's notice came Oct 16 for an Oct 30 report.",
+      "link": "https://www.marketbeat.com/earnings/reports/2026-10-29-rocket-companies-inc-stock/"
     },
     {
       "key": "2026-10-30-aapl-homepod-mini-2",
@@ -482,6 +482,16 @@
       "link": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm"
     },
     {
+      "key": "2026-10-30-us-eci",
+      "date": "2026-10-30",
+      "time": "08:30 ET Fri (23:30 AEDT Fri Oct 30)",
+      "ticker": "MACRO",
+      "title": "US Employment Cost Index, Q3 2026 (BLS)",
+      "type": "macro",
+      "why": "Wage-cost gauge the Fed watches; lands two days after the FOMC and a day after PCE, feeding the December hike debate.",
+      "link": "https://www.bls.gov/schedule/2026/10_sched_list.htm"
+    },
+    {
       "key": "2026-11-02-aapl-q4",
       "date": "2026-11-02",
       "time": "Call 14:00 PT / 17:00 ET Mon Nov 2 (09:00 AEDT Tue Nov 3; US clocks go back Nov 1)",
@@ -492,6 +502,16 @@
       "link": "https://macdailynews.com/2026/10/07/apple-to-report-q426-earnings-on-monday-november-2nd/"
     },
     {
+      "key": "2026-11-02-us-ism-mfg",
+      "date": "2026-11-02",
+      "time": "10:00 ET Mon (02:00 AEDT Tue Nov 3; US clocks go back Nov 1)",
+      "ticker": "MACRO",
+      "title": "ISM manufacturing PMI, October",
+      "type": "macro",
+      "why": "First-business-day rule; listed as estimated pending ISM confirmation (ISM's own calendar is behind a login). Prices-paid and new orders for the machinery names.",
+      "link": "https://therighttrader.com/economic-calendar/ism-manufacturing"
+    },
+    {
       "key": "2026-11-03-alab-q3",
       "date": "2026-11-03",
       "time": "After US close; call 16:30 ET (08:30 AEDT Wed Nov 4)",
@@ -500,6 +520,26 @@
       "type": "earnings",
       "why": "Guided EPS $1.16-1.21; consensus revenue ~$551M. Date reported Oct 7 (company IR page could not be opened).",
       "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/astera-labs-sets-results-date-while-astera-labs-stock-falls-3-74-percent/70256368"
+    },
+    {
+      "key": "2026-11-03-amd-q3",
+      "date": "2026-11-03",
+      "time": "After US close; call 17:00 ET (09:00 AEDT Wed Nov 4)",
+      "ticker": "AMD",
+      "title": "AMD Q3 2026 results and call (guide about $13B revenue)",
+      "type": "earnings",
+      "why": "Confirmed by AMD's Oct 6 release. MI-series GPU ramp is the main AI-compute read after the hyperscaler capex guides.",
+      "link": "https://ir.amd.com/news-events/press-releases/detail/1300/amd-to-report-fiscal-third-quarter-2026-financial-results"
+    },
+    {
+      "key": "2026-11-03-us-jolts",
+      "date": "2026-11-03",
+      "time": "10:00 ET Tue (02:00 AEDT Wed Nov 4)",
+      "ticker": "MACRO",
+      "title": "US job openings (JOLTS), September",
+      "type": "macro",
+      "why": "Labour demand read ahead of the Nov 6 payrolls; on the BLS November schedule.",
+      "link": "https://www.bls.gov/schedule/2026/11_sched_list.htm"
     },
     {
       "key": "2026-11-03-rba-decision",
@@ -530,6 +570,26 @@
       "type": "earnings",
       "why": "IR calendar lists Nov 4 as provisional, replacing the earlier ~Oct 28 assumption. Watch credit-book growth and operating margin after Q2's 6.7%.",
       "link": "https://investor.mercadolibre.com/news-and-events"
+    },
+    {
+      "key": "2026-11-05-net-q3",
+      "date": "2026-11-05",
+      "time": "After US close; call 14:00 PT / 17:00 ET (09:00 AEDT Fri Nov 6)",
+      "ticker": "NET",
+      "title": "Cloudflare Q3 2026 results and call (confirmed Oct 13)",
+      "type": "earnings",
+      "why": "Company set Nov 5, replacing the Oct 29 estimate. Q3 guide revenue $736-737M, non-GAAP EPS $0.34.",
+      "link": "https://www.stocktitan.net/news/NET/cloudflare-announces-date-of-third-quarter-2026-financial-c621nx8sm6zm.html"
+    },
+    {
+      "key": "2026-11-06-us-jobs",
+      "date": "2026-11-06",
+      "time": "08:30 ET Fri (00:30 AEDT Sat Nov 7)",
+      "ticker": "MACRO",
+      "title": "US jobs report (Employment Situation), October",
+      "type": "macro",
+      "why": "No payrolls print falls before the Oct 28 FOMC (September's came Oct 2). This is the first jobs read for the December hike call.",
+      "link": "https://www.bls.gov/schedule/2026/11_sched_list.htm"
     },
     {
       "key": "2026-11-10-se-q3",

@@ -180,21 +180,6 @@
     "updated": "2026-10-17"
   },
   {
-    "ticker": "1211",
-    "exchange": "HK",
-    "name": "BYD",
-    "sector": "Machinery",
-    "status": "watch",
-    "conviction": "medium",
-    "thesis": "BYD is the largest NEV maker with in-house batteries and chips and a growing export push; September sales were 463,561 (+17%). Hong Kong closed Friday Oct 16 at HK$73.75 (+1.10%, about US$9.40 at 7.848 HKD/USD), down 2.4% on the week. CnEVPost reported Oct 16 that BYD picked Sime Darby's Inokom plant for local CKD assembly in Malaysia (models and timing not announced), and BYD's share of China's EV battery installs was 21.09% in September versus CATL's 40.92%. The second-generation Seagull launches Oct 20. JPMorgan Neutral HK$88 implies 19% upside. CnEVPost has not published weekly China registrations for Oct 5-11 or Oct 12-18.",
-    "risks": "The domestic price war keeps margins under pressure: the Da Han launched up to 24,000 yuan below its own pre-sale prices, and the Seagull is its cheapest volume model. The Oct 12 China-EU deal curbs Chinese hybrid exports (caps and price floors still being negotiated, no new details found Oct 15-17); BYD is the largest Chinese hybrid exporter to Europe. A close below HK$71.40 (52-week low) would be the signal to step back; Friday's close is HK$2.35 above it.",
-    "price_usd": 9.4,
-    "catalyst": "China Q3 GDP and activity data Mon Oct 19, 13:00 AEDT; second-gen Seagull launch Tue Oct 20, 19:00 Beijing (22:00 AEDT); weekly China registrations (not yet published for October); EU hybrid-cap rules (no date); Q3 results late October (date not found).",
-    "source": "https://stockanalysis.com/quote/hkg/1211/history/",
-    "added": "2026-09-27",
-    "updated": "2026-10-17"
-  },
-  {
     "ticker": "6861",
     "exchange": "JP",
     "name": "Keyence",
@@ -237,21 +222,6 @@
     "catalyst": "Lam Research Oct 21 (08:00 AEDT Thu Oct 22); Q3 results date not yet announced (last year's notice came Oct 15 for an Oct 28 after-close report; ~Oct 27-28 estimated).",
     "source": "https://stockanalysis.com/stocks/ter/history/",
     "added": "2026-08-24",
-    "updated": "2026-10-17"
-  },
-  {
-    "ticker": "TSLA",
-    "exchange": "US",
-    "name": "Tesla",
-    "sector": "Machinery",
-    "status": "watch",
-    "conviction": "medium",
-    "thesis": "Tesla sells EVs and storage and is pivoting the story to robotaxi (Cybercab) and Optimus; trailing revenue is $103.6B, up 11.8%. It unveiled the next-generation Roadster on Thursday evening Oct 15 at SpaceX's McGregor, Texas test site, showing short-burst flight on compressed-air thrusters and a claimed 0-60 mph of 0.81 seconds, with production 'in 2028, actually' per Musk. Friday Oct 16 it opened at $369.15 and hit $385.51 (+6.4%) before reversing to close down 2.13% at $354.72 in the tech selloff, a fifth straight decline and -7.3% on the week. Q3 results come Wed Oct 21 after the close with a Q&A at 5:30pm ET (08:30 AEDT Thu Oct 22); previews focus on gross margin, the Cybercab ramp and Optimus. Mean target $396.57 (44 analysts) implies 12% upside.",
-    "risks": "The Roadster is a 2028 product with no stated price, so it adds nothing to near-term numbers; Deepwater's Gene Munster called it an 'engineering flex'. Europe is getting harder: Tesla dropped the 'Full Self-Driving' name there after German pushback (Oct 9) and an EU-wide FSD decision is expected in December. Q2 EPS of $0.33 missed the $0.50 estimate, and at about 200x forward earnings a Q3 miss leaves little cushion. Friday's 8-point intraday reversal shows 'sell the news' is still the pattern. Status unchanged.",
-    "price_usd": 354.72,
-    "catalyst": "Q3 results Wed Oct 21 after close, Q&A 5:30pm ET (08:30 AEDT Thu Oct 22), confirmed by 8-K; EU FSD decision expected December.",
-    "source": "https://www.investing.com/news/stock-market-news/tesla-unveils-new-roadster-with-flight-capabilities-set-for-production-in-2028-4952962",
-    "added": "2026-09-27",
     "updated": "2026-10-17"
   }
 ]
