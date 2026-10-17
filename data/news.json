@@ -1,6 +1,70 @@
 [
   {
     "date": "2026-10-16",
+    "ticker": "BABA",
+    "headline": "Alibaba rises 2.3% in Hong Kong as Hang Seng Tech gains 1.16%",
+    "summary": "The Hang Seng closed up 0.52% at 24,186 on HK$178.2 billion turnover, led by tech. Kuaishou rose 2.5% after releasing Kling 4.0 and Lenovo rebounded 8%. Alibaba's US ADR later fell 1.8% in the US tech selloff.",
+    "source": "https://www.thestandard.com.hk/finance/article/345687/Hong-Kong-shares-close-higher-Lenovo-up-8-percent",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-16",
+    "ticker": "MACRO",
+    "headline": "Nasdaq falls 2.1% to 26,140, its worst week since June, on AI-debt worries; CoreWeave -12%",
+    "summary": "Friday Oct 16: Nasdaq -573 points (-2.1%) to 26,140, S&P 500 -1.1%, Dow -0.3%. CoreWeave fell nearly 12% (about -24% on the week) on debt worries; AMD -6%, Intel -5.8%, Micron -5.6%, Broadcom -4.5%, Tesla -2.1%. CBS also cited doubts over Anthropic's revenue momentum. 10-year yield about 5.1%; CME odds of a December Fed hike 74.3%, up from 50.2% a month ago. Watchlist on the week: CRDO -21.6%, BE -21.1%, TER -19.3%, SKHY ADR -19.3%, NET -17.9%, ALAB -16.5%, CLS -16.1%.",
+    "source": "https://cbsnews.com/news/tech-stocks-slide-ai-debt-concerns",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-16",
+    "ticker": "AAPL",
+    "headline": "iPhone Duo preorders open at $1,999 and sell out; new orders now ship late January",
+    "summary": "Apple's first foldable opened for preorder Oct 16 from $1,999 (over $3,000 at 2TB). Within 30 minutes shipping estimates for new orders slipped to late January 2027, more than three months out; 9to5Mac says supply, not demand, is the constraint. Apple rose 0.43% Friday to $343.46 against a 2.1% Nasdaq fall, +2.0% on the week. FQ4 results Nov 2; Duo sales land in the December quarter.",
+    "source": "https://9to5mac.com/2026/10/16/iphone-duo-launch-is-a-massive-success-but-apple-has-a-problem/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-16",
+    "ticker": "1211",
+    "headline": "BYD picks Sime Darby's Inokom plant for CKD assembly in Malaysia; HK shares +1.1%",
+    "summary": "BYD will use existing capacity at Inokom for local assembly in Malaysia; models and timing not announced. BYD had 21.09% of China's EV battery installs in September vs CATL 40.92%. Hong Kong closed Friday at HK$73.75 (+1.10%), -2.4% on the week. Second-gen Seagull launches Oct 20, 19:00 Beijing (22:00 AEDT). Weekly China registrations for October still not published by CnEVPost.",
+    "source": "https://cnevpost.com/2026/10/16/byd-picks-ckd-assembly-partner-malaysia/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-16",
+    "ticker": "MACRO",
+    "headline": "CoreWeave falls more than 11%, nearly 25% on the week; 2031 bond yield briefly topped 16%",
+    "summary": "Reuters: CoreWeave's October 2031 bond was set for a fifth weekly fall, down about 3 cents this week, and its CDS passed 1,000bp to a record (S&P Global). Nebius, Applied Digital and IREN fell about 11-12% Friday. ARK bought more than 381,000 shares over two sessions.",
+    "source": "https://www.investing.com/news/economy-news/coreweave-shares-bonds-headed-for-steep-weekly-losses-as-ai-borrowing-concerns-mount-4953586",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-16",
+    "ticker": "MACRO",
+    "headline": "Chip index falls 3.83%, an eighth straight loss and longest streak since 2008; 23.9% below June record",
+    "summary": "SOX closed at 11,137.29, down 15.7% since Oct 6. Over that span Nvidia -10.5%, Micron -15.9%, Lam -21.0%, Intel -20.1%; TSMC's ADR fell 2.3% Friday. Yields fell over the period, so rates do not explain it; AI-financing worries are the best-fit reason.",
+    "source": "https://www.techi.com/chip-stocks-eighth-straight-day-longest-since-2008/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-16",
+    "ticker": "MACRO",
+    "headline": "Brent touches $110, first time since May, and settles at $109.86 (+3.7%) on Hormuz attacks and Houthi strikes on Saudi Arabia",
+    "summary": "WTI settled at $101.41 (+3.5%). On the week WTI rose more than 10% and Brent nearly 5%. Ukraine also vowed to keep hitting Russian refineries.",
+    "source": "https://www.businesstoday.in/markets/story/brent-hits-110-as-hormuz-ship-attacks-houthi-strikes-on-saudi-trigger-oil-rally-562207-2026-10-17",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-16",
+    "ticker": "MACRO",
+    "headline": "US September industrial production rises 0.7% (0.4% expected); import prices +1.1% with fuel +4.8%",
+    "summary": "Utilities output +3.5%, manufacturing +0.3%, capacity use 76.9%; IP +2.2% y/y. Import prices +8.1% y/y, fuel +34.5% y/y; export prices +2.2% m/m.",
+    "source": "https://www.federalreserve.gov/releases/g17/current/default.htm",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-16",
     "ticker": "MACRO",
     "headline": "Taiwan shares close up 0.3% at 47,111.26 Friday after Thursday's 3.41% drop",
     "summary": "The Taiex gained 141.39 points on turnover of NT$935.96 billion. TSMC's Taipei shares slipped 0.8% on the first full session after its results.",
@@ -38,6 +102,38 @@
     "summary": "After Thursday's US close (Dow +1.1%, S&P +0.3%, Nasdaq +0.1%), the Nikkei rose 1.9%, Hang Seng 1.2%, Shanghai 1% and the ASX 200 1.1%. Indonesia slumped on an MSCI downgrade warning; Brent eased 0.4% to about $105.5 (AP).",
     "source": "https://www.wsls.com/business/2026/10/16/stocks-rebound-after-tech-sell-off-and-indonesia-shares-sink-on-market-downgrade-warning/",
     "impact": "positive"
+  },
+  {
+    "date": "2026-10-15",
+    "ticker": "NFLX",
+    "headline": "Netflix names Peter Rice chief content officer from Oct 26; Bela Bajaria leaves",
+    "summary": "Rice, former chairman of Walt Disney Television and president of 21st Century Fox, will run global series, film and live content. Bajaria leaves after nearly ten years. The change follows the confirmed 6% job cuts and comes days before Q3 results on Wed Oct 21 07:00 AEDT.",
+    "source": "https://about.netflix.com/en/news/peter-rice-named-netflix-chief-content-officer",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-15",
+    "ticker": "MU",
+    "headline": "Taiwan's president urges Micron and unions to negotiate; COO says Taichung 2027 capacity sold out",
+    "summary": "Lai Ching-te spoke at the opening of Micron's new Taichung assembly and test plant. Unions want a concrete profit-sharing plan and are urging members to take Oct 19 off for a Taipei rally, which they say is not a strike. COO Manish Bhatia said the plant's 2027 capacity is sold out and HBM should outgrow the rest of DRAM through 2028. Micron has about 15,000 staff in Taiwan.",
+    "source": "https://www.thestandard.com.hk/china/article/345564/Taiwan-president-calls-for-Micron-workers-to-negotiate-sincerely-ahead-of-possible-strike",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-15",
+    "ticker": "ANTHROPIC",
+    "headline": "Reuters: some Anthropic investors now discuss a ~$1.5T IPO valuation, down from ~$2T",
+    "summary": "Per four people familiar, attendees at Anthropic's investor day in San Francisco (with CEO Dario Amodei and CFO Krishna Rao) discussed about $1.5T for the November IPO after Q3 revenue growth slowed to 45% q/q ($16.8B) from more than doubling in Q2 ($11.6B). Anthropic has committed to at least $518B of cloud and compute spending over a decade. No exchange or banks named; Anthropic did not comment. Cited by CBS as one reason for Friday's tech selloff.",
+    "source": "https://www.investing.com/news/stock-market-news/exclusiveinvestors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown-sources-say-4952698",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-15",
+    "ticker": "TSLA",
+    "headline": "Tesla shows a 'flying' Roadster at SpaceX's Texas site; production 2028; stock reverses to -2.1%",
+    "summary": "Unveiled Thursday evening at SpaceX's McGregor test facility: compressed-air thrusters for short-burst flight over cars, claimed 0-60 mph in 0.81 s, target top speed Mach 0.5, no price given. Musk said production starts 2028. Friday the stock opened $369.15, hit $385.51, then closed -2.13% at $354.72 in the tech selloff. Q3 results Oct 21 after close (08:30 AEDT Thu Oct 22).",
+    "source": "https://www.investing.com/news/stock-market-news/tesla-unveils-new-roadster-with-flight-capabilities-set-for-production-in-2028-4952962",
+    "impact": "neutral"
   },
   {
     "date": "2026-10-15",
@@ -197,6 +293,14 @@
     "headline": "Australia sheds 39,300 jobs in September; unemployment 4.7% vs 4.6% expected",
     "summary": "Economists expected a 19,600 gain; August revised to +29,300 and 4.7%. Participation 66.8%. AUD -0.3%. ANZ still expects a November hike; Oxford Economics says the RBA has room to wait for Q3 CPI on Oct 28.",
     "source": "https://finance.yahoo.com/economy/policy/articles/australia-loses-39-300-jobs-013035431.html",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-14",
+    "ticker": "VRT",
+    "headline": "Vertiv sets Q3 results for Wed Oct 28 before the US open, call 11am ET",
+    "summary": "Announced Oct 14: Q3 2026 results Wed Oct 28 before market open; call 11:00 ET (02:00 AEDT Thu Oct 29), with a Q3 presentation on investors.vertiv.com. Company guide is Q3 sales $3.65-3.85B and EPS $1.77-1.83. Not Oct 21 as previously listed. Stock -3.88% Friday to $206.42, a seventh straight fall.",
+    "source": "https://finviz.com/news/402308/vertiv-announces-date-of-third-quarter-2026-earnings-release-and-conference-call",
     "impact": "neutral"
   },
   {
@@ -533,110 +637,6 @@
     "headline": "Oil falls over 1% Monday on Trump's unconfirmed Russia-Ukraine 'energy ceasefire'",
     "summary": "Brent -1.2% to $103.46, WTI -1.6% to $90.39 despite a Houthi strike on Riyadh airport that killed 13. ASX 200 +0.8% to 8,783.",
     "source": "https://abc.net.au/news/2026-10-12/asx-markets-business-live-news/107253878",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-12",
-    "ticker": "MACRO",
-    "headline": "China and the EU agree a 16-point trade consensus; Beijing to curb hybrid-car exports",
-    "summary": "Covers trade, investment, export controls and IP. Mild positive for China-exposed names ahead of Oct 19 GDP.",
-    "source": "https://ng.investing.com/news/stock-market-news/asia-stocks-mixed-as-oil-retreats-earnings-season-gathers-pace-2730654",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-11",
-    "ticker": "AMZN",
-    "headline": "WSJ: Amazon in talks to buy AI chip-software startup Decart for about $7 billion",
-    "summary": "Decart's software helps AI models run across Nvidia GPUs, Google TPUs and Amazon's Trainium. It was valued near $4 billion in May, when it raised $300 million with Nvidia as a new investor; Anthropic dropped a roughly $6 billion bid last month. No deal is signed; Amazon shares fell 1.1% Monday.",
-    "source": "https://kfgo.com/2026/10/11/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-wsj-reports/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-11",
-    "ticker": "MACRO",
-    "headline": "AI-related debt issuance fell to $23B in September from $113B in June; Oracle Jupiter loans quoted 89-91c",
-    "summary": "FT, citing Morgan Stanley: US investment-grade AI issuance was zero in September. Banks including Santander and Jefferies struggled to place ~$18B of Oracle's New Mexico campus loans.",
-    "source": "https://coinpaper.com/37113/ai-debt-issuance-falls-from-113b-to-23b-while-oracle-loans-trade-below-par",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-11",
-    "ticker": "MACRO",
-    "headline": "Banks explore risk transfers on $38B of Oracle-leased data-centre debt; CoreWeave-leased paper at 7-9.875%",
-    "summary": "JPMorgan, MUFG, Morgan Stanley and SMBC have spent six months trying to distribute the Texas and Wisconsin construction debt (Bloomberg, FT). Oracle 5-yr CDS ~151bp early October; hyperscaler-leased bonds price at 5.70-7.875% (CCIR).",
-    "source": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-10",
-    "ticker": "NVDA",
-    "headline": "FT: Nvidia in early talks to acquire Reflection AI or deepen its $800 million investment",
-    "summary": "Options reportedly include a full takeover, more funding or an acqui-hire that licenses the technology; an agreement could come within weeks but the talks could collapse. Reuters could not verify the report and neither company commented. Reflection said in April it was raising at a $25 billion pre-money valuation.",
-    "source": "https://www.investing.com/news/company-news/nvidia-in-talks-to-acquire-reflection-ai-or-increase-investment-ft-reports-4942324",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-10",
-    "ticker": "1211",
-    "headline": "BYD passes 150,000 commercial NEVs built, shifts growth focus to trucks",
-    "summary": "A Q3 electric semi marked the milestone as BYD pushes into long-haul freight. Adds a new volume line as passenger-car margins stay thin.",
-    "source": "https://cnevpost.com/2026/10/10/byd-150000-commercial-nev-production-focus-trucks/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-09",
-    "ticker": "MELI",
-    "headline": "AtlasIntel/Bloomberg runoff poll: Flavio Bolsonaro 52.8%, Lula 47.2% of valid votes",
-    "summary": "Total votes 51.1% to 45.7%, margin of error 1 point. Second poll to show Bolsonaro ahead before the Oct 25 runoff.",
-    "source": "https://www.moneytimes.com.br/pesquisa-atlasintel-9-de-outubro-gaep/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-09",
-    "ticker": "OPENAI",
-    "headline": "AP: OpenAI fires three safety researchers for a 'breach of trust'; they say it was for prioritising safety",
-    "summary": "Tomek Korbak, Jasmine Wang and Mikita Balesni were dismissed after an investigation OpenAI says found breaches of its sensitive-information policies; Korbak says it was over how he communicated with the evaluator METR. First reported by the WSJ; not previously on the site.",
-    "source": "https://www.yahoo.com/news/politics/articles/openai-fires-3-safety-researchers-110633913.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-09",
-    "ticker": "META",
-    "headline": "Meta asks Judge Mathew to cap the New Mexico privacy penalty at $1.53 billion; the state wants $35-40 billion",
-    "summary": "The brief is nearly $2 billion below the figure Meta's lawyers floated at the Oct 1 hearing. Mathew has said he will rule by late October. Single-sourced to a legal-news site; not previously on the site.",
-    "source": "https://xira.com/p/2026/10/09/meta-asks-new-mexico-judge-to-award-no-more-than-1-53b-in-civil-penalties",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-09",
-    "ticker": "NFLX",
-    "headline": "Puck: Netflix weighs cutting about 5% of staff, possibly announced this week",
-    "summary": "Roughly 800 roles on 16,000 staff; departments unclear and Netflix declined to comment. Lands ahead of Oct 20 Q3 results.",
-    "source": "https://thewrap.com/culture-lifestyle/culture/netflix-layoffs-5-percent-workforce",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-09",
-    "ticker": "AMZN",
-    "headline": "Telsey reiterates Outperform on Amazon after Prime Big Deal Days",
-    "summary": "Telsey kept its Outperform rating and target of $335, saying Amazon executed well on the Oct 6-7 event and that it keeps Amazon front of mind for holiday shopping.",
-    "source": "https://ca.investing.com/news/stock-market-news/telsey-reiterates-amazon-stock-outperform-rating-after-prime-event-93CH-4873049",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-09",
-    "ticker": "BABA",
-    "headline": "Alibaba jumps 5.4% as Chinese ADRs rally on unconfirmed talk of Beijing curbing sell orders",
-    "summary": "Mainland stocks reversed sharply Friday afternoon on speculation regulators told funds and insurers to cap sell orders; nobody confirmed the trigger and some credited state-fund buying. US-listed Chinese shares followed, with Alibaba the standout.",
-    "source": "https://tradingview.com/news/benzinga:3aa6e41ff094b:0-alibaba-stock-rises-as-china-limits-sell-orders",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-09",
-    "ticker": "BABA",
-    "headline": "BofA lifts Alibaba target to $178, says earnings inflection is underpriced",
-    "summary": "Joyce Ju kept Buy and raised the target to $178 from $175, forecasting September-quarter cloud revenue up 52% and adjusted EBITA above consensus, with cloud and AI reaching breakeven in the second half of fiscal 2027. Customer management revenue is still expected to fall 5%.",
-    "source": "https://www.tipranks.com/news/alibaba-stock-rises-over-4-as-bank-of-america-says-earnings-inflection-is-underpriced",
     "impact": "positive"
   }
 ]

@@ -6,13 +6,13 @@
     "sector": "AI",
     "status": "watch",
     "conviction": "medium",
-    "thesis": "Astera Labs sells PCIe, CXL and Ethernet connectivity silicon for AI racks; Q2 revenue was $392M (+105% y/y) and Q3 guidance is EPS $1.16-1.21 on consensus revenue of about $551M. Thursday Oct 15 it rose 0.57% to $301.98 after opening at $285.00 and touching $281.29, a 7% climb off the low, as the Dow rose 1.08% despite hot September PPI (+1.3% m/m vs +0.5% expected); no company news found. It is 21.0% below the Oct 7 close of $382.25. TSMC's Oct 15 call: CEO Wei said AI demand is 'extremely robust' with 'no sign of slowdown', the demand-supply gap is 'still quite big', and the mid-to-high-50s% AI accelerator growth rate for 2024-29 'probably will be higher'; 2026 capex held at $60-64B and 2026-28 capex will be 'significantly higher' than the prior three years. Consensus target $391.77 (26 analysts, Buy), 30% upside.",
-    "risks": "Trades at a high multiple with a five-year beta near 3.8: it has fallen 5-10% on three macro or sector scares in seven sessions (OpenAI revenue, CXMT memory, CPI), and Thursday's 7% intraday swing shows the volatility is not over. Two Hold-side calls in a month (Susquehanna $310, Northland downgrade); the price is below Susquehanna's $310. TSMC said it is 'prudent' on 2027 planning, though it pinned that on consumer markets, not AI. Hyperscaler capex and the Scorpio switch ramp need to keep landing to hold the multiple.",
-    "price_usd": 301.98,
-    "catalyst": "Lam Research Oct 21 (08:00 AEDT Thu Oct 22); Q3 results Nov 3 after US close, call 4:30pm ET (08:30 AEDT Wed Nov 4).",
+    "thesis": "Astera Labs sells PCIe, CXL and Ethernet connectivity silicon for AI racks; Q2 revenue was $392M (+105% y/y) and Q3 guidance is EPS $1.16-1.21 on consensus revenue of about $551M. Friday Oct 16 it fell 5.35% to $285.82 (low $282.79) as the Nasdaq fell 2.1% on AI-debt worries and CoreWeave dropped nearly 12%; no company news found. It lost 16.5% on the week and is 25.2% below the Oct 7 close of $382.25. TSMC's Oct 15 call still backs demand: AI accelerator growth 'probably will be higher' than the mid-to-high-50s% 2024-29 guide and 2026-28 capex 'significantly higher' than the prior three years. Consensus target $391.77 (26 analysts, Buy), 37% upside.",
+    "risks": "High multiple and a five-year beta near 3.8: four 5%+ down days in eight sessions on macro and sector headlines, none company-specific. The selloff is now about how AI build-outs are financed (CoreWeave debt, a lower Anthropic IPO valuation) rather than demand. The price is 8% below Susquehanna's $310 Hold target. Hyperscaler capex and the Scorpio switch ramp need to keep landing to hold the multiple.",
+    "price_usd": 285.82,
+    "catalyst": "Lam Research Oct 21 (08:00 AEDT Thu Oct 22); hyperscaler Q3 capex comments Oct 28-29; Q3 results Nov 3 after US close, call 4:30pm ET (08:30 AEDT Wed Nov 4).",
     "source": "https://stockanalysis.com/stocks/alab/history/",
     "added": "2026-08-24",
-    "updated": "2026-10-16"
+    "updated": "2026-10-17"
   },
   {
     "ticker": "AVGO",
@@ -21,13 +21,13 @@
     "sector": "AI",
     "status": "accumulate",
     "conviction": "medium",
-    "thesis": "Broadcom supplies custom AI accelerators (Google, Meta, OpenAI's Jalapeno) plus Ethernet networking and VMware software. The WSJ reported Oct 7 that it is lining up $50B+ of financing so OpenAI can buy its chips. Thursday Oct 15 it slipped 0.55% to $344.33 after a low of $334.61, recovering from a lower open; no Broadcom-specific news found. TSMC's Oct 15 call supports custom-silicon demand: Wei said accelerator growth for 2024-29 'probably will be higher' than the mid-to-high-50s% guide, demand shows 'no sign of slowdown', 2026-28 capex will be 'significantly higher' than the prior three years, and TSMC is in production at 5x-reticle CoWoS packaging with 9x and 14x in development. Consensus target $531.31 (50 analysts, Strong Buy), 54% upside.",
-    "risks": "Broadcom is becoming OpenAI's lender as well as its supplier, so a funding stumble at OpenAI would hit both revenue and credit; Anthropic's Q3 growth slowdown (FT, Oct 14) is a reminder that AI-lab revenue is not a straight line. Custom accelerators carry lower margins than merchant silicon. The 10-year yield is still about 5.09% after Thursday's 10bp fall, which keeps the cost of the AI debt build-out high.",
-    "price_usd": 344.33,
-    "catalyst": "OpenAI financing terms (unconfirmed by either company); Q4 FY26 results around Dec 10 (not yet confirmed).",
+    "thesis": "Broadcom supplies custom AI accelerators (Google, Meta, OpenAI's Jalapeno) plus Ethernet networking and VMware software. The WSJ reported Oct 7 that it is lining up $50B+ of financing so OpenAI can buy its chips. Friday Oct 16 it fell 4.52% to $328.75, closing at the day's low, in a chip selloff CBS tied to worries about debt-funded AI build-outs and Anthropic's slowing growth; down 9.1% on the week. No Broadcom-specific news found. TSMC's Oct 15 call supports custom-silicon volume (accelerator growth 'probably will be higher' than guided; 5x-reticle CoWoS in production, 9x and 14x in development). Consensus target $531.31 (50 analysts, Strong Buy), 62% upside.",
+    "risks": "Broadcom is becoming OpenAI's lender as well as its supplier, and Friday's selloff was specifically about AI financing: CoreWeave fell nearly 12% on debt worries and Reuters reported Anthropic investors discussing a $1.5T IPO valuation against about $2T expected. Custom accelerators carry lower margins than merchant silicon. The 10-year yield is about 5.1% and futures put December Fed hike odds at 74.3% (CME via CBS), which keeps the cost of the AI debt build-out high.",
+    "price_usd": 328.75,
+    "catalyst": "OpenAI financing terms (unconfirmed by either company); Anthropic IPO pricing (November, per Reuters); Q4 FY26 results around Dec 10 (not yet confirmed).",
     "source": "https://stockanalysis.com/stocks/avgo/history/",
     "added": "2026-08-24",
-    "updated": "2026-10-16"
+    "updated": "2026-10-17"
   },
   {
     "ticker": "CLS",
@@ -36,13 +36,13 @@
     "sector": "AI",
     "status": "watch",
     "conviction": "medium",
-    "thesis": "Celestica designs and builds 800G/1.6T networking switches, servers and storage for hyperscalers. Q2 2026 revenue was $4.70B (+62% y/y); it guided Q3 to $5.25-5.55B revenue and adjusted EPS $2.88-3.08, and raised 2026 to $20.5B revenue (+65%) and $11.30 adjusted EPS (+87%). Thursday Oct 15 it fell another 2.50% to $315.25 after a low of $296.12; no company news found. TSMC said Oct 15 that AI demand shows 'no sign of slowdown' and the demand-supply gap is 'still quite big', which supports rack build volumes into 2027. Q3 results are confirmed for Mon Oct 26 after close, with the call and an Investor and Analyst Day on Tue Oct 27. Mean target $473.91 (22 analysts, Strong Buy) implies 50% upside; the lowest target ($375) is 19% above the price.",
-    "risks": "Hardware margins are single-digit and a few hyperscalers set the pace; it is down 11.8% in two sessions and has had three 6%+ down days in eight sessions on sector headlines. Competition from Arista, Accton and in-house hyperscaler designs. A 2027 capex digestion year is the bear case, and the investor day will be judged on 2027 targets; TSMC called its own 2027 planning 'prudent'.",
-    "price_usd": 315.25,
+    "thesis": "Celestica designs and builds 800G/1.6T networking switches, servers and storage for hyperscalers. Q2 2026 revenue was $4.70B (+62% y/y); it guided Q3 to $5.25-5.55B revenue and adjusted EPS $2.88-3.08, and raised 2026 to $20.5B revenue (+65%) and $11.30 adjusted EPS (+87%). Friday Oct 16 it fell 3.63% to $303.81, a third straight decline, and lost 16.1% on the week; no company news found. Q3 results are confirmed for Mon Oct 26 after close, with the call and an Investor and Analyst Day on Tue Oct 27. Mean target $473.91 (22 analysts, Strong Buy) implies 56% upside; the lowest target ($375) is 23% above the price.",
+    "risks": "Hardware margins are single-digit and a few hyperscalers set the pace; it is down 16% in a week of sector headlines with no company news. Competition from Arista, Accton and in-house hyperscaler designs. A 2027 capex digestion year is the bear case, and the investor day will be judged on 2027 targets; Friday's selloff on AI financing worries raises the bar for that guidance.",
+    "price_usd": 303.81,
     "catalyst": "Q3 results Mon Oct 26 after US close (about 07:00 AEDT Tue Oct 27); call and Investor and Analyst Day Tue Oct 27, 8:00am ET (23:00 AEDT Tue Oct 27), per company release.",
     "source": "https://stockanalysis.com/stocks/cls/history/",
     "added": "2026-10-10",
-    "updated": "2026-10-16"
+    "updated": "2026-10-17"
   },
   {
     "ticker": "CRDO",
@@ -51,13 +51,13 @@
     "sector": "AI",
     "status": "watch",
     "conviction": "medium",
-    "thesis": "Credo sells active electrical cables, optical DSPs and PCIe/Ethernet retimers that connect GPUs and switches inside AI data centres. Fiscal Q1 2027 (to Aug 1) revenue was $479M, up 115% year on year, gross margin 64.5%, net income $129M; consensus has FY27 revenue +87% to about $2.5B. Thursday Oct 15 it dipped 0.40% to $178.50, a fifth straight decline, but only after trading as low as $166.50 (-7.1%) and recovering 7%; no company news found. TSMC's Oct 15 call (demand 'extremely robust', accelerator growth 'probably will be higher' than the mid-to-high-50s% 2024-29 guide) supports more GPU-to-switch links. Mean target $279.09 (20 analysts, Strong Buy) implies 56% upside; the price is 3.5% below the lowest target ($185).",
-    "risks": "Customer concentration is high - a handful of hyperscalers drive most revenue, so a design loss or capex pause shows up in a single quarter. Growth is decelerating (272% to 115% over four quarters). The stock swings hardest of the group on sector days (-7.25% Oct 12, -9.62% Oct 14, a 7% intraday drop Oct 15). Competition from Marvell and Broadcom plus any copper-to-optical shift are live threats.",
-    "price_usd": 178.5,
-    "catalyst": "Lam Research Oct 21 (08:00 AEDT Thu Oct 22) and hyperscaler capex updates in late-October earnings; fiscal Q2 2027 results early December (date not announced).",
+    "thesis": "Credo sells active electrical cables, optical DSPs and PCIe/Ethernet retimers that connect GPUs and switches inside AI data centres. Fiscal Q1 2027 (to Aug 1) revenue was $479M, up 115% year on year, gross margin 64.5%, net income $129M; consensus has FY27 revenue +87% to about $2.5B. Friday Oct 16 it fell 4.93% to $169.70, a sixth straight decline, and lost 21.6% on the week, the worst of the watchlist; no company news found. Mean target $279.09 (20 analysts, Strong Buy) implies 64% upside; the price is now 8% below the lowest target ($185).",
+    "risks": "Customer concentration is high - a handful of hyperscalers drive most revenue, so a design loss or capex pause shows up in a single quarter. Growth is decelerating (272% to 115% over four quarters). It swings hardest of the group on sector days (-7.25% Oct 12, -9.62% Oct 14, -4.93% Oct 16). Competition from Marvell and Broadcom plus any copper-to-optical shift are live threats. Trading below every published target means the market is pricing a capex slowdown the analysts are not.",
+    "price_usd": 169.7,
+    "catalyst": "Lam Research Oct 21 (08:00 AEDT Thu Oct 22) and hyperscaler capex updates Oct 28-29; fiscal Q2 2027 results early December (date not announced).",
     "source": "https://stockanalysis.com/stocks/crdo/history/",
     "added": "2026-10-10",
-    "updated": "2026-10-16"
+    "updated": "2026-10-17"
   },
   {
     "ticker": "SKHY",
@@ -66,13 +66,13 @@
     "sector": "AI",
     "status": "buy",
     "conviction": "high",
-    "thesis": "SK hynix is the leading HBM supplier to Nvidia and the number-two DRAM maker; the Nasdaq ADR listed in July. Seoul's -11.06% Thursday (1,262,000 won) was priced in at the US open: the ADR opened at $137.88 (-6.6%) but recovered to close Thursday Oct 15 at $146.11 (-0.98%), 25.1% below the Oct 2 close of $195.13. Seoul then steadied Friday Oct 16: SK hynix closed at 1,272,000 won (+0.79%) after ranging 1,247,000-1,325,000. TSMC's Oct 15 call said AI demand shows 'no sign of slowdown' and the AI accelerator growth rate 'probably will be higher' than guided; it named HBM only as a supply variable, with no specific HBM comment. Consensus target $252.21 (15 analysts, Strong Buy), 73% upside. Status and conviction unchanged: the falls are market-wide and about China competition and rates; no change to HBM orders or guidance has been reported.",
-    "risks": "CXMT closing the density gap would pressure DRAM pricing from 2027, and the market is pricing that. Korean selling has been forced and mechanical (two KOSPI circuit-breaker days in a week); Friday's +0.79% is a pause, not yet a reversal. The buyback is about 90% done and due to end around Oct 20, removing a buyer. Solidigm's capital plan is undecided. Holding buy/high through this needs Q3 results to confirm HBM pricing.",
-    "price_usd": 146.11,
-    "catalyst": "Buyback ends ~Oct 20; Lam Research Oct 21 (08:00 AEDT Thu Oct 22); Q3 results expected around Oct 28 KST (not yet posted by the company); Samsung full Q3 results Oct 29.",
+    "thesis": "SK hynix is the leading HBM supplier to Nvidia and the number-two DRAM maker; the Nasdaq ADR listed in July. Seoul steadied Friday Oct 16 (1,272,000 won, +0.79%), but the ADR fell 6.58% to $136.49 in the US session as chip stocks sold off on AI-debt worries (Micron -5.6%, per CBS); the ADR lost 19.3% on the week and is 30.1% below the Oct 2 close of $195.13. The ADR trades after Seoul, so Friday's drop points to a weak Seoul open on Monday. TSMC's Oct 15 call said AI demand shows 'no sign of slowdown'. Consensus target $252.21 (15 analysts, Strong Buy), 85% upside. Status and conviction unchanged: the falls are market-wide and about China competition, rates and AI financing; no change to HBM orders or guidance has been reported.",
+    "risks": "CXMT closing the density gap would pressure DRAM pricing from 2027, and the market is pricing that. Korean selling has been forced and mechanical (two KOSPI circuit-breaker days in a week). The buyback is about 90% done and due to end around Oct 20, removing a buyer. Solidigm's capital plan is undecided. Holding buy/high through a 30% drawdown needs Q3 results to confirm HBM pricing; a second leg down in Seoul on Monday would test that.",
+    "price_usd": 136.49,
+    "catalyst": "Seoul open Mon Oct 19 (11:00 AEDT); buyback ends ~Oct 20; Lam Research Oct 21 (08:00 AEDT Thu Oct 22); Q3 results expected around Oct 28 KST (not yet posted by the company); Samsung full Q3 results Oct 29.",
     "source": "https://stockanalysis.com/stocks/skhy/history/",
     "added": "2026-08-24",
-    "updated": "2026-10-16"
+    "updated": "2026-10-17"
   },
   {
     "ticker": "BE",
@@ -81,13 +81,13 @@
     "sector": "Energy",
     "status": "watch",
     "conviction": "medium",
-    "thesis": "Bloom Energy makes solid-oxide fuel cells for onsite data-centre power; Q2 revenue was a record $1.07B and FY26 guidance is $3.9-4.2B, anchored by Oracle (up to 2.8 GW) and Brookfield ($25B). Thursday Oct 15 it fell 1.27% to $236.30, but only after dropping to $215.12 (-10.1%) intraday and recovering 10%; no company news found. Bloom confirmed on Oct 12 that Q3 results come Oct 22 after the US close. Consensus target $284.74 (29 analysts, Buy) is 20% above the price; UBS $350, Bernstein Hold $282.",
-    "risks": "Upside rests on Oracle and Brookfield deployments converting to revenue on schedule. It moves 6-10% on AI-capex and rate headlines without company news (Oct 8, Oct 12, Oct 14, and intraday Oct 15). Q3 consensus EPS is a thin $0.14; a margin miss would hit a stock that has doubled this year, and the report is six days away.",
-    "price_usd": 236.3,
+    "thesis": "Bloom Energy makes solid-oxide fuel cells for onsite data-centre power; Q2 revenue was a record $1.07B and FY26 guidance is $3.9-4.2B, anchored by Oracle (up to 2.8 GW) and Brookfield ($25B). Friday Oct 16 it fell 6.34% to $221.31 (low $219.17) and lost 21.1% on the week, with no company news found. Bloom confirmed on Oct 12 that Q3 results come Oct 22 after the US close. Consensus target $284.74 (29 analysts, Buy) is 29% above the price; UBS $350, Bernstein Hold $282.",
+    "risks": "Upside rests on Oracle and Brookfield deployments converting to revenue on schedule; Oracle is one of the names whose credit-default swaps hit records this week (Reuters via ABC, Oct 16), so customer financing is now part of the risk. It moves 6-10% on AI-capex and rate headlines without company news (Oct 8, 12, 14, 16). Q3 consensus EPS is a thin $0.14; a margin miss would hit a stock that has doubled this year.",
+    "price_usd": 221.31,
     "catalyst": "Q3 results Thu Oct 22 after US close, call 5:00pm ET (08:00 AEDT Fri Oct 23), confirmed by Bloom Oct 12; Oracle Jupiter permit Nov 23.",
     "source": "https://stockanalysis.com/stocks/be/history/",
     "added": "2026-08-24",
-    "updated": "2026-10-16"
+    "updated": "2026-10-17"
   },
   {
     "ticker": "GEV",
@@ -96,13 +96,13 @@
     "sector": "Energy",
     "status": "accumulate",
     "conviction": "high",
-    "thesis": "GE Vernova builds gas turbines, grid equipment and wind for the power build-out; Q2 revenue was $11.1B (+22% y/y) with gas capacity largely contracted through 2030. Thursday Oct 15 it fell 1.63% to $926.44, a second down day, after an intraday low of $871.16 (-7.5%); no company news found. AI-power names lagged Thursday as rising borrowing costs weighed on AI-infrastructure stocks, even as the Dow rose 1.08%. JPMorgan cut its target to $1,150 from $1,330 on Oct 9, keeping Overweight. Consensus target $1,225 (37 analysts, Buy), 32% upside.",
-    "risks": "Q2 EPS of $2.47 missed the $3.17 consensus and wind keeps losing money, so another margin miss on Oct 28 would test the premium multiple; JPMorgan's cut is the second target trim in three weeks after Jefferies. GLJ has a $470 Sell. The 10-year at about 5.09% raises the cost of the utility and data-centre projects that buy its turbines.",
-    "price_usd": 926.44,
-    "catalyst": "Q3 results Oct 28, webcast 7:30-8:30am ET (22:30 AEDT Wed Oct 28).",
+    "thesis": "GE Vernova builds gas turbines, grid equipment and wind for the power build-out; Q2 revenue was $11.1B (+22% y/y) with gas capacity largely contracted through 2030. Friday Oct 16 it slipped 0.57% to $921.20 after trading as high as $951.00, the steadiest AI-power name on a day the S&P 500 fell 1.1%; down 8.3% on the week. No company news found. JPMorgan cut its target to $1,150 from $1,330 on Oct 9, keeping Overweight. Consensus target $1,225 (37 analysts, Buy), 33% upside.",
+    "risks": "Q2 EPS of $2.47 missed the $3.17 consensus and wind keeps losing money, so another margin miss on Oct 28 would test the premium multiple; JPMorgan's cut is the second target trim in three weeks after Jefferies. GLJ has a $470 Sell. The 10-year at about 5.1% and rising December hike odds raise the cost of the utility and data-centre projects that buy its turbines.",
+    "price_usd": 921.2,
+    "catalyst": "Q3 results Wed Oct 28, webcast 7:30-8:30am ET (22:30 AEDT Wed Oct 28).",
     "source": "https://stockanalysis.com/stocks/gev/history/",
     "added": "2026-08-24",
-    "updated": "2026-10-16"
+    "updated": "2026-10-17"
   },
   {
     "ticker": "VRT",
@@ -111,13 +111,13 @@
     "sector": "Energy",
     "status": "accumulate",
     "conviction": "medium",
-    "thesis": "Vertiv sells power, thermal and liquid-cooling gear for data centres; Q2 sales were $3.27B (+24%) and it guided Q3 to $3.65-3.85B and EPS $1.77-1.83, lifting FY26 EPS to $6.65-6.75. Thursday Oct 15 it fell 3.63% to $214.75, a sixth straight decline, as AI power plays fell on rising borrowing costs while the broader market rose; no company news found. TSMC's Oct 15 call (AI demand 'extremely robust', 'no sign of slowdown') points to more AI racks to power and cool. Consensus target $337.43 (30 analysts, Strong Buy), 57% upside.",
-    "risks": "GLJ's $188 Sell case is that hyperscaler capex slows in 2027, and the stock trades on that debate rather than on guidance; it is now 14% above that target. Q3 consensus EPS of $1.57 sits below the company's own $1.77-1.83 range, so the bar is low, but any order-timing slip would be punished. Price competition in liquid cooling is rising.",
-    "price_usd": 214.75,
-    "catalyst": "Q3 results date still not announced as of Oct 16 (last year Oct 22; the Q2 notice came 14 days ahead, so no notice by now makes Oct 28 more likely than Oct 21 - inference, not confirmed).",
-    "source": "https://stockanalysis.com/stocks/vrt/history/",
+    "thesis": "Vertiv sells power, thermal and liquid-cooling gear for data centres; Q2 sales were $3.27B (+24%) and it guided Q3 to $3.65-3.85B and EPS $1.77-1.83, lifting FY26 EPS to $6.65-6.75. Friday Oct 16 it fell 3.88% to $206.42, a seventh straight decline, and lost 15.0% on the week; no company news found. Vertiv announced on Oct 14 that Q3 results come Wed Oct 28 before the US open, with the call at 11am ET. Consensus target $337.43 (30 analysts, Strong Buy), 63% upside.",
+    "risks": "GLJ's $188 Sell case is that hyperscaler capex slows in 2027, and the stock trades on that debate rather than on guidance; it is now 10% above that target. Q3 consensus EPS of $1.57 sits below the company's own $1.77-1.83 range, so the bar is low, but any order-timing slip would be punished. Price competition in liquid cooling is rising. It reports the same day as the Fed decision and the Alphabet and Microsoft results.",
+    "price_usd": 206.42,
+    "catalyst": "Q3 results Wed Oct 28 before US open; call 11:00am ET (02:00 AEDT Thu Oct 29), per company release of Oct 14.",
+    "source": "https://finviz.com/news/402308/vertiv-announces-date-of-third-quarter-2026-earnings-release-and-conference-call",
     "added": "2026-09-29",
-    "updated": "2026-10-16"
+    "updated": "2026-10-17"
   },
   {
     "ticker": "HOOD",
@@ -126,13 +126,13 @@
     "sector": "Internet",
     "status": "accumulate",
     "conviction": "medium",
-    "thesis": "Robinhood is a retail brokerage adding prediction markets, perpetual futures, earnings contracts and Robinhood Agents (announced Sep 29); Q2 revenue was $1.31B (+32%), net income $561M. August data (released Sep 10): 28.6M funded customers, $384B platform assets (+8% m/m), $4.0B net deposits, equity volume $335B (+68% y/y). Thursday Oct 15 it rose 2.88% to $103.99, recovering from a low of $94.52, as the Russell 2000 gained 1.38%; no company news found. September operating data still not found as of 18:00 AEDT Oct 16. Consensus target $134.68 (30 analysts, Buy), 30% upside; Morgan Stanley $160 (Oct 9).",
-    "risks": "Revenue tracks crypto and equity volumes, so a bitcoin drawdown or a quieter October shows up fast in the monthly metrics; crypto revenue already fell in Q2. Peer Schwab fell Oct 15 on a slight EPS miss despite 17% revenue growth, a sign the bar for brokers is high. Prediction markets are a new line with routing and regulatory dependencies. Wells Fargo started at Hold ($125) on Oct 1.",
-    "price_usd": 103.99,
-    "catalyst": "September operating data (overdue against the mid-month pattern; not out at 18:00 AEDT Oct 16); shareholder Q&A on Say opens Oct 20; Q3 results Oct 27 after close, video call 5pm ET (08:00 AEDT Wed Oct 28).",
+    "thesis": "Robinhood is a retail brokerage adding prediction markets, perpetual futures, earnings contracts and Robinhood Agents (announced Sep 29); Q2 revenue was $1.31B (+32%), net income $561M. August data (released Sep 10): 28.6M funded customers, $384B platform assets (+8% m/m), $4.0B net deposits, equity volume $335B (+68% y/y). Friday Oct 16 it fell 4.92% to $98.87, giving back Thursday's 2.88% gain, and lost 9.3% on the week; no company news found. September operating data still not found as of 18:00 AEDT Oct 17 (IR site blocked to fetch; searches return only August). Consensus target $134.68 (30 analysts, Buy), 36% upside; Morgan Stanley $160 (Oct 9).",
+    "risks": "Revenue tracks crypto and equity volumes, so a bitcoin drawdown or a quieter October shows up fast in the monthly metrics; crypto revenue already fell in Q2. A weaker tape (Nasdaq's worst week since June) tends to cut retail activity. Peer Schwab fell Oct 15 on a slight EPS miss, a sign the bar for brokers is high. Prediction markets are a new line with routing and regulatory dependencies. Wells Fargo started at Hold ($125) on Oct 1.",
+    "price_usd": 98.87,
+    "catalyst": "September operating data (overdue against the mid-month pattern; not found at 18:00 AEDT Oct 17); shareholder Q&A on Say opens Oct 20; Q3 results Oct 27 after close, video call 5pm ET (08:00 AEDT Wed Oct 28).",
     "source": "https://stockanalysis.com/stocks/hood/history/",
     "added": "2026-08-24",
-    "updated": "2026-10-16"
+    "updated": "2026-10-17"
   },
   {
     "ticker": "MELI",
@@ -141,13 +141,13 @@
     "sector": "Internet",
     "status": "accumulate",
     "conviction": "medium",
-    "thesis": "MercadoLibre runs Latin America's largest marketplace, logistics network and the Mercado Pago fintech; Q2 net revenue was $10.2B (+50% y/y), GMV $21.9B (+44%), TPV $101B (+56%), with operating income down 17% to $683M. The stock is riding Brazil's election: Flavio Bolsonaro leads Lula 52-48 in valid votes in Datafolha (Oct 8) and 52.8-47.2 in AtlasIntel/Bloomberg (Oct 9). Thursday Oct 15 it rose 0.97% to $1,856.98, ending a three-day slide; no company news found. Consensus target $2,276 (26 analysts, Buy), 23% upside.",
-    "risks": "The Oct 25 runoff is not decided: Datafolha's lead is within its 2-point margin, and a Lula win would unwind much of the post-vote gain. Margins are compressing as the $16B credit book (+75% y/y) and logistics build-out absorb revenue growth; Q2 profit fell while sales rose 50%. US 10-year yields near 5.09% tend to pull money out of Brazilian assets. Earnings move the stock sharply (-8.3% after Q2).",
-    "price_usd": 1856.98,
+    "thesis": "MercadoLibre runs Latin America's largest marketplace, logistics network and the Mercado Pago fintech; Q2 net revenue was $10.2B (+50% y/y), GMV $21.9B (+44%), TPV $101B (+56%), with operating income down 17% to $683M. The stock is riding Brazil's election: Flavio Bolsonaro leads Lula 52-48 in valid votes in Datafolha (Oct 8) and 52.8-47.2 in AtlasIntel/Bloomberg (Oct 9). Friday Oct 16 it fell 1.24% to $1,834.00, down only 3.0% on a week when the Nasdaq lost more than 4%; no company news found. Consensus target $2,276 (26 analysts, Buy), 24% upside.",
+    "risks": "The Oct 25 runoff is not decided: Datafolha's lead is within its 2-point margin, and a Lula win would unwind much of the post-vote gain. Margins are compressing as the $16B credit book (+75% y/y) and logistics build-out absorb revenue growth; Q2 profit fell while sales rose 50%. US 10-year yields near 5.1% tend to pull money out of Brazilian assets. Earnings move the stock sharply (-8.3% after Q2).",
+    "price_usd": 1834.0,
     "catalyst": "Brazil runoff Sun Oct 25 (results Mon Oct 26 morning AEDT); Q3 results Nov 4 (provisional per IR calendar).",
     "source": "https://stockanalysis.com/stocks/meli/history/",
     "added": "2026-08-24",
-    "updated": "2026-10-16"
+    "updated": "2026-10-17"
   },
   {
     "ticker": "NET",
@@ -156,13 +156,13 @@
     "sector": "Internet",
     "status": "accumulate",
     "conviction": "high",
-    "thesis": "Cloudflare runs a global edge network selling security, CDN, zero-trust and the Workers developer platform; trailing revenue is $2.51B, up 33.5%. Thursday Oct 15 it fell 2.47% to $316.32, a fourth down day, after a low of $305.01; no company news found. Security software (CrowdStrike, Palo Alto, Okta, Zscaler) weakened the same day on a report that Perplexity will open-source its security software. The price is below the $341 mean target (34 analysts, Buy), 8% upside; BTIG $413 and Oppenheimer $430 imply 31-36%. Q3 results listed for Oct 29 (estimated, not yet confirmed by the company).",
-    "risks": "Still up sharply this year, so the Q3 print has to beat and raise. The stock has had 38 moves of more than 5% in the past year; any wobble in Workers or AI-related monetisation would hit hard. Long-duration software multiples compress when yields rise, and open-source AI security tools are a new pricing question for the security group.",
-    "price_usd": 316.32,
-    "catalyst": "Q3 results ~Oct 29 (TBC). This is the pullback the earlier note said to wait for; adding into the print is a judgement call on rates.",
+    "thesis": "Cloudflare runs a global edge network selling security, CDN, zero-trust and the Workers developer platform; trailing revenue is $2.51B, up 33.5%. Friday Oct 16 it fell 6.33% to $296.30 (low $291.15), a fifth straight decline, and lost 17.9% on the week; no company news found. It opened at $319.00 and sold off with the Nasdaq (-2.1%). The mean target of $341 (34 analysts, Buy) is now 15% above the price; BTIG $413 and Oppenheimer $430 imply 39-45%. Q3 date still not announced (last year's notice came Oct 9 for an Oct 30 report).",
+    "risks": "Still up sharply this year, so the Q3 print has to beat and raise. The stock has had 38 moves of more than 5% in the past year, and three in the past five sessions; any wobble in Workers or AI-related monetisation would hit hard. Long-duration software multiples compress when yields rise, and December hike odds rose to 74.3% (CME via CBS). Open-source AI security tools are a new pricing question for the security group.",
+    "price_usd": 296.3,
+    "catalyst": "Q3 results ~Oct 29 (estimated; not yet announced by the company). This is the pullback the earlier note said to wait for; adding before the print is a judgement call on rates.",
     "source": "https://stockanalysis.com/stocks/net/history/",
     "added": "2026-08-24",
-    "updated": "2026-10-16"
+    "updated": "2026-10-17"
   },
   {
     "ticker": "SE",
@@ -171,13 +171,13 @@
     "sector": "Internet",
     "status": "accumulate",
     "conviction": "medium",
-    "thesis": "Sea runs Shopee (e-commerce), SeaMoney (digital finance) and Garena (games) across Southeast Asia and Brazil; trailing revenue is $27.7B, up 43.1%. Thursday Oct 15 it rose 2.30% to $97.50, its best day in the group, with no company news found. Forward PE is 22 against 40%+ revenue growth, market cap $58B. Mean target $154.93 (29 analysts, Strong Buy) implies 59% upside; DBS Hold $105 and Arete Buy $152 bracket the range.",
-    "risks": "Q2 EPS missed and the stock has drifted for a year; the market wants margin proof from Shopee as it fights TikTok Shop and Temu. Currency and credit-quality risk in the Brazil and Indonesia lending book. No company news Oct 13-16; thesis and status unchanged.",
-    "price_usd": 97.5,
+    "thesis": "Sea runs Shopee (e-commerce), SeaMoney (digital finance) and Garena (games) across Southeast Asia and Brazil; trailing revenue is $27.7B, up 43.1%. Friday Oct 16 it opened at $99.34 and touched $100.00, then fell 3.83% to $93.77 with the market; down 1.6% on the week, the smallest loss on the watchlist. No company news found. Forward PE is 22 against 40%+ revenue growth, market cap $58B. Mean target $154.93 (29 analysts, Strong Buy) implies 65% upside; DBS Hold $105 and Arete Buy $152 bracket the range.",
+    "risks": "Q2 EPS missed and the stock has drifted for a year; the market wants margin proof from Shopee as it fights TikTok Shop and Temu. Currency and credit-quality risk in the Brazil and Indonesia lending book. Indonesia's market fell over 10% on Oct 16 on a market-downgrade warning, a reminder of the region's index risk. No company news Oct 13-17; thesis and status unchanged.",
+    "price_usd": 93.77,
     "catalyst": "Q3 results ~Nov 10 (TBC).",
     "source": "https://stockanalysis.com/stocks/se/history/",
     "added": "2026-08-24",
-    "updated": "2026-10-16"
+    "updated": "2026-10-17"
   },
   {
     "ticker": "1211",
@@ -186,13 +186,13 @@
     "sector": "Machinery",
     "status": "watch",
     "conviction": "medium",
-    "thesis": "BYD is the largest NEV maker with in-house batteries and chips and a growing export push; September sales were 463,561 (+17%). Hong Kong closed Thursday Oct 15 at HK$72.95 (+0.14%) after a low of HK$71.80, and was HK$73.55 (+0.82%, about US$9.37 at 7.847 HKD/USD) at 14:45 HKT Friday, intraday with the close at 16:00 HKT (19:00 AEDT). The Da Han flagship EV launched Oct 13 at 235,900-275,900 yuan, up to 24,000 yuan below its pre-sale prices. JPMorgan Neutral HK$88 implies 20% upside. CnEVPost has not published weekly China registrations for Oct 5-11 or Oct 12-18.",
-    "risks": "The domestic price war keeps margins under pressure: the Da Han launched up to 24,000 yuan below its own pre-sale prices. The Oct 12 China-EU deal curbs Chinese hybrid exports ('several million cars over four years' per the EU; caps and price floors still being negotiated, no new details found Oct 15-16); BYD is the largest Chinese hybrid exporter to Europe. A close below HK$71.40 (52-week low) would be the signal to step back; Thursday's low was HK$0.40 above it. Friday's figure is intraday, not the final close.",
-    "price_usd": 9.37,
-    "catalyst": "Paris Motor Show to Oct 18; China Q3 GDP and activity data Mon Oct 19, 13:00 AEDT; weekly China registrations (not yet published for October); EU hybrid-cap implementation rules (no date); Q3 results late October (date not found).",
+    "thesis": "BYD is the largest NEV maker with in-house batteries and chips and a growing export push; September sales were 463,561 (+17%). Hong Kong closed Friday Oct 16 at HK$73.75 (+1.10%, about US$9.40 at 7.848 HKD/USD), down 2.4% on the week. CnEVPost reported Oct 16 that BYD picked Sime Darby's Inokom plant for local CKD assembly in Malaysia (models and timing not announced), and BYD's share of China's EV battery installs was 21.09% in September versus CATL's 40.92%. The second-generation Seagull launches Oct 20. JPMorgan Neutral HK$88 implies 19% upside. CnEVPost has not published weekly China registrations for Oct 5-11 or Oct 12-18.",
+    "risks": "The domestic price war keeps margins under pressure: the Da Han launched up to 24,000 yuan below its own pre-sale prices, and the Seagull is its cheapest volume model. The Oct 12 China-EU deal curbs Chinese hybrid exports (caps and price floors still being negotiated, no new details found Oct 15-17); BYD is the largest Chinese hybrid exporter to Europe. A close below HK$71.40 (52-week low) would be the signal to step back; Friday's close is HK$2.35 above it.",
+    "price_usd": 9.4,
+    "catalyst": "China Q3 GDP and activity data Mon Oct 19, 13:00 AEDT; second-gen Seagull launch Tue Oct 20, 19:00 Beijing (22:00 AEDT); weekly China registrations (not yet published for October); EU hybrid-cap rules (no date); Q3 results late October (date not found).",
     "source": "https://stockanalysis.com/quote/hkg/1211/history/",
     "added": "2026-09-27",
-    "updated": "2026-10-16"
+    "updated": "2026-10-17"
   },
   {
     "ticker": "6861",
@@ -201,13 +201,13 @@
     "sector": "Machinery",
     "status": "buy",
     "conviction": "high",
-    "thesis": "Keyence sells machine-vision, sensors and measurement gear direct to factories with industry-leading margins and no debt; trailing revenue is JPY 1.25T, up 16.9%. Friday Oct 16 it closed at JPY 80,760 (+2.27%, about US$511 at 158.09 JPY/USD), recovering all of Thursday's 1.69% fall after a high of JPY 81,710; no company news found. TSMC's Oct 15 call (N2 capacity to more than double in 2027, 3nm capacity additions in Taiwan, Arizona and Japan) points to continued fab and electronics-assembly spending, a core Keyence end market. Mean target of JPY 97,867 (15 analysts, Strong Buy) implies 21% upside. Fiscal Q2 results listed for Oct 29 (StockAnalysis; treat as TBC).",
-    "risks": "Capex-cycle sensitivity: a slowdown in China or US factory automation shows up in orders within a quarter; TSMC flagged pressure in consumer and price-sensitive markets going into 2027. A stronger yen cuts reported overseas revenue. Tokyo-only listing with no ADR, so execution is harder for an Australian buyer. No company news found Oct 13-16; status unchanged.",
-    "price_usd": 510.86,
-    "catalyst": "Fiscal Q2 results ~Oct 29 (TBC).",
+    "thesis": "Keyence sells machine-vision, sensors and measurement gear direct to factories with industry-leading margins and no debt; trailing revenue is JPY 1.25T, up 16.9%. Friday Oct 16 it closed at JPY 80,760 (+2.27%, about US$511 at 157.99 JPY/USD), recovering all of Thursday's 1.69% fall; no company news found. Tokyo closed before Friday's US chip selloff, so Monday's open will reflect it. TSMC's Oct 15 call (N2 capacity to more than double in 2027, 3nm additions in Taiwan, Arizona and Japan) points to continued fab and electronics-assembly spending, a core Keyence end market. Mean target of JPY 97,867 (15 analysts, Strong Buy) implies 21% upside. Fiscal Q2 results listed for Oct 29 (StockAnalysis; treat as TBC).",
+    "risks": "Capex-cycle sensitivity: a slowdown in China or US factory automation shows up in orders within a quarter; TSMC flagged pressure in consumer and price-sensitive markets going into 2027. A stronger yen cuts reported overseas revenue. Friday's US semiconductor selloff (Nasdaq -2.1%) has not yet traded in Tokyo. Tokyo-only listing with no ADR, so execution is harder for an Australian buyer. No company news found Oct 13-17; status unchanged.",
+    "price_usd": 511.16,
+    "catalyst": "Tokyo open Mon Oct 19 (11:00 AEDT); BOJ decision Oct 30; fiscal Q2 results ~Oct 29 (TBC).",
     "source": "https://stockanalysis.com/quote/tyo/6861/history/",
     "added": "2026-08-24",
-    "updated": "2026-10-16"
+    "updated": "2026-10-17"
   },
   {
     "ticker": "ASML",
@@ -216,13 +216,13 @@
     "sector": "Machinery",
     "status": "buy",
     "conviction": "high",
-    "thesis": "ASML is the only supplier of EUV lithography tools for leading-edge chips. Q3 2026 (Oct 14): net sales EUR 11.66B (record; a touch under the EUR 11.72B consensus), gross margin 57.5%, net income EUR 4.96B; Q4 guide EUR 14.2-15.2B at about 57%, lifting 2026 to EUR 44-45B, and the CEO said 2027-28 supply 'will not fully meet the demand of our customers'. Thursday Oct 15 Amsterdam caught down to Wednesday's ADR drop, closing at EUR 1,464.20 (-4.19%), while the ADR edged up 0.45% to $1,657.44. TSMC, its largest EUV customer, said on its Oct 15 call that 2026-28 capex will be 'significantly higher' than the prior three years, 'tool price inflation is real', N2 capacity will more than double in 2027, A14 risk production is on track for 2027, and its second Arizona fab moves to volume in Q3 2027. Mean target $2,099 (42 analysts, Strong Buy), 27% upside. Status kept at buy/high: TSMC's capex comments are direct support for EUV orders.",
-    "risks": "Revenue was only in line, and expectations for a multi-year EUV cycle are high. Chip-equipment stocks lagged Thursday (Lam fell as much as 7% intraday, a ninth straight decline). TSMC gave no 2027 capex number and called its 2027 planning 'prudent'. China was about 20% of the business on the call and export rules can change. Supply, not demand, caps growth: any slip in the capacity build caps 2027-28 sales. Q4 needs a 26% step-up in sales from Q3.",
-    "price_usd": 1657.44,
+    "thesis": "ASML is the only supplier of EUV lithography tools for leading-edge chips. Q3 2026 (Oct 14): net sales EUR 11.66B (record; a touch under the EUR 11.72B consensus), gross margin 57.5%, net income EUR 4.96B; Q4 guide EUR 14.2-15.2B at about 57%, lifting 2026 to EUR 44-45B, and the CEO said 2027-28 supply 'will not fully meet the demand of our customers'. Friday Oct 16 Amsterdam rose 0.89% to EUR 1,477.20 before the US selloff, while the ADR slipped 0.96% to $1,641.52, holding up far better than US chip names (Broadcom -4.5%, AMD -6%); both lines fell 7.8% on the week. TSMC said Oct 15 that 2026-28 capex will be 'significantly higher' than the prior three years and 'tool price inflation is real'. Mean target $2,099 (42 analysts, Strong Buy), 28% upside. Status kept at buy/high.",
+    "risks": "Revenue was only in line, and expectations for a multi-year EUV cycle are high. Chip-equipment stocks remain under pressure (Teradyne -5.3% Friday, nine down days in ten). TSMC gave no 2027 capex number and called its 2027 planning 'prudent'. China was about 20% of the business on the call and export rules can change. Supply, not demand, caps growth: any slip in the capacity build caps 2027-28 sales. Q4 needs a 26% step-up in sales from Q3.",
+    "price_usd": 1641.52,
     "catalyst": "Lam Research Oct 21 (08:00 AEDT Thu Oct 22); interim dividend EUR 1.88 payable Nov 4; Q4 results January (date TBC).",
     "source": "https://stockanalysis.com/stocks/asml/history/",
     "added": "2026-08-24",
-    "updated": "2026-10-16"
+    "updated": "2026-10-17"
   },
   {
     "ticker": "TER",
@@ -231,13 +231,13 @@
     "sector": "Machinery",
     "status": "watch",
     "conviction": "medium",
-    "thesis": "Teradyne makes automated test equipment for AI accelerators, HBM memory and mobile chips, plus a robotics arm (Universal Robots, MiR); trailing revenue is $4.46B, up 57.9%. Thursday Oct 15 it fell 4.52% to $343.21, the worst of the watchlist, as chip-equipment names lagged the market; it is 23.6% below the Oct 2 close of $449.04 and has fallen eight of the last nine sessions. No company news found. TSMC's Oct 15 call is supportive on volume: N2 capacity to more than double in 2027, A14 risk production in 2027, and AI accelerator growth 'probably will be higher' than the mid-to-high-50s% guide; each new node and larger package adds test time. Mean target $446.47 (17 analysts, Buy) implies 30% upside; Baird's $420 Neutral is 22% above the price.",
-    "risks": "HBM test demand is a large part of the story, so the memory selloff (SK hynix -11% in Seoul Oct 15) hits Teradyne directly. Test spend is lumpy and concentrated in a few AI customers, and TSMC flagged weaker consumer markets for 2027, which touches mobile test. Robotics growth has lagged. The pullback makes the entry more interesting but does not change the status until Q3 shows memory-test orders holding.",
-    "price_usd": 343.21,
-    "catalyst": "Lam Research Oct 21 (08:00 AEDT Thu Oct 22); Q3 results ~Oct 27 after US close (estimated; company has not announced).",
+    "thesis": "Teradyne makes automated test equipment for AI accelerators, HBM memory and mobile chips, plus a robotics arm (Universal Robots, MiR); trailing revenue is $4.46B, up 57.9%; Q3 guidance is revenue $1.20-1.30B. Friday Oct 16 it fell 5.31% to $325.00, closing near the $324.09 low; it has fallen nine of the last ten sessions, lost 19.3% on the week and is 27.6% below the Oct 2 close of $449.04. No company news found. TSMC's Oct 15 call is supportive on volume: N2 capacity to more than double in 2027 and AI accelerator growth 'probably will be higher' than guided; each new node and larger package adds test time. Mean target $446.47 (17 analysts, Buy) implies 37% upside; Baird's $420 Neutral is 29% above the price.",
+    "risks": "HBM test demand is a large part of the story, so the memory selloff (SK hynix ADR -6.6% Friday, Micron -5.6%) hits Teradyne directly. Test spend is lumpy and concentrated in a few AI customers, and TSMC flagged weaker consumer markets for 2027, which touches mobile test. Robotics growth has lagged. The pullback makes the entry more interesting but does not change the status until Q3 shows memory-test orders holding.",
+    "price_usd": 325.0,
+    "catalyst": "Lam Research Oct 21 (08:00 AEDT Thu Oct 22); Q3 results date not yet announced (last year's notice came Oct 15 for an Oct 28 after-close report; ~Oct 27-28 estimated).",
     "source": "https://stockanalysis.com/stocks/ter/history/",
     "added": "2026-08-24",
-    "updated": "2026-10-16"
+    "updated": "2026-10-17"
   },
   {
     "ticker": "TSLA",
@@ -246,12 +246,12 @@
     "sector": "Machinery",
     "status": "watch",
     "conviction": "medium",
-    "thesis": "Tesla sells EVs and storage and is pivoting the story to robotaxi (Cybercab) and Optimus; trailing revenue is $103.6B, up 11.8%. Thursday Oct 15 it fell 1.29% to $362.44, a fourth straight decline, with no company news found. Tesla's 8-K confirms Q3 results after the close on Wed Oct 21 with a Q&A webcast at 5:30pm ET (08:30 AEDT Thu Oct 22); previews will focus on gross margin, the Cybercab production timeline and Optimus. The Cybercab is on show at the Paris Motor Show (to Oct 18). Mean target $396.57 (44 analysts) implies 9% upside. Whether the Roadster demo went ahead on Oct 15 could not be confirmed from a reliable source at this run.",
-    "risks": "Europe is getting harder: Tesla dropped the 'Full Self-Driving' name there after German pushback (Oct 9) and an EU-wide FSD decision is expected in December. Q2 EPS of $0.33 missed the $0.50 estimate, and at about 200x forward earnings a Q3 miss or soft Cybercab ramp commentary leaves little cushion. Product events have a history of 'sell the news' reactions; the Roadster has been delayed at least eight times since 2017 (Electrek). Status unchanged.",
-    "price_usd": 362.44,
-    "catalyst": "Paris Motor Show to Oct 18; Q3 results Wed Oct 21 after close, Q&A 5:30pm ET (08:30 AEDT Thu Oct 22), confirmed by 8-K; EU FSD decision expected December.",
-    "source": "https://www.sec.gov/Archives/edgar/data/0001318605/000162828026064366/exhibit991111111.htm",
+    "thesis": "Tesla sells EVs and storage and is pivoting the story to robotaxi (Cybercab) and Optimus; trailing revenue is $103.6B, up 11.8%. It unveiled the next-generation Roadster on Thursday evening Oct 15 at SpaceX's McGregor, Texas test site, showing short-burst flight on compressed-air thrusters and a claimed 0-60 mph of 0.81 seconds, with production 'in 2028, actually' per Musk. Friday Oct 16 it opened at $369.15 and hit $385.51 (+6.4%) before reversing to close down 2.13% at $354.72 in the tech selloff, a fifth straight decline and -7.3% on the week. Q3 results come Wed Oct 21 after the close with a Q&A at 5:30pm ET (08:30 AEDT Thu Oct 22); previews focus on gross margin, the Cybercab ramp and Optimus. Mean target $396.57 (44 analysts) implies 12% upside.",
+    "risks": "The Roadster is a 2028 product with no stated price, so it adds nothing to near-term numbers; Deepwater's Gene Munster called it an 'engineering flex'. Europe is getting harder: Tesla dropped the 'Full Self-Driving' name there after German pushback (Oct 9) and an EU-wide FSD decision is expected in December. Q2 EPS of $0.33 missed the $0.50 estimate, and at about 200x forward earnings a Q3 miss leaves little cushion. Friday's 8-point intraday reversal shows 'sell the news' is still the pattern. Status unchanged.",
+    "price_usd": 354.72,
+    "catalyst": "Q3 results Wed Oct 21 after close, Q&A 5:30pm ET (08:30 AEDT Thu Oct 22), confirmed by 8-K; EU FSD decision expected December.",
+    "source": "https://www.investing.com/news/stock-market-news/tesla-unveils-new-roadster-with-flight-capabilities-set-for-production-in-2028-4952962",
     "added": "2026-09-27",
-    "updated": "2026-10-16"
+    "updated": "2026-10-17"
   }
 ]

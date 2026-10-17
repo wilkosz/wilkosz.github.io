@@ -1,112 +1,112 @@
 {
-  "as_of": "2026-10-16T07:50",
-  "market_summary": "US September PPI ran far hotter than expected: +1.3% m/m (0.5-0.6% expected), the biggest jump since March 2022, and 6.3% y/y, with core +0.7% (0.3% expected); retail sales rose 0.8% (0.3-0.4% expected) but the control group only 0.1% (0.3% expected), jobless claims were 199K, Philly Fed 20.9 (32 expected) and Empire State 25.5 (10.3 expected). Bonds rallied anyway, the 10-year falling about 10bp to 5.09%, and money rotated out of chips into old-economy names: Thursday's close was S&P 500 +0.33% to 7,744.06, Nasdaq +0.08% to 26,713.03 and Dow +1.08% to 52,177.69, while the chip index fell 0.88% for a seventh straight loss, TSMC's ADR fell 1.8% despite its record quarter, Nvidia -1.8%, Dell -6.8%, HPE -7.1%, and CoreWeave closed +5.9% after Jensen Huang backed it. CME FedWatch put an Oct 28 hike at about 30-34% after the data and at least one hike by December near 94%; Hammack said the Fed may need to move more if inflation expectations slip, and Warsh in Bangkok declined to signal October, saying the Fed will 'make judgements at the October and December meeting'. Friday in Asia chips steadied rather than rebounded: KOSPI +2.05% as foreigners turned net buyers after eight selling sessions (Samsung +2.6%, SK hynix +0.8% after -10-11% Thursday), Taiex +0.3% to 47,111.26 (TSMC -0.8%), Nikkei up about 1.4-1.9%, Shanghai about +1% to 3,742.66, Hang Seng +1.2% to 24,353.69 (afternoon) and ASX 200 +1.1% to 8,812.9, while Jakarta fell more than 10% on an MSCI downgrade warning. US futures were little changed; Brent was about $105.5 and WTI $97.4 (both about -0.5%) after WTI rose 2.8% Thursday on an 8.5M-barrel US crude draw and Trump floated easing shadow-fleet tanker sanctions; spot gold about $4,180 (+0.2%), bitcoin about $82,000. Next: import prices 23:30 AEDT tonight and industrial production 00:15 AEDT Sat; US open 00:30 AEDT Sat; options expiry Fri US (close 07:00 AEDT Sat); FOMC blackout from Sat Oct 17; China Q3 GDP, retail sales and industrial output 13:00 AEDT Mon Oct 19; Netflix 07:01 AEDT Wed Oct 21; SAP 07:05, Meta and TI 07:30, IBM and Lam 08:00, Tesla 08:30 AEDT Thu Oct 22; AU CPI 11:30 AEDT Wed Oct 28; Fed decision 05:00 AEDT Thu Oct 29; Alphabet 07:30, ServiceNow 08:00 and Microsoft 08:30 AEDT Thu Oct 29; US Q3 GDP and September PCE 23:30 AEDT Thu Oct 29; BoJ decision Fri Oct 30.",
+  "as_of": "2026-10-17T07:50",
+  "market_summary": "Friday's US close was a broad tech sell-off: S&P 500 -1.1% to 7,659.44, Nasdaq -2.1% to 26,140.03 and Dow -0.3% to 52,002.41; for the week the Nasdaq lost 4.5% (worst week since June), the S&P 500 1.9% and the Russell 2000 3.0%, while the Dow gained 0.7%. The Philadelphia semiconductor index fell 3.83% to 11,137.29, an eighth straight loss and the longest streak since 2008; it is down 15.7% from Oct 6 and 23.9% below its June record (Nvidia -10.5% and Micron -15.9% since Oct 6, TSMC's ADR -2.3% Friday), with AI-financing worries, China memory competition and oil cited. Rates did not drive it: the 10-year sat near 5.09-5.11%, down from 5.27% on Oct 6, and October hike odds fell to about 15-16% (from about a third Thursday) after Warsh gave no signal, while futures still lean to a December hike (about 74% on CME FedWatch per AP; one money-market read about 89%); Friday data were firm, with September import prices +1.1% (fuel +4.8%) and industrial production +0.7% (0.4% expected). Brent touched $110 for the first time since May and settled at $109.86 (+3.7%, about +5% on the week) and WTI at $101.41 (+3.5%, over +10% on the week) as Iran stepped up Hormuz attacks and the Houthis fired on Saudi Arabia; the UK monitor counted 10 Hormuz attacks this week and a tanker was hit off Saudi Arabia on Friday. Gold was about $4,165-4,180, bitcoin about $81,500, the VIX near 20; in Hong Kong on Friday the Hang Seng closed +0.52% at 24,186.83 and HS Tech +1.16% at 4,108.24. The FOMC blackout started today, so no Fed speakers before the decision. Next: China Q3 GDP (4.4% y/y expected), retail sales and industrial output 13:00 AEDT Mon Oct 19; Netflix 07:01 AEDT Wed Oct 21; SAP 07:05, Meta and TI 07:30, IBM and Lam 08:00, Tesla 08:30 AEDT Thu Oct 22; US leading index 01:00 AEDT Fri Oct 23; Spotify Q&A 23:00 AEDT Thu Oct 22; US flash PMIs 00:45 and UMich final 01:00 AEDT Sat Oct 24; AU CPI 11:30 AEDT Wed Oct 28; Fed decision 05:00 AEDT Thu Oct 29.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "Up 0.3% Thursday as the Dow led (+1.1%) and the Nasdaq edged up 0.1% after hot PPI. No follow-up found on the WSJ-reported Decart talks (about $7 billion, unsigned). Q3 about Fri Oct 30 07:00 AEDT. Hold.",
-      "price_usd": 254.76,
-      "updated": "2026-10-16"
+      "reason": "Down 1.9% Friday and 4.7% for the week as the Nasdaq fell 2.1% on doubts over AI-infrastructure payback and tech borrowing. No company news found for Oct 16-17. Q3 about Fri Oct 30 07:00 AEDT. Hold.",
+      "price_usd": 250.0,
+      "updated": "2026-10-17"
     },
     "AXOS": {
       "take": "hold",
-      "reason": "Up 1.1% Thursday as bonds rallied despite hot PPI (+1.3% m/m): the 10-year fell about 10 basis points to 5.09% and October hike odds eased to about 27%. Bank results were mixed (BNY +3.2%, Schwab -2.7%). Fiscal Q1 Fri Oct 30 08:00 AEDT. Hold.",
-      "price_usd": 87.52,
-      "updated": "2026-10-16"
+      "reason": "Up 0.7% Friday and down only 0.3% for the week, the steadiest holding. The 10-year yield held near 5.09% while stocks fell, and October hike odds eased to about 17%. Fiscal Q1 Fri Oct 30 08:00 AEDT. Hold.",
+      "price_usd": 88.14,
+      "updated": "2026-10-17"
     },
     "BABA": {
       "take": "hold",
-      "reason": "US ADR flat (-0.04%) Thursday. Tim Cook said in Shanghai that Apple Intelligence with Alibaba's Qwen is approved in China, with a beta due later in October, and Alibaba rose more than 2% at Friday's Hong Kong open. China Q3 GDP Mon Oct 19 13:00 AEDT. Hold.",
-      "price_usd": 111.13,
-      "updated": "2026-10-16"
+      "reason": "US ADR fell 1.8% Friday (-2.0% week) with the US tech selloff, after Hong Kong shares rose 2.3% earlier Friday as the Hang Seng Tech index gained 1.2%. The Qwen-powered Apple Intelligence beta is still due in China later in October. China Q3 GDP Mon Oct 19 13:00 AEDT. Hold.",
+      "price_usd": 109.11,
+      "updated": "2026-10-17"
     },
     "ENPH": {
       "take": "watch",
-      "reason": "Up 5.0% Thursday, recovering about half of Wednesday's 8.4% loss, as the 10-year yield fell about 10 basis points to 5.09%. No company news found. Q3 call Wed Oct 28 07:30 AEDT. Watch.",
-      "price_usd": 30.82,
-      "updated": "2026-10-16"
+      "reason": "Down 0.6% Friday and 6.7% for the week, a choppy run that included -8.4% Wednesday and +5.0% Thursday. No company news found. Q3 call Wed Oct 28 07:30 AEDT. Watch.",
+      "price_usd": 30.62,
+      "updated": "2026-10-17"
     },
     "FIGR": {
       "take": "hold",
-      "reason": "Up 10.5% Thursday, more than reversing Wednesday's 8.1% drop, as bond yields fell and Mortgage News Daily's 30-year dropped 0.12 points to 7.33%. No company news found. Still near its 52-week low, so the watch flag stays live; Q3 date not yet announced. Hold.",
-      "price_usd": 27.67,
-      "updated": "2026-10-16"
+      "reason": "Down 2.0% Friday after Thursday's 10.5% jump, leaving it 4.9% lower for the week. Mortgage News Daily's 30-year ticked up 0.04 points to 7.37% Friday but is still 0.27 points below Oct 7. No company news found; still near its 52-week low, so the watch flag stays live. Hold.",
+      "price_usd": 27.13,
+      "updated": "2026-10-17"
     },
     "GOOGL": {
       "take": "add",
-      "reason": "Up 0.5% Thursday. TSMC raised its 2026 growth outlook to about 44% and said AI demand still exceeds supply, with AI accelerator growth likely above its mid-to-high-50s% long-run rate, which supports the TPU and Cloud build-out. Q3 results 07:30 AEDT Thu Oct 29. Add stays.",
-      "price_usd": 349.22,
-      "updated": "2026-10-16"
+      "reason": "Down 2.5% Friday and 3.1% for the week as AI-linked names sold off on spending and debt worries. Nothing company-specific changed, and TSMC's raised 2026 outlook (about 44% growth, AI demand above supply) still supports the TPU and Cloud case. Q3 results 07:30 AEDT Thu Oct 29. Add stays.",
+      "price_usd": 340.59,
+      "updated": "2026-10-17"
     },
     "LDI": {
       "take": "trim",
-      "reason": "Up 14.4% Thursday after falling 10.7% Wednesday, as Mortgage News Daily's 30-year fell 0.12 points to 7.33%, now more than 0.25 points below last week's highs. One day does not fix the problem: the stock remains under the NYSE minimum-price standard and MND warns the rate relief may not last. Trim.",
-      "price_usd": 0.567,
-      "updated": "2026-10-16"
+      "reason": "Down 5.8% Friday, giving back much of Thursday's 14.4% jump, and 5.0% lower for the week. Mortgage News Daily's 30-year rose 0.04 points to 7.37% Friday, and the stock remains under the NYSE minimum-price standard. Trim.",
+      "price_usd": 0.5344,
+      "updated": "2026-10-17"
     },
     "META": {
       "take": "hold",
-      "reason": "Down 0.1% Thursday. Meta released Muse Spark Open, an 816-billion-parameter open-weight model built with Apple to run locally on Mac Studio, three days after the closed Muse Wonder. No New Mexico penalty ruling found. Q3 call Thu Oct 22 07:30 AEDT. Hold.",
-      "price_usd": 736.72,
-      "updated": "2026-10-16"
+      "reason": "Down 3.7% Friday and 1.3% for the week as AI spenders sold off and CoreWeave, a major Meta compute supplier, fell more than 11% on credit fears. No company news found. Q3 call Thu Oct 22 07:30 AEDT, where capex guidance is the test. Hold.",
+      "price_usd": 709.33,
+      "updated": "2026-10-17"
     },
     "MRVL": {
       "take": "hold",
-      "reason": "Down 1.7% Thursday as chip stocks lagged a broader rebound, after Wednesday's 8.7% fall. TSMC's call supports custom-chip demand: 2026 growth raised to about 44%, AI demand above supply, and CoWoS capacity to be expanded to meet orders. Hold.",
-      "price_usd": 241.24,
-      "updated": "2026-10-16"
+      "reason": "Down 5.6% Friday and 17.2% for the week, the worst holding, as chip stocks fell on doubts that AI-infrastructure spending will pay off. No company news found; TSMC's call still points to custom-chip demand above supply. Hold, but this is now the biggest weekly drawdown in the book.",
+      "price_usd": 227.83,
+      "updated": "2026-10-17"
     },
     "MU": {
       "take": "watch",
-      "reason": "Up 1.9% Thursday after an intraday fall of more than 6% to its lowest since Aug 11, ending a four-day losing run. HSBC and Daiwa said the CXMT threat is overstated for the next 2-3 years, but SK hynix still fell 1% and the stock is down about 10% since Oct 9. Taiwan union rally Mon Oct 19. Watch.",
-      "price_usd": 931.24,
-      "updated": "2026-10-16"
+      "reason": "Down 5.6% Friday and 14.6% for the week as CXMT DRAM fears and AI-spending doubts hit memory again. Micron's COO said the new Taichung plant's 2027 capacity is sold out, and Taiwan's president urged both sides to negotiate. Union rally in Taipei Mon Oct 19; Taichung mediation Thu Oct 22. Watch.",
+      "price_usd": 878.84,
+      "updated": "2026-10-17"
     },
     "NFLX": {
       "take": "hold",
-      "reason": "Up 2.9% Thursday, a second straight gain on down-to-flat tech days, with no new company news after Wednesday's confirmed 6% job cuts. Q3 results Wed Oct 21 07:00 AEDT. Hold into the print.",
-      "price_usd": 72.61,
-      "updated": "2026-10-16"
+      "reason": "Down 2.9% Friday but up 0.3% for the week, the only holding higher. Netflix named former Disney TV chair Peter Rice chief content officer from Oct 26, replacing Bela Bajaria, a day after confirming 6% job cuts. Q3 results Wed Oct 21 07:00 AEDT. Hold into the print.",
+      "price_usd": 70.53,
+      "updated": "2026-10-17"
     },
     "NVDA": {
       "take": "hold",
-      "reason": "Fell 1.8% Thursday as chips lagged. Jensen Huang said CoreWeave needs no backstop and its cost of capital is falling, even as CoreWeave's credit swaps hit a record. TSMC said AI accelerator growth will probably beat its mid-to-high-50s% rate. GTC Berlin Oct 20-22. Hold.",
-      "price_usd": 217.23,
-      "updated": "2026-10-16"
+      "reason": "Down 1.4% Friday and 6.6% for the week. CoreWeave fell more than 11% Friday with swaps pricing more than a 50% chance of default within five years, a day after Huang said it needed no backstop. GTC Berlin Oct 20-22. Hold.",
+      "price_usd": 214.13,
+      "updated": "2026-10-17"
     },
     "RKT": {
       "take": "watch",
-      "reason": "Up 5.1% Thursday, ending a five-day losing run, as Mortgage News Daily's 30-year fell 0.12 points to 7.33% and the 10-year yield dropped about 10 basis points. MND warns the rate relief is fragile because it rests on AI-selloff fears, not softer inflation. Q3 around Oct 29. Watch.",
-      "price_usd": 11.07,
-      "updated": "2026-10-16"
+      "reason": "Down 2.6% Friday and 6.1% for the week. Mortgage News Daily's 30-year rose 0.04 points to 7.37% Friday, though it is 0.27 points lower than Oct 7, a gain MND ties to AI-selloff fears rather than softer inflation. Q3 around Oct 29. Watch.",
+      "price_usd": 10.78,
+      "updated": "2026-10-17"
     },
     "TSM": {
       "take": "add",
-      "reason": "TSMC raised 2026 growth to about 44% in US dollars, kept capex at $60-64 billion, and said AI demand still exceeds supply. The ADR still fell 1.8% Thursday and Taipei shares 0.8% Friday on a cautious 2027 tone and overseas-fab margin dilution of 3-4 points later in the decade. Add stays.",
-      "price_usd": 422.25,
-      "updated": "2026-10-16"
+      "reason": "ADR down 2.3% Friday and 9.0% for the week despite a record quarter, a 2026 growth outlook raised to about 44% and Q4 guidance above consensus. The selloff is about AI-spending sentiment, not TSMC's numbers. Add stays.",
+      "price_usd": 412.61,
+      "updated": "2026-10-17"
     },
     "STRIPE": {
       "take": "hold",
-      "reason": "No new round, tender or secondary mark found; the last company tender was February at $159 billion, so the mark multiple stays 2.27. No company news found for Oct 15-16. Hold.",
+      "reason": "No new round, tender or secondary mark found; the last tender was February at $159 billion, so the mark multiple stays 2.27. No company news found for Oct 16-17. Hold.",
       "price_usd": null,
-      "updated": "2026-10-16",
+      "updated": "2026-10-17",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "No close reported for the roughly $30 billion round at about $1.4 trillion pre-money, so the mark multiple stays 5.43. Nvidia is reportedly discussing backstopping $250 billion of OpenAI data-centre financing; neither side has confirmed. Hold.",
+      "reason": "No close found for the roughly $30 billion round at about $1.4 trillion pre-money, so the mark multiple stays 5.43. Reuters reports Anthropic investors now discuss a lower IPO valuation (about $1.5 trillion, down from about $2 trillion) after its Q3 growth slowed, a softer read-across for AI-lab marks. Hold.",
       "price_usd": null,
-      "updated": "2026-10-16",
+      "updated": "2026-10-17",
       "mark_multiple": 5.43
     }
   },
   "headlines": [
-    "Hot US PPI (+1.3% m/m) but bonds rallied, 10-year down 10bp to 5.09%; loanDepot +14%, Figure +10%, Rocket +5%.",
-    "TSMC lifted 2026 growth to about 44% and sees no AI slowdown, yet its ADR fell 1.8% and Taipei 0.8%.",
-    "Chip index fell a seventh straight day: Nvidia -1.8%, Marvell -1.7%; Micron closed +1.9% after a 6% intraday drop.",
-    "CoreWeave credit swaps hit a record before Huang backed it; shares closed +5.9%, the neocloud bellwether stays bearish.",
-    "Asia steadied Friday: KOSPI +2.05%, Samsung +2.6%, SK hynix +0.8% after Thursday's 10-11% falls.",
-    "Next: China Q3 GDP Mon 13:00 AEDT; Netflix Wed 07:00 AEDT; Meta Thu 07:30 AEDT; Fed decision Thu Oct 29 05:00 AEDT."
+    "Nasdaq fell 2.1% Friday, its worst week since June (-4.5%); chip index down eight straight days, 24% off its June high.",
+    "Rough week for AI holdings: Marvell -17%, Micron -15%, TSMC ADR -9%, Nvidia -7%; Netflix the only holding up.",
+    "CoreWeave fell 11% Friday, about 25% on the week, as its 2031 bond yield topped 16%; neocloud bellwether stays bearish.",
+    "Reuters: some Anthropic investors now discuss a $1.5T IPO valuation, down from about $2T, after Q3 growth slowed to 45%.",
+    "Brent touched $110 on Hormuz and Saudi attacks; October Fed hike odds fell to about 15-17% after Warsh gave no signal.",
+    "Next: China Q3 GDP Mon 13:00 AEDT (4.4% expected); Netflix Wed 07:00 AEDT; Meta Thu 07:30 AEDT; Tesla Thu 08:30 AEDT."
   ]
 }
