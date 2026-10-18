@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-10-18",
+    "ticker": "MACRO",
+    "headline": "JPMorgan: big cloud firms spending about 93% of operating cash flow on AI",
+    "summary": "Weekend piece notes hyperscaler AI capex at about 93% of operating cash flow, up from 33% in 2023. Alphabet spent more cash than it took in last quarter, a first since its 2004 IPO.",
+    "source": "https://www.fool.com/investing/breakfast-news/2026/10/18/breakfast-news/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-17",
+    "ticker": "MACRO",
+    "headline": "Iran Guards say two tankers hit mines in Hormuz; no independent confirmation",
+    "summary": "Reuters via IRNA: two tankers carrying about 2m barrels caught fire after hitting mines on an unauthorised route. No confirmation from the US, UKMTO or the owners as of Sunday. Attacks near the strait have risen over two weeks.",
+    "source": "https://gcaptain.com/irans-guards-say-two-tankers-hit-mines-in-strait-of-hormuz/",
+    "impact": "negative"
+  },
+  {
     "date": "2026-10-17",
     "ticker": "NVDA",
     "headline": "CoreWeave ends week down 24% on debt fears",
@@ -621,22 +637,6 @@
     "headline": "Anthropic investor day Oct 14; still no public S-1, 132 days after the confidential filing",
     "summary": "Bloomberg-reported timeline: invited institutions meet executives at SF headquarters Oct 14, marketing could start the week of Nov 9, trading before Nov 26. A Nov 9 roadshow implies a public S-1 by about Oct 23. Last private valuation $965B (May); reported IPO talk $1.8-3T. Fortune-reported 2025 figures: revenue about $4.6B, operating loss $8.06B. Anthropic has not confirmed any of it.",
     "source": "https://financefeeds.com/anthropics-14-october-investor-day-nears-but-its-s-1-still-isnt-public-the-ipo-timeline-explained/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-12",
-    "ticker": "1211",
-    "headline": "BYD holds a world-premiere press conference at the Paris Motor Show tonight",
-    "summary": "Hall 6, 10:55-11:10 CEST (19:55 AEDT). One unnamed new model debuts, plus an update on France and Europe plans. The stand leads with the Dolphin G DM-i, BYD's first model designed for Europe (up to 105 km electric, 1,040 km combined WLTP), and the Shark pick-up (436 PS, 2,500 kg towing).",
-    "source": "https://www.byd.com/de/presse/byd-paris-motor-show-2026",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-12",
-    "ticker": "TSLA",
-    "headline": "Cybercab on show in Europe for the first time as Paris Motor Show opens",
-    "summary": "Paris runs Oct 12-18 (Oct 12 media only). Tesla shows a Cybercab from its US robotaxi fleet, Optimus Gen 2 and offers FSD (Supervised) test drives in six cars. No Europe Cybercab service announced; an EU-wide FSD recognition decision is now expected in December.",
-    "source": "https://driveteslacanada.ca/news/tesla-cybercab-paris-motor-show-2026/",
     "impact": "neutral"
   }
 ]

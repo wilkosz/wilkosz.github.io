@@ -1,112 +1,110 @@
 {
-  "as_of": "2026-10-18T00:05",
-  "market_summary": "Rates are the main weight: the 10-year ended the week near 5.10%, futures price about an 85% chance of a hold on Oct 28 but roughly 89% odds of a December hike, and the Fed is in blackout until the decision. The Nasdaq fell 4.5% for its worst week since June and the Philadelphia semiconductor index has dropped eight sessions straight, its longest run since October 2008, as investors question debt-funded AI capex (CoreWeave -25% on the week, CDS near 1,117bp). Brent closed Friday at $109.86, its highest since May, and on Saturday Iran's Guards said two loaded tankers hit mines in Hormuz (unconfirmed), so energy stays bid and inflation risk keeps pressure on long yields. China's Q3 GDP is expected at about 4.4%, below the 4.5-5% target, with BofA and others pointing to more stimulus. Next (AEDT): China GDP and activity data Mon 13:00; Netflix Wed 07:01; Meta, Tesla, Lam, IBM Thu 07:30-08:30; SK hynix Wed Oct 28 11:00; FOMC Thu Oct 29 05:00; Alphabet and Microsoft Thu Oct 29 07:30-08:30; Amazon Fri Oct 30 08:00.",
+  "as_of": "2026-10-18T13:55",
+  "market_summary": "Monday opens with no material weekend company news for the holdings; the backdrop is unchanged from Friday's risk-off close. The 10-year sits near 5.09-5.10%, markets price about 85% for an Oct 28 hold and about 89% for a Dec hike, and AI-credit worries persist as hyperscalers spend about 93% of operating cash flow on AI. Semis carry an 8-day SOX losing streak after a 4.5% Nasdaq weekly drop. Iran's Guards claimed Saturday that two tankers hit mines in Hormuz, unconfirmed by Sunday, keeping oil near Friday's $110 Brent risk alive. Next (AEDT): China Q3 GDP Mon 13:00 (poll 4.4%); Netflix Wed 07:00; Meta, Tesla, Lam, IBM Thu 07:30-08:30; SK hynix Wed Oct 28 11:00; FOMC Thu Oct 29 05:00; Alphabet/Microsoft Thu Oct 29; Amazon Fri Oct 30.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "No material weekend news. AI credit worries remain the backdrop after a weak tech week.",
+      "reason": "No new company news over the weekend. Q3 results Fri Oct 30 AEDT.",
       "price_usd": 250.0,
       "updated": "2026-10-18"
     },
     "AXOS": {
       "take": "hold",
-      "reason": "No weekend news found. Nothing changes the take.",
+      "reason": "No new company news over the weekend. Next: fiscal Q1 results due late Oct.",
       "price_usd": 88.14,
       "updated": "2026-10-18"
     },
     "BABA": {
       "take": "hold",
-      "reason": "No new weekend news. Analysts still expect AI cloud revenue to grow more than 50% in the September quarter.",
+      "reason": "No new company news over the weekend. China Q3 GDP Mon 13:00 AEDT sets the tone.",
       "price_usd": 109.11,
       "updated": "2026-10-18"
     },
     "ENPH": {
       "take": "watch",
-      "reason": "No weekend news found. Stays on watch.",
+      "reason": "No new company news over the weekend. Q3 results due late Oct.",
       "price_usd": 30.62,
       "updated": "2026-10-18"
     },
     "FIGR": {
       "take": "hold",
-      "reason": "No weekend news found. Nothing changes the take.",
+      "reason": "No new company news over the weekend. Q3 results due early Nov.",
       "price_usd": 27.13,
       "updated": "2026-10-18"
     },
     "GOOGL": {
       "take": "add",
-      "reason": "No material weekend news. The Gemini rollout from Oct 16 still supports adding on weakness.",
+      "reason": "No new company news over the weekend. Cloud grew 82% last quarter; Q3 results Thu Oct 29 AEDT.",
       "price_usd": 340.59,
       "updated": "2026-10-18"
     },
     "LDI": {
       "take": "trim",
-      "reason": "No weekend news. Mortgage rates near three-year highs and talk of another Fed hike keep the trim take.",
+      "reason": "No new company news over the weekend. Yields near 5.1% keep mortgage volumes under pressure.",
       "price_usd": 0.5344,
       "updated": "2026-10-18"
     },
     "META": {
       "take": "hold",
-      "reason": "No weekend news. Q3 results are due after the US close Wed Oct 21, around 07:00 AEDT Thu Oct 22.",
+      "reason": "No new company news over the weekend. Q3 call 07:30 AEDT Thu Oct 22, where capex guidance is the test. Hold.",
       "price_usd": 709.33,
       "updated": "2026-10-18"
     },
     "MRVL": {
       "take": "hold",
-      "reason": "No weekend news found. Trades with the chip group, which has been weak.",
+      "reason": "No new company news over the weekend. Semis on an 8-day losing streak; SK hynix Wed Oct 28 11:00 AEDT is the next read.",
       "price_usd": 227.83,
       "updated": "2026-10-18"
     },
     "MU": {
       "take": "watch",
-      "reason": "No new strike news over the weekend. The Taoyuan union rallies in Taipei on Mon Oct 19 and says it is not a strike. Taichung mediation is set for Thu Oct 22.",
+      "reason": "No new company news over the weekend. SK hynix results Wed Oct 28 11:00 AEDT are the next memory read.",
       "price_usd": 878.84,
       "updated": "2026-10-18"
     },
     "NFLX": {
       "take": "hold",
-      "reason": "No weekend news. Q3 results are due around 07:00 AEDT Wed Oct 21, after the US close on Tue Oct 20.",
+      "reason": "No new company news over the weekend. Q3 results Wed Oct 21 07:00 AEDT; consensus EPS growth about 39%.",
       "price_usd": 70.53,
       "updated": "2026-10-18"
     },
     "NVDA": {
       "take": "hold",
-      "reason": "No company news over the weekend. CoreWeave's 24% weekly fall and distressed bond yields keep AI credit risk in focus.",
+      "reason": "No new company news over the weekend. Hyperscaler results Oct 29-30 AEDT are the next capex check.",
       "price_usd": 214.13,
       "updated": "2026-10-18"
     },
     "RKT": {
       "take": "watch",
-      "reason": "No weekend news. Mortgage rates near three-year highs still weigh on volumes.",
+      "reason": "No new company news over the weekend. Rate-hike odds near 89% for Dec weigh on mortgage volumes.",
       "price_usd": 10.78,
       "updated": "2026-10-18"
     },
     "TSM": {
       "take": "add",
-      "reason": "No new weekend news after the strong Q3. The next data point is October revenue on Tue Nov 10.",
+      "reason": "No new company news over the weekend. Q3 already reported; next monthly sales early Nov.",
       "price_usd": 412.61,
       "updated": "2026-10-18"
     },
     "STRIPE": {
       "take": "hold",
-      "reason": "No new tender or round reported. The mark stays at the $159B February tender.",
+      "reason": "No new round or tender reported over the weekend.",
       "price_usd": null,
       "updated": "2026-10-18",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "No new round has closed. The reported $30B raise at a $1.4T pre-money valuation is still in early talks, so the mark stays at $852B.",
+      "reason": "No new round, tender or secondary mark reported over the weekend; the roughly $30B raise at about $1.4T pre-money has not closed, so the mark stays 5.43. Hold.",
       "price_usd": null,
       "updated": "2026-10-18",
       "mark_multiple": 5.43
     }
   },
   "headlines": [
-    "Weekend: Iran says two tankers hit Hormuz mines (unverified); Brent closed Friday at $109.86, its highest since May.",
-    "FT: Anthropic is offering Blackstone a coupon above 10% on $9B of its TPU lease debt.",
-    "Blackwell rents hit new highs: B200 $6.12/hr, B300 above $7, even as CoreWeave fell 25% on the week.",
-    "No material weekend news for any holding; all takes unchanged.",
-    "Watchlist cut to 15: Tesla and BYD dropped.",
-    "Next: China Q3 GDP Mon 13:00 AEDT (4.4% poll); Netflix Wed 07:00; Meta and Tesla Thu morning AEDT."
+    "Quiet weekend: no company news for any holding; all takes unchanged.",
+    "Iran's Guards say two tankers hit Hormuz mines; still unconfirmed by the US, UKMTO or owners.",
+    "JPMorgan: big cloud firms now spend about 93% of operating cash flow on AI, up from 33% in 2023.",
+    "Next: China Q3 GDP 13:00 AEDT today (4.4% poll); Netflix Wed 07:00; Meta and Tesla Thu morning AEDT."
   ]
 }
