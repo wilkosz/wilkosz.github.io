@@ -1,13 +1,11 @@
 {
-  "as_of": "2026-10-18T01:09",
-  "summary": "Quiet day for the existing wants: every Facebook find re-checked is still listed at the same price, and the dealer and auction sites turned up one new loader tractor. Two new wants went on today, a stick rake and pallet forks for the Lovol P5130 loader on loan from the dealer. Dealer pages say that loader is Euro hitch, and new Euro attachments are easy to find from $1,300 to $5,200.",
+  "as_of": "2026-10-18T13:39",
+  "summary": "Quiet 12 hours. The dealer and auction finds that could be read are all still listed, unchanged except the Grays beavertail trailer, which is drawing bids. Facebook could not be checked this run, so the Facebook finds are left as they were last night.",
   "headlines": [
-    "New want, pallet forks: Himac 1,800kg Euro, AS2359 tested, 1,220mm tynes, $2,421 inc GST, posted from Toowoomba.",
-    "New want, stick rake: new 2.1m heavy-duty Euro rake, $1,890 at Seymour, 320km. Berrigan maker has 2.4m rakes at $5,160, 160km.",
-    "New tractor: 2007 Claas Celtis 436, cab and loader, 3,404 hrs, $40,000 ONO at Tooborac, 330km. hp not stated.",
-    "JD 6630 Tottenham clearing sale is Friday 23 Oct, inspection Thursday; still no guide.",
-    "Grays RBM 7.8t beavertail closes Wednesday 22 Oct, bid $209, reserve not met.",
-    "Nothing sold overnight: all 35 Facebook finds still listed, same prices."
+    "Nothing new worth a call since last night.",
+    "Grays RBM 7.8t beavertail now $1,509 with 31 bids (was $209), reserve not met, closes Wed 22 Oct 8pm.",
+    "JD 6630 Tottenham clearing sale Fri 23 Oct, inspection Thu 22 Oct; still no guide.",
+    "Facebook not checked this run: Chrome did not respond."
   ],
   "finds": [
     {
@@ -453,8 +451,8 @@
       "key": "grays-0009-23502559",
       "want": "drop-deck-trailer",
       "title": "2011 RBM tandem beavertail tag trailer with ramps, carries 7.8 t",
-      "price_aud": 209,
-      "price_note": "Auction, now lot 17 (was lot 9, then 13). Current bid $209 with 5 bids on 18 Oct, reserve not met, 44 watching. Buyer's premium not included (16.5% between $5,501 and $27,500), plus an admin fee.",
+      "price_aud": 1509,
+      "price_note": "Auction, current bid $1,509 with 31 bids (was $209 with 5 on 18 Oct), reserve not met. Closes 22 Oct 8pm AEDT. Plus buyer's premium (16.5% between $5,501 and $27,500) and admin fee.",
       "location": "Dandenong South, VIC",
       "distance_km": 470,
       "detail": [
