@@ -275,6 +275,56 @@
         "https://www.bunnings.com.au/"
       ],
       "added": "2026-10-10"
+    },
+    {
+      "key": "stick-rake",
+      "title": "Stick rake for the Lovol P5130 front-end loader",
+      "short": "Stick rake, Lovol P5130 loader",
+      "status": "hunting",
+      "base": "darlington_point",
+      "max_km": 400,
+      "price_min": null,
+      "price_max": null,
+      "must": [
+        "loader-mounted stick rake (tine rake for timber, roots and debris), not a 3PL hay or landscape rake",
+        "fits the Lovol P5130 loader: Euro hitch, unless the dealer confirms a different quick hitch",
+        "rated for a 130hp loader tractor"
+      ],
+      "prefer": [
+        "about 2.0 to 2.4 m wide, no wider than the loader frame and front tyres",
+        "heavy box-section tines with replaceable or hardfaced tips",
+        "grapple or hold-down arm (only if the loader has a 3rd function)",
+        "local within 400km"
+      ],
+      "notes": "Lovol P5130 is on loan from the dealer for a month or two, so the attachment has to fit that loader now. Confirm the hitch type and the loader's rated lift with the dealer before buying. New Australian-made stick rakes and imports both count; quote freight for anything posted.",
+      "sources": [],
+      "added": "2026-10-18"
+    },
+    {
+      "key": "pallet-forks",
+      "title": "Pallet forks for the Lovol P5130 front-end loader",
+      "short": "Pallet forks, Lovol P5130 loader",
+      "status": "hunting",
+      "base": "darlington_point",
+      "max_km": 400,
+      "price_min": null,
+      "price_max": null,
+      "must": [
+        "loader pallet fork frame with two tines",
+        "fits the Lovol P5130 loader: Euro hitch, unless the dealer confirms a different quick hitch",
+        "rated at least 1,000 kg at 500-600 mm load centre"
+      ],
+      "prefer": [
+        "tines about 1,000 to 1,200 mm long, adjustable spacing",
+        "load-rated to AS2359 with a rating plate",
+        "back rest / load guard",
+        "local within 400km"
+      ],
+      "notes": "Lovol P5130 is on loan from the dealer for a month or two, so the forks have to fit that loader now. Confirm the hitch type and the loader's rated lift with the dealer; the forks' rating should not be far above the loader's. Benchmark: John Berends Euro hitch pallet forks (model 0298) from Pipeliner dealers.",
+      "sources": [
+        "https://www.pipeliner.com.au/detail/john-berends-front-end-loader-pallet-forks-eurohitch--0298-638564"
+      ],
+      "added": "2026-10-18"
     }
   ]
 }
