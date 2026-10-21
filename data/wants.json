@@ -140,6 +140,30 @@
       "notes": "Lovol P5130 is on loan from the dealer for a month or two, so the attachment has to fit that loader now. Confirm the hitch type and the loader's rated lift with the dealer before buying. New Australian-made stick rakes and imports both count; quote freight for anything posted.",
       "sources": [],
       "added": "2026-10-18"
+    },
+    {
+      "key": "diesel-storage",
+      "title": "Diesel storage, 200 to 1,000 L: fuel cart, drum, or tank and stand",
+      "short": "Diesel storage 200-1,000L",
+      "status": "hunting",
+      "base": "darlington_point",
+      "max_km": 400,
+      "price_min": null,
+      "price_max": null,
+      "must": [
+        "built for diesel storage: fuel cart or trailer, fuel drum, or fuel tank with stand",
+        "200 to 1,000 L capacity"
+      ],
+      "prefer": [
+        "pump, hose and nozzle included (12V or hand pump)",
+        "stand high enough to gravity-feed a tractor",
+        "steel or diesel-rated poly, self-bunded or double-skinned",
+        "lockable cap, fuel filter, meter",
+        "local within 400km"
+      ],
+      "notes": "Any of the three formats counts: a towable fuel cart, a drum with a pump, or a tank on a stand. Second-hand tanks should be clean and leak-free; say if the seller doesn't confirm that. No price band set, so new benchmarks are useful alongside used finds.",
+      "sources": [],
+      "added": "2026-10-22"
     }
   ]
 }
