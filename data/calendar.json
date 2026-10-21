@@ -1,56 +1,6 @@
 {
-  "as_of": "2026-10-18",
+  "as_of": "2026-10-21",
   "events": [
-    {
-      "key": "2026-10-17-fomc-blackout",
-      "date": "2026-10-17",
-      "time": "TBC (standing rule: second Saturday before the meeting through Oct 29)",
-      "ticker": "FED",
-      "title": "FOMC communications blackout begins ahead of Oct 27-28 meeting",
-      "type": "central_bank",
-      "why": "No Fed speakers from Oct 17 until the Oct 28 decision, so the hike-vs-hold debate moves to the data (housing starts, claims, flash PMI) and Treasury auctions.",
-      "link": "https://www.federalreserve.gov/newsevents/2026-october.htm"
-    },
-    {
-      "key": "2026-10-17-hormuz-tanker-mines",
-      "date": "2026-10-17",
-      "time": "Saturday (reported Sat AEDT evening / Sun morning)",
-      "ticker": "MACRO",
-      "title": "Iran's Guards say two oil tankers caught fire after hitting mines in Hormuz (unverified)",
-      "type": "other",
-      "why": "IRNA says each carried about 2M barrels; no independent confirmation. Follows a week of record attacks and Brent's $109.86 close Friday, so oil could open higher Monday.",
-      "link": "https://boereport.com/2026/10/17/irans-guards-say-two-tankers-hit-mines-in-strait-of-hormuz/"
-    },
-    {
-      "key": "2026-10-19-china-gdp",
-      "date": "2026-10-19",
-      "time": "10:00 Beijing Mon (13:00 AEDT Mon; 22:00 ET Sun Oct 18)",
-      "ticker": "MACRO",
-      "title": "China Q3 GDP (NBS): Reuters poll 4.4% y/y, 1.1% q/q",
-      "type": "macro",
-      "why": "Q2 was 4.3%; a second quarter below 4.5% would add pressure for stimulus. Growth read for BABA, BYD and China-exposed semis. Release time 0200 GMT confirmed by Reuters.",
-      "link": "https://kfgo.com/2026/10/15/china-q3-growth-set-to-pick-up-on-stimulus-keeping-2026-goal-within-reach-reuters-poll/"
-    },
-    {
-      "key": "2026-10-19-tceq-compliance",
-      "date": "2026-10-19",
-      "time": "Deadline, no time set",
-      "ticker": "MACRO",
-      "title": "Texas TCEQ compliance report due under Abbott's data-center permit freeze",
-      "type": "other",
-      "why": "A reporting deadline, not an end to the pause; shows how broadly the freeze reaches (including island-mode generation) for GEV, VRT and Texas AI campuses.",
-      "link": "https://www.texastribune.org/2026/09/21/texas-data-center-moratorium-water-energy/"
-    },
-    {
-      "key": "2026-10-19-china-activity-data",
-      "date": "2026-10-19",
-      "time": "10:00 Beijing (13:00 AEDT Mon; 22:00 ET Sun Oct 18); house prices 09:30 Beijing",
-      "ticker": "MACRO",
-      "title": "China September industrial production, retail sales, fixed-asset investment and 70-city house prices (with Q3 GDP)",
-      "type": "macro",
-      "why": "The activity data behind the Q3 GDP print; retail sales test whether the Golden Week and the Hong Kong rebound have consumer spending behind them for the China internet names.",
-      "link": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html"
-    },
     {
       "key": "2026-10-20-byd-seagull",
       "date": "2026-10-20",
@@ -296,10 +246,10 @@
       "date": "2026-10-28",
       "time": "14:00 ET statement, 14:30 ET press conference (05:00 / 05:30 AEDT Thu Oct 29)",
       "ticker": "FED",
-      "title": "FOMC decision (meeting Oct 27-28): October hike odds about 15-16% after Warsh gave no signal",
+      "title": "FOMC decision (meeting Oct 27-28, no projections)",
       "type": "central_bank",
-      "why": "Odds fell from about a third after Thursday's hot PPI; December hike still about 89% priced. Blackout from Oct 17.",
-      "link": "https://www.fxstreet.com/news/gold-stumbles-as-us-yields-eclipse-fading-october-fed-hike-bets-202610161921"
+      "why": "Two-day Oct 27-28 meeting with no dot plot; markets lean to a hold now and a hike at the Dec 8-9 meeting.",
+      "link": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
     },
     {
       "key": "2026-10-28-gev-q3",
@@ -332,13 +282,13 @@
       "link": "https://www.abs.gov.au/release-calendar/future-releases"
     },
     {
-      "key": "2026-10-28-meta-msft-q3",
+      "key": "2026-10-28-msft-q1-fy27",
       "date": "2026-10-28",
       "time": "After US close; webcast 14:30 PT / 17:30 ET (08:30 AEDT Thu Oct 29)",
       "ticker": "MSFT",
       "title": "Microsoft fiscal Q1 2027 results and webcast",
       "type": "earnings",
-      "why": "Azure growth and capex guidance the same evening as Alphabet and ServiceNow; webcast time from Microsoft's Oct 7 release.",
+      "why": "Azure growth and a capex guide above $50B a quarter, the same evening as Alphabet and ServiceNow.",
       "link": "https://finviz.com/news/400058/microsoft-announces-quarterly-earnings-release-date"
     },
     {
@@ -384,12 +334,12 @@
     {
       "key": "2026-10-29-keyence-q2",
       "date": "2026-10-29",
-      "time": "TBC (estimated date)",
+      "time": "After Tokyo close, time TBC (about 17:30 AEDT Thu; 02:30 ET)",
       "ticker": "6861",
-      "title": "Keyence fiscal Q2 results",
+      "title": "Keyence fiscal Q2 (half-year) results",
       "type": "earnings",
-      "why": "StockAnalysis lists Oct 29 (previous refresh had Oct 28-29). Order trends in China and US automation.",
-      "link": "https://stockanalysis.com/quote/tyo/6861/"
+      "why": "Date on Keyence's IR calendar, matching last year's Oct 29; factory-automation orders in China and the US.",
+      "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/keyence-stock-results-due-october-29-for-keyence-stock/70385427"
     },
     {
       "key": "2026-10-29-amzn-q3",
@@ -542,6 +492,16 @@
       "link": "https://www.bls.gov/schedule/2026/11_sched_list.htm"
     },
     {
+      "key": "2026-11-03-us-midterms",
+      "date": "2026-11-03",
+      "time": "Polls close evening ET Tue; results from about 11:00 AEDT Wed Nov 4",
+      "ticker": "MACRO",
+      "title": "US midterm elections (House and Senate)",
+      "type": "macro",
+      "why": "Control of Congress sets tax, spending and energy policy; close races could keep markets uncertain for days.",
+      "link": "https://www.ig.com/sg/trading-strategies/us-2026-midterm-elections-explained--key-dates-and-market-implic-261013"
+    },
+    {
       "key": "2026-11-03-rba-decision",
       "date": "2026-11-03",
       "time": "Statement on Monetary Policy 14:30 AEDT Tue Nov 3 (22:30 ET Mon Nov 2); decision usually released at the same time, press conference TBC",
@@ -562,14 +522,34 @@
       "link": "https://www.stocktitan.net/news/ASML/asml-reports-11-7-billion-total-net-sales-and-5-0-billion-net-income-dd7ttrmk06ng.html"
     },
     {
+      "key": "2026-11-04-us-ism-services",
+      "date": "2026-11-04",
+      "time": "10:00 ET Wed (02:00 AEDT Thu Nov 5)",
+      "ticker": "MACRO",
+      "title": "ISM services PMI, October",
+      "type": "macro",
+      "why": "Services prices-paid is a key inflation read before the Dec FOMC; September came in at 54.9.",
+      "link": "https://therighttrader.com/economic-calendar/ism-services"
+    },
+    {
       "key": "2026-11-04-meli-q3",
       "date": "2026-11-04",
-      "time": "TBC (provisional date on IR calendar)",
+      "time": "TBC (provisional on IR calendar; recent calls 17:00 ET = 09:00 AEDT Thu Nov 5)",
       "ticker": "MELI",
       "title": "MercadoLibre Q3 2026 results (provisional)",
       "type": "earnings",
-      "why": "IR calendar lists Nov 4 as provisional, replacing the earlier ~Oct 28 assumption. Watch credit-book growth and operating margin after Q2's 6.7%.",
+      "why": "IR still lists Nov 4 as provisional as of Oct 21; lands after the Brazil runoff. Watch credit book and margins.",
       "link": "https://investor.mercadolibre.com/news-and-events"
+    },
+    {
+      "key": "2026-11-05-ldi-q3",
+      "date": "2026-11-05",
+      "time": "TBC (estimated after US close; about 08:05 AEDT Fri Nov 6)",
+      "ticker": "LDI",
+      "title": "loanDepot Q3 2026 results (date not confirmed)",
+      "type": "earnings",
+      "why": "Holding. Earnings Whispers estimates Nov 5; no company notice yet. Q3 origination guide $6.25-8.25B.",
+      "link": "https://www.earningswhispers.com/stocks/LDI"
     },
     {
       "key": "2026-11-05-net-q3",

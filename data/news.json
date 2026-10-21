@@ -1,5 +1,221 @@
 [
   {
+    "date": "2026-10-21",
+    "ticker": "META",
+    "headline": "Meta Q3 revenue up 26% to $64.6B, Q4 guide $73-76B; shares up after hours",
+    "summary": "GAAP EPS was $3.83 after a $9.9B charge for the state attorneys general settlement ($7.40 excluding it). 2026 capex is now $135-145B (was $130-145B), with no 2027 figure given yet; shares rose 3-5% after hours.",
+    "source": "https://fortune.com/2026/10/21/meta-q3-earnings-mark-zuckerberg-capex-muse/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-21",
+    "ticker": "META",
+    "headline": "Meta to issue non-voting Class C shares as a one-for-one stock dividend",
+    "summary": "Effective January 2027, each Class A and B share gets one Class C share, which works like a two-for-one split with no change to voting control. Q3 capex of $34.9B exceeded operating cash flow, and Meta expects Reality Labs losses near $15B next year.",
+    "source": "https://www.sec.gov/Archives/edgar/data/0001326801/000162828026066700/meta-09302026xexhibit991.htm",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-21",
+    "ticker": "NVDA",
+    "headline": "Huang at GTC Berlin: every European company will become an AI company",
+    "summary": "Nvidia showed a factory-built DSX POD data center module on Vera Rubin that can be deployed in about two weeks, and said it has committed nearly $10B to Europe's tech ecosystem. Shares rose 2.5% on the day.",
+    "source": "https://investing.com/news/stock-market-news/nvidias-huang-hails-europes-ai-potential-flanked-by-robot-ducks-4963697",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-21",
+    "ticker": "MU",
+    "headline": "Micron signs labour deal with Taichung union; Taoyuan strike still planned",
+    "summary": "The Taichung union signed a collective agreement and cancelled the Oct 22 mediation. The Taoyuan union, which wants 15% of operating profit shared with staff, had not called off its one-day warning strike.",
+    "source": "https://www.tradingkey.com/analysis/stocks/us-stocks/262228767-micron-taichung-labor-agreement-taoyuan-strike-pending-mu-tradingkey",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-21",
+    "ticker": "GOOGL",
+    "headline": "Alphabet slips ahead of Oct 28 results; KeyBanc trims target",
+    "summary": "KeyBanc cut its target to $410 from $435 (still Overweight), and a London Google Cloud data center outage on Oct 20 disrupted UK banks. OpenAI models are coming to Google Cloud's Model Garden.",
+    "source": "https://www.investing.com/news/stock-market-news/why-is-alphabet-stock-sliding-today-93CH-4963511",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-21",
+    "ticker": "BABA",
+    "headline": "Alibaba falls about 4% as US-listed China tech sells off",
+    "summary": "No single trigger; coverage cites heavy AI capex weighing on free cash flow, weak Chinese consumer spending and chip export limits.",
+    "source": "https://www.tradingkey.com/news/market-movers/262229210-market-movers-baba-20261021",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-21",
+    "ticker": "TSLA",
+    "headline": "Tesla Q3: EPS and cash flow beat, revenue a hair light, stock flat to slightly up after hours",
+    "summary": "Adj. EPS $0.48 vs $0.44 expected, revenue $28.05B vs $28.13B, free cash flow +$1.53B vs an expected $4.9B outflow, and Q3 capex $4.7B. Full-year capex is guided above $25B for Optimus (now in production at Fremont), AI compute, Cybercab and Terafab; shares rose 3.4% in the session and about 0.5% after hours.",
+    "source": "https://news.jkn.co.kr/editions/english/post/1041029",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-21",
+    "ticker": "ANTHROPIC",
+    "headline": "Anthropic launches Claude Duet, an always-on agent, as a research preview",
+    "summary": "Claude Duet runs on its own cloud computer, handling email, calendar and app tasks in the background, and asks before sending, paying or deleting anything. It is rolling out by waitlist to US Pro and Max subscribers at no extra cost.",
+    "source": "https://9to5mac.com/2026/10/21/anthropic-takes-on-chatgpt-dots-and-meta-muse-with-claude-duet",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-21",
+    "ticker": "HOOD",
+    "headline": "Robinhood up about 4% after Rosenblatt starts coverage at Buy",
+    "summary": "Rosenblatt initiated at Buy with a $135 target and called it a \"generational growth story\", and a bitcoin rebound lifted crypto-linked names. Q3 results are due next week.",
+    "source": "https://stockstory.org/us/stocks/nasdaq/hood/news/why-up-down/robinhood-hood-stock-is-up-what-you-need-to-know-5",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-21",
+    "ticker": "1211",
+    "headline": "BYD falls about 3% as September China retail drops 29% and CATL disappoints",
+    "summary": "BYD's domestic passenger retail sales were 246,816 in September (down 28.9% y/y), though it still led with a 22.8% NEV share and overseas sales are booming. Q3 results are due Oct 29.",
+    "source": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/byd-s-domestic-retail-slump-tests-the-bull-case-as-catl-s-weak-quarter-weighs-on-hong-kong/70384413",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-21",
+    "ticker": "MACRO",
+    "headline": "Lam Research down 6% after hours despite a beat, while TXN guides Q4 above estimates",
+    "summary": "Lam posted revenue of $8.22B vs $8.13B and guided December to $8.6B +/- $0.4B (consensus $8.54B), but the wide range and an 80% one-year run prompted selling. Texas Instruments revenue rose 28% to $6.06B and it guided Q4 EPS to $2.45-2.79 vs $2.27 expected.",
+    "source": "https://www.investing.com/news/earnings/lam-research-tops-firstquarter-targets-and-issues-upbeat-guidance-stock-falls-4963987",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-21",
+    "ticker": "MACRO",
+    "headline": "Brent touched $112 on Iranian mine claims in Hormuz, then settled near $109",
+    "summary": "The IRGC claimed mines stopped three tankers on a route it calls unauthorized, and the US disputes the claims. Prices eased after Iran said indirect talks with Washington continue; Brent settled at $108.79 Tuesday and $108.82 Wednesday.",
+    "source": "https://www.hngn.com/articles/273562/20261021/brent-tops-110-five-month-high-hormuz-mines-reprice-oil-before-midterms.htm",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-21",
+    "ticker": "GEV",
+    "headline": "BofA previews 44% Q3 order growth; GE Vernova up 4%",
+    "summary": "BofA reaffirmed Buy ($1,310) ahead of the Oct 28 report, forecasting about 44% y/y order growth. GE Vernova also won a 9E turbine order for a 372 MW plant in Cote d'Ivoire.",
+    "source": "https://www.investing.com/news/stock-market-news/why-is-ge-vernova-stock-rallying-today-93CH-4963296",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-20",
+    "ticker": "NFLX",
+    "headline": "Netflix beats on Q3 EPS but cuts 2026 ad revenue forecast to $2.7B",
+    "summary": "Q3 revenue was $12.9B (+12%) and EPS $0.87 against $0.82 expected. 2026 revenue guidance is $51.1B, slightly below the prior midpoint, and Q4 margin guidance includes the cost of headcount cuts.",
+    "source": "https://www.sec.gov/Archives/edgar/data/0001065280/000106528026000290/ex991_q326.htm",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-20",
+    "ticker": "NFLX",
+    "headline": "Netflix falls about 6% after hours as ads lag and layoffs are announced",
+    "summary": "Management said the ads business is behind target because of delayed product rollouts, though ad revenue is still growing over 80%. Full 2027 guidance comes in January.",
+    "source": "https://www.investing.com/news/transcripts/earnings-call-transcript-netflix-beats-q3-2026-estimates-but-shares-fall-after-hours-93CH-4961240",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-20",
+    "ticker": "MU",
+    "headline": "Micron Taoyuan union calls one-day solidarity strike for Oct 22",
+    "summary": "The union represents about 2,400 of roughly 3,000 Taoyuan workers; it has not said how many will walk out, and no production impact has been reported.",
+    "source": "https://focustaiwan.tw/business/202610200021",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-20",
+    "ticker": "TSLA",
+    "headline": "Tesla and SpaceX boards form special committees to review a merger",
+    "summary": "On SpaceX's Q3 call, Musk said independent-director committees at both companies are evaluating a combination, with no terms agreed. Tesla would need approval from a majority of all outstanding shares, which Musk called a high hurdle.",
+    "source": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-20",
+    "ticker": "ANTHROPIC",
+    "headline": "Anthropic draft prospectus (per WSJ): Q3 revenue $16.8B, up 45% q/q; H1 net loss $80.7B",
+    "summary": "WSJ-reported figures from a leaked draft S-1 show H1 revenue of $16.3B, two customers at about a fifth of sales, and cloud spend that could top $750B. The loss is not broken down; a November IPO is reportedly still the target.",
+    "source": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-20",
+    "ticker": "CURSOR",
+    "headline": "Cursor added $608M of revenue in its first 7 weeks inside SpaceX",
+    "summary": "SpaceX's Q3 report showed Cursor contributing $608M from its Aug 14 close to Sep 30, inside an AI segment whose revenue rose to $7.56B. Cursor is now a SpaceX subsidiary, so it has no standalone funding rounds.",
+    "source": "https://payloadspace.com/spacexs-ai-revenue-leads-q3-earnings/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-20",
+    "ticker": "NET",
+    "headline": "Cloudflare patches products after eMudhra certificate keys were compromised",
+    "summary": "Private keys for 8 widely trusted eMudhra intermediate certificates were exposed. Cloudflare deployed fixes within about 26 hours, found no exploitation on its services, and told customers to update WARP and cloudflared (2026.10.2) and review mTLS trust stores.",
+    "source": "https://blog.cloudflare.com/emudhra-certificate-compromise/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-20",
+    "ticker": "FED",
+    "headline": "10-year at 5.14%; October hike odds about 17%, December about 90%",
+    "summary": "Odds of an October hike fell from about 50% after Chair Warsh declined to signal a move this month, but markets still expect one by December. The FOMC meets Oct 27-28, with the decision at Thu Oct 29 05:00 AEDT.",
+    "source": "https://www.mitrade.com/insights/forex-analysis/usds/dollar-102-yield-514-hike-odds-17-20261020J1350",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-20",
+    "ticker": "SE",
+    "headline": "Sea launches enterprise cloud arm, weighs Monee IPO",
+    "summary": "A CEO memo filed Oct 20 said Sea will sell AI cloud services to businesses (Sea Cloud) and is considering listing its Monee fintech arm. No capex, timing or valuation given. Shares fell 16.9% over Oct 19-21 to $77.94.",
+    "source": "https://sg.news.yahoo.com/shopee-parent-launches-cloud-business-weighs-listing-of-fintech-arm-044733686.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-19",
+    "ticker": "AMZN",
+    "headline": "Amazon up 5% as Morgan Stanley names it a top pick",
+    "summary": "Morgan Stanley raised its target to $350 from $335 and sees AWS operating margins reaching 42% in 2027. Q3 results are due Oct 29 after the US close.",
+    "source": "https://247wallst.com/investing/2026/10/19/amazon-jumps-5-as-morgan-stanley-names-it-top-pick-on-faster-aws-growth-microsoft-and-alphabet-edge-higher/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-19",
+    "ticker": "OPENAI",
+    "headline": "OpenAI still in talks on ~$30B raise at over $1.4T",
+    "summary": "Reuters reported the talks are ongoing, so nothing has closed; the last closed round was $852B in March.",
+    "source": "https://fool.com/investing/2026/10/20/openai-is-reportedly-raising-usd30-billion-which-chip-stock-gains-the-most",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-19",
+    "ticker": "AAPL",
+    "headline": "Jefferies: iPhone 18 Pro demand weakening, with about 2M units of assembly orders cut",
+    "summary": "China lead times for the Pro and Pro Max are at zero, PDD cut prices 6-9% on Oct 16, and chip orders were trimmed 10-15%. China sell-through growth slowed from over 40% to about 8%, while the foldable Duo's lead time is over 90 days.",
+    "source": "https://www.investing.com/news/stock-market-news/analyst-says-iphone-18-demand-weakness-is-intensifying-4957200",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-19",
+    "ticker": "MACRO",
+    "headline": "Chip index snaps its 8-day losing streak, its longest since 2008",
+    "summary": "The SOX rose about 2.7% on Oct 19 after losing about 15.7% over eight sessions, led by memory names. The Nasdaq added 1.1% on Oct 21.",
+    "source": "https://finance.biggo.com/news/3cf1aba9-a412-43e8-a3b8-87024eb5ee3d",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-19",
+    "ticker": "MACRO",
+    "headline": "China Q3 GDP grows 4.5%, ahead of the 4.4% forecast",
+    "summary": "GDP rose 1.2% q/q, September industrial output rose 5.5% and retail sales 1.1%, while fixed asset investment fell 7.2% year to date. Exports are carrying growth and the property market is still weak.",
+    "source": "https://finance.yahoo.com/economy/articles/china-q3-gdp-grows-4-024818026.html",
+    "impact": "neutral"
+  },
+  {
     "date": "2026-10-18",
     "ticker": "MACRO",
     "headline": "JPMorgan: big cloud firms spending about 93% of operating cash flow on AI",
@@ -422,221 +638,5 @@
     "summary": "Net income EUR 4.96B and gross margin 57.5%, above the 55-57% guide. Q4 guided to EUR 14.2-15.2B and 2026 raised to EUR 44-45B from EUR 43-45B. CEO Christophe Fouquet said customers keep raising forecasts on AI investment, some want 2029-30 orders, and ASML is studying capacity beyond its planned 30% increase for 2028. No quarterly bookings are published any more. US-listed shares fell about 3% overnight; Micron, SanDisk and Intel fell 1-2.6%.",
     "source": "https://finance.yahoo.com/markets/stocks/articles/asml-raises-sales-forecast-third-061145434.html",
     "impact": "positive"
-  },
-  {
-    "date": "2026-10-14",
-    "ticker": "MACRO",
-    "headline": "China's September exports jump 36.3% y/y, imports 31%; surplus $133.5B",
-    "summary": "Both beat forecasts (Reuters poll 25.5% and 24.5%) and accelerated from August's 25% and 28.2%. Export growth was the fastest since February. The nine-month surplus reached $938B, on track to top last year's $1.2 trillion record. The IMF cut its 2026 China growth forecast 0.1 point to 4.5%.",
-    "source": "https://www.clickondetroit.com/business/2026/10/14/chinas-exports-surge-363-in-september-as-pressure-ramps-up-to-rebalance-trade/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-14",
-    "ticker": "MACRO",
-    "headline": "China PPI rises 5.0% y/y in September, fastest since June 2022; CPI 0.9%, just under forecast",
-    "summary": "Producer prices beat the 4.5% forecast and rose 1.2% on the month, the largest monthly gain since April, on crude oil and non-ferrous metals. Consumer prices rose 0.9% y/y vs 1.0% expected and 0.2% m/m. Factory-gate inflation in China adds to global goods-price pressure ahead of US CPI tonight.",
-    "source": "https://www.gurufocus.com/news/9122609/chinas-september-2026-inflation-data-highlights-rising-producer-prices-cny-reacts",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-13",
-    "ticker": "MU",
-    "headline": "Micron Taiwan workers vote 99% to authorise a strike as CXMT fears extend the memory selloff",
-    "summary": "Workers at Micron's Taoyuan plant voted 99% to authorise a strike, seeking permanent profit-sharing equal to 15% of quarterly operating profit; no strike date was given. Micron fell 3.6% Tuesday, a third straight loss, alongside CXMT's 4F2 DRAM progress.",
-    "source": "https://www.investing.com/news/stock-market-news/why-is-micron-technology-stock-sliding-today-93CH-4945811",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-13",
-    "ticker": "MACRO",
-    "headline": "JPMorgan misses on EPS for the first time in about three years; Goldman profit +29%, Wells and Citi beat",
-    "summary": "JPMorgan earned $15.3B ($5.57/share) vs about $5.93 expected, on weaker bond trading, and cut buybacks; Dimon warned of sticky inflation. Goldman earned $5.29B, Citi profit rose about 40%, Wells $1.87/share beat. Consumers still paying bills.",
-    "source": "https://fortune.com/2026/10/13/jpmorgan-goldman-sachs-citigroup-wells-fargo-interest-inflation/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-13",
-    "ticker": "RKT",
-    "headline": "Rocket hits a 52-week low as JPMorgan and Morgan Stanley cut targets; loanDepot -4.8%",
-    "summary": "Rocket fell 0.4% to a new 52-week low on volume 32% above average, down 44% this year, after JPMorgan and Morgan Stanley lowered price targets. loanDepot fell 4.8%; S&P 500 -0.02%, Nasdaq -0.15%.",
-    "source": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-13-215532255.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-13",
-    "ticker": "LDI",
-    "headline": "Mortgage News Daily 30-year eases to 7.46%, a two-week low",
-    "summary": "With the bond market reopened after Columbus Day, MND's 30-year fixed slipped 0.02 points to 7.46% Tuesday, a two-week low, ahead of Wednesday's US CPI.",
-    "source": "https://www.mortgagenewsdaily.com/mortgage-rates",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-13",
-    "ticker": "AAPL",
-    "headline": "Apple launches HomeView hub ($299, ships Nov 13), Apple TV 4K ($299, Nov 13) and HomePod mini 2 ($149, Oct 30)",
-    "summary": "Pre-orders opened Oct 13. HomeView runs an A18 chip, comes in tabletop and wall versions (mounts from $59.95) and is not sold in the EU. Siri AI on HomePod mini 2 comes in a later update. Third-party Home Collection accessories from December. Apple closed up 0.09% at $341.27 after trading as high as $348.15.",
-    "source": "https://www.macobserver.com/news/homeview-homepod-mini-2-apple-tv-4k-release-dates/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-13",
-    "ticker": "1211",
-    "headline": "BYD launches Da Han EV at 235,900-275,900 yuan, up to 24,000 yuan below pre-sale prices",
-    "summary": "Three versions on a 102.3 kWh second-generation Blade battery; rear-drive versions rated 1,008 km CLTC. Pre-sale prices in August were 249,900-299,900 yuan. Hong Kong shares closed down 1.48% Tuesday at HK$73.25.",
-    "source": "https://cnevpost.com/2026/10/13/byd-launches-da-han-ev/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-13",
-    "ticker": "MACRO",
-    "headline": "US stocks end flat as memory names fall again and banks report: S&P 500 -0.02%, Nasdaq -0.15%",
-    "summary": "Micron -3.62% on the China DRAM news; 10-year yield 5.24%; energy led the sectors. Watchlist chip names were mixed: Celestica +2.9%, Astera +0.4%, Credo -1.3%, Teradyne -0.9%.",
-    "source": "https://www.fool.com/coverage/stock-market-today/2026/10/13/stock-market-today-oct-13-markets-edge-lower-as-earnings-season-kicks-off/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-13",
-    "ticker": "TSM",
-    "headline": "Taiex falls 1.95% and TSMC 2.0% in Taipei two days before Q3 results",
-    "summary": "The Taiex closed down 960.65 points at 48,341.31 on NT$1.13 trillion turnover, and TSMC's local shares fell 1.97%, following Korea's chip rout. TSMC reports Q3 on Thu Oct 15 at 17:00 AEDT.",
-    "source": "https://focustaiwan.tw/business/202610130010",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-13",
-    "ticker": "MACRO",
-    "headline": "KOSPI closes down 5.47% as SK hynix falls 10% and Samsung 7.4% on CXMT memory fears; Taiex -1.95%",
-    "summary": "KOSPI fell 348.9 points to 6,035.34 after Korea Exchange triggered a sell-side sidecar in the morning; SK hynix -10.09%, Samsung -7.38%. Taiwan's Taiex closed -1.95% at 48,341.31 (Focus Taiwan) and the Nikkei fell about 1.8% on its return from the holiday. The driver is reports that China's CXMT is progressing on a denser DRAM design that could challenge Samsung, SK hynix and Micron.",
-    "source": "https://www.tokenpost.com/news/investing/30862",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-13",
-    "ticker": "RBA",
-    "headline": "RBA minutes: unanimous hike to 4.60%, AI-boom cost pressures among the reasons, further increases if required",
-    "summary": "The Board said the risks flagged in August had materialised: a broader Middle East conflict lifting oil, global cost pressures and tighter domestic capacity, and that the cash rate might not have been high enough. It considered a hold only briefly and will increase rates further if required. Markets were pricing about another 15bp by year-end.",
-    "source": "https://investinglive.com/central-banks/rba-minutes-show-three-reasons-for-hike-to-4-60-and-leave-door-open-to-further-increases/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-13",
-    "ticker": "FED",
-    "headline": "Fed's Hammack wants to reach restrictive 'relatively quickly'; futures see about 85% odds of a December hike",
-    "summary": "Cleveland Fed President Hammack said Monday the Fed should move relatively quickly toward a restrictive stance, preferring smaller, faster adjustments. CME FedWatch on Oct 13 priced more than 80.6% for a hold on Oct 28 and about 84.7% for a hike in December. Japan's September wholesale prices rose 6.8% y/y; the yen was near 158.25.",
-    "source": "https://fxstreet.com/news/japanese-yen-strengthens-despite-softer-ppi-data-202610130250",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-12",
-    "ticker": "BE",
-    "headline": "Bloom Energy sets Q3 results for Oct 22, earlier than the Oct 27 estimate",
-    "summary": "Results after the US close Thu Oct 22; call 2pm PT / 5pm ET (08:00 AEDT Fri Oct 23). Shares fell 9.15% Oct 14 into the print in the CPI selloff.",
-    "source": "https://www.bloomenergy.com/news/bloom-energy-to-announce-third-quarter-2026-financial-results-on-october-22-2026/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-12",
-    "ticker": "META",
-    "headline": "Meta releases Muse Wonder, its first frontier model, at $4/$20 per million tokens",
-    "summary": "Meta Superintelligence Lab released Muse Wonder (API) and Muse Wonder Full (Muse Code subscribers only). Meta's own tests put them level with leading rival models; not independently verified. Meta rose 2.6% Tuesday after 3.4% Monday.",
-    "source": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-12",
-    "ticker": "1211",
-    "headline": "China-EU hybrid deal: EU says imports cut by 'several million cars over four years'; BYD falls 1.8%",
-    "summary": "BYD is China's largest hybrid exporter to Europe and sold more plug-in hybrids than EVs in the first eight months. Citi says caps, price floors and carve-outs are still being negotiated.",
-    "source": "https://kelo.com/2026/10/12/chinas-7-5-billion-eu-hybrid-boom-faces-new-curbs-under-china-eu-deal/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-12",
-    "ticker": "ALAB",
-    "headline": "Astera Labs, Lumentum and Corning demo PCIe over optics at OCP using Astera's Scorpio switch",
-    "summary": "Demo of 1060 nm VCSEL-based optical PCIe links for rack-scale AI, on show Oct 12-15. Shares rose 0.4% Tuesday after an intraday low of $300.44.",
-    "source": "https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Astera-Labs-and-Corning-to-Demonstrate-1060-nm-VCSEL-Based-PCIe-over-Optics-for-AI-Rack-Scale-Connectivity-at-the-2026-OCP-Global-Summit/default.aspx",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-12",
-    "ticker": "MU",
-    "headline": "Micron falls 3.9% and the chip index 2.7% on CXMT competition fears",
-    "summary": "The Philadelphia Semiconductor index fell for a fourth straight session. Micron dropped 3.9% and SanDisk 6.0% on concern about Chinese memory competition after CXMT's next-generation DRAM report; optical names Lumentum, Ciena and Coherent fell 8-10%. The S&P 500 was flat, the Nasdaq fell 0.4% and the Dow rose 0.4% in the lightest volume of the year.",
-    "source": "https://pro.thestreet.com/market-commentary/chip-selloff-keeps-a-lid-on-indices-despite-another-day-of-broader-gains",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-12",
-    "ticker": "META",
-    "headline": "Meta rises 3.4% after Zuckerberg says it has caught up with rivals on frontier AI models",
-    "summary": "Meta was the standout gainer among large-cap tech on Monday after Zuckerberg said the company has caught up on frontier models and hinted at a strong upcoming model. The communications sector led the S&P 500, up about 1%.",
-    "source": "https://investrade.com/market-review-october-12-2026/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-12",
-    "ticker": "ANTHROPIC",
-    "headline": "HCLTech signs a Global Premier Partnership with Anthropic and sets up a dedicated Claude business unit",
-    "summary": "HCLTech (223,000+ staff, $14.8B revenue) will build industry solutions on Claude, Cowork and Claude Code, add Claude to HCLSoftware products such as BigFix and AppScan, and integrate it into its AIForce platform. No financial terms disclosed. Announced two days before Anthropic's pre-IPO investor day on Wed Oct 14.",
-    "source": "https://upstox.com/news/market-news/stocks/hcl-tech-announces-global-premier-partnership-with-anthropic-all-you-need-to-know/article-201699/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-12",
-    "ticker": "AAPL",
-    "headline": "Gurman: Apple's home hub will be called HomeView and ship mid-November; event is 00:00 AEDT Wed",
-    "summary": "Reports ahead of the Oct 13 'Welcome home' event (9:00 a.m. ET, Tribeca) point to an A18-based HomeView hub in countertop and wall-mount versions, a new Apple TV and a HomePod mini successor, plus LG accessories. No prices reported; Apple has confirmed only the event. Apple rose 1.29% Monday.",
-    "source": "https://www.techtimes.com/articles/328898/20261012/apple-homeview-smart-home-hub-will-ship-out-next-month-what-expect.htm",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-12",
-    "ticker": "ASML",
-    "headline": "ASML Q3 preview: consensus about EUR 11.6-11.8B revenue and $12.1-12.5 ADR EPS; results 16:00 AEDT Wed",
-    "summary": "Revenue would be up about 55% y/y, inside the EUR 11.0-12.0B guide. No bookings consensus is published; EUV and High-NA orders and the 2027 outlook are the focus. TipRanks average target $2,470.81 from six Buy ratings. ASML closed Monday at $1,750.24 (-1.69%).",
-    "source": "https://www.tradingkey.com/analysis/stocks/us-stocks/262211059-asml-q3-earnings-preview-revenue-tradingkey",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-12",
-    "ticker": "MACRO",
-    "headline": "CXMT targets 4F2 server DDR5 RDIMMs by year-end; TrendForce calls the date ambitious",
-    "summary": "CXMT's president set out the 4F2 architecture on Oct 10; the move from 6F2 could lift density 30-50%. TrendForce says launch does not mean volume production. CXMT held 9.5% of 2Q26 DRAM revenue.",
-    "source": "https://www.trendforce.com/news/2026/10/12/news-cxmt-accelerates-4f%C2%B2-dram-push-eyes-year-end-server-ddr5-rdimm-launch/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-12",
-    "ticker": "MACRO",
-    "headline": "Intel and Broadcom CEOs say capital, not chips, may be AI's bottleneck",
-    "summary": "Intel's Lip-Bu Tan: 'If there's any challenge in the front, it's capital and the cost of capital.' MLQ cites Bloomberg that banks are preparing about $60B for Broadcom-related AI equipment.",
-    "source": "https://mlq.ai/news/intel-and-broadcom-ceos-warn-capital-not-chips-could-constrain-ai-buildout/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-12",
-    "ticker": "MACRO",
-    "headline": "FERC rejects the core of PJM's large-load plan, keeps the registry",
-    "summary": "The Oct 9 order threw out interim service that would have let data centres connect without new capacity if curtailable, and bring-your-own-capacity rules, citing state jurisdiction.",
-    "source": "https://www.utilitydive.com/news/ferc-pjm-large-load-interconnection-iras-byonc/832716/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-12",
-    "ticker": "ANTHROPIC",
-    "headline": "White House AI task force demands 'immediate and full transparency' after Claude's false murder tip",
-    "summary": "Claude Haiku 4.5 submitted a false homicide tip to a Philadelphia police site on Jul 18 while doing tasks on random webpages; the tip was flagged as spam. Anthropic found it Sep 28 and published Oct 8, about 10 days later. Police called the two-month detection gap unacceptable. Anthropic says it has tightened guardrails. Lands two days before the Oct 14 investor day.",
-    "source": "https://www.abc.net.au/news/2026-10-12/anthropic-claude-ai-model-false-murder-tip-off-explained/107254596",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-12",
-    "ticker": "ANTHROPIC",
-    "headline": "Anthropic investor day Oct 14; still no public S-1, 132 days after the confidential filing",
-    "summary": "Bloomberg-reported timeline: invited institutions meet executives at SF headquarters Oct 14, marketing could start the week of Nov 9, trading before Nov 26. A Nov 9 roadshow implies a public S-1 by about Oct 23. Last private valuation $965B (May); reported IPO talk $1.8-3T. Fortune-reported 2025 figures: revenue about $4.6B, operating loss $8.06B. Anthropic has not confirmed any of it.",
-    "source": "https://financefeeds.com/anthropics-14-october-investor-day-nears-but-its-s-1-still-isnt-public-the-ipo-timeline-explained/",
-    "impact": "neutral"
   }
 ]
