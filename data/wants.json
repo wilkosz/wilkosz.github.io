@@ -65,30 +65,6 @@
       "added": "2026-09-28"
     },
     {
-      "key": "chainsaw",
-      "title": "Chainsaw, Stihl or Husqvarna, 30 inch bar capable",
-      "short": "Chainsaw, 30in bar",
-      "status": "hunting",
-      "base": "melbourne",
-      "max_km": 100,
-      "price_min": 500,
-      "price_max": 2000,
-      "must": [
-        "Stihl or Husqvarna",
-        "rated to carry a 30 inch bar (e.g. Stihl MS 462, MS 500i, Husqvarna 572 XP, 592 XP)"
-      ],
-      "prefer": [
-        "bar and chain included",
-        "recent service, good compression"
-      ],
-      "notes": "New MS 462 sits near the top of the band, so a clean used saw with a bar is the value play.",
-      "sources": [
-        "https://www.stihl.com.au/en",
-        "https://www.husqvarna.com/au/"
-      ],
-      "added": "2026-09-28"
-    },
-    {
       "key": "offset-discs",
       "title": "Offset discs, 24-32 plate, for a 90-130hp tractor",
       "short": "Offset discs 24-32 plate",
@@ -142,29 +118,6 @@
       "added": "2026-09-28"
     },
     {
-      "key": "drop-deck-trailer",
-      "title": "Drop deck trailer, 2001 or newer, $5,000 to $20,000",
-      "short": "Drop deck trailer",
-      "status": "hunting",
-      "base": "darlington_point",
-      "max_km": 400,
-      "price_min": 5000,
-      "price_max": 20000,
-      "must": [
-        "drop deck (lowered loading deck) trailer",
-        "built 2001 or newer"
-      ],
-      "prefer": [
-        "carry rating to suit a loader tractor",
-        "tandem axle with brakes",
-        "ramps or beavertail",
-        "current registration"
-      ],
-      "notes": "Base and radius assumed to match the tractor and implement wants; the carry rating preference is a guess at hauling a loader tractor, so say if it should be different.",
-      "sources": [],
-      "added": "2026-10-02"
-    },
-    {
       "key": "stick-rake",
       "title": "Stick rake for the Lovol P5130 front-end loader",
       "short": "Stick rake, Lovol P5130 loader",
@@ -186,32 +139,6 @@
       ],
       "notes": "Lovol P5130 is on loan from the dealer for a month or two, so the attachment has to fit that loader now. Confirm the hitch type and the loader's rated lift with the dealer before buying. New Australian-made stick rakes and imports both count; quote freight for anything posted.",
       "sources": [],
-      "added": "2026-10-18"
-    },
-    {
-      "key": "pallet-forks",
-      "title": "Pallet forks for the Lovol P5130 front-end loader",
-      "short": "Pallet forks, Lovol P5130 loader",
-      "status": "hunting",
-      "base": "darlington_point",
-      "max_km": 400,
-      "price_min": null,
-      "price_max": null,
-      "must": [
-        "loader pallet fork frame with two tines",
-        "fits the Lovol P5130 loader: Euro hitch, unless the dealer confirms a different quick hitch",
-        "rated at least 1,000 kg at 500-600 mm load centre"
-      ],
-      "prefer": [
-        "tines about 1,000 to 1,200 mm long, adjustable spacing",
-        "load-rated to AS2359 with a rating plate",
-        "back rest / load guard",
-        "local within 400km"
-      ],
-      "notes": "Lovol P5130 is on loan from the dealer for a month or two, so the forks have to fit that loader now. Confirm the hitch type and the loader's rated lift with the dealer; the forks' rating should not be far above the loader's. Benchmark: John Berends Euro hitch pallet forks (model 0298) from Pipeliner dealers.",
-      "sources": [
-        "https://www.pipeliner.com.au/detail/john-berends-front-end-loader-pallet-forks-eurohitch--0298-638564"
-      ],
       "added": "2026-10-18"
     }
   ]
