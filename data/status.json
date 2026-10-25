@@ -1,112 +1,112 @@
 {
-  "as_of": "2026-10-21T22:45",
-  "market_summary": "Stocks firmed into Wednesday: the S&P 500 rose 0.6% and the Nasdaq 1.1% on Oct 21 after chips snapped their 8-day losing streak on Oct 19 (SOX up about 2.7% that day). Tesla beat on EPS ($0.48 vs $0.44) and free cash flow ($1.5B vs an expected outflow) but slightly missed on revenue, and the stock was roughly flat to up 0.5% after hours; Lam Research fell 6% after hours despite a beat, while TXN guided Q4 above estimates and IBM rose about 3% late. The backdrop is still tight: the US 10-year is about 5.14%, Brent is near $109 after touching $112 on unverified Iranian claims that mines hit tankers in Hormuz, and futures price only about a 17% chance of a Fed hike this month but about 90% by December. Next: Spotify Q3 Thu night AEDT (before US open), FOMC decision Thu Oct 29 05:00 AEDT (meeting Oct 27-28), Alphabet and Microsoft Thu Oct 29 AEDT, BYD Q3 results Oct 29, Amazon Fri Oct 30 AEDT.",
+  "as_of": "2026-10-26T00:30",
+  "market_summary": "A second losing week for growth: in the week to Fri Oct 23 the S&P 500 fell 0.5% to 7,623.68 and the Nasdaq 0.7% to 25,955.34, while the Dow (+0.4%) and Russell 2000 (+2.0%) rose. The damage was in chips: the SOX fell more than 6% on Thu Oct 22 after Lam Research flagged supply constraints, on top of worries about AI funding and credit (Marvell -9%, Intel -7% that day), and Tesla's Q3 showed operating income down 56% y/y with capex lower than Q2. Money moved into bonds, so the 10-year fell 8bp on the week to 5.00% even as Brent rose about 5% to roughly $116, its highest since June 2022, on fears of renewed US strikes on Iran with Hormuz navigation still unresolved. Futures put the chance of a hike this week at about 9% (rates held at 3.75-4.00%), with a December hike still priced. Energy-for-AI stayed strong: Bloom Energy grew Q3 revenue 138% and raised guidance for the third time this year. Brazil's Oct 25 runoff was still undecided at publication, with Lula narrowly ahead at about two-thirds counted. Next: Robinhood Q3 Wed Oct 28 ~07:00 AEDT; Enphase Wed Oct 28 morning AEDT; Fed decision Thu Oct 29 05:00 AEDT; Apple Mac event Thu Oct 29 04:00 AEDT; Alphabet and Microsoft Thu Oct 29 morning AEDT; BYD Q3 Thu Oct 29 evening AEDT; US GDP/PCE Thu Oct 29 23:30 AEDT; Amazon and Intel Fri Oct 30 morning AEDT.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "Up 5% since Oct 16 after Morgan Stanley made it a top pick on faster AWS growth. Q3 results Fri Oct 30 ~7am AEDT.",
-      "price_usd": 262.37,
-      "updated": "2026-10-21"
+      "reason": "Down 5% since Oct 21 in the Meta-led AI capex selloff. Q3 results Thu Oct 29 after close (~7am AEDT Fri Oct 30); AWS growth vs capex is the test.",
+      "price_usd": 248.0,
+      "updated": "2026-10-26"
     },
     "AXOS": {
       "take": "hold",
-      "reason": "Up 2% since Oct 16 with no company news. Fiscal Q1 results Fri Oct 30 ~7am AEDT.",
-      "price_usd": 90.3,
-      "updated": "2026-10-21"
+      "reason": "Up 2% since Oct 21, steady while tech sold off. Fiscal Q1 results Thu Oct 29 after close, call ~8am AEDT Fri Oct 30.",
+      "price_usd": 91.79,
+      "updated": "2026-10-26"
     },
     "BABA": {
-      "take": "hold",
-      "reason": "Down 4% since Oct 16 as US-listed China tech sold off on Oct 21. China Q3 GDP grew 4.5%, a touch above forecasts, but consumer spending is still weak.",
-      "price_usd": 104.41,
-      "updated": "2026-10-21"
+      "take": "watch",
+      "reason": "Down 5% since Oct 21 after China's market regulator told e-commerce platforms to tighten quality controls, hitting livestream and quick retail. Results Nov 24.",
+      "price_usd": 99.64,
+      "updated": "2026-10-26"
     },
     "ENPH": {
       "take": "watch",
-      "reason": "Up 4% since Oct 16 with no company news. Q3 results Wed Oct 28 ~7am AEDT are the next test.",
-      "price_usd": 31.99,
-      "updated": "2026-10-21"
+      "reason": "Down 1% since Oct 21. Q3 results Tue Oct 27 after close (~7am AEDT Wed Oct 28); Q4 guidance matters most.",
+      "price_usd": 31.6,
+      "updated": "2026-10-26"
     },
     "FIGR": {
       "take": "hold",
-      "reason": "Down 7% since Oct 16 with no company-specific news found. Thesis rests on marketplace volume, which doubled year on year in Q3.",
-      "price_usd": 25.36,
-      "updated": "2026-10-21"
+      "reason": "Down 9% since Oct 21 with no company-specific bad news; small business lending hit a first $100M quarter. Q3 results Nov 12 pre-market (~12:30am AEDT Nov 13).",
+      "price_usd": 23.19,
+      "updated": "2026-10-26"
     },
     "GOOGL": {
-      "take": "add",
-      "reason": "Down 2% since Oct 16 as investors trimmed before results; KeyBanc cut its target to $410 but kept Overweight. Q3 results Thu Oct 29 ~7am AEDT.",
-      "price_usd": 334.76,
-      "updated": "2026-10-21"
+      "take": "hold",
+      "reason": "Down 4% since Oct 21 on AI spending worries. Q3 results Wed Oct 28 after close (~7am AEDT Thu Oct 29); Cloud growth vs capex is the test.",
+      "price_usd": 320.21,
+      "updated": "2026-10-26"
     },
     "LDI": {
-      "take": "trim",
-      "reason": "Down 1% since Oct 16 with no new news. A 10-year near 5.1% keeps mortgage volumes under pressure; Q3 results estimated Nov 5 US time.",
-      "price_usd": 0.5297,
-      "updated": "2026-10-21"
+      "take": "hold",
+      "reason": "Up about 15% since Oct 21 as Treasury yields fell sharply. Q3 date not yet announced; early November likely. Small, high-risk position.",
+      "price_usd": 0.61,
+      "updated": "2026-10-26"
     },
     "META": {
       "take": "hold",
-      "reason": "Q3 revenue $64.6B (+26%) beat and the Q4 guide of $73-76B is at or above consensus; shares rose 3-5% after hours. Free cash flow went negative on $34.9B quarterly capex and a $9.9B legal charge.",
-      "price_usd": 697.52,
-      "updated": "2026-10-21"
+      "reason": "Down 8% since Oct 21: Q3 beat and Q4 guide fine, but capex raised, free cash flow negative, buybacks paused and a new non-voting share class coming.",
+      "price_usd": 642.62,
+      "updated": "2026-10-26"
     },
     "MRVL": {
       "take": "hold",
-      "reason": "Up 7% since Oct 16 as chip stocks bounced, regaining part of the slide after its Oct 6 investor day.",
-      "price_usd": 244.76,
-      "updated": "2026-10-21"
+      "reason": "Down 7% since Oct 21 after an 8.7% drop on Oct 22 tied to Meta capex and Lam Research supply warnings. Credit facility doubled to $3B.",
+      "price_usd": 228.51,
+      "updated": "2026-10-26"
     },
     "MU": {
-      "take": "watch",
-      "reason": "Up 4% since Oct 16. Taichung union signed a deal, but the Taoyuan union planned a one-day strike on Oct 22 Taiwan time; watch for any hit to output.",
-      "price_usd": 913.67,
-      "updated": "2026-10-21"
+      "take": "hold",
+      "reason": "Down 4% since Oct 21 in the chip selloff. Taoyuan strike was 11 officials, no output hit; talks resume Mon Oct 27 after members rejected the offer.",
+      "price_usd": 877.55,
+      "updated": "2026-10-26"
     },
     "NFLX": {
       "take": "watch",
-      "reason": "Down 8% since Oct 16 after Q3: EPS beat, but the 2026 ad revenue forecast was cut to $2.7B from $3B and layoffs were announced. Moved from hold to watch until ads get back on track.",
-      "price_usd": 65.04,
-      "updated": "2026-10-21"
+      "reason": "Up 1% since Oct 21 after the post-earnings drop on a cut ad forecast and softer Q4 guide. Down 29% this year; wait for a base.",
+      "price_usd": 65.85,
+      "updated": "2026-10-26"
     },
     "NVDA": {
       "take": "hold",
-      "reason": "Up 4% since Oct 16. At GTC Berlin, Huang pitched Europe's AI buildout, a fast-deploy DSX POD data center design and nearly $10B committed to Europe.",
-      "price_usd": 221.97,
-      "updated": "2026-10-21"
+      "reason": "Down 5% since Oct 21 in the AI capex scare, no company-specific news. Demand still exceeds supply, including China RTX PRO 5500 orders.",
+      "price_usd": 210.96,
+      "updated": "2026-10-26"
     },
     "RKT": {
-      "take": "watch",
-      "reason": "Up 3% since Oct 16 with no company news. Q3 results expected around Oct 29 US time.",
-      "price_usd": 11.11,
-      "updated": "2026-10-21"
+      "take": "hold",
+      "reason": "Up 6% since Oct 21 as yields dropped. Q3 results Thu Oct 29, call 4:30pm ET (~7:30am AEDT Fri Oct 30).",
+      "price_usd": 11.73,
+      "updated": "2026-10-26"
     },
     "TSM": {
-      "take": "add",
-      "reason": "Up 5% since Oct 16 as AI chip names bounced. Demand from Nvidia, Meta and other hyperscalers still looks firm.",
-      "price_usd": 431.89,
-      "updated": "2026-10-21"
+      "take": "hold",
+      "reason": "Down 3% since Oct 21 in the chip selloff after a record quarter. Lam's supply warning points to tight capacity, which favours TSMC pricing.",
+      "price_usd": 418.51,
+      "updated": "2026-10-26"
     },
     "STRIPE": {
       "take": "hold",
-      "reason": "No new tender or round; the last mark is still the $159B tender from Feb 2026.",
+      "reason": "No new tender or round reported since the $159B February 2026 tender. Mark unchanged.",
       "price_usd": null,
-      "updated": "2026-10-21",
+      "updated": "2026-10-26",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "Reuters said Oct 19 that talks on a ~$30B raise at over $1.4T are ongoing; not closed, so the mark stays at the $852B March round.",
+      "reason": "Reported near a ~$30B raise at $1.25T pre-money, cut from $1.4T after investor pushback. Not closed, so mark stays at the March round.",
       "price_usd": null,
-      "updated": "2026-10-21",
+      "updated": "2026-10-26",
       "mark_multiple": 5.43
     }
   },
   "headlines": [
-    "Meta Q3 revenue up 26% to $64.6B, Q4 guide $73-76B; up 3-5% after hours despite a $9.9B legal charge.",
-    "Netflix down 8% since Oct 16 after cutting its 2026 ad forecast to $2.7B; take moved from hold to watch.",
-    "Chips snapped an 8-day losing streak; holdings bounced: Marvell up 7%, Amazon and TSMC up 5% since Oct 16.",
-    "H100 rent hit a record $2.86/hr while CoreWeave bonds hold near 80c: compute still bid, financing still stressed.",
-    "Sea cut to watch/low after a 17% three-day drop on its cloud push and possible fintech IPO.",
-    "Next: Bloom Fri 08:00 AEDT; FOMC Thu Oct 29 05:00 AEDT; Alphabet and Microsoft Thu Oct 29; Amazon Fri Oct 30."
+    "Meta's capex raise and Lam's supply warning hit chips: SOX fell 6.7% Oct 22; Meta down 8%, Marvell 7% since Oct 21.",
+    "Mortgage names rose as the 10-year fell to 5.00%: loanDepot up about 15%, Rocket 6% since Oct 21.",
+    "Brent hit about $116, its highest since June 2022; futures give a Fed hike this week only about 9%.",
+    "Bloom Q3 revenue up 138% with guidance raised again; moved to accumulate. Credo cut to low conviction on new competition.",
+    "OpenAI reported near a $30B raise at $1.25T, below its $1.4T target; not closed, so the mark is unchanged.",
+    "This week, all morning AEDT: Enphase Wed; Fed, Alphabet, Microsoft Thu; Amazon, Axos, Rocket Fri."
   ]
 }

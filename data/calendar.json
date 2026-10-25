@@ -1,176 +1,6 @@
 {
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-26",
   "events": [
-    {
-      "key": "2026-10-20-byd-seagull",
-      "date": "2026-10-20",
-      "time": "19:00 Beijing (22:00 AEDT Tue)",
-      "ticker": "1211",
-      "title": "BYD second-generation Seagull launch",
-      "type": "product",
-      "why": "BYD's cheapest volume EV; launch pricing is the next read on the domestic price war. Date and time from CnEVPost's events list.",
-      "link": "https://cnevpost.com/"
-    },
-    {
-      "key": "2026-10-20-us-housing-starts",
-      "date": "2026-10-20",
-      "time": "08:30 ET (23:30 AEDT Tue)",
-      "ticker": "MACRO",
-      "title": "US housing starts and building permits, September",
-      "type": "macro",
-      "why": "First starts print with the 30-year mortgage above 7.4%; a sharp drop would hit construction-machinery demand and the mortgage lenders on the watchlist.",
-      "link": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
-    },
-    {
-      "key": "2026-10-20-nflx-q3",
-      "date": "2026-10-20",
-      "time": "13:01 PT Tue (16:01 ET; 07:01 AEDT Wed Oct 21); video interview 13:45 PT (07:45 AEDT Wed)",
-      "ticker": "NFLX",
-      "title": "Netflix Q3 2026 results (company outlook: revenue $12.86B, operating income $4.27B, EPS $0.82)",
-      "type": "earnings",
-      "why": "Holding; first read on the co-CEO era's ad tier and content spend, and a consumer-internet check before AMZN, GOOGL and META at month end.",
-      "link": "https://s22.q4cdn.com/959853165/files/doc_news/Netflix-to-Announce-Third-Quarter-2026-Financial-Results-2026.pdf"
-    },
-    {
-      "key": "2026-10-20-nvidia-gtc-berlin",
-      "date": "2026-10-20",
-      "time": "Oct 20-22, Berlin; keynote time TBC",
-      "ticker": "NVDA",
-      "title": "Nvidia GTC Berlin (Washington D.C. edition is Nov 30-Dec 3, keynote Dec 1)",
-      "type": "conference",
-      "why": "Holding; European sovereign-AI and Rubin deployment announcements. Dates from Nvidia's session catalog; Nvidia's own event page for Berlin was not opened.",
-      "link": "https://www.nvidia.com/gtc/session-catalog/sessions/gtc26-p81211/"
-    },
-    {
-      "key": "2026-10-21-ibm-q3",
-      "date": "2026-10-21",
-      "time": "17:00 ET (08:00 AEDT Thu Oct 22)",
-      "ticker": "IBM",
-      "title": "IBM Q3 2026 results and webcast",
-      "type": "earnings",
-      "why": "Enterprise AI software and consulting demand read-through for the internet and AI names; IBM reports before the hyperscalers.",
-      "link": "https://www.ibm.com/investor/events/earnings-3q26"
-    },
-    {
-      "key": "2026-10-21-lrcx-q1-fy27",
-      "date": "2026-10-21",
-      "time": "14:00 PT / 17:00 ET (08:00 AEDT Thu Oct 22)",
-      "ticker": "LRCX",
-      "title": "Lam Research September-quarter (fiscal Q1 2027) results and call",
-      "type": "earnings",
-      "why": "Wafer-fab equipment orders are the cleanest signal of whether AI memory and foundry capex is still rising after the OpenAI revenue scare; direct read for Micron, TSMC and Nvidia exposure.",
-      "link": "https://investor.lamresearch.com/"
-    },
-    {
-      "key": "2026-10-21-us-20yr-auction",
-      "date": "2026-10-21",
-      "time": "13:00 ET (04:00 AEDT Thu Oct 22)",
-      "ticker": "MACRO",
-      "title": "US Treasury 20-year bond auction",
-      "type": "macro",
-      "why": "With the 10-year at 5.24% and Pimco talking about 6%, a weak long-bond auction is the kind of event that re-rates growth multiples; no 10- or 30-year auctions fall in the window.",
-      "link": "https://tradingeconomics.com/united-states/calendar"
-    },
-    {
-      "key": "2026-10-21-meta-q3",
-      "date": "2026-10-21",
-      "time": "After US close; call 13:30 PT / 16:30 ET (07:30 AEDT Thu Oct 22)",
-      "ticker": "META",
-      "title": "Meta Q3 2026 results and call (confirmed Oct 12)",
-      "type": "earnings",
-      "why": "Holding; Meta's own release (PRNewswire, Oct 12) sets Oct 21, a week earlier than the Oct 28 third-party estimates. Same US evening as Tesla, Texas Instruments, Lam and IBM, and lands ahead of the New Mexico penalty ruling due by late October.",
-      "link": "https://www.stocktitan.net/news/META/meta-to-announce-third-quarter-2026-xthjv1vpcuwo.html"
-    },
-    {
-      "key": "2026-10-21-sap-q3",
-      "date": "2026-10-21",
-      "time": "22:05 CEST Wed (16:05 ET; 07:05 AEDT Thu Oct 22); call 23:00 CEST (17:00 ET; 08:00 AEDT Thu Oct 22)",
-      "ticker": "SAP",
-      "title": "SAP Q3 2026 results and analyst call",
-      "type": "earnings",
-      "why": "Cloud backlog is the read on enterprise AI software demand; UBS expects backlog growth to slow noticeably.",
-      "link": "https://admiralmarkets.com/de/wissen/articles/shares/sap-aktie-q3-2026-zahlen-vorschau"
-    },
-    {
-      "key": "2026-10-21-tsla-q3",
-      "date": "2026-10-21",
-      "time": "After US close; Q&A webcast 5:30pm ET = 8:30am AEDT Thu Oct 22",
-      "ticker": "TSLA",
-      "title": "Tesla Q3 2026 results and Q&A webcast",
-      "type": "earnings",
-      "why": "Confirmed in Tesla's 8-K. Auto margins, energy storage and Cybercab ramp commentary.",
-      "link": "https://www.sec.gov/Archives/edgar/data/0001318605/000162828026064366/exhibit991111111.htm"
-    },
-    {
-      "key": "2026-10-21-txn-q3",
-      "date": "2026-10-21",
-      "time": "Call 15:30 CT / 16:30 ET (07:30 AEDT Thu Oct 22); release after US close",
-      "ticker": "TXN",
-      "title": "Texas Instruments Q3 2026 results and call",
-      "type": "earnings",
-      "why": "Confirmed by TI's Oct 1 release. Analog and industrial demand read for the machinery names and broad chip cycle, outside the AI-memory trade now under pressure.",
-      "link": "https://www.ti.com/about-ti/newsroom/news-releases/2026/2026-10-01-texas-instruments-to-webcast-q3-2026-earnings-conference-call.html"
-    },
-    {
-      "key": "2026-10-22-be-q3",
-      "date": "2026-10-22",
-      "time": "After US close; call 14:00 PT / 17:00 ET (08:00 AEDT Fri Oct 23)",
-      "ticker": "BE",
-      "title": "Bloom Energy Q3 2026 results and call",
-      "type": "earnings",
-      "why": "Confirmed by Bloom Oct 12 (replaces the 2026-10-27-be-q3 estimate). Consensus EPS $0.14; FY26 guide $3.9-4.2B; shares down 9% Oct 14.",
-      "link": "https://www.bloomenergy.com/news/bloom-energy-to-announce-third-quarter-2026-financial-results-on-october-22-2026/"
-    },
-    {
-      "key": "2026-10-22-us-jobless-claims",
-      "date": "2026-10-22",
-      "time": "08:30 ET (23:30 AEDT Thu)",
-      "ticker": "MACRO",
-      "title": "US initial jobless claims, week to Oct 17",
-      "type": "macro",
-      "why": "Last claims print before the Oct 28 FOMC decision, inside the blackout.",
-      "link": "https://tradingeconomics.com/united-states/calendar"
-    },
-    {
-      "key": "2026-10-22-us-lei",
-      "date": "2026-10-22",
-      "time": "10:00 ET Thu (01:00 AEDT Fri Oct 23)",
-      "ticker": "MACRO",
-      "title": "Conference Board Leading Economic Index, September (August -0.1% to 99.5)",
-      "type": "macro",
-      "why": "Low-impact recession gauge; date from the Conference Board's August release.",
-      "link": "https://www.webull.com/news/15599864450843648"
-    },
-    {
-      "key": "2026-10-22-spot-q3",
-      "date": "2026-10-22",
-      "time": "Before US open Thu; Q&A call 8:00 a.m. ET (23:00 AEDT Thu)",
-      "ticker": "SPOT",
-      "title": "Spotify Q3 2026 results",
-      "type": "earnings",
-      "why": "Confirmed by Spotify's Business Wire release of Sept 24, 2026: results Thursday Oct 22 before market open, management Q&A at 8:00 a.m. ET via webcast at investors.spotify.com, questions through Slido code #SpotifyEarningsQ326. Spotify IR pages did not render via fetch, so the release was read via Finviz's carry of the wire.",
-      "link": "https://finviz.com/news/395042/spotify-technology-sa-to-announce-results-for-third-quarter-2026"
-    },
-    {
-      "key": "2026-10-23-us-flash-pmi",
-      "date": "2026-10-23",
-      "time": "09:45 ET (00:45 AEDT Sat Oct 24)",
-      "ticker": "MACRO",
-      "title": "S&P Global US flash manufacturing, services and composite PMIs, October",
-      "type": "macro",
-      "why": "Prices-paid and new-orders components will set the tone into the FOMC; a hot print raises the October hike odds from 18%.",
-      "link": "https://tradingeconomics.com/united-states/calendar"
-    },
-    {
-      "key": "2026-10-23-umich-final",
-      "date": "2026-10-23",
-      "time": "10:00 ET (01:00 AEDT Sat Oct 24)",
-      "ticker": "MACRO",
-      "title": "University of Michigan consumer sentiment, October final (prelim 46.3; 1-yr inflation 4.7%, 5-yr 3.5%)",
-      "type": "macro",
-      "why": "Inflation expectations rose for a second month to the highest since May; Waller explicitly flagged de-anchoring risk, so an upward revision feeds straight into the Fed path.",
-      "link": "https://www.sca.isr.umich.edu/"
-    },
     {
       "key": "2026-10-25-brazil-runoff",
       "date": "2026-10-25",
@@ -240,6 +70,16 @@
       "type": "earnings",
       "why": "Now confirmed by the company; call on Teradyne's IR calendar. Q3 guide $1.2-1.3B; AI test demand read for the semis drawdown.",
       "link": "https://investors.teradyne.com/news-events/ir-calendar/detail/20261028-q3-2026-teradyne-inc-earnings-conference-call"
+    },
+    {
+      "key": "2026-10-28-aapl-pro-and-tell",
+      "date": "2026-10-28",
+      "time": "10:00 PT Wed (04:00 AEDT Thu Oct 29)",
+      "ticker": "AAPL",
+      "title": "Apple 'Pro and Tell' Mac event, Los Angeles",
+      "type": "product",
+      "why": "Love. Invites sent Oct 19. Expected (not confirmed): touchscreen OLED MacBook Pro, M6 MacBook Pro and iMac, OLED iPad mini. Likely videos and releases, not a keynote.",
+      "link": "https://www.cultofmac.com/?p=941400"
     },
     {
       "key": "2026-10-28-fomc-decision",
@@ -332,6 +172,16 @@
       "link": "https://www.investegate.co.uk/announcement/rns/samsung-electronics-co-ltd-att---smsd/notice-of-3q-2026-earnings-release-schedule/9812151"
     },
     {
+      "key": "2026-10-29-byd-q3",
+      "date": "2026-10-29",
+      "time": "After Hong Kong close, time TBC (evening AEDT Thu)",
+      "ticker": "1211",
+      "title": "BYD Q3 2026 results",
+      "type": "earnings",
+      "why": "Love. Date from Boerse Express (Oct 16); no HKEX board notice found. Consensus EPS CNY 1.30 vs 0.94; Q3 sales 1.32M NEVs, +18.8%.",
+      "link": "https://www.boerse-express.com/news/articles/byd-aktie-alles-auf-den-29-oktober-953597"
+    },
+    {
       "key": "2026-10-29-keyence-q2",
       "date": "2026-10-29",
       "time": "After Tokyo close, time TBC (about 17:30 AEDT Thu; 02:30 ET)",
@@ -364,12 +214,12 @@
     {
       "key": "2026-10-29-ecb-decision",
       "date": "2026-10-29",
-      "time": "Governing Council Oct 28-29, decision and press conference Oct 29; time not on ECB calendar (Europe is on CET from Oct 25, so a mid-afternoon Frankfurt announcement lands after midnight AEDT Fri Oct 30) - TBC",
+      "time": "Decision 14:15 CET, press conference 14:45 CET (09:15 / 09:45 ET; 00:15 / 00:45 AEDT Fri Oct 30)",
       "ticker": "ECB",
       "title": "ECB monetary policy decision and press conference",
       "type": "central_bank",
-      "why": "Dates confirmed on the ECB calendar. Relevant for European exposure such as SAP and ASML; lands the day before the BoJ.",
-      "link": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html"
+      "why": "Deposit rate 2.50% after a September hike; markets priced a live chance of another 25bp. Times from Admiral Markets; ECB calendar gives dates only.",
+      "link": "https://admiralmarkets.com/analytics/traders-blog/ecb-meeting-october-2026"
     },
     {
       "key": "2026-10-29-intc-q3",
@@ -402,14 +252,24 @@
       "link": "https://www.bea.gov/news/schedule"
     },
     {
+      "key": "2026-10-29-pjm-backstop-filing",
+      "date": "2026-10-29",
+      "time": "Filing deadline (US time)",
+      "ticker": "MACRO",
+      "title": "PJM files revised reliability-backstop plan at FERC",
+      "type": "other",
+      "why": "Covers the 6.8 GW capacity shortfall and who pays for it; DOE wants large loads to carry the cost. Power-bottleneck read for VRT, GEV, BE.",
+      "link": "https://www.utilitydive.com/news/doe-pjm-ferc-ratepayer-protection-large-load-data-center/832479/"
+    },
+    {
       "key": "2026-10-29-rkt-q3",
       "date": "2026-10-29",
-      "time": "TBC (estimated after US close, call 16:30 ET = 07:30 AEDT Fri Oct 30)",
+      "time": "Release Thu Oct 29; call 16:30 ET (07:30 AEDT Fri Oct 30)",
       "ticker": "RKT",
-      "title": "Rocket Companies Q3 2026 results (date not confirmed)",
+      "title": "Rocket Companies Q3 results",
       "type": "earnings",
-      "why": "Holding. No company notice yet; MarketBeat and Investing.com estimate Oct 29, AJ Bell Oct 30, Yahoo Nov 5. Last year's notice came Oct 16 for an Oct 30 report.",
-      "link": "https://www.marketbeat.com/earnings/reports/2026-10-29-rocket-companies-inc-stock/"
+      "why": "Mortgage volumes with the 10-year back near 5%.",
+      "link": "https://www.tradingview.com/news/prnewswire:ef49c42aeccd5:0-rocket-companies-to-announce-third-quarter-2026-results-on-october-29-2026/"
     },
     {
       "key": "2026-10-30-aapl-homepod-mini-2",
@@ -448,7 +308,7 @@
       "ticker": "AAPL",
       "title": "Apple fiscal Q4 2026 results and call (first under CEO John Ternus)",
       "type": "earnings",
-      "why": "Just outside the window; lands the morning of the RBA decision. iPhone Duo sales fall in the December quarter, not this one.",
+      "why": "Love. Guide was +9-11% revenue, iPhone up mid-teens. Lands the morning of the RBA decision; iPhone Duo sales fall in the December quarter.",
       "link": "https://macdailynews.com/2026/10/07/apple-to-report-q426-earnings-on-monday-november-2nd/"
     },
     {
@@ -460,6 +320,16 @@
       "type": "macro",
       "why": "First-business-day rule; listed as estimated pending ISM confirmation (ISM's own calendar is behind a login). Prices-paid and new orders for the machinery names.",
       "link": "https://therighttrader.com/economic-calendar/ism-manufacturing"
+    },
+    {
+      "key": "2026-11-02-pltr-q3",
+      "date": "2026-11-02",
+      "time": "After US close; webcast 17:00 ET (09:00 AEDT Tue Nov 3)",
+      "ticker": "PLTR",
+      "title": "Palantir Q3 2026 results and webcast",
+      "type": "earnings",
+      "why": "Confirmed by Palantir's Oct 12 release. Guide revenue $2.160-2.164B. AI software demand read alongside AAPL the same evening.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-announces-date-third-quarter-200500055.html"
     },
     {
       "key": "2026-11-03-alab-q3",
@@ -504,12 +374,32 @@
     {
       "key": "2026-11-03-rba-decision",
       "date": "2026-11-03",
-      "time": "Statement on Monetary Policy 14:30 AEDT Tue Nov 3 (22:30 ET Mon Nov 2); decision usually released at the same time, press conference TBC",
+      "time": "Decision and Statement on Monetary Policy 14:30 AEDT Tue Nov 3 (22:30 ET Mon Nov 2); Governor's media conference 15:30 AEDT",
       "ticker": "RBA",
       "title": "RBA cash rate decision and November Statement on Monetary Policy (Board meets Nov 2-3)",
       "type": "central_bank",
-      "why": "Cash rate 4.60% after a unanimous September hike; minutes said the Board will raise again if required. September quarter CPI lands Oct 28 first.",
-      "link": "https://www.rba.gov.au/schedules-events/"
+      "why": "Cash rate 4.60% after the September hike; September-quarter CPI lands Oct 28 first. Press conference time now confirmed by the RBA.",
+      "link": "https://www.rba.gov.au/media-releases/2025/mr-25-02.html"
+    },
+    {
+      "key": "2026-11-03-smci-q1-fy27",
+      "date": "2026-11-03",
+      "time": "After US close; call 17:00 ET (09:00 AEDT Wed Nov 4)",
+      "ticker": "SMCI",
+      "title": "Supermicro fiscal Q1 2027 results and call",
+      "type": "earnings",
+      "why": "Pre-announced Sep-qtr revenue $18.5-19.5B vs $14.5-15.5B guide, GM 12.0-12.5%. AI server demand read the same evening as AMD.",
+      "link": "https://ir.supermicro.com/news/news-details/2026/Supermicro-Provides-First-Quarter-of-Fiscal-Year-2027-Preliminary-Business-Update/default.aspx"
+    },
+    {
+      "key": "2026-11-04-arm-q2-fy27",
+      "date": "2026-11-04",
+      "time": "After US close; webcast 14:00 PT / 17:00 ET (09:00 AEDT Thu Nov 5)",
+      "ticker": "ARM",
+      "title": "Arm fiscal Q2 2027 results and webcast",
+      "type": "earnings",
+      "why": "Confirmed in Arm's Oct 5 release. Royalty growth from AI data-centre CPUs; same evening as Qualcomm.",
+      "link": "https://newsroom.arm.com/?p=22756"
     },
     {
       "key": "2026-11-04-asml-dividend",
@@ -542,6 +432,16 @@
       "link": "https://investor.mercadolibre.com/news-and-events"
     },
     {
+      "key": "2026-11-04-qcom-q4",
+      "date": "2026-11-04",
+      "time": "After US close; call 13:45 PT / 16:45 ET (08:45 AEDT Thu Nov 5)",
+      "ticker": "QCOM",
+      "title": "Qualcomm fiscal Q4 2026 results and call",
+      "type": "earnings",
+      "why": "Set by Qualcomm's Oct 22 release. Handset demand under higher memory costs, and its AI data-centre chip push.",
+      "link": "https://www.stocktitan.net/news/QCOM/qualcomm-schedules-fourth-quarter-and-fiscal-2026-earnings-release-01jf6ykkm067.html"
+    },
+    {
       "key": "2026-11-05-ldi-q3",
       "date": "2026-11-05",
       "time": "TBC (estimated after US close; about 08:05 AEDT Fri Nov 6)",
@@ -570,6 +470,16 @@
       "type": "macro",
       "why": "No payrolls print falls before the Oct 28 FOMC (September's came Oct 2). This is the first jobs read for the December hike call.",
       "link": "https://www.bls.gov/schedule/2026/11_sched_list.htm"
+    },
+    {
+      "key": "2026-11-09-cftc-gpu-futures",
+      "date": "2026-11-09",
+      "time": "Review deadline (US time)",
+      "ticker": "NVDA",
+      "title": "CFTC review deadline for CME H100/B200 GPU rental futures",
+      "type": "other",
+      "why": "Holding read. Cash-settled on Silicon Data indices, 730 GPU-hours a contract. Approval gives the first public forward curve for compute prices.",
+      "link": "https://cryptobriefing.com/commodity-brokers-prepare-ai-compute-futures/"
     },
     {
       "key": "2026-11-10-se-q3",
