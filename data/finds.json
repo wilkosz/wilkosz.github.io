@@ -1,13 +1,13 @@
 {
-  "as_of": "2026-10-22T00:40",
-  "summary": "Diesel storage is the easy want: used 1000 L carts and tanks within 40km are going for -,000, against about k plus freight new. Loader tractors in band are still mostly at clearing sales, with three on AuctionsPlus closing between 26 Oct and 9 Nov. The local stick rake to beat is the Berrigan-made BEH 2400. Offset discs and portable homes were quiet this week.",
+  "as_of": "2026-10-25T23:50",
+  "summary": "Loader tractors in band are still coming through Riverina and southern NSW clearing sales rather than dealers. The Holbrook sale on 12 Nov has two, and the JD 6630 at Tottenham has been bid past the $80k ceiling. Diesel storage remains cheap locally, with a 1000 L tow-behind cart at the Barellan sale on 5 Nov. Discs, rippers and stick rakes were quiet on the sites that could be read. Facebook was not checked this run.",
   "headlines": [
-    "New want: 1000 L fuel trailer with 12V pump, Warburn, 30km, $700 + GST. Cheapest diesel cart found.",
-    "1000 L tandem fuel cart with pump, Coleambally, 40km, $1,800 + GST; 1000 L tank on a gravity stand, Hay, $500.",
-    "JD 6630 with 741 loader, 1,552 hours, 130hp: Tottenham auction timer now starts 27 Oct, not 23 Oct.",
-    "New: 2016 Deutz-Fahr M600 with loader, 2,531 hours, Adelong, 240km, auction ends 26 Oct.",
-    "Sold: Shearer 24-plate discs ($5,500) and the $7,000 transportable cabin.",
-    "Removed pallet forks, drop deck trailer and chainsaw from the hunt."
+    "New: Massey Ferguson 7614 with loader, 1,103 hours, 140hp, one owner, Holbrook clearing sale 12 Nov, 300km.",
+    "Same Holbrook sale: Valtra N134 with loader, 1,815 hours, year and hp not stated. Not listed, worth a call.",
+    "New: 1000 L tow-behind fuel cart with Honda pump, Barellan clearing sale 5 Nov, 110km.",
+    "Dropped: JD 6630 with 741 loader, Tottenham, now bid at $89,000, over the $80k ceiling.",
+    "Deutz-Fahr M600 with loader, 2,531 hours, Adelong: bid $71,000, reserve not met, still open.",
+    "New: base EXEQ 20ft expandable with ensuite, $18,150 inc GST, Shepparton, 250km. Not wired."
   ],
   "finds": [
     {
@@ -156,7 +156,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-10-22",
+      "updated": "2026-10-25",
       "photo": "img/finds/hayes-extra-heavy-duty-single-tine-tractor-ripper-pipelayer.jpg",
       "photo_url": "https://hayesproducts.com.au/wp-content/uploads/2019/05/Extra-Heavy-Duty.jpg"
     },
@@ -204,7 +204,7 @@
       "why": "1000 L towable cart with a 12V pump, 30km away, at under half the price of the Coleambally cart; listed in June, so ring to check it's still there.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-10-22",
+      "updated": "2026-10-25",
       "photo": "img/finds/farmtender-131044.jpg",
       "photo_url": "https://media.farmtender.com.au/listings/6a1e4a4435776/large/f868ee7c47b91b576f64d7284c0e5140.jpg"
     },
@@ -231,6 +231,31 @@
       "first_seen": "2026-10-22",
       "updated": "2026-10-22",
       "photo": "img/finds/fb-913292798511535.jpg"
+    },
+    {
+      "key": "auctionsplus-129303-1464487",
+      "want": "diesel-storage",
+      "title": "Tow-behind fuel tank, 1000 L, Honda motor pump",
+      "price_aud": null,
+      "price_note": "clearing sale auction 5 Nov, no bids yet; vendor GST registered",
+      "location": "Barellan, NSW",
+      "distance_km": 110,
+      "detail": [
+        "1000 L, tow-behind",
+        "Honda motor pump",
+        "used, inspect before bidding",
+        "same sale has a 2,200 L overhead diesel tank"
+      ],
+      "source": "AuctionsPlus (Elders Griffith)",
+      "url": "https://auctionsplus.com.au/auctions/machinery/account-m-j-kenny-clearing-sale-barellan-nsw/portable-tow-behind-fuel-tank/listing/129303-1464487",
+      "verdict": "strong",
+      "why": "Local 1000 L cart with a pump at a clearing sale, likely to go under the $400-$1,980 seen for similar gear.",
+      "status": "live",
+      "ends": "2026-11-05",
+      "first_seen": "2026-10-25",
+      "updated": "2026-10-25",
+      "photo": "img/finds/auctionsplus-129303-1464487.jpg",
+      "photo_url": "https://auctionsplusblob.blob.core.windows.net/apmediaprod/Photos/1639280200847772424_b125f2cc-6df1-4054-9762-9647e988e152.webp"
     },
     {
       "key": "fb-1680015046874285",
@@ -276,28 +301,6 @@
       "first_seen": "2026-10-22",
       "updated": "2026-10-22",
       "photo": "img/finds/fb-1663698828091004.jpg"
-    },
-    {
-      "key": "oxquip-1000l-diesel-tank",
-      "want": "diesel-storage",
-      "title": "Diesel Genius 1000 L poly diesel tank with 12V pump (new)",
-      "price_aud": 2985,
-      "price_note": "freight +$75 to +$250 by zone; flow meter +$475",
-      "location": "Oxquip online (posted)",
-      "distance_km": null,
-      "detail": [
-        "1,000 L diesel-grade poly, 15-yr warranty",
-        "12V 40 L/min pump, 4 m hose, auto nozzle",
-        "lockable lid, galvanised frame with fork points",
-        "not bunded, no stand"
-      ],
-      "source": "Oxquip",
-      "url": "https://www.oxquip.com.au/product/1000l-diesel-tank/",
-      "verdict": "decent",
-      "why": "New benchmark: about $3k plus freight buys 1000 L with a pump and warranty, which sets the ceiling for the used finds.",
-      "status": "live",
-      "first_seen": "2026-10-22",
-      "updated": "2026-10-22"
     },
     {
       "key": "fb-939357285873973",
@@ -459,14 +462,14 @@
       "want": "offset-discs",
       "title": "Big Country Ag 28-plate offset disc (new 2026)",
       "price_aud": 24200,
-      "price_note": "$22,000 ex GST; delivers nationally, freight not stated",
+      "price_note": "$22,000 + GST, new, freight extra from Murarrie QLD",
       "location": "QLD (delivers nationally)",
       "distance_km": null,
       "detail": [
-        "28 plates, 710 mm x 8 mm",
+        "28 plates, 710mm x 8mm",
         "3.2 m cut, 3.4 m working width",
-        "twin taper roller bearings, 55 mm gang shafts",
-        "2,360 kg, floatation tyres"
+        "new 2026",
+        "delivers nationally"
       ],
       "source": "Machines4u",
       "url": "https://www.machines4u.com.au/view/advert/Big-Country-Ag-28-Plate-Offset-Disc/298124/",
@@ -474,7 +477,7 @@
       "why": "New Australian-made with a stated 3.2 m cut inside the width limit, but about three times the price of the used discs on the list.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-10-22",
+      "updated": "2026-10-25",
       "photo": "img/finds/machines4u-298124.jpg",
       "photo_url": "https://media.machines4u.com.au/machinery/24/298124/Big-Country-Ag-28-Plate-Offset-Disc_65654145.h.jpg"
     },
@@ -635,28 +638,29 @@
       "photo_url": "https://images.gumtree.com.au/image/private/t_$_s-l800/gumtree/dbe4a93e-46bd-4f5a-87ed-a1f924190a89.jpg"
     },
     {
-      "key": "exeq-l0206-br2",
+      "key": "machines4u-1286001",
       "want": "portable-home",
-      "title": "Expandable 2 bed container house with ensuite (new, unused)",
-      "price_aud": 25850,
-      "price_note": "$23,500 + GST. Collect from Shepparton yard, transport extra. Comes unwired, so add an electrician",
+      "title": "EXEQ L0206 expandable container house with ensuite (unused)",
+      "price_aud": 18150,
+      "price_note": "$16,500 plus GST. Not wired. Transport extra, not suited to a skel trailer or side loader.",
       "location": "Shepparton, VIC",
-      "distance_km": 240,
+      "distance_km": 250,
       "detail": [
-        "2 bedrooms",
-        "ensuite: shower, toilet, basin",
-        "small kitchenette",
-        "opens to 19ft x 20ft, 3.9t folded"
+        "20ft expandable, 19ft x 20ft opened",
+        "ensuite: shower, toilet, sink",
+        "8 double-glazed sliding windows",
+        "folded, about 3.9t",
+        "not wired, needs an electrician"
       ],
-      "source": "EXEQ",
-      "url": "https://exeq.com.au/product/expandable-2-bedroom-container-house-with-ensuite/",
+      "source": "Machines4u",
+      "url": "https://www.machines4u.com.au/view/advert/Expandable-Container-House-with-Ensuite/1286001/",
       "verdict": "decent",
-      "why": "Clears both musts from a dealer with a Shepparton yard, but after GST and wiring it costs more than the $18k Seymour unit.",
+      "why": "Same box as the $25,850 2-bed model for $7.7k less, but no bedroom wall or kitchen is shown, so confirm the layout.",
       "status": "live",
-      "first_seen": "2026-10-22",
-      "updated": "2026-10-22",
-      "photo": "img/finds/exeq-l0206-br2.jpg",
-      "photo_url": "https://exeq.com.au/wp-content/uploads/2025/04/L0206-BR2a-01-rotated.jpg"
+      "first_seen": "2026-10-25",
+      "updated": "2026-10-25",
+      "photo": "img/finds/machines4u-1286001.jpg",
+      "photo_url": "https://media.machines4u.com.au/machinery/1/1286001/Expandable-Container-House-with-Ensuite_82793567.h.jpg"
     },
     {
       "key": "fb-1636995964726865",
@@ -701,7 +705,7 @@
       "why": "Local maker 150km away, 2.4 m with the heaviest tines on the list and Euro hitch standard.",
       "status": "live",
       "first_seen": "2026-10-18",
-      "updated": "2026-10-22",
+      "updated": "2026-10-25",
       "photo": "img/finds/m4u-956441.jpg",
       "photo_url": "https://media.machines4u.com.au/machinery/41/956441/Berrigan-Stick-rake-2400-HD-MADE-TOUGH-IN-AUSTRALIA_62086332.h.jpg"
     },
@@ -725,7 +729,7 @@
       "why": "Bisalloy tines and a Euro option, but no width or hp rating, and the model name hints at a skid-steer size.",
       "status": "live",
       "first_seen": "2026-10-18",
-      "updated": "2026-10-22",
+      "updated": "2026-10-25",
       "photo": "img/finds/farmtender-130183.jpg",
       "photo_url": "https://media.farmtender.com.au/listings/69e97353a3003/large/c724b4508e5c7fac073aaeb8d9d5fcc7.jpeg"
     },
@@ -750,7 +754,7 @@
       "why": "Known brand at the right width, but posted from Melbourne with freight extra, built to order, and lighter tines than the BEH rakes.",
       "status": "live",
       "first_seen": "2026-10-18",
-      "updated": "2026-10-22",
+      "updated": "2026-10-25",
       "photo": "img/finds/earthmovingwarehouse-digga-stick-rake-euro.jpg",
       "photo_url": "https://www.earthmovingwarehouse.com.au/cdn/shop/products/Digga-Stick-Rake-Tractor.jpg?v=1641450859"
     },
@@ -774,7 +778,7 @@
       "why": "Same heavy local build with tighter tine spacing; ask whether the wings are actually included.",
       "status": "live",
       "first_seen": "2026-10-18",
-      "updated": "2026-10-22",
+      "updated": "2026-10-25",
       "photo": "img/finds/m4u-946957.jpg",
       "photo_url": "https://media.machines4u.com.au/machinery/57/946957/BEH-Stick-rake-2400-WITH-WINGS-MADE-TOUGH-IN-AUSTRALIA_61902648.h.jpg"
     },
@@ -805,32 +809,6 @@
       "photo": "img/finds/fb-1027921470152750.jpg"
     },
     {
-      "key": "auctionsplus-129235-1463216",
-      "want": "tractor",
-      "title": "2008 John Deere 6630 with JD 741 loader",
-      "price_aud": null,
-      "price_note": "online auction, 0% buyer premium, vendor not GST registered; timer starts 27 Oct 7:30pm AEDT",
-      "location": "Tottenham, NSW",
-      "distance_km": 370,
-      "detail": [
-        "1,552 genuine hours",
-        "130hp 6-cyl",
-        "JD 741 FEL, Euro hitch, joystick, GP bucket",
-        "A/C cab, TLS front suspension, PowrQuad Plus 24sp",
-        "bought new by vendor, well maintained"
-      ],
-      "source": "AuctionsPlus",
-      "url": "https://auctionsplus.com.au/auctions/machinery/tottenham-clearing-sale-ac-mb-larkings-proper/john-deere-6630-tractor-with-fel/listing/129235-1463216/browse",
-      "verdict": "strong",
-      "why": "One-owner 2008 Deere in the 130hp class, low hours, Deere loader and cab, no premium, built before AdBlue tractors.",
-      "status": "live",
-      "ends": "2026-10-27",
-      "first_seen": "2026-10-12",
-      "updated": "2026-10-22",
-      "photo": "img/finds/auctionsplus-129235-1463216.jpg",
-      "photo_url": "https://auctionsplusblob.blob.core.windows.net/apmediaprod/Photos/1639272717623609982_465c85ed-666a-48fe-b2bf-d41314acfc60.webp"
-    },
-    {
       "key": "fb-4587767698160637",
       "want": "tractor",
       "title": "2007 Claas Celtis 436 cab tractor with front-end loader, 3,404 hours",
@@ -855,6 +833,32 @@
       "first_seen": "2026-10-18",
       "updated": "2026-10-22",
       "photo": "img/finds/fb-4587767698160637.jpg"
+    },
+    {
+      "key": "auctionsplus-129202-1468742",
+      "want": "tractor",
+      "title": "2016 Deutz-Fahr Agrotron M600 with Agro-Lift loader",
+      "price_aud": 71000,
+      "price_note": "current bid, reserve not met, plus 2% buyer premium; close time not shown, likely very soon",
+      "location": "Adelong, NSW",
+      "distance_km": 240,
+      "detail": [
+        "2,531 hours",
+        "hp not stated on listing (spec sheets rate the M600 at about 121hp)",
+        "Agro-Lift 4020 FEL, bucket, Kerfab hay forks",
+        "axle and cab suspension, hydraulic trailer brakes",
+        "4 near-new tyres plus 2 spares; minor bonnet damage"
+      ],
+      "source": "AuctionsPlus",
+      "url": "https://auctionsplus.com.au/auctions/machinery/auctionsplus-multi-vendor-machinery-auction/2016-deutz-fahr-m600-50k/listing/129202-1468742/browse",
+      "verdict": "decent",
+      "why": "Mid-hours 2016 cab tractor with a loader, in range; Deutz-Fahr isn't on the named list, there's no service history and the hp isn't on the listing.",
+      "status": "live",
+      "ends": "2026-10-26",
+      "first_seen": "2026-10-22",
+      "updated": "2026-10-25",
+      "photo": "img/finds/auctionsplus-129202-1468742.jpg",
+      "photo_url": "https://auctionsplusblob.blob.core.windows.net/apmediaprod/Photos/1639281224905367357_a14805ef-ff7a-453c-b4f9-a9d69239bfce.webp"
     },
     {
       "key": "farmmachinerysales-oag-ad-19773199",
@@ -907,30 +911,32 @@
       "photo": "img/finds/fb-1336993044818018.jpg"
     },
     {
-      "key": "auctionsplus-129202-1468742",
+      "key": "auctionsplus-129297-1470171",
       "want": "tractor",
-      "title": "2016 Deutz-Fahr Agrotron M600 with Agro-Lift loader",
+      "title": "Massey Ferguson 7614 with front-end loader and bucket",
       "price_aud": null,
-      "price_note": "online auction, 2% buyer premium, GST registered",
-      "location": "Adelong, NSW",
-      "distance_km": 240,
+      "price_note": "clearing sale auction 12 Nov, no bids yet, 0% buyer premium",
+      "location": "Little Billabong (Holbrook), NSW",
+      "distance_km": 300,
       "detail": [
-        "2,531 hours",
-        "hp not stated on listing (spec sheets rate the M600 at about 121hp)",
-        "Agro-Lift 4020 FEL, bucket, Kerfab hay forks",
-        "axle and cab suspension, hydraulic trailer brakes",
-        "4 near-new tyres plus 2 spares; minor bonnet damage"
+        "1,103 hours",
+        "140hp",
+        "FEL with bucket",
+        "Dyna-6 24-speed powershift",
+        "Topcon X25 GPS",
+        "bought new, regularly serviced",
+        "year not stated"
       ],
-      "source": "AuctionsPlus",
-      "url": "https://auctionsplus.com.au/auctions/machinery/auctionsplus-multi-vendor-machinery-auction/2016-deutz-fahr-m600-50k/listing/129202-1468742/browse",
+      "source": "AuctionsPlus (Nutrien Holbrook)",
+      "url": "https://auctionsplus.com.au/auctions/machinery/p-n-rogers-investments-pl-clearing-sale-yarra/massey-ferguson-mf7614-w-front-end-loader-bu/listing/129297-1470171/browse",
       "verdict": "decent",
-      "why": "Mid-hours 2016 cab tractor with a loader, in range; Deutz-Fahr isn't on the named list, there's no service history and the hp isn't on the listing.",
+      "why": "One owner, serviced and low hours, so it clears every must on paper, but it sits at the 140hp top of the band and may sell above $80k.",
       "status": "live",
-      "ends": "2026-10-26",
-      "first_seen": "2026-10-22",
-      "updated": "2026-10-22",
-      "photo": "img/finds/auctionsplus-129202-1468742.jpg",
-      "photo_url": "https://auctionsplusblob.blob.core.windows.net/apmediaprod/Photos/1639281224905367357_a14805ef-ff7a-453c-b4f9-a9d69239bfce.webp"
+      "ends": "2026-11-12",
+      "first_seen": "2026-10-25",
+      "updated": "2026-10-25",
+      "photo": "img/finds/auctionsplus-129297-1470171.jpg",
+      "photo_url": "https://auctionsplusblob.blob.core.windows.net/apmediaprod/Photos/1639285652916943282_86d8b40a-f56b-4e31-84d1-42e0709cd749.webp"
     }
   ]
 }
