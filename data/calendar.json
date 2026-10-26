@@ -146,10 +146,10 @@
       "date": "2026-10-28",
       "time": "Call 09:00 KST Wed (11:00 AEDT Wed Oct 28; 20:00 ET Tue Oct 27)",
       "ticker": "SKHY",
-      "title": "SK hynix Q3 2026 results and call (confirmed Oct 14)",
+      "title": "SK hynix Q3 2026 results, call and shareholder-return plan",
       "type": "earnings",
-      "why": "Company 6-K sets Oct 28 Seoul time, settling the Oct 27/28 conflict. HBM pricing and capex read for MU, NVDA and TSM.",
-      "link": "https://www.tipranks.com/news/company-announcements/sk-hynix-sets-october-28-conference-call-for-q3-2026-earnings"
+      "why": "HBM pricing and capex read for MU, NVDA and TSM; the company says a shareholder-return plan comes the same day, with press reports of a KRW 16T ($12B) special dividend.",
+      "link": "https://www.koreaherald.com/article/10914252"
     },
     {
       "key": "2026-10-28-vrt-q3",
@@ -480,6 +480,16 @@
       "type": "other",
       "why": "Holding read. Cash-settled on Silicon Data indices, 730 GPU-hours a contract. Approval gives the first public forward curve for compute prices.",
       "link": "https://cryptobriefing.com/commodity-brokers-prepare-ai-compute-futures/"
+    },
+    {
+      "key": "2026-11-10-us-cpi",
+      "date": "2026-11-10",
+      "time": "08:30 ET Tue (00:30 AEDT Wed Nov 11; US on standard time)",
+      "ticker": "MACRO",
+      "title": "US CPI, October 2026 (BLS)",
+      "type": "macro",
+      "why": "First inflation read after the Oct 28 FOMC; a hot core print would firm up the December hike case and push yields higher.",
+      "link": "https://www.bls.gov/schedule/2026/11_sched_list.htm"
     },
     {
       "key": "2026-11-10-se-q3",

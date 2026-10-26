@@ -1,5 +1,101 @@
 [
   {
+    "date": "2026-10-26",
+    "ticker": "ANTHROPIC",
+    "headline": "Anthropic publicly files S-1 for Nasdaq IPO under ticker ANT",
+    "summary": "H1 2026 revenue was $16.3B, up 1,300% year on year. The net loss was $80.7B, mostly non-cash charges on financing instruments. Goldman Sachs and Morgan Stanley lead the deal, and reports put the valuation at $1.5-2T with listing in mid-November.",
+    "source": "https://www.anthropic.com/news/s1-sec",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-26",
+    "ticker": "NVDA",
+    "headline": "Anthropic S-1: about $3.1B a month to SpaceX for Nvidia-GPU compute",
+    "summary": "The filing commits up to $120.5B into 2029 for SpaceX compute on Nvidia GPUs, plus deals with Microsoft, Nscale and Lambda. Meanwhile neoclouds Nvidia backs are down 30%+ in October, which tests its $36B in off-balance-sheet backstops.",
+    "source": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-26",
+    "ticker": "META",
+    "headline": "Meta launches $35B equity offering to fund AI buildout",
+    "summary": "The offering is $22.5B of Class A stock via forward sales plus $12.5B of mandatory convertible preferred. A further ~$60B non-voting Class C at-the-market program is planned from Q1 2027. Shares swung from -4% to +1% premarket.",
+    "source": "https://www.investing.com/news/stock-market-news/meta-falls-as-it-launches-35-billion-equity-offering-to-fund-ai-buildout-4972118",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-26",
+    "ticker": "MACRO",
+    "headline": "Lula wins Brazil runoff; Brazil ADRs plunge",
+    "summary": "Lula won about 51.8% to 48.2% for a fourth term, and Flavio Bolsonaro says he will challenge the result. The Brazil ETF fell more than 27% premarket, Petrobras about 22% and MercadoLibre about 11%.",
+    "source": "https://www.riotimesonline.com/brazil-runoff-october-25-2026-flavio-bolsonaro-lula/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-26",
+    "ticker": "FED",
+    "headline": "Futures price ~91% hold at Oct 27-28 FOMC, ~80% December hike",
+    "summary": "US futures rose Monday as Brent eased after Trump ruled out an immediate Iran strike. The 10-year is near 5%. The decision is due Thu 5am AEDT, followed by Warsh's press conference.",
+    "source": "https://fxstreet.com/news/dow-jones-futures-rise-on-easing-middle-east-tensions-fed-rate-pause-bets-202610260846",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-26",
+    "ticker": "MELI",
+    "headline": "Lula wins Brazil runoff; MELI down 11.7% at the open",
+    "summary": "The electoral court declared Lula the winner with about 51.8% to 48.2%; Flavio Bolsonaro refused to concede and will seek annulment. MELI opened at $1,578 and traded at $1,598 early, from $1,810; Brazil ETFs and real futures fell about 10-19% overnight.",
+    "source": "https://www.yahoo.com/news/politics/articles/lula-declared-winner-brazil-run-044823546.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-26",
+    "ticker": "SKHY",
+    "headline": "SK hynix weighs $12B special dividend from Kioxia gains",
+    "summary": "Dong-A Ilbo reported a KRW 16T (about $12B) special dividend could come with Q3 on Wednesday; the company has said only that a shareholder-return plan will be announced then. The ADR rose 3.3% early Monday.",
+    "source": "https://www.koreaherald.com/article/10914252",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-26",
+    "ticker": "SKHY",
+    "headline": "KOSPI falls 1.46% to 5,469 before chip earnings; SK hynix flat",
+    "summary": "Foreign investors sold KRW 696B of Korean shares; SK hynix closed down 0.16% at KRW 1.28M after an early rally faded, and Samsung fell 1.16%.",
+    "source": "https://www.koreajoongangdaily.com/business/kospi-falls-146-before-samsung-sk-hynix-earnings/12939040",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-26",
+    "ticker": "META",
+    "headline": "Meta plans up to $95B stock raise for AI build-out; Nvidia, AMD, Broadcom may buy",
+    "summary": "Meta launched $35B of underwritten common and mandatory convertible offerings, with a $60B at-the-market programme from Q1 2027; its first new stock since 2013. Nvidia, AMD and Broadcom indicated non-binding interest in up to $5B.",
+    "source": "https://www.tipranks.com/news/meta-launches-95-billion-stock-offering-plan-to-fund-ai-expansion-nvidia-amd-and-broadcom-weigh-5-billion-purchase",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-26",
+    "ticker": "CRWV",
+    "headline": "Musk says debt markets have shut on neoclouds; CoreWeave near 52-week low",
+    "summary": "Elon Musk posted that debt financing has 'almost entirely shut off' for firms without revenue outside AI data centres and predicted neocloud failures. CoreWeave fell up to 4.5% pre-open; Raymond James, Morgan Stanley and UBS cut targets.",
+    "source": "https://www.investing.com/news/stock-market-news/why-is-coreweave-stock-sliding-today-93CH-4972132",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-26",
+    "ticker": "SE",
+    "headline": "New Street cuts Sea to Neutral, $70 target; shares at a new low",
+    "summary": "Sea fell 3.5% early to $71.99, a new 52-week low, after the downgrade, extending the slide since its Oct 20 Sea Cloud memo.",
+    "source": "https://stockanalysis.com/stocks/se/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-26",
+    "ticker": "VRT",
+    "headline": "Vertiv completes King Environmental Services purchase",
+    "summary": "The deal adds fluid-management services for high-density data centres across Europe, the Middle East and Africa, two days before Q3 results.",
+    "source": "https://stockanalysis.com/stocks/vrt/",
+    "impact": "neutral"
+  },
+  {
     "date": "2026-10-25",
     "ticker": "MELI",
     "headline": "Brazil runoff too close to call; Lula slightly ahead at half count",
@@ -542,101 +638,5 @@
     "summary": "SOX closed at 11,137.29, down 15.7% since Oct 6. Over that span Nvidia -10.5%, Micron -15.9%, Lam -21.0%, Intel -20.1%; TSMC's ADR fell 2.3% Friday. Yields fell over the period, so rates do not explain it; AI-financing worries are the best-fit reason.",
     "source": "https://www.techi.com/chip-stocks-eighth-straight-day-longest-since-2008/",
     "impact": "negative"
-  },
-  {
-    "date": "2026-10-16",
-    "ticker": "MACRO",
-    "headline": "Brent touches $110, first time since May, and settles at $109.86 (+3.7%) on Hormuz attacks and Houthi strikes on Saudi Arabia",
-    "summary": "WTI settled at $101.41 (+3.5%). On the week WTI rose more than 10% and Brent nearly 5%. Ukraine also vowed to keep hitting Russian refineries.",
-    "source": "https://www.businesstoday.in/markets/story/brent-hits-110-as-hormuz-ship-attacks-houthi-strikes-on-saudi-trigger-oil-rally-562207-2026-10-17",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-16",
-    "ticker": "MACRO",
-    "headline": "US September industrial production rises 0.7% (0.4% expected); import prices +1.1% with fuel +4.8%",
-    "summary": "Utilities output +3.5%, manufacturing +0.3%, capacity use 76.9%; IP +2.2% y/y. Import prices +8.1% y/y, fuel +34.5% y/y; export prices +2.2% m/m.",
-    "source": "https://www.federalreserve.gov/releases/g17/current/default.htm",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-16",
-    "ticker": "MACRO",
-    "headline": "Taiwan shares close up 0.3% at 47,111.26 Friday after Thursday's 3.41% drop",
-    "summary": "The Taiex gained 141.39 points on turnover of NT$935.96 billion. TSMC's Taipei shares slipped 0.8% on the first full session after its results.",
-    "source": "https://focustaiwan.tw/business/202610160009",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-16",
-    "ticker": "MACRO",
-    "headline": "Reuters: CoreWeave 2031 bonds yield 15.78%; Oracle, Amazon, Alphabet and Meta CDS at records",
-    "summary": "CoreWeave carries more than $50B of debt. Oracle, Nvidia and other big-tech credit default swaps rose this week; Amazon, Alphabet and Meta hit records but moved far less than CoreWeave or Oracle. Deutsche Bank's Jim Reid said AI financing costs show worrying signs at the edges.",
-    "source": "https://www.abc.net.au/news/2026-10-16/investors-bracing-for-big-tech-collapse-as-debt-levels-soar/107274648",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-16",
-    "ticker": "SKHY",
-    "headline": "KOSPI +2.05% after Black Thursday; Samsung +2.6%, SK hynix +0.8%; Nikkei +1.4%",
-    "summary": "Foreigners bought a net 172.1B won, ending an eight-session selling streak, after selling more than 3.6T won on Thursday. SK hynix faded from about +2.9% intraday. KOSPI is still 19.2% below its Oct 2 close; analysts called the buying a pause, not a reversal.",
-    "source": "https://www.ajupress.com/view/20261016153219133",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-16",
-    "ticker": "FED",
-    "headline": "Warsh gives no October signal in Bangkok: 'will make judgements at the October and December meeting'",
-    "summary": "In his last appearance before the blackout, the Fed Chair said he does not pre-judge meetings and called the investment surge the main upside for the global economy. The dollar index slipped 0.2%.",
-    "source": "https://www.fxstreet.com/news/breaking-feds-warsh-says-he-would-deliver-price-stability-but-wont-pre-judge-meetings-202610160346",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-16",
-    "ticker": "MACRO",
-    "headline": "Asia rebounds after the chip rout: Nikkei +1.9%, Hang Seng +1.2%; Jakarta falls over 10% on MSCI warning",
-    "summary": "After Thursday's US close (Dow +1.1%, S&P +0.3%, Nasdaq +0.1%), the Nikkei rose 1.9%, Hang Seng 1.2%, Shanghai 1% and the ASX 200 1.1%. Indonesia slumped on an MSCI downgrade warning; Brent eased 0.4% to about $105.5 (AP).",
-    "source": "https://www.wsls.com/business/2026/10/16/stocks-rebound-after-tech-sell-off-and-indonesia-shares-sink-on-market-downgrade-warning/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-15",
-    "ticker": "AMZN",
-    "headline": "Amazon reports Q3 on Thu Oct 29",
-    "summary": "The call is at 5pm ET (about 8am AEDT Fri Oct 30). After Meta, the market is watching AWS growth against capex.",
-    "source": "https://www.aboutamazon.com/md/news/company-news/amazon-earnings-q3-2026-report",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-15",
-    "ticker": "NFLX",
-    "headline": "Netflix names Peter Rice chief content officer from Oct 26; Bela Bajaria leaves",
-    "summary": "Rice, former chairman of Walt Disney Television and president of 21st Century Fox, will run global series, film and live content. Bajaria leaves after nearly ten years. The change follows the confirmed 6% job cuts and comes days before Q3 results on Wed Oct 21 07:00 AEDT.",
-    "source": "https://about.netflix.com/en/news/peter-rice-named-netflix-chief-content-officer",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-15",
-    "ticker": "MU",
-    "headline": "Taiwan's president urges Micron and unions to negotiate; COO says Taichung 2027 capacity sold out",
-    "summary": "Lai Ching-te spoke at the opening of Micron's new Taichung assembly and test plant. Unions want a concrete profit-sharing plan and are urging members to take Oct 19 off for a Taipei rally, which they say is not a strike. COO Manish Bhatia said the plant's 2027 capacity is sold out and HBM should outgrow the rest of DRAM through 2028. Micron has about 15,000 staff in Taiwan.",
-    "source": "https://www.thestandard.com.hk/china/article/345564/Taiwan-president-calls-for-Micron-workers-to-negotiate-sincerely-ahead-of-possible-strike",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-15",
-    "ticker": "ANTHROPIC",
-    "headline": "Reuters: some Anthropic investors now discuss a ~$1.5T IPO valuation, down from ~$2T",
-    "summary": "Per four people familiar, attendees at Anthropic's investor day in San Francisco (with CEO Dario Amodei and CFO Krishna Rao) discussed about $1.5T for the November IPO after Q3 revenue growth slowed to 45% q/q ($16.8B) from more than doubling in Q2 ($11.6B). Anthropic has committed to at least $518B of cloud and compute spending over a decade. No exchange or banks named; Anthropic did not comment. Cited by CBS as one reason for Friday's tech selloff.",
-    "source": "https://www.investing.com/news/stock-market-news/exclusiveinvestors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown-sources-say-4952698",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-15",
-    "ticker": "TSLA",
-    "headline": "Tesla shows a 'flying' Roadster at SpaceX's Texas site; production 2028; stock reverses to -2.1%",
-    "summary": "Unveiled Thursday evening at SpaceX's McGregor test facility: compressed-air thrusters for short-burst flight over cars, claimed 0-60 mph in 0.81 s, target top speed Mach 0.5, no price given. Musk said production starts 2028. Friday the stock opened $369.15, hit $385.51, then closed -2.13% at $354.72 in the tech selloff. Q3 results Oct 21 after close (08:30 AEDT Thu Oct 22).",
-    "source": "https://www.investing.com/news/stock-market-news/tesla-unveils-new-roadster-with-flight-capabilities-set-for-production-in-2028-4952962",
-    "impact": "neutral"
   }
 ]
