@@ -1,13 +1,12 @@
 {
-  "as_of": "2026-10-25T23:50",
-  "summary": "Loader tractors in band are still coming through Riverina and southern NSW clearing sales rather than dealers. The Holbrook sale on 12 Nov has two, and the JD 6630 at Tottenham has been bid past the $80k ceiling. Diesel storage remains cheap locally, with a 1000 L tow-behind cart at the Barellan sale on 5 Nov. Discs, rippers and stick rakes were quiet on the sites that could be read. Facebook was not checked this run.",
+  "as_of": "2026-10-26T13:41",
+  "summary": "Loader tractors keep coming through online clearing sales: a 1,200-hour Kioti at Oxley closes 2 Nov and the MF 7614 at Holbrook on 12 Nov. The Deutz-Fahr M600 passed in at $71k against an $80k reserve and is back for 2 Nov. Classifieds were quiet for discs, rippers, stick rakes and diesel storage. Facebook was not checked again.",
   "headlines": [
-    "New: Massey Ferguson 7614 with loader, 1,103 hours, 140hp, one owner, Holbrook clearing sale 12 Nov, 300km.",
-    "Same Holbrook sale: Valtra N134 with loader, 1,815 hours, year and hp not stated. Not listed, worth a call.",
-    "New: 1000 L tow-behind fuel cart with Honda pump, Barellan clearing sale 5 Nov, 110km.",
-    "Dropped: JD 6630 with 741 loader, Tottenham, now bid at $89,000, over the $80k ceiling.",
-    "Deutz-Fahr M600 with loader, 2,531 hours, Adelong: bid $71,000, reserve not met, still open.",
-    "New: base EXEQ 20ft expandable with ensuite, $18,150 inc GST, Shepparton, 250km. Not wired."
+    "New: 2015 Kioti PX1002 with loader, 1,200 hours, 100hp, cab, slasher included, Oxley VIC, 320km, closes 2 Nov.",
+    "Deutz-Fahr M600 passed in at $71,000, reserve $80,000. Relisted, bidding 29 Oct, closes 2 Nov.",
+    "Holbrook sale 12 Nov also has a 400 L diesel tank with 12V pump and an 800 L tank, if collecting the MF.",
+    "Discs, ripper, stick rake: nothing new within range.",
+    "Facebook not checked: Chrome extension still disconnected."
   ],
   "finds": [
     {
@@ -156,7 +155,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-10-25",
+      "updated": "2026-10-26",
       "photo": "img/finds/hayes-extra-heavy-duty-single-tine-tractor-ripper-pipelayer.jpg",
       "photo_url": "https://hayesproducts.com.au/wp-content/uploads/2019/05/Extra-Heavy-Duty.jpg"
     },
@@ -204,7 +203,7 @@
       "why": "1000 L towable cart with a 12V pump, 30km away, at under half the price of the Coleambally cart; listed in June, so ring to check it's still there.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-10-25",
+      "updated": "2026-10-26",
       "photo": "img/finds/farmtender-131044.jpg",
       "photo_url": "https://media.farmtender.com.au/listings/6a1e4a4435776/large/f868ee7c47b91b576f64d7284c0e5140.jpg"
     },
@@ -253,7 +252,7 @@
       "status": "live",
       "ends": "2026-11-05",
       "first_seen": "2026-10-25",
-      "updated": "2026-10-25",
+      "updated": "2026-10-26",
       "photo": "img/finds/auctionsplus-129303-1464487.jpg",
       "photo_url": "https://auctionsplusblob.blob.core.windows.net/apmediaprod/Photos/1639280200847772424_b125f2cc-6df1-4054-9762-9647e988e152.webp"
     },
@@ -477,7 +476,7 @@
       "why": "New Australian-made with a stated 3.2 m cut inside the width limit, but about three times the price of the used discs on the list.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-10-25",
+      "updated": "2026-10-26",
       "photo": "img/finds/machines4u-298124.jpg",
       "photo_url": "https://media.machines4u.com.au/machinery/24/298124/Big-Country-Ag-28-Plate-Offset-Disc_65654145.h.jpg"
     },
@@ -644,7 +643,7 @@
       "price_aud": 18150,
       "price_note": "$16,500 plus GST. Not wired. Transport extra, not suited to a skel trailer or side loader.",
       "location": "Shepparton, VIC",
-      "distance_km": 250,
+      "distance_km": 290,
       "detail": [
         "20ft expandable, 19ft x 20ft opened",
         "ensuite: shower, toilet, sink",
@@ -658,7 +657,7 @@
       "why": "Same box as the $25,850 2-bed model for $7.7k less, but no bedroom wall or kitchen is shown, so confirm the layout.",
       "status": "live",
       "first_seen": "2026-10-25",
-      "updated": "2026-10-25",
+      "updated": "2026-10-26",
       "photo": "img/finds/machines4u-1286001.jpg",
       "photo_url": "https://media.machines4u.com.au/machinery/1/1286001/Expandable-Container-House-with-Ensuite_82793567.h.jpg"
     },
@@ -705,7 +704,7 @@
       "why": "Local maker 150km away, 2.4 m with the heaviest tines on the list and Euro hitch standard.",
       "status": "live",
       "first_seen": "2026-10-18",
-      "updated": "2026-10-25",
+      "updated": "2026-10-26",
       "photo": "img/finds/m4u-956441.jpg",
       "photo_url": "https://media.machines4u.com.au/machinery/41/956441/Berrigan-Stick-rake-2400-HD-MADE-TOUGH-IN-AUSTRALIA_62086332.h.jpg"
     },
@@ -729,7 +728,7 @@
       "why": "Bisalloy tines and a Euro option, but no width or hp rating, and the model name hints at a skid-steer size.",
       "status": "live",
       "first_seen": "2026-10-18",
-      "updated": "2026-10-25",
+      "updated": "2026-10-26",
       "photo": "img/finds/farmtender-130183.jpg",
       "photo_url": "https://media.farmtender.com.au/listings/69e97353a3003/large/c724b4508e5c7fac073aaeb8d9d5fcc7.jpeg"
     },
@@ -754,7 +753,7 @@
       "why": "Known brand at the right width, but posted from Melbourne with freight extra, built to order, and lighter tines than the BEH rakes.",
       "status": "live",
       "first_seen": "2026-10-18",
-      "updated": "2026-10-25",
+      "updated": "2026-10-26",
       "photo": "img/finds/earthmovingwarehouse-digga-stick-rake-euro.jpg",
       "photo_url": "https://www.earthmovingwarehouse.com.au/cdn/shop/products/Digga-Stick-Rake-Tractor.jpg?v=1641450859"
     },
@@ -778,7 +777,7 @@
       "why": "Same heavy local build with tighter tine spacing; ask whether the wings are actually included.",
       "status": "live",
       "first_seen": "2026-10-18",
-      "updated": "2026-10-25",
+      "updated": "2026-10-26",
       "photo": "img/finds/m4u-946957.jpg",
       "photo_url": "https://media.machines4u.com.au/machinery/57/946957/BEH-Stick-rake-2400-WITH-WINGS-MADE-TOUGH-IN-AUSTRALIA_61902648.h.jpg"
     },
@@ -809,6 +808,33 @@
       "photo": "img/finds/fb-1027921470152750.jpg"
     },
     {
+      "key": "auctionsplus-129203-1470696",
+      "want": "tractor",
+      "title": "2015 Kioti PX1002 100hp 4WD cab with KL901 loader, slasher and post-hole digger",
+      "price_aud": null,
+      "price_note": "no bids yet; bidding opens 29 Oct, timer starts 2 Nov 4pm AEDT; sold as one package, 0% buyer premium",
+      "location": "Oxley, VIC",
+      "distance_km": 320,
+      "detail": [
+        "2015",
+        "1,200 hours",
+        "100hp, 4WD, power shuttle",
+        "KL901 loader, 4-in-1 bucket, hay forks",
+        "cab with air-con",
+        "includes Howard 6ft slasher and post-hole digger"
+      ],
+      "source": "AuctionsPlus (AWN Wangaratta)",
+      "url": "https://auctionsplus.com.au/auctions/machinery/auctionsplus-multi-vendor-machinery-auction/2015-kioti-px1002-100hp-4wd-tractor-plus-impl/listing/129203-1470696",
+      "verdict": "strong",
+      "why": "Low hours, factory loader, cab and 100hp from a listed maker, with a slasher thrown in; should land inside the $80k ceiling.",
+      "status": "live",
+      "ends": "2026-11-02",
+      "first_seen": "2026-10-26",
+      "updated": "2026-10-26",
+      "photo": "img/finds/auctionsplus-129203-1470696.jpg",
+      "photo_url": "https://auctionsplusblob.blob.core.windows.net/apmediaprod/Photos/1639286078176258395_ce0ec826-317f-48a0-91cf-24b04e208112.webp"
+    },
+    {
       "key": "fb-4587767698160637",
       "want": "tractor",
       "title": "2007 Claas Celtis 436 cab tractor with front-end loader, 3,404 hours",
@@ -833,57 +859,6 @@
       "first_seen": "2026-10-18",
       "updated": "2026-10-22",
       "photo": "img/finds/fb-4587767698160637.jpg"
-    },
-    {
-      "key": "auctionsplus-129202-1468742",
-      "want": "tractor",
-      "title": "2016 Deutz-Fahr Agrotron M600 with Agro-Lift loader",
-      "price_aud": 71000,
-      "price_note": "current bid, reserve not met, plus 2% buyer premium; close time not shown, likely very soon",
-      "location": "Adelong, NSW",
-      "distance_km": 240,
-      "detail": [
-        "2,531 hours",
-        "hp not stated on listing (spec sheets rate the M600 at about 121hp)",
-        "Agro-Lift 4020 FEL, bucket, Kerfab hay forks",
-        "axle and cab suspension, hydraulic trailer brakes",
-        "4 near-new tyres plus 2 spares; minor bonnet damage"
-      ],
-      "source": "AuctionsPlus",
-      "url": "https://auctionsplus.com.au/auctions/machinery/auctionsplus-multi-vendor-machinery-auction/2016-deutz-fahr-m600-50k/listing/129202-1468742/browse",
-      "verdict": "decent",
-      "why": "Mid-hours 2016 cab tractor with a loader, in range; Deutz-Fahr isn't on the named list, there's no service history and the hp isn't on the listing.",
-      "status": "live",
-      "ends": "2026-10-26",
-      "first_seen": "2026-10-22",
-      "updated": "2026-10-25",
-      "photo": "img/finds/auctionsplus-129202-1468742.jpg",
-      "photo_url": "https://auctionsplusblob.blob.core.windows.net/apmediaprod/Photos/1639281224905367357_a14805ef-ff7a-453c-b4f9-a9d69239bfce.webp"
-    },
-    {
-      "key": "farmmachinerysales-oag-ad-19773199",
-      "want": "tractor",
-      "title": "New 2026 McCormick S-MAX 90 cab tractor with front-end loader",
-      "price_aud": 71500,
-      "price_note": "dealer new, excl. govt charges; GST treatment not stated",
-      "location": "NSW (dealer town hidden)",
-      "distance_km": null,
-      "detail": [
-        "new, 1 hour, 90hp 4-cyl turbo (the spec sheet lists the engine make as Sonalika)",
-        "12x12 shuttle, 2-speed PTO, 2 sets of rear hydraulic outlets",
-        "air-conditioned cab, front-end loader included; the bucket type is not stated",
-        "2-year / 2,400-hour warranty",
-        "the dealer name and town are hidden behind a sign-in on farmmachinerysales"
-      ],
-      "source": "farmmachinerysales.com.au",
-      "url": "https://www.farmmachinerysales.com.au/items/details/2026-mccormick-s-max-90-cabin/OAG-AD-19773199/",
-      "verdict": "decent",
-      "why": "Clears every must, new with a warranty and $8,500 under the ceiling. It is the same model as the 251-hr Yarroweyah tractor, which costs $9,500 less, and the dealer's town is not shown.",
-      "status": "live",
-      "first_seen": "2026-10-16",
-      "updated": "2026-10-16",
-      "photo": "img/finds/farmmachinerysales-oag-ad-19773199.jpg",
-      "photo_url": "https://farmmachinerysales.pxcrush.net/farmmachinerysales/cars/dealer/71bdgk1b7k2xmomdmx8vspg14.jpg"
     },
     {
       "key": "fb-1336993044818018",
@@ -911,11 +886,37 @@
       "photo": "img/finds/fb-1336993044818018.jpg"
     },
     {
+      "key": "auctionsplus-129202-1468742",
+      "want": "tractor",
+      "title": "2016 Deutz-Fahr Agrotron M600 with Agro-Lift loader",
+      "price_aud": null,
+      "price_note": "passed in at $71,000 on 22 Oct against an $80,000 reserve; relisted, bidding opens 29 Oct",
+      "location": "Adelong, NSW",
+      "distance_km": 240,
+      "detail": [
+        "2,531 hours",
+        "hp not stated on listing (spec sheets rate the M600 at about 121hp)",
+        "Agro-Lift 4020 FEL, bucket, Kerfab hay forks",
+        "axle and cab suspension, hydraulic trailer brakes",
+        "4 near-new tyres plus 2 spares; minor bonnet damage"
+      ],
+      "source": "AuctionsPlus",
+      "url": "https://auctionsplus.com.au/auctions/machinery/auctionsplus-multi-vendor-machinery-auction/2016-deutz-fahr-m600-50k/listing/129203-1468742",
+      "verdict": "decent",
+      "why": "Mid-hours 2016 cab tractor with a loader, in range; Deutz-Fahr isn't on the named list, there's no service history and the hp isn't on the listing.",
+      "status": "live",
+      "ends": "2026-11-02",
+      "first_seen": "2026-10-22",
+      "updated": "2026-10-26",
+      "photo": "img/finds/auctionsplus-129202-1468742.jpg",
+      "photo_url": "https://auctionsplusblob.blob.core.windows.net/apmediaprod/Photos/1639281224905367357_a14805ef-ff7a-453c-b4f9-a9d69239bfce.webp"
+    },
+    {
       "key": "auctionsplus-129297-1470171",
       "want": "tractor",
       "title": "Massey Ferguson 7614 with front-end loader and bucket",
       "price_aud": null,
-      "price_note": "clearing sale auction 12 Nov, no bids yet, 0% buyer premium",
+      "price_note": "clearing sale 12 Nov 8:30am AEDT, no bids yet, 0% buyer premium; pickup 20-21 Nov",
       "location": "Little Billabong (Holbrook), NSW",
       "distance_km": 300,
       "detail": [
@@ -934,7 +935,7 @@
       "status": "live",
       "ends": "2026-11-12",
       "first_seen": "2026-10-25",
-      "updated": "2026-10-25",
+      "updated": "2026-10-26",
       "photo": "img/finds/auctionsplus-129297-1470171.jpg",
       "photo_url": "https://auctionsplusblob.blob.core.windows.net/apmediaprod/Photos/1639285652916943282_86d8b40a-f56b-4e31-84d1-42e0709cd749.webp"
     }
