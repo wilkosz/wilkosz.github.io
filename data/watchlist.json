@@ -6,13 +6,13 @@
     "sector": "AI",
     "status": "watch",
     "conviction": "medium",
-    "thesis": "Astera Labs sells PCIe, CXL and Ethernet connectivity chips for AI racks; Q2 revenue was $392M (+105% y/y). It closed Oct 23 at $257.16, 33% below the Oct 7 close of $382.25, and was $259.19 (+0.8%) early Monday Oct 26. No company news since Oct 12.",
+    "thesis": "Astera Labs sells PCIe, CXL and Ethernet connectivity chips for AI racks; Q2 revenue was $392M (+105% y/y). It was $265.82 (+2.4%) early Tuesday Oct 27 as Celestica's $40B 2027 guide lifted AI hardware; still about 30% below the Oct 7 close of $382.25. No company news since Oct 12.",
     "risks": "A beta near 3.8 means 10% days on sector headlines alone; Meta's Q3 filing showed $810B of future lease and contract commitments, which fed worries about debt-funded AI build-outs.",
-    "price_usd": 259.19,
+    "price_usd": 265.82,
     "catalyst": "Alphabet and Microsoft capex comments Oct 28-29 US (Oct 29-30 AEDT); Q3 results Nov 3 after US close, call 4:30pm ET (08:30 AEDT Wed Nov 4).",
     "source": "https://stockanalysis.com/stocks/alab/",
     "added": "2026-08-24",
-    "updated": "2026-10-26"
+    "updated": "2026-10-27"
   },
   {
     "ticker": "AVGO",
@@ -21,28 +21,28 @@
     "sector": "AI",
     "status": "accumulate",
     "conviction": "medium",
-    "thesis": "Broadcom supplies custom AI accelerators (Google, Meta, OpenAI) plus Ethernet networking and VMware. Meta launched a raise of up to $95B in stock on Oct 26 to fund AI build-outs, and Broadcom, Nvidia and AMD indicated (non-binding) interest in buying up to $5B of it. AVGO was $326.65 (+1.5%) early Monday.",
-    "risks": "Broadcom now finances customers twice over (OpenAI chip purchases, possibly Meta equity), so it is exposed if AI buyers cannot fund capex; Meta's Q3 free cash flow was -$2.1B.",
-    "price_usd": 326.65,
+    "thesis": "Broadcom supplies custom AI accelerators (Google, Meta, OpenAI, Anthropic) plus Ethernet networking and VMware. On Oct 26 BofA, Citi, Morgan Stanley and Blackstone lined up $63B for a vehicle that buys Broadcom chips and networking and leases them to Anthropic, deliveries from 2027. DA Davidson upgraded to Buy ($400). AVGO was $341.90 (+3.9%) early Tuesday.",
+    "risks": "Broadcom gives residual-value support to the Anthropic lenders (on an earlier $35B deal the backstop was up to $29B), so it carries equipment-value risk; Moody's warns risk rises if more such deals follow quickly. It also weighed buying Meta stock.",
+    "price_usd": 341.9,
     "catalyst": "Alphabet and Microsoft capex comments Oct 28-29 US (Oct 29-30 AEDT); Q4 FY26 results around Dec 10 (not yet confirmed).",
-    "source": "https://www.tipranks.com/news/meta-launches-95-billion-stock-offering-plan-to-fund-ai-expansion-nvidia-amd-and-broadcom-weigh-5-billion-purchase",
+    "source": "https://www.investing.com/news/stock-market-news/wall-street-banks-blackstone-line-up-63-billion-to-finance-broadcom-chips-for-anthropic-4973662",
     "added": "2026-08-24",
-    "updated": "2026-10-26"
+    "updated": "2026-10-27"
   },
   {
     "ticker": "CLS",
     "exchange": "US",
     "name": "Celestica",
     "sector": "AI",
-    "status": "watch",
-    "conviction": "medium",
-    "thesis": "Celestica builds 800G/1.6T networking switches, servers and storage for hyperscalers; it guided Q3 to $5.25-5.55B revenue and $2.88-3.08 EPS and 2026 to $20.5B. It closed Oct 23 at $260.01 (-14.6% since Oct 21) and was $262.19 (+0.8%) early Monday ahead of tonight's report. Results not out at time of writing.",
-    "risks": "Single-digit hardware margins and a few hyperscaler customers; 2027 targets at the investor day will be judged against fears of a capex digestion year. CEO and CFO sold shares in the past three months.",
-    "price_usd": 262.19,
-    "catalyst": "Q3 results Mon Oct 26 after US close (about 07:15 AEDT Tue Oct 27); call and Investor Day Tue Oct 27, 8:00am ET (23:00 AEDT Tue Oct 27).",
-    "source": "https://stockanalysis.com/stocks/cls/",
+    "status": "accumulate",
+    "conviction": "high",
+    "thesis": "Celestica builds 800G/1.6T networking switches, servers and storage for hyperscalers. Q3 revenue was $5.83B (+83%) and adjusted EPS $3.30 (guide $2.88-3.08); CCS +102%. 2026 raised to $21.0B / $11.55 EPS, and the first 2027 outlook is $40B revenue (+90%), $21.50 EPS and a 9.0% margin, against consensus near $35.7B. The stock was $272.20 (+10.4%) early Tuesday, about 12.7x the 2027 EPS guide. Upgraded to accumulate, conviction high.",
+    "risks": "2026 free cash flow cut to $460M from $600M to fund working capital, and 2027 capex is $1.5-2.0B; the release also cites a $3.45B public offering. Margins stay single-digit and a few hyperscalers drive most revenue.",
+    "price_usd": 272.2,
+    "catalyst": "New share buyback (up to 2.5% of float) to be filed in Q4 after the current one expires Nov 2; Q4 results late January (guide $6.275-6.575B revenue, $3.37-3.57 EPS).",
+    "source": "https://www.sec.gov/Archives/edgar/data/0001030894/000103089426000049/cls-20260930prcondensedfs.htm",
     "added": "2026-10-10",
-    "updated": "2026-10-26"
+    "updated": "2026-10-27"
   },
   {
     "ticker": "CRDO",
@@ -51,13 +51,13 @@
     "sector": "AI",
     "status": "watch",
     "conviction": "low",
-    "thesis": "Credo sells active electrical cables (AECs), optical DSPs and retimers; fiscal Q1 2027 revenue was $479M (+115% y/y). It fell 19.2% over Oct 22-23 to $147.29 after MaxLinear said on its Oct 22 call it will target 20-30% of 1.6T AECs within a couple of years (it puts Credo's share at 93-99%), and third-party research flagged slower 1.6T rollouts. Conviction cut to low until fiscal Q2 shows the 1.6T ramp.",
+    "thesis": "Credo sells active electrical cables (AECs), optical DSPs and retimers; fiscal Q1 2027 revenue was $479M (+115% y/y). It fell 19.2% over Oct 22-23 after MaxLinear said it will target 20-30% of 1.6T AECs, and was $158.88 (+5.1%) early Tuesday Oct 27 in the Celestica-led rebound, with no company news. Conviction stays low until fiscal Q2 shows the 1.6T ramp.",
     "risks": "A credible second source in AECs would hit pricing from fiscal 2028; a few hyperscalers drive most revenue, and the CEO and CTO have been selling under 10b5-1 plans.",
-    "price_usd": 149.32,
-    "catalyst": "Fiscal Q2 2027 quarter ends about Oct 31; results early December (date not announced).",
+    "price_usd": 158.88,
+    "catalyst": "Fiscal Q2 2027 quarter ends about Oct 31; results around Nov 30-early December (date not announced).",
     "source": "https://stockanalysis.com/stocks/crdo/",
     "added": "2026-10-10",
-    "updated": "2026-10-26"
+    "updated": "2026-10-27"
   },
   {
     "ticker": "SKHY",
@@ -66,13 +66,13 @@
     "sector": "AI",
     "status": "buy",
     "conviction": "high",
-    "thesis": "SK hynix is the leading HBM supplier to Nvidia and the number-two DRAM maker. Dong-A Ilbo reported Oct 26 it is weighing a special dividend of about KRW 16T ($12B) from its Kioxia gains, possibly announced with Q3 on Wednesday; the company says a shareholder-return plan comes then but no dividend is decided. Seoul shares closed Oct 26 at KRW 1.28M (-0.16%) as the KOSPI fell 1.46%; the ADR was $141.47 (+3.3%) early Monday.",
-    "risks": "CXMT closing the density gap would pressure DRAM prices from 2027; foreigners sold KRW 696B of Korean stocks on Oct 26, and a smaller-than-reported payout would disappoint after the run-up.",
-    "price_usd": 141.47,
+    "thesis": "SK hynix is the leading HBM supplier to Nvidia and the number-two DRAM maker. Seoul shares closed Oct 27 at KRW 1,341,000 (+5.18%) as the KOSPI rose 3.09% and foreigners net bought KRW 836B, a rally credited to Anthropic's IPO filing. Korean press report a KRW 50-60T (about $38-45B) buyback and dividend package, including a possible KRW 16T special dividend from Kioxia gains; the company says only that a plan comes with Q3. ADR $145.62 (+2.1%) early Tuesday US.",
+    "risks": "Expectations for the payout are now very high, so a smaller plan Wednesday would disappoint; CXMT closing the density gap would pressure DRAM prices from 2027.",
+    "price_usd": 145.62,
     "catalyst": "Q3 results, call and shareholder-return plan Wed Oct 28, 9:00am KST (11:00 AEDT Wed Oct 28); Samsung full Q3 results Thu Oct 29 (12:00 AEDT).",
-    "source": "https://www.koreaherald.com/article/10914252",
+    "source": "https://www.mt.co.kr/en/stock/2026/10/27/2026102716110627181",
     "added": "2026-08-24",
-    "updated": "2026-10-26"
+    "updated": "2026-10-27"
   },
   {
     "ticker": "BE",
@@ -81,13 +81,13 @@
     "sector": "Energy",
     "status": "accumulate",
     "conviction": "medium",
-    "thesis": "Bloom makes solid-oxide fuel cells for onsite data-centre power. Q3 revenue was a record $1.236B (+138% y/y), product revenue +179%, adjusted EPS $0.94 vs $0.69 expected, and 2026 guidance was raised a third time to $4.4-4.6B (from $3.9-4.2B). The stock fell 19% over Oct 22-23 to $193.30 on Q3 free cash flow of -$181M and the AI selloff, so forward P/E is about 40x vs 78x on Sep 30. Upgraded to accumulate.",
+    "thesis": "Bloom makes solid-oxide fuel cells for onsite data-centre power. Q3 revenue was a record $1.236B (+138% y/y), adjusted EPS $0.94 vs $0.69, and 2026 guidance was raised to $4.4-4.6B. After falling 19% over Oct 22-23 it has rebounded: $221.07 (+8.4%) early Tuesday Oct 27, about 15% above the Oct 23 close, with Barclays raising its target to $316.",
     "risks": "Capex of $153M (from $12M) to double capacity turned Q3 cash flow negative; delivery depends on Oracle and Brookfield sites arriving on time; Jefferies cut its target to $242 from $289 after the print.",
-    "price_usd": 196.64,
+    "price_usd": 221.07,
     "catalyst": "Oracle Jupiter permit Nov 23; 2027 guidance and backlog figure with Q4 results (February).",
     "source": "https://stockanalysis.com/stocks/be/",
     "added": "2026-08-24",
-    "updated": "2026-10-26"
+    "updated": "2026-10-27"
   },
   {
     "ticker": "GEV",
@@ -96,13 +96,13 @@
     "sector": "Energy",
     "status": "accumulate",
     "conviction": "high",
-    "thesis": "GE Vernova builds gas turbines, grid equipment and wind for the power build-out; Q2 orders rose 88% y/y and backlog is $176B. It closed Oct 23 at $815.00, about 31% below the June 30 record, and was $830.00 (+1.8%) early Monday. A new executive order on wind-turbine imports (talks with trading partners, no tariffs yet) could favour it over foreign turbine makers. BofA's Q3 preview (orders about +44% y/y) stands.",
+    "thesis": "GE Vernova builds gas turbines, grid equipment and wind for the power build-out; Q2 orders rose 88% y/y and backlog is $176B. It was $881.20 (+3.1%) early Tuesday Oct 27, up 8% from the Oct 23 close of $815 into Wednesday's Q3. The new executive order on wind-turbine imports could favour it over foreign turbine makers. BofA's Q3 preview (orders about +44% y/y) stands.",
     "risks": "Q2 EPS missed ($2.47 vs $3.17) and wind still loses money, so another margin miss on Oct 28 would test the multiple; the stock is below its 50- and 200-day averages.",
-    "price_usd": 830.0,
+    "price_usd": 881.2,
     "catalyst": "Q3 results Wed Oct 28, webcast 7:30am ET (22:30 AEDT Wed Oct 28).",
     "source": "https://stockanalysis.com/stocks/gev/",
     "added": "2026-08-24",
-    "updated": "2026-10-26"
+    "updated": "2026-10-27"
   },
   {
     "ticker": "VRT",
@@ -111,13 +111,13 @@
     "sector": "Energy",
     "status": "accumulate",
     "conviction": "medium",
-    "thesis": "Vertiv sells power, thermal and liquid-cooling gear for data centres; it guided Q3 sales to $3.65-3.85B and lifted FY26 EPS to $6.65-6.75. It closed Oct 23 at $194.32 and was $196.96 (+1.4%) early Monday after completing the purchase of King Environmental Services, adding fluid-management services in Europe, the Middle East and Africa.",
-    "risks": "The stock trades on the 2027 hyperscaler-capex debate rather than guidance, and price competition in liquid cooling is rising.",
-    "price_usd": 196.96,
+    "thesis": "Vertiv sells power, thermal and liquid-cooling gear for data centres; it guided Q3 sales to $3.65-3.85B and FY26 EPS to $6.65-6.75. On Oct 27 it closed the $1.45B cash purchase of UtilityInnovation Group (microgrid controls, behind-the-meter power; up to $1.15B more in earnout, about 13x 2027 EBITDA, accretive in year one), a day after closing King Environmental. VRT was $207.43 (+3.8%) early Tuesday.",
+    "risks": "The stock trades on the 2027 hyperscaler-capex debate rather than guidance; two deals in two days add integration work and a possible $1.15B earnout; liquid-cooling price competition is rising.",
+    "price_usd": 207.43,
     "catalyst": "Q3 results Wed Oct 28 before US open; call 11:00am ET (02:00 AEDT Thu Oct 29).",
-    "source": "https://stockanalysis.com/stocks/vrt/",
+    "source": "https://www.sec.gov/Archives/edgar/data/0001674101/000162828026067393/exhibit991vrt-q42026102720.htm",
     "added": "2026-09-29",
-    "updated": "2026-10-26"
+    "updated": "2026-10-27"
   },
   {
     "ticker": "HOOD",
@@ -126,13 +126,13 @@
     "sector": "Internet",
     "status": "accumulate",
     "conviction": "medium",
-    "thesis": "Robinhood is a retail brokerage adding prediction markets, perpetual futures and Robinhood Agents; Q2 revenue was $1.31B (+32%). Preliminary September data to Sep 24 showed about $267B equity volume, 234M options contracts and 4.4B event contracts. It was $93.55 (-1.6%) early Monday, the day before Q3.",
+    "thesis": "Robinhood is a retail brokerage adding prediction markets, perpetual futures and Robinhood Agents; Q2 revenue was $1.31B (+32%). Consensus for Q3 is about $1.44B revenue and $0.56 EPS. Preliminary September data to Sep 24 showed about $267B equity volume, 234M options contracts and 4.4B event contracts. It announced a stablecoin partnership with Ripple (RLUSD) on Oct 27 and was $95.25 (+2.6%) early that day, before results after the close.",
     "risks": "Revenue tracks crypto and equity volumes, and September crypto notional of about $17B (to Sep 24) is soft, so Q3 depends on options and event contracts.",
-    "price_usd": 93.55,
-    "catalyst": "Q3 results and full September operating data Tue Oct 27 after close, video call 5pm ET (08:00 AEDT Wed Oct 28).",
+    "price_usd": 95.25,
+    "catalyst": "Q3 results and full September operating data Tue Oct 27 after US close, video call 5pm ET (08:00 AEDT Wed Oct 28); results not out at time of writing.",
     "source": "https://stockanalysis.com/stocks/hood/",
     "added": "2026-08-24",
-    "updated": "2026-10-26"
+    "updated": "2026-10-27"
   },
   {
     "ticker": "MELI",
@@ -141,13 +141,13 @@
     "sector": "Internet",
     "status": "accumulate",
     "conviction": "medium",
-    "thesis": "MercadoLibre runs Latin America's largest marketplace, logistics network and Mercado Pago; Q2 net revenue was $10.2B (+50% y/y) while operating income fell 17%. Brazil's electoral court declared Lula the runoff winner with about 51.8% to 48.2%; Flavio Bolsonaro refused to concede and will seek annulment. MELI opened Oct 26 at $1,578 and was $1,598.49 early, down 11.7% from $1,810.15, unwinding the election rally.",
+    "thesis": "MercadoLibre runs Latin America's largest marketplace, logistics network and Mercado Pago; Q2 net revenue was $10.2B (+50% y/y) while operating income fell 17%. It fell 7.8% to $1,668.72 on Oct 26 after Lula's runoff win; Citi upgraded it to Buy on Oct 27 ($2,050 target), calling the selloff an entry point, and it was $1,711.00 (+2.5%) early that day.",
     "risks": "Real futures fell about 10% overnight, which cuts reported US-dollar revenue from Brazil, its biggest market; an annulment fight would extend the uncertainty. Margins are being absorbed by the credit book and logistics.",
-    "price_usd": 1598.49,
-    "catalyst": "Q3 results Nov 4 after US close (provisional, not yet announced by the company; recent calls 5:00pm ET = 09:00 AEDT Thu Nov 5).",
-    "source": "https://www.yahoo.com/news/politics/articles/lula-declared-winner-brazil-run-044823546.html",
+    "price_usd": 1711.0,
+    "catalyst": "Q3 results Nov 4 (provisional on the company's IR page, not yet confirmed; recent calls 5:00pm ET = 09:00 AEDT Thu Nov 5).",
+    "source": "https://www.marketbeat.com/instant-alerts/analyst-mercadolibre-nasdaq-meli-upgraded-at-citigroup-2026-10-27/",
     "added": "2026-08-24",
-    "updated": "2026-10-26"
+    "updated": "2026-10-27"
   },
   {
     "ticker": "NET",
@@ -156,13 +156,13 @@
     "sector": "Internet",
     "status": "accumulate",
     "conviction": "high",
-    "thesis": "Cloudflare runs a global edge network selling security, CDN, zero-trust and the Workers developer platform; Q2 revenue was $696M (+36%) and it guided Q3 to $736-737M. It closed Oct 23 at $325.73 (+7.3% that day on target raises), up 6.0% since Oct 21 while chips fell.",
+    "thesis": "Cloudflare runs a global edge network selling security, CDN, zero-trust and the Workers developer platform; Q2 revenue was $696M (+36%) and it guided Q3 to $736-737M. It was $331.00 early Tuesday Oct 27, near flat, holding the Oct 22-24 cybersecurity rally while chips rebounded.",
     "risks": "The stock has had 38 moves of more than 5% in a year and now sits close to the consensus target, so Q3 has to beat and raise.",
-    "price_usd": 326.45,
+    "price_usd": 331.0,
     "catalyst": "Q3 results Thu Nov 5 after US close, call 5:00pm ET (09:00 AEDT Fri Nov 6).",
     "source": "https://stockanalysis.com/stocks/net/",
     "added": "2026-08-24",
-    "updated": "2026-10-26"
+    "updated": "2026-10-27"
   },
   {
     "ticker": "SE",
@@ -171,13 +171,13 @@
     "sector": "Internet",
     "status": "watch",
     "conviction": "low",
-    "thesis": "Sea runs Shopee, Monee (digital finance) and Garena across Southeast Asia and Brazil; Q2 revenue was $7.79B (+48%). New Street cut it to Neutral from Buy with a $70 target on Oct 26, and it fell 3.5% early to $71.99, a new 52-week low and about 24% below the Oct 16 level, after the Oct 20 memo on launching Sea Cloud.",
+    "thesis": "Sea runs Shopee, Monee (digital finance) and Garena across Southeast Asia and Brazil; Q2 revenue was $7.79B (+48%). New Street cut it to Neutral ($70) on Oct 26 after the Oct 20 Sea Cloud launch; it was $74.26 early Oct 27, about 3% above the Oct 26 low. Q3 date confirmed Oct 27 for Nov 10.",
     "risks": "A new cloud business adds spending with no disclosed budget while Shopee fights TikTok Shop, Temu and Shein; Brazil (a Shopee growth market) took a hit to its currency after Lula's win. DBS and New Street have both cut. Weakest name on the list.",
-    "price_usd": 71.99,
-    "catalyst": "Q3 results ~Nov 10 (TBC); any detail on Sea Cloud capex or Monee IPO timing.",
-    "source": "https://stockanalysis.com/stocks/se/",
+    "price_usd": 74.26,
+    "catalyst": "Q3 results Tue Nov 10 before US open, call 7:30am ET (23:30 AEDT Tue Nov 10); any Sea Cloud capex figure or Monee IPO timing.",
+    "source": "https://www.financialcontent.com/article/bizwire-2026-10-27-sea-limited-to-report-third-quarter-2026-results",
     "added": "2026-08-24",
-    "updated": "2026-10-26"
+    "updated": "2026-10-27"
   },
   {
     "ticker": "6861",
@@ -186,13 +186,13 @@
     "sector": "Machinery",
     "status": "buy",
     "conviction": "high",
-    "thesis": "Keyence sells machine-vision, sensors and measurement gear direct to factories with industry-leading margins and no debt. It closed Oct 26 at JPY 77,270 (about US$492 at 157.0), down 1.4% on the day and 4.5% since Oct 21, a smaller fall than US chip names. Lam's record quarter and supply-constrained guide point to continued fab spending, a core end market.",
+    "thesis": "Keyence sells machine-vision, sensors and measurement gear direct to factories with industry-leading margins and no debt. It closed Oct 27 at JPY 79,080 (+2.3%, about US$502 at 157.4), recovering the Oct 26 dip, two days before fiscal Q2. Lam's record quarter and supply-constrained guide point to continued fab spending, a core end market.",
     "risks": "Orders follow the factory-capex cycle within a quarter, Q1 EPS slightly missed, and a stronger yen (BOJ meets Oct 29-30) cuts reported overseas revenue.",
-    "price_usd": 492.17,
+    "price_usd": 502.29,
     "catalyst": "Fiscal Q2 results Thu Oct 29 after Tokyo close (time TBC); BOJ decision Fri Oct 30.",
     "source": "https://stockanalysis.com/quote/tyo/6861/",
     "added": "2026-08-24",
-    "updated": "2026-10-26"
+    "updated": "2026-10-27"
   },
   {
     "ticker": "ASML",
@@ -201,13 +201,13 @@
     "sector": "Machinery",
     "status": "buy",
     "conviction": "high",
-    "thesis": "ASML is the only supplier of EUV lithography tools; Q3 sales were a record EUR 11.66B and it guided 2026 to EUR 44-45B, saying 2027-28 supply will not fully meet demand. The ADR fell 6.9% on Oct 22 when Lam warned of supply limits into 2027, closed Oct 23 at $1,571.80, and was $1,601.25 (+1.9%) early Monday. Demand is not the issue.",
+    "thesis": "ASML is the only supplier of EUV lithography tools; Q3 sales were a record EUR 11.66B and it guided 2026 to EUR 44-45B, saying 2027-28 supply will not fully meet demand. The ADR fell 6.9% on Oct 22 after Lam warned of supply limits into 2027 and was $1,605.19 (+1.0%) early Tuesday Oct 27. Demand is not the issue.",
     "risks": "Semicap is priced for perfection and the SOX is in a bear market (26% off its June high); China is about 20% of ASML sales and export rules can change.",
-    "price_usd": 1601.25,
+    "price_usd": 1605.19,
     "catalyst": "Interim dividend EUR 1.88 payable Nov 4; Q4 results January (date TBC).",
     "source": "https://stockanalysis.com/stocks/asml/",
     "added": "2026-08-24",
-    "updated": "2026-10-26"
+    "updated": "2026-10-27"
   },
   {
     "ticker": "TER",
@@ -216,12 +216,12 @@
     "sector": "Machinery",
     "status": "watch",
     "conviction": "medium",
-    "thesis": "Teradyne makes test equipment for AI accelerators, HBM and mobile chips, plus Universal Robots; Q3 guidance is $1.20-1.30B revenue and $1.85-2.15 EPS (consensus about $1.26B and $2.05-2.08). It fell 10.6% on Oct 22 and closed Oct 23 at $308.85, down 10.6% since Oct 21. Options price a move of about 13% on the report.",
+    "thesis": "Teradyne makes test equipment for AI accelerators, HBM and mobile chips, plus Universal Robots; Q3 guidance is $1.20-1.30B revenue and $1.85-2.15 EPS (consensus about $1.26B and $2.05-2.08). It fell 10.6% on Oct 22 and was $314.74 (+1.9%) early Tuesday Oct 27, hours before results. Options priced a move of about 13%.",
     "risks": "HBM test is a large part of the story, so a weak SK hynix or Samsung print the same week would hit it; test spend is lumpy and concentrated in a few customers.",
-    "price_usd": 312.31,
-    "catalyst": "Q3 results Tue Oct 27 after US close (about 07:30 AEDT Wed Oct 28); call Wed Oct 28, 8:30am ET (23:30 AEDT Wed Oct 28).",
+    "price_usd": 314.74,
+    "catalyst": "Q3 results Tue Oct 27 after US close (about 07:30 AEDT Wed Oct 28; not out at time of writing); call Wed Oct 28, 8:30am ET (23:30 AEDT Wed Oct 28).",
     "source": "https://stockanalysis.com/stocks/ter/",
     "added": "2026-08-24",
-    "updated": "2026-10-26"
+    "updated": "2026-10-27"
   }
 ]

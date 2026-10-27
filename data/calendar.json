@@ -1,16 +1,6 @@
 {
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "events": [
-    {
-      "key": "2026-10-25-brazil-runoff",
-      "date": "2026-10-25",
-      "time": "Sunday (results Mon AEDT)",
-      "ticker": "MELI",
-      "title": "Brazil presidential runoff: Flavio Bolsonaro vs Lula",
-      "type": "other",
-      "why": "Bolsonaro led 47.1-45.1 in the first round; Brazilian assets and MELI rallied. A Lula win would reverse much of that.",
-      "link": "https://www.marketscreener.com/news/flavio-bolsonaro-takes-lead-over-lula-brazilian-real-and-stock-market-soar-ce785ddbd081fe25"
-    },
     {
       "key": "2026-10-26-cls-q3",
       "date": "2026-10-26",
@@ -494,12 +484,12 @@
     {
       "key": "2026-11-10-se-q3",
       "date": "2026-11-10",
-      "time": "TBC (estimated date)",
+      "time": "Before US open Tue; call 07:30 ET (23:30 AEDT Tue Nov 10)",
       "ticker": "SE",
-      "title": "Sea Limited Q3 2026 results",
+      "title": "Sea Limited Q3 2026 results and call (confirmed Oct 27)",
       "type": "earnings",
-      "why": "Shopee margin and SeaMoney credit quality after a Q2 EPS miss.",
-      "link": "https://stockanalysis.com/stocks/se/"
+      "why": "First quarter since the Sea Cloud launch and two downgrades; watch Shopee margins and any cloud capex figure.",
+      "link": "https://www.financialcontent.com/article/bizwire-2026-10-27-sea-limited-to-report-third-quarter-2026-results"
     },
     {
       "key": "2026-11-13-aapl-homeview",

@@ -1,111 +1,111 @@
 {
-  "as_of": "2026-10-26T14:00",
-  "market_summary": "Anthropic filed its public S-1 on Monday for a Nasdaq listing as ANT. Reports put the valuation at $1.5-2T, with listing expected mid-November. Lula won Brazil's runoff 51.8% to 48.2%, Flavio Bolsonaro has not conceded, and Brazil ADRs fell 10-29% premarket. US stocks opened about 0.5% higher, led by chips, and Brent fell about 5% to near $110 after Trump ruled out an immediate strike on Iran. The 10-year yield is flat near 4.99%. Asia was mixed on Monday: Nikkei -0.8%, Kospi -1.5%, Hang Seng +0.5%. Futures price about 91% for a Fed hold this week but about 80% for a hike in December. Next: Robinhood Q3 Wed ~7am AEDT, Enphase Q3 Wed ~7:30am AEDT, Alphabet Q3 Thu ~7:30am AEDT, Fed decision Thu 5am AEDT, Amazon/Axos/Rocket Fri ~8am AEDT.",
+  "as_of": "2026-10-27T14:00",
+  "market_summary": "Chips led again: the SOX rose 2.8% Monday and another 1.7% at Tuesday's open after a $63B bank-and-Blackstone package to fund Broadcom gear for Anthropic, and Nvidia said it will put $3B into Meta's upsized stock sale. Monday closed with the S&P 500 up 0.7% to 7,677 and the Nasdaq up 0.8%; Tuesday Asia followed, with the Kospi up 3.8% and the Nikkei up 1.7%, and the S&P opened up 0.3%. The 10-yr yield sits near 5.0%, Brent eased to around $115, September durable goods rose 1.8% (1.7% expected), and futures price only about a 10% chance of a Fed hike this week. Micron's Taoyuan union talks ended with no deal and a third round set for Nov 6, so no new strike yet. Next: Enphase and Robinhood results ~7am AEDT Wed, SK hynix results Wed, Apple Mac event 4am AEDT Thu, Fed decision 5am AEDT Thu, Alphabet ~7am AEDT Thu, Amazon/Axos/Rocket ~7am AEDT Fri.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "Up 0.3% Monday. Anthropic's IPO filing should give its Anthropic stake a public mark. Q3 Thu US (Fri ~8am AEDT); AWS growth and capex are the test.",
-      "price_usd": 248.79,
-      "updated": "2026-10-26"
+      "reason": "Up 1% since Monday's early read. Anthropic's S-1 shows a $110B AWS commitment through 2036 and 48% of its revenue running through cloud marketplaces. Results Friday AEDT.",
+      "price_usd": 250.95,
+      "updated": "2026-10-27"
     },
     "AXOS": {
       "take": "hold",
-      "reason": "Up 0.8% Monday. No new news. Fiscal Q1 Thu US (Fri ~8am AEDT); watch loan growth and margin.",
-      "price_usd": 92.52,
-      "updated": "2026-10-26"
+      "reason": "Flat, down 0.5% since Monday. No news. Results Thursday after close, ~7am AEDT Friday.",
+      "price_usd": 92.08,
+      "updated": "2026-10-27"
     },
     "BABA": {
       "take": "watch",
-      "reason": "Flat Monday, up 0.3%. No new news since the SAMR item; Hang Seng +0.5%. Wait for the November quarter print.",
-      "price_usd": 99.92,
-      "updated": "2026-10-26"
+      "reason": "Flat Monday and Tuesday, down 4% since Oct 21. China's September industrial profits rose 14.4%, but nothing company-specific yet.",
+      "price_usd": 99.78,
+      "updated": "2026-10-27"
     },
     "ENPH": {
       "take": "watch",
-      "reason": "Down 3% Monday ahead of Q3 Tue US close (Wed ~7:30am AEDT). Q4 guide and the loss of the US tax credit are the swing factors.",
-      "price_usd": 30.75,
-      "updated": "2026-10-26"
+      "reason": "Down 4% Monday ahead of Q3 results tonight. Consensus has sales down about 26% year on year. The guide decides the next move.",
+      "price_usd": 30.62,
+      "updated": "2026-10-27"
     },
     "FIGR": {
       "take": "hold",
-      "reason": "Down 1% Monday, no new news. Earnings date unchanged.",
-      "price_usd": 23.01,
-      "updated": "2026-10-26"
+      "reason": "Down 5.5% Monday and 12% since Oct 21 with no company news. Results due Nov 12. Watch for further slide.",
+      "price_usd": 22.4,
+      "updated": "2026-10-27"
     },
     "GOOGL": {
       "take": "hold",
-      "reason": "Flat Monday. Anthropic's IPO should give Google's stake a public mark. Q3 Wed US (Thu ~7:30am AEDT); Cloud growth vs capex decides it.",
-      "price_usd": 319.85,
-      "updated": "2026-10-26"
+      "reason": "Down 1% Monday as comm services lagged. Anthropic has committed at least $114.5B to Google cloud through 2033. Results Thursday 7am AEDT.",
+      "price_usd": 318.67,
+      "updated": "2026-10-27"
     },
     "LDI": {
       "take": "hold",
-      "reason": "Down 3% Monday on no news. Yields flat near 5% still weigh on mortgage volume.",
-      "price_usd": 0.591,
-      "updated": "2026-10-26"
+      "reason": "Flat since Monday, no news. Mortgage rates still tied to a 10-yr yield near 5%.",
+      "price_usd": 0.59,
+      "updated": "2026-10-27"
     },
     "META": {
       "take": "hold",
-      "reason": "Down 1% Monday after launching a $35B stock sale (about 2% dilution) for AI, with $60B more from 2027. Shareholders now fund the capex; watch.",
-      "price_usd": 633.81,
-      "updated": "2026-10-26"
+      "reason": "Down 2% Monday and 11% since Oct 21 on dilution. Nvidia is taking $3B of the upsized $37.5B raise and Meta is adding Vera Rubin capacity.",
+      "price_usd": 624.36,
+      "updated": "2026-10-27"
     },
     "MRVL": {
       "take": "hold",
-      "reason": "Up 1% Monday with chips. No company news.",
-      "price_usd": 230.27,
-      "updated": "2026-10-26"
+      "reason": "Up 2% Monday and 2% more Tuesday as the $63B Broadcom-Anthropic financing lifted custom-silicon peers. Up 4% since the last run.",
+      "price_usd": 238.84,
+      "updated": "2026-10-27"
     },
     "MU": {
       "take": "hold",
-      "reason": "Up 3% Monday. Taoyuan union talks are due Oct 27 Taiwan, and the dispute is unresolved after the 24-hour strike. SK Hynix reports Oct 28.",
-      "price_usd": 904.19,
-      "updated": "2026-10-26"
+      "reason": "Up 3% Monday and 1.5% Tuesday. Taoyuan union talks ended with no deal, next round Nov 6, no new strike called. SK hynix reports Wednesday.",
+      "price_usd": 917.36,
+      "updated": "2026-10-27"
     },
     "NFLX": {
       "take": "watch",
-      "reason": "Down 1% Monday, near its 52-week low and down 7% since Oct 19 after the ad forecast cut. No new catalyst.",
-      "price_usd": 65.1,
-      "updated": "2026-10-26"
+      "reason": "Down 3% Monday as the ad-revenue cut and a weak Q4 guide drew downgrades. Down 2% since the last run.",
+      "price_usd": 63.81,
+      "updated": "2026-10-27"
     },
     "NVDA": {
       "take": "hold",
-      "reason": "Up 2% Monday after three down weeks. Anthropic's S-1 commits about $3.1B a month to Nvidia-GPU compute; neocloud credit stress is the risk.",
-      "price_usd": 215.47,
-      "updated": "2026-10-26"
+      "reason": "Up 2.4% Monday and 1% Tuesday. It is investing $3B in Meta's stock sale, which some read as circular financing, and Meta is expanding Vera Rubin deployment.",
+      "price_usd": 218.09,
+      "updated": "2026-10-27"
     },
     "RKT": {
       "take": "hold",
-      "reason": "Down 0.5% Monday, no news. Q3 Thu US (Fri ~8am AEDT); with the 10-year near 5%, origination volume is the watch item.",
-      "price_usd": 11.67,
-      "updated": "2026-10-26"
+      "reason": "Down 1.6% since Monday with a 10-yr yield near 5%. Results Thursday after close, ~7am AEDT Friday.",
+      "price_usd": 11.48,
+      "updated": "2026-10-27"
     },
     "TSM": {
       "take": "hold",
-      "reason": "Up 1% Monday with chips. No new company news.",
-      "price_usd": 423.41,
-      "updated": "2026-10-26"
+      "reason": "Up 1.4% Monday and 1.3% Tuesday with the chip rebound. Anthropic and Meta compute deals all run through its fabs.",
+      "price_usd": 430.05,
+      "updated": "2026-10-27"
     },
     "STRIPE": {
       "take": "hold",
-      "reason": "No new round or tender. The last company-set mark is the $159B February tender. Mark unchanged.",
+      "reason": "No new priced round. Mark unchanged.",
       "price_usd": null,
-      "updated": "2026-10-26",
+      "updated": "2026-10-27",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "The $30B raise at a $1.25T valuation is still unclosed, with signatures sought this week. Anthropic's IPO sets a public comparable. Mark unchanged.",
+      "reason": "The $30B round at $1.25T pre-money is reportedly near, but no close has been confirmed. Mark unchanged until it closes.",
       "price_usd": null,
-      "updated": "2026-10-26",
+      "updated": "2026-10-27",
       "mark_multiple": 5.43
     }
   },
   "headlines": [
-    "Anthropic filed its public S-1 for a Nasdaq listing as ANT; H1 revenue $16.3B, valuation talk $1.5-2T.",
-    "Meta launched a $35B stock sale to fund AI, about 2% dilution, with $60B more planned from 2027.",
-    "Lula won Brazil's runoff 51.8% to 48.2%; Brazil ADRs fell 10-29% premarket and MercadoLibre about 12%.",
-    "Chips led Monday's open: Micron up 3%, Nvidia 2%; Brent down 5% near $110 as Iran strike fears eased.",
-    "Next, AEDT: Celestica Tue ~7am; Robinhood and Enphase Wed ~7am; Fed Thu 5am; Alphabet Thu ~7:30am."
+    "Chips rallied a second day on a $63B bank-and-Blackstone package for Anthropic's Broadcom chips; SOX up 2.8% Monday, 1.7% Tuesday.",
+    "Nvidia is putting $3B into Meta's stock raise, now $37.5B; Meta is down 11% since Oct 21 on dilution.",
+    "Celestica upgraded to accumulate/high: Q3 revenue up 83% and a first 2027 outlook of $40B, up 90%.",
+    "Micron's Taoyuan union talks ended without a deal; next round Nov 6, no new strike called.",
+    "Next, AEDT: Enphase and Robinhood ~7am Wed; Fed 5am Thu; Alphabet ~7am Thu; Amazon, Axos, Rocket ~7am Fri."
   ]
 }
