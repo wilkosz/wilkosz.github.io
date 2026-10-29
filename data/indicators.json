@@ -1,66 +1,66 @@
 {
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-29",
   "explainer": "The single best AI-bubble bellwether is the rental price of an installed Nvidia GPU, measured in dollars per GPU-hour, and specifically the H100: it is the daily marginal clearing price for AI compute, it is published by independent indexes (Silicon Data's SDH100RT, SemiAnalysis's one-year contract index), and a CME futures contract on it is pending: the CFTC extended its review to November 9, 2026, so a forward curve is coming but not yet listed. Right now it is saying the opposite of discounting: the Silicon Data index sits at $2.75/hr (Sep 30), a new high, one-year contract rates rose about 40% from $1.70 to $2.35 between October 2025 and March 2026, spot has run at roughly twice contract, and a four-year-old chip is renting for more than it did a year ago while CoreWeave says it has contracted 2020-vintage GPUs out to 2029 at full price. Pair it with three things: neocloud credit spreads (CoreWeave's July loan cleared at SOFR+550 for a 10.44% yield with maintenance covenants, and its CDS implies roughly a coin-flip default probability), which is the financing leg and the one signal already flashing red; server DRAM and HBM contract-price momentum (+13-18% QoQ in 3Q26 after +93-98% in 1Q26, with 4Q26 guided to only +3-8%), because memory is the first physical input that will roll over; and hyperscaler backlog growth versus capex growth (Microsoft commercial RPO +84%, Oracle RPO +363%, roughly $2.4 trillion of committed cloud backlog against about $1 trillion of 2026 capex), because the bubble only deflates if the buyers stop signing. Over the next one to two quarters watch Nvidia's August 26 print for gross margin and customer concentration (three direct customers were already 54% of revenue), the shape of the CME H100/B200 curve if the CFTC clears it in November (a steep backwardation would be the first public forecast of discounting), whether 4Q26 memory contract talks and 2027 HBM4 pricing turn negative, and what ERCOT's December audit says about how much of Texas's 474 GW interconnection queue is phantom demand. The threshold that would flip the call is simple: the H100 index sustained below about $2.00/hr, or spot trading below the one-year contract rate, while Blackwell and Rubin volumes keep arriving; until then compute is being sold at a premium, not a discount, and the risk lives in who is borrowing to build it rather than in the price of the product.",
   "indicators": [
     {
       "key": "h100_rental",
       "name": "H100 rental price, $/GPU-hour (Silicon Data index; 1-yr contract and spot)",
-      "value": "Silicon Data SDH100RT $2.89/hr on Oct 26 (+7.0% 7d), unchanged from the Oct 25 record. H200 $3.41, A100 $1.56, MI300X $2.76. CME H100/B200 futures: CFTC review still runs to Nov 9, no listing.",
+      "value": "Silicon Data SDH100RT $2.90/hr on Oct 28 (page shows +6.2% 7d; daily table Oct 21 $2.86 implies ~+1.4%), a new high, up 1c. H200 $3.47, A100 $1.56, MI300X $2.76. CME H100/B200 futures: CFTC review to Nov 9, no listing.",
       "trend": "up",
       "signal": "bullish",
       "why": "Hopper rents set another high in a week when the chip index fell almost 7% and neocloud bonds slid further: rented compute is still bid, not discounted.",
       "watch": "Bearish flip if SDH100RT prints below ~$2.00 for a month or spot drops under the 1-yr contract rate. Next: the CFTC decision on CME GPU futures by Nov 9, and whether hyperscaler capex guides Oct 28-29 hold demand up.",
-      "note": "Changed since Oct 25: headline flat at $2.89; H200 down 6c to $3.41; A100 flat; MI300X up 1c. FAQ still shows a stale $2.53. Trend and signal held; the $2.00 bearish line is 89c away.",
+      "note": "Changed since Oct 26: headline up 1c to $2.90; H200 up 6c to $3.47; A100 and MI300X flat. The page's 7d figure does not match its own daily table. FAQ still stale at $2.53. Trend and signal held; the $2.00 line is 90c away.",
       "source": "https://www.silicondata.com/products/silicon-index/h100",
-      "updated": "2026-10-27"
+      "updated": "2026-10-29"
     },
     {
       "key": "b200_rental",
       "name": "B200 rental price, $/GPU-hour (Silicon Data index) and B200/H100 ratio",
-      "value": "Silicon Data B200 $6.63 on Oct 26 (+12.9% 7d), a new high, up 3c; B300 $7.56 (+11.5% 7d), up 3c. B200/H100 ratio 2.29x (6.63/2.89). Both well above the $4.50 and 2x triggers.",
-      "trend": "up",
+      "value": "Silicon Data B200 $6.47 on Oct 28 (+10.0% 7d), down 16c from the Oct 26 high; B300 $7.56 (+9.2% 7d), flat. B200/H100 ratio 2.23x (6.47/2.90). Both above the $4.50 and 2x triggers.",
+      "trend": "flat",
       "signal": "bullish",
       "why": "Blackwell rents jumped 7-8% in four days, the biggest move in months: the newest capacity is clearing at a widening premium, which is what a supply-constrained market looks like.",
       "watch": "Bearish if B200 drops below $4.50 or the B200/H100 ratio falls under 2x. Watch whether Google Cloud's Rubin GA next month starts to cap B200/B300 premiums.",
-      "note": "Changed since Oct 25: B200 and B300 each up 3c to new highs while H100 was flat, so the ratio edged up to 2.29x from 2.28x. FAQ stale at $5.45. Trend and signal held.",
+      "note": "Changed since Oct 26: B200 fell 16c, the first dip in the run; B300 flat. Ratio eased to 2.23x from 2.29x. Trend moved to flat on one print; signal held.",
       "source": "https://www.silicondata.com/products/silicon-index/b200",
-      "updated": "2026-10-27"
+      "updated": "2026-10-29"
     },
     {
       "key": "hopper_residual",
       "name": "Hopper residual value: A100 index floor, used H100 prices, GPU useful-life accounting",
-      "value": "A100 index $1.56 Oct 26 (+0.6% 7d; trigger $1.50), flat, six cents above the floor. H200 $3.41. Silicon Data residual study (Jan 30 data): used H100 ~65-75% of new at 2 yrs, 45-55% at 3 yrs. No GPU useful-life cut or Hopper impairment reported so far in Q3 results.",
+      "value": "A100 index $1.56 Oct 28 (+0.6% 7d; trigger $1.50), flat, six cents above the floor. H200 $3.47. Silicon Data residual study (Jan 30 data): used H100 ~65-75% of new at 2 yrs, 45-55% at 3 yrs. No GPU useful-life cut reported in MSFT or GOOGL headlines Oct 28 (filings not read).",
       "trend": "flat",
       "signal": "bullish",
       "why": "The oldest data-centre GPU in the index is still a few cents above the $1.50 floor and edging up; residual value is holding, not breaking.",
       "watch": "A100 index under $1.50; any hyperscaler or neocloud shortening GPU useful life or booking a Hopper impairment (MSFT, GOOGL Oct 28, AMZN Oct 29 US time; CoreWeave Q3 expected around Nov 10); used H100 SXM asks drifting below $18K.",
-      "note": "Changed since Oct 25: A100 flat at $1.56; H200 slipped 6c. Broadcom's residual-value support on the $63B Anthropic lease deal shows lenders want a vendor to carry chip-value risk. Trend and signal held.",
+      "note": "Changed since Oct 26: A100 flat; H200 up 6c. Useful-life disclosure in the MSFT/GOOGL 10-Qs not checked. Trend and signal held.",
       "source": "https://www.silicondata.com/products/silicon-index/h100",
-      "updated": "2026-10-27"
+      "updated": "2026-10-29"
     },
     {
       "key": "dc_cost_per_gw",
       "name": "Data-centre cost per GW and the cost of capital (10-yr Treasury)",
-      "value": "10-yr Treasury par yield 5.00% on Oct 26, unchanged from Oct 23 (4.96% Oct 22, lowest this month); 2-yr 4.68%, down 1bp. Build cost unchanged near $50B per GW (Huang, Oct 21).",
+      "value": "10-yr Treasury par yield 5.05% on Oct 28, up 6bp from 4.99% Oct 27; 2-yr 4.67%, down 3bp. Curve steepened after the Fed hold. 30-yr about 5.36%. Build cost unchanged near $50B per GW (Huang, Oct 21).",
       "trend": "flat",
       "signal": "neutral",
       "why": "Funding costs eased into the Oct 27-28 FOMC, but at 5% the 10-yr still prices every GW at near two-decade-high rates.",
       "watch": "10-yr back above 5.30% or below 4.75%; FOMC Oct 28 (05:00 AEDT Oct 29) and the Nov 6 jobs report; any campus announcement implying more than ~$60B/GW.",
-      "note": "Changed since Oct 23: one new reading (Oct 26), 10-yr flat at 5.00% and 2-yr 4.68%; Oct 27 not yet published. Trend moved from down to flat after two flat sessions; signal held.",
+      "note": "Changed since Oct 26: 10-yr up 5bp to 5.05%, 2-yr down 1bp; long end sold off on the hold and $101 oil. Trend flat, signal neutral held.",
       "source": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
-      "updated": "2026-10-27"
+      "updated": "2026-10-29"
     },
     {
       "key": "memory_prices",
       "name": "Memory prices: DRAM spot and contract, HBM, Samsung and Micron readthrough",
-      "value": "TrendForce spot Oct 27: DDR5 16Gb $61.33 (0.00%), at its high; DDR4 16Gb $82.62 (0.00%); DDR4 8Gb $47.04 (+0.09%). Public contract table still 2H Aug. SK hynix reports Q3 at 11:00 AEDT Oct 28.",
+      "value": "SK hynix Q3 (Oct 28): revenue above KRW 100T for the first time, operating margin about 80%; says memory demand outruns supply through 2030. MU +5.9% Oct 28. TrendForce spot Oct 27: DDR5 16Gb $61.33 (0.00%), DDR4 16Gb $82.62 (0.00%). Public contract table still 2H Aug.",
       "trend": "up",
       "signal": "bullish",
       "why": "Server DDR5 spot keeps setting highs and the main equipment supplier says it cannot ship fast enough: memory supply is still tight, not rolling over.",
       "watch": "SK hynix (11:00 AEDT Oct 28) and Samsung (12:00 AEDT Oct 29) Q4 HBM/DRAM contract pricing; first DDR5 16Gb spot decline; DDR4 16Gb breaking below $82.",
-      "note": "Changed since Oct 26: DDR5 and DDR4 16Gb flat, DDR4 8Gb up 4c; DDR4 16Gb still 62c above the $82 line. SK hynix rose 5.2% in Seoul on Oct 27 ahead of results and a reported KRW 50-60T return plan. Trend and signal held.",
+      "note": "Changed since Oct 27: SK hynix reported a record quarter and a supply-short outlook to 2030; spot DDR not re-checked after Oct 27. Samsung full Q3 due Oct 29 not yet read.",
       "source": "https://www.trendforce.com/price/dram",
-      "updated": "2026-10-27"
+      "updated": "2026-10-29"
     },
     {
       "key": "power_bottleneck",
@@ -72,19 +72,19 @@
       "watch": "PJM backstop filing by Oct 29 and large-load compliance filing ~Nov 9; ERCOT/PUCT audit by Dec 10; GE Vernova Q3 orders (22:30 AEDT Oct 28); Vertiv Q3 (Oct 28 before US open).",
       "note": "Changed since Oct 26: no PJM refiling yet (still due Oct 29; if none, PJM briefs are due Nov 13); no new TCEQ action found after Oct 20. Vertiv closed its $1.45B UtilityInnovation Group (behind-the-meter microgrids) deal on Oct 27, more money chasing onsite power. Trend and signal held.",
       "source": "https://mgrid.org/2026/10/09/doe-makes-its-first-ferc-filing-in-five-years-on-pjms-6-8-gw-backstop-and-pjm-must-refile-by-october-29/",
-      "updated": "2026-10-27"
+      "updated": "2026-10-29"
     },
     {
       "key": "capex_vs_backlog",
       "name": "Capex vs backlog: hyperscaler spend, RPO, AI-lab commitments and buyer revenue quality",
-      "value": "Meta upsized the common part of its raise to $25B (up to $37.5B with depositary shares; $60B more in 2027), and Nvidia committed $3B. Broadcom and banks lined up $63B to fund chips leased to Anthropic from 2027. MSFT, GOOGL report Oct 28, AMZN Oct 29 (US time).",
+      "value": "Alphabet Q3 capex $51.4B (more than double a year ago), Google Cloud revenue $30.7B (+103%); EPS and revenue missed, shares down about 9-11% after hours Oct 28. Microsoft capex $45.2B, Azure +48% vs 44.8% expected; shares up about 4-5% after hours. Amazon reports Oct 29 US time.",
       "trend": "flat",
       "signal": "neutral",
       "why": "Buyers keep signing, but more of it is now funded by equity and lease vehicles with vendor backstops rather than cash flow, which raises the bar for returns.",
       "watch": "Microsoft and Alphabet capex guides (07:30-08:30 AEDT Oct 29), Amazon (08:00 AEDT Oct 30); any 2027 capex figure; any capex cut tied to neocloud credit stress or power delays.",
-      "note": "Changed since Oct 26: Meta's raise was upsized and Nvidia committed; the $63B Anthropic vehicle is new and one of the largest AI debt deals. Wells Fargo says Meta's raise likely covers its FY27 financing gap. Trend and signal held; the three big guides land this week.",
-      "source": "https://www.investing.com/news/stock-market-news/nvidia-to-invest-3-bln-in-meta-share-offering-as-part-of-bigger-ai-partnership-4974236",
-      "updated": "2026-10-27"
+      "note": "Changed since Oct 27: two hyperscaler prints. Capex still rising and cloud growth accelerating; the market punished Alphabet's spend-and-miss and rewarded Microsoft. Backlog (RPO) figures not checked.",
+      "source": "https://www.stocktitan.net/articles/stock-market-today-live-october-28-2026",
+      "updated": "2026-10-29"
     },
     {
       "key": "neocloud_credit",
@@ -96,7 +96,7 @@
       "watch": "CoreWeave notes below 75c or back above 85c; any DDTL draw, convert or equity raise; Q3 results (estimated ~Nov 10, unconfirmed); Nscale IPO after losing the Microsoft site; Nebius term-out of its 364-day loan.",
       "note": "Changed since Oct 26: a fresh CDS reading (1,148bp, Oct 26) replaces the Oct 19 figure (~1,082bp); still above the 1,000bp distress line. No new bond quote. Q3 date still not announced (third-party estimates Nov 9-16). Trend and signal held.",
       "source": "https://www.tradingview.com/news/benzinga:595e6852b094b:0-coreweave-debt-fears-hit-a-record-some-are-whispering-lehman/",
-      "updated": "2026-10-27"
+      "updated": "2026-10-29"
     },
     {
       "key": "nvidia_dc",
@@ -108,7 +108,7 @@
       "watch": "MSFT, GOOGL (Oct 28) and AMZN (Oct 29) capex guides; AMD Q3 Nov 3 and Arm Nov 4 (US time); any Nvidia-backed GPU lending programme; CFTC GPU-futures decision by Nov 9; Q3 FY27 results late Nov.",
       "note": "Changed since Oct 26: the Meta stake is now committed at $3B and tied to a bigger Vera Rubin order, a clear vendor-financing link. Fundamentals unchanged. Trend and signal held.",
       "source": "https://www.investing.com/news/stock-market-news/nvidia-to-invest-3-bln-in-meta-share-offering-as-part-of-bigger-ai-partnership-4974236",
-      "updated": "2026-10-27"
+      "updated": "2026-10-29"
     }
   ]
 }

@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-10-28",
+    "ticker": "GOOGL",
+    "headline": "Alphabet Cloud revenue doubles, but an investment loss and negative free cash flow hit the stock",
+    "summary": "Q3 revenue rose 25% and Google Cloud rose 103% with operating margin at 36%. An $8.7B equity-securities loss cut EPS 26% y/y, quarterly free cash flow was -$9.1B, and shares fell about 10% after hours.",
+    "source": "https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000080/googexhibit991q32026.htm",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-28",
+    "ticker": "MACRO",
+    "headline": "Fed holds at 3.75-4% in a 10-2 vote, two dissenters wanted a hike",
+    "summary": "Cook and Hammack dissented in favour of a quarter-point increase. Chair Warsh gave no forward guidance, and economists widely expect a December hike.",
+    "source": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-28",
+    "ticker": "AAPL",
+    "headline": "Apple launches its first touchscreen Mac",
+    "summary": "The new MacBook Pro has a tandem-OLED touch display and M5 Pro/Max chips, starting at $2,899. Pre-orders are open and deliveries start Nov 6.",
+    "source": "https://9to5mac.com/2026/10/28/apple-announces-redesigned-macbook-pro-its-first-touchscreen-mac/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-28",
+    "ticker": "MU",
+    "headline": "Memory names rally on SK Hynix record profit",
+    "summary": "Micron rose about 6% after SK Hynix posted a record quarterly profit ahead of estimates. Nvidia slipped about 1%.",
+    "source": "https://finance.yahoo.com/markets/stocks/articles/micron-amd-nvidia-stocks-rise-183814387.html",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-28",
+    "ticker": "GEV",
+    "headline": "GE Vernova Q3 beats on orders; guidance up, buyback doubled, Trench deal",
+    "summary": "Orders ~$29.3B (+96%), backlog ~$197B, full-year guidance raised. Buyback authorisation up from $10B to $20B. Agreed to acquire Trench Group.",
+    "source": "https://www.gevernova.com/news/articles/ge-vernova-releases-third-quarter-2026-financial-results-announces-agreement-acquire",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-28",
+    "ticker": "SKHY",
+    "headline": "SK hynix posts record Q3; HBM4 in full mass production",
+    "summary": "Operating profit ~KRW 83.3T (+38% QoQ), revenue over KRW 100T, ~80% margin. Net income down QoQ because Q2 included a one-off Kioxia gain. Shares rose after hours.",
+    "source": "https://www.investing.com/news/transcripts/earnings-call-transcript-sk-hynix-posts-record-q3-2026-results-shares-jump-after-hours-93CH-4977343",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-28",
+    "ticker": "FED",
+    "headline": "Fed holds at 3.75-4.00%, two dissents for a hike",
+    "summary": "10-2 vote; Warsh says inflation too high but wants more data before December. 10-yr rose to 5.05%, 2-yr fell to 4.67%.",
+    "source": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-28-oct-fed-holds-rates-yield-curve-steepens-as-big-tech-earnings-diverge/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-27",
+    "ticker": "ENPH",
+    "headline": "Enphase Q3 flat sequentially, Q4 guide points lower",
+    "summary": "Revenue was down 29% y/y, sell-through grew 1% against a 10% plan, and Europe fell 11%. Q4 guidance assumes sell-through down about 10% and gross margin of 40-43%.",
+    "source": "https://www.sec.gov/Archives/edgar/data/0001463101/000146310126000101/a2026q3exx991pressrelease.htm",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-27",
+    "ticker": "HOOD",
+    "headline": "Robinhood record revenue, but crypto slump sends shares down about 8%",
+    "summary": "Revenue rose 12% to a record $1.42B. Crypto revenue fell 55% y/y, GAAP EPS fell 16%, and Ohio issued a cease-and-desist over sports event contracts.",
+    "source": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-27",
+    "ticker": "TER",
+    "headline": "Teradyne Q3 revenue $1.31B, up 70% YoY, above guidance",
+    "summary": "Non-GAAP EPS $2.29. Semi Test $1,072M. Revenue slightly below Q2.",
+    "source": "https://www.sec.gov/Archives/edgar/data/0000097210/000119312526434981/ter-ex99_1.htm",
+    "impact": "positive"
+  },
+  {
     "date": "2026-10-27",
     "ticker": "META",
     "headline": "Nvidia takes $3B of Meta's upsized equity raise, expands Muse and Vera Rubin deal",
@@ -313,6 +393,14 @@
   },
   {
     "date": "2026-10-22",
+    "ticker": "OPENAI",
+    "headline": "OpenAI trims funding-round target to $1.25T",
+    "summary": "The target for a raise of up to $30B was cut from $1.4T after investor pushback. Commitments are due Oct 30, ahead of Anthropic's expected mid-November IPO.",
+    "source": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-22",
     "ticker": "META",
     "headline": "Meta falls about 7%, Nasdaq drops 2.6% as AI spending fears spread",
     "summary": "The Nasdaq had its worst day since June and the Philadelphia chip index fell 6.7%. Marvell fell 8.7%, Micron 6.3% and TSMC 4.5%, while Treasury yields fell sharply as money moved to safety.",
@@ -550,93 +638,5 @@
     "summary": "The union represents about 2,400 of roughly 3,000 Taoyuan workers; it has not said how many will walk out, and no production impact has been reported.",
     "source": "https://focustaiwan.tw/business/202610200021",
     "impact": "negative"
-  },
-  {
-    "date": "2026-10-20",
-    "ticker": "TSLA",
-    "headline": "Tesla and SpaceX boards form special committees to review a merger",
-    "summary": "On SpaceX's Q3 call, Musk said independent-director committees at both companies are evaluating a combination, with no terms agreed. Tesla would need approval from a majority of all outstanding shares, which Musk called a high hurdle.",
-    "source": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-20",
-    "ticker": "ANTHROPIC",
-    "headline": "Anthropic draft prospectus (per WSJ): Q3 revenue $16.8B, up 45% q/q; H1 net loss $80.7B",
-    "summary": "WSJ-reported figures from a leaked draft S-1 show H1 revenue of $16.3B, two customers at about a fifth of sales, and cloud spend that could top $750B. The loss is not broken down; a November IPO is reportedly still the target.",
-    "source": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-20",
-    "ticker": "CURSOR",
-    "headline": "Cursor added $608M of revenue in its first 7 weeks inside SpaceX",
-    "summary": "SpaceX's Q3 report showed Cursor contributing $608M from its Aug 14 close to Sep 30, inside an AI segment whose revenue rose to $7.56B. Cursor is now a SpaceX subsidiary, so it has no standalone funding rounds.",
-    "source": "https://payloadspace.com/spacexs-ai-revenue-leads-q3-earnings/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-20",
-    "ticker": "NET",
-    "headline": "Cloudflare patches products after eMudhra certificate keys were compromised",
-    "summary": "Private keys for 8 widely trusted eMudhra intermediate certificates were exposed. Cloudflare deployed fixes within about 26 hours, found no exploitation on its services, and told customers to update WARP and cloudflared (2026.10.2) and review mTLS trust stores.",
-    "source": "https://blog.cloudflare.com/emudhra-certificate-compromise/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-20",
-    "ticker": "FED",
-    "headline": "10-year at 5.14%; October hike odds about 17%, December about 90%",
-    "summary": "Odds of an October hike fell from about 50% after Chair Warsh declined to signal a move this month, but markets still expect one by December. The FOMC meets Oct 27-28, with the decision at Thu Oct 29 05:00 AEDT.",
-    "source": "https://www.mitrade.com/insights/forex-analysis/usds/dollar-102-yield-514-hike-odds-17-20261020J1350",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-20",
-    "ticker": "SE",
-    "headline": "Sea launches enterprise cloud arm, weighs Monee IPO",
-    "summary": "A CEO memo filed Oct 20 said Sea will sell AI cloud services to businesses (Sea Cloud) and is considering listing its Monee fintech arm. No capex, timing or valuation given. Shares fell 16.9% over Oct 19-21 to $77.94.",
-    "source": "https://sg.news.yahoo.com/shopee-parent-launches-cloud-business-weighs-listing-of-fintech-arm-044733686.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-19",
-    "ticker": "AAPL",
-    "headline": "Apple sets 'Pro and tell' event for Oct 28; touchscreen OLED MacBook Pros expected",
-    "summary": "LA event at 10am PT (Thu 04:00 AEDT). Gurman expects touchscreen OLED MacBook Pros, an M6 iMac and an OLED iPad mini.",
-    "source": "https://www.91mobiles.com/hub/apple-october-28th-pro-and-tell-event-touchscreen-macbook-pro-oled/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-19",
-    "ticker": "AMZN",
-    "headline": "Amazon up 5% as Morgan Stanley names it a top pick",
-    "summary": "Morgan Stanley raised its target to $350 from $335 and sees AWS operating margins reaching 42% in 2027. Q3 results are due Oct 29 after the US close.",
-    "source": "https://247wallst.com/investing/2026/10/19/amazon-jumps-5-as-morgan-stanley-names-it-top-pick-on-faster-aws-growth-microsoft-and-alphabet-edge-higher/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-19",
-    "ticker": "OPENAI",
-    "headline": "OpenAI still in talks on ~$30B raise at over $1.4T",
-    "summary": "Reuters reported the talks are ongoing, so nothing has closed; the last closed round was $852B in March.",
-    "source": "https://fool.com/investing/2026/10/20/openai-is-reportedly-raising-usd30-billion-which-chip-stock-gains-the-most",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-19",
-    "ticker": "AAPL",
-    "headline": "Jefferies: iPhone 18 Pro demand weakening, with about 2M units of assembly orders cut",
-    "summary": "China lead times for the Pro and Pro Max are at zero, PDD cut prices 6-9% on Oct 16, and chip orders were trimmed 10-15%. China sell-through growth slowed from over 40% to about 8%, while the foldable Duo's lead time is over 90 days.",
-    "source": "https://www.investing.com/news/stock-market-news/analyst-says-iphone-18-demand-weakness-is-intensifying-4957200",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-19",
-    "ticker": "MACRO",
-    "headline": "Chip index snaps its 8-day losing streak, its longest since 2008",
-    "summary": "The SOX rose about 2.7% on Oct 19 after losing about 15.7% over eight sessions, led by memory names. The Nasdaq added 1.1% on Oct 21.",
-    "source": "https://finance.biggo.com/news/3cf1aba9-a412-43e8-a3b8-87024eb5ee3d",
-    "impact": "positive"
   }
 ]

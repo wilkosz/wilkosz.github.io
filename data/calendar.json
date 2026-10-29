@@ -1,66 +1,6 @@
 {
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-29",
   "events": [
-    {
-      "key": "2026-10-26-cls-q3",
-      "date": "2026-10-26",
-      "time": "Results after US close Mon (about 07:00 AEDT Tue Oct 27); call 08:00 ET Tue Oct 27 (23:00 AEDT Tue)",
-      "ticker": "CLS",
-      "title": "Celestica Q3 2026 results, call and Investor and Analyst Day",
-      "type": "earnings",
-      "why": "Watchlist. Q3 guide $5.25-5.55B revenue, EPS $2.88-3.08; investor day should give 2027 targets after a 9.6% drop Oct 14.",
-      "link": "https://finviz.com/news/399550/celestica-to-hold-q3-2026-financial-results-and-2026-investor-and-analyst-day-conference-call"
-    },
-    {
-      "key": "2026-10-27-enph-q3",
-      "date": "2026-10-27",
-      "time": "After US close; call 16:30 ET (07:30 AEDT Wed Oct 28)",
-      "ticker": "ENPH",
-      "title": "Enphase Q3 2026 results (guide revenue $290-320M, GAAP GM 42-45%)",
-      "type": "earnings",
-      "why": "Holding; confirmed by Enphase's Oct 6 release. Guide implies GAAP margin well below Q2's 60%.",
-      "link": "https://finviz.com/news/399170/enphase-energy-announces-conference-call-to-review-third-quarter-2026-financial-results"
-    },
-    {
-      "key": "2026-10-27-hood-q3",
-      "date": "2026-10-27",
-      "time": "After US close; call 17:00 ET (08:00 AEDT Wed)",
-      "ticker": "HOOD",
-      "title": "Robinhood Q3 2026 results and video call",
-      "type": "earnings",
-      "why": "Confirmed by the company Oct 1. First quarter with prediction-market and Agents disclosures; watch transaction revenue and net deposits.",
-      "link": "https://finviz.com/news/397996/robinhood-markets-inc-to-announce-third-quarter-2026-results-on-october-27-2026"
-    },
-    {
-      "key": "2026-10-27-us-durable-goods",
-      "date": "2026-10-27",
-      "time": "08:30 ET Tue (23:30 AEDT Tue Oct 27)",
-      "ticker": "MACRO",
-      "title": "US September advance durable goods orders (Census)",
-      "type": "macro",
-      "why": "Core capital-goods orders are the equipment-capex read for the machinery names; lands the day the FOMC meeting starts.",
-      "link": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
-    },
-    {
-      "key": "2026-10-27-us-new-home-sales",
-      "date": "2026-10-27",
-      "time": "10:00 ET Tue (01:00 AEDT Wed Oct 28)",
-      "ticker": "MACRO",
-      "title": "US September new home sales (Census)",
-      "type": "macro",
-      "why": "Housing demand with mortgage rates near 7.5%; relevant to RKT and LDI.",
-      "link": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
-    },
-    {
-      "key": "2026-10-27-ter-q3",
-      "date": "2026-10-27",
-      "time": "Results 16:30 ET or later Tue (07:30 AEDT Wed Oct 28); call 08:30 ET Wed Oct 28 (23:30 AEDT Wed)",
-      "ticker": "TER",
-      "title": "Teradyne Q3 2026 results (confirmed Oct 13)",
-      "type": "earnings",
-      "why": "Now confirmed by the company; call on Teradyne's IR calendar. Q3 guide $1.2-1.3B; AI test demand read for the semis drawdown.",
-      "link": "https://investors.teradyne.com/news-events/ir-calendar/detail/20261028-q3-2026-teradyne-inc-earnings-conference-call"
-    },
     {
       "key": "2026-10-28-aapl-pro-and-tell",
       "date": "2026-10-28",
@@ -76,10 +16,10 @@
       "date": "2026-10-28",
       "time": "14:00 ET statement, 14:30 ET press conference (05:00 / 05:30 AEDT Thu Oct 29)",
       "ticker": "FED",
-      "title": "FOMC decision (meeting Oct 27-28, no projections)",
+      "title": "FOMC held at 3.75-4.00%, vote 10-2 (Cook, Hammack for a hike)",
       "type": "central_bank",
-      "why": "Two-day Oct 27-28 meeting with no dot plot; markets lean to a hold now and a hike at the Dec 8-9 meeting.",
-      "link": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+      "why": "Warsh: inflation too high but policy working, no December commitment. Next meeting Dec 8-9.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/2026-press-fomc.htm"
     },
     {
       "key": "2026-10-28-gev-q3",
@@ -96,10 +36,10 @@
       "date": "2026-10-28",
       "time": "Call 13:30 PT / 16:30 ET (07:30 AEDT Thu Oct 29)",
       "ticker": "GOOGL",
-      "title": "Alphabet Q3 2026 results and call",
+      "title": "Alphabet Q3 2026: Cloud +103%, capex $51.4B, EPS miss",
       "type": "earnings",
-      "why": "Holding; confirmed on Alphabet IR. Cloud growth and capex guide are the AI read; lands hours after the FOMC decision.",
-      "link": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Date-of-Third-Quarter-2026-Financial-Results-Conference-Call-2026-8tpGZsLS6v/default.aspx"
+      "why": "Holding. Cloud beat but EPS, revenue and ad lines missed; 2027 capex talk weighed on the stock after hours.",
+      "link": "https://www.stocktitan.net/articles/stock-market-today-live-october-28-2026"
     },
     {
       "key": "2026-10-28-au-cpi",
@@ -116,10 +56,10 @@
       "date": "2026-10-28",
       "time": "After US close; webcast 14:30 PT / 17:30 ET (08:30 AEDT Thu Oct 29)",
       "ticker": "MSFT",
-      "title": "Microsoft fiscal Q1 2027 results and webcast",
+      "title": "Microsoft FQ1 2027: Azure +48%, capex $45.2B, EPS $4.92 beat",
       "type": "earnings",
-      "why": "Azure growth and a capex guide above $50B a quarter, the same evening as Alphabet and ServiceNow.",
-      "link": "https://finviz.com/news/400058/microsoft-announces-quarterly-earnings-release-date"
+      "why": "Azure beat 44.8% consensus; shares rose after hours.",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-28-oct-fed-holds-rates-yield-curve-steepens-as-big-tech-earnings-diverge/"
     },
     {
       "key": "2026-10-28-now-q3",

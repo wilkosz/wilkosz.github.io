@@ -1,111 +1,112 @@
 {
-  "as_of": "2026-10-27T14:00",
-  "market_summary": "Chips led again: the SOX rose 2.8% Monday and another 1.7% at Tuesday's open after a $63B bank-and-Blackstone package to fund Broadcom gear for Anthropic, and Nvidia said it will put $3B into Meta's upsized stock sale. Monday closed with the S&P 500 up 0.7% to 7,677 and the Nasdaq up 0.8%; Tuesday Asia followed, with the Kospi up 3.8% and the Nikkei up 1.7%, and the S&P opened up 0.3%. The 10-yr yield sits near 5.0%, Brent eased to around $115, September durable goods rose 1.8% (1.7% expected), and futures price only about a 10% chance of a Fed hike this week. Micron's Taoyuan union talks ended with no deal and a third round set for Nov 6, so no new strike yet. Next: Enphase and Robinhood results ~7am AEDT Wed, SK hynix results Wed, Apple Mac event 4am AEDT Thu, Fed decision 5am AEDT Thu, Alphabet ~7am AEDT Thu, Amazon/Axos/Rocket ~7am AEDT Fri.",
+  "as_of": "2026-10-29T04:45",
+  "market_summary": "The Fed held at 3.75-4.00% on Oct 28 in a 10-2 vote, with Cook and Hammack wanting a hike; Warsh would not commit on December. The curve steepened: 2-yr 4.67% (-3bp), 10-yr 5.05% (+6bp), with US crude near $101.5 on Iran concerns. The S&P 500 rose 0.28% and the Nasdaq 100 0.55%, led by memory after SK hynix's record quarter (Micron +5.9%) and Vertiv +16.6% on orders more than doubling. AI capex keeps climbing: Alphabet spent $51.4B in Q3 and fell about 10% after hours on an earnings miss, while Microsoft (capex $45.2B, Azure +48%) rose about 5%. Enphase fell 16.0% on a weak Q4 guide; China markets were not checked. Next: Amazon, Axos, Rocket ~7am AEDT Fri.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "Up 1% since Monday's early read. Anthropic's S-1 shows a $110B AWS commitment through 2036 and 48% of its revenue running through cloud marketplaces. Results Friday AEDT.",
-      "price_usd": 250.95,
-      "updated": "2026-10-27"
+      "reason": "Reports Q3 on Oct 29. After Alphabet's cash-flow-driven drop, AWS growth and capex funding will set the reaction. No change before the print.",
+      "price_usd": null,
+      "updated": "2026-10-29"
     },
     "AXOS": {
       "take": "hold",
-      "reason": "Flat, down 0.5% since Monday. No news. Results Thursday after close, ~7am AEDT Friday.",
-      "price_usd": 92.08,
-      "updated": "2026-10-27"
+      "reason": "No new company news this window. The Fed held at 3.75-4% and a December hike is expected, which keeps funding costs elevated but stable for the bank.",
+      "price_usd": null,
+      "updated": "2026-10-29"
     },
     "BABA": {
-      "take": "watch",
-      "reason": "Flat Monday and Tuesday, down 4% since Oct 21. China's September industrial profits rose 14.4%, but nothing company-specific yet.",
-      "price_usd": 99.78,
-      "updated": "2026-10-27"
+      "take": "hold",
+      "reason": "No material new news found this window. Thesis unchanged.",
+      "price_usd": null,
+      "updated": "2026-10-29"
     },
     "ENPH": {
       "take": "watch",
-      "reason": "Down 4% Monday ahead of Q3 results tonight. Consensus has sales down about 26% year on year. The guide decides the next move.",
-      "price_usd": 30.62,
-      "updated": "2026-10-27"
+      "reason": "Q3 revenue was flat sequentially and down 29% y/y. Sell-through grew 1% against a 10% plan, and Q4 guide implies a further 13-23% fall. Data-center power is a 2028 story.",
+      "price_usd": null,
+      "updated": "2026-10-29"
     },
     "FIGR": {
       "take": "hold",
-      "reason": "Down 5.5% Monday and 12% since Oct 21 with no company news. Results due Nov 12. Watch for further slide.",
-      "price_usd": 22.4,
-      "updated": "2026-10-27"
+      "reason": "No new company news found this window. Thesis unchanged.",
+      "price_usd": null,
+      "updated": "2026-10-29"
     },
     "GOOGL": {
       "take": "hold",
-      "reason": "Down 1% Monday as comm services lagged. Anthropic has committed at least $114.5B to Google cloud through 2033. Results Thursday 7am AEDT.",
-      "price_usd": 318.67,
-      "updated": "2026-10-27"
+      "reason": "Cloud revenue grew 103% with a 36% margin, but an $8.7B equity loss cut EPS and free cash flow went negative. Shares fell about 10% after hours.",
+      "price_usd": null,
+      "updated": "2026-10-29"
     },
     "LDI": {
       "take": "hold",
-      "reason": "Flat since Monday, no news. Mortgage rates still tied to a 10-yr yield near 5%.",
-      "price_usd": 0.59,
-      "updated": "2026-10-27"
+      "reason": "The Fed held and 30-year mortgage rates sit near 7.3-7.4%, a two-year high, while applications fell for seven straight weeks. A soft origination backdrop.",
+      "price_usd": null,
+      "updated": "2026-10-29"
     },
     "META": {
       "take": "hold",
-      "reason": "Down 2% Monday and 11% since Oct 21 on dilution. Nvidia is taking $3B of the upsized $37.5B raise and Meta is adding Vera Rubin capacity.",
-      "price_usd": 624.36,
-      "updated": "2026-10-27"
+      "reason": "No new results this window. Alphabet's negative free cash flow keeps attention on Meta's capex outrunning operating cash flow last quarter.",
+      "price_usd": null,
+      "updated": "2026-10-29"
     },
     "MRVL": {
       "take": "hold",
-      "reason": "Up 2% Monday and 2% more Tuesday as the $63B Broadcom-Anthropic financing lifted custom-silicon peers. Up 4% since the last run.",
-      "price_usd": 238.84,
-      "updated": "2026-10-27"
+      "reason": "No company-specific news this window. Chips are mixed, with memory leading on SK Hynix's record profit.",
+      "price_usd": null,
+      "updated": "2026-10-29"
     },
     "MU": {
       "take": "hold",
-      "reason": "Up 3% Monday and 1.5% Tuesday. Taoyuan union talks ended with no deal, next round Nov 6, no new strike called. SK hynix reports Wednesday.",
-      "price_usd": 917.36,
-      "updated": "2026-10-27"
+      "reason": "Rose about 6% on Oct 28 after SK Hynix posted a record quarterly profit, which confirms tight memory pricing.",
+      "price_usd": null,
+      "updated": "2026-10-29"
     },
     "NFLX": {
-      "take": "watch",
-      "reason": "Down 3% Monday as the ad-revenue cut and a weak Q4 guide drew downgrades. Down 2% since the last run.",
-      "price_usd": 63.81,
-      "updated": "2026-10-27"
+      "take": "hold",
+      "reason": "No material new news found this window.",
+      "price_usd": null,
+      "updated": "2026-10-29"
     },
     "NVDA": {
       "take": "hold",
-      "reason": "Up 2.4% Monday and 1% Tuesday. It is investing $3B in Meta's stock sale, which some read as circular financing, and Meta is expanding Vera Rubin deployment.",
-      "price_usd": 218.09,
-      "updated": "2026-10-27"
+      "reason": "Down about 1% on Oct 28. Alphabet's Cloud up 103% and unchanged hyperscaler capex plans support demand, though investors are now questioning how the spend is funded.",
+      "price_usd": null,
+      "updated": "2026-10-29"
     },
     "RKT": {
-      "take": "hold",
-      "reason": "Down 1.6% since Monday with a 10-yr yield near 5%. Results Thursday after close, ~7am AEDT Friday.",
-      "price_usd": 11.48,
-      "updated": "2026-10-27"
+      "take": "watch",
+      "reason": "Mortgage rates are near a two-year high and MBA applications have fallen seven weeks in a row. The Fed held and signalled no relief, with a December hike expected.",
+      "price_usd": null,
+      "updated": "2026-10-29"
     },
     "TSM": {
       "take": "hold",
-      "reason": "Up 1.4% Monday and 1.3% Tuesday with the chip rebound. Anthropic and Meta compute deals all run through its fabs.",
-      "price_usd": 430.05,
-      "updated": "2026-10-27"
+      "reason": "Up about 0.4% on Oct 28. Hyperscaler capex plans remain intact, and Alphabet guided to a significant increase in 2027.",
+      "price_usd": null,
+      "updated": "2026-10-29"
     },
     "STRIPE": {
       "take": "hold",
-      "reason": "No new priced round. Mark unchanged.",
+      "reason": "No new valuation reported this window. The OpenRouter deal (reported at about $7.5B) is still pending.",
       "price_usd": null,
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "The $30B round at $1.25T pre-money is reportedly near, but no close has been confirmed. Mark unchanged until it closes.",
+      "reason": "OpenAI cut its funding-round target to $1.25T pre-money from $1.4T after investor pushback, with commitments due Oct 30. Not yet closed, so the last mark is still $852B (TechCrunch).",
       "price_usd": null,
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "mark_multiple": 5.43
     }
   },
   "headlines": [
-    "Chips rallied a second day on a $63B bank-and-Blackstone package for Anthropic's Broadcom chips; SOX up 2.8% Monday, 1.7% Tuesday.",
-    "Nvidia is putting $3B into Meta's stock raise, now $37.5B; Meta is down 11% since Oct 21 on dilution.",
-    "Celestica upgraded to accumulate/high: Q3 revenue up 83% and a first 2027 outlook of $40B, up 90%.",
-    "Micron's Taoyuan union talks ended without a deal; next round Nov 6, no new strike called.",
-    "Next, AEDT: Enphase and Robinhood ~7am Wed; Fed 5am Thu; Alphabet ~7am Thu; Amazon, Axos, Rocket ~7am Fri."
+    "Alphabet Cloud grew 103%, but an investment loss and negative free cash flow sent it down about 10% after hours.",
+    "Fed held at 3.75-4% on a 10-2 vote, two wanting a hike; 10-yr back at 5.05%.",
+    "Memory rallied on SK hynix's record quarter: Micron up 5.9%.",
+    "Enphase fell 16% on a weak Q4 guide; take moved to watch.",
+    "GE Vernova orders up 96% to about $29B; buyback doubled to $20B.",
+    "Next, AEDT: Amazon, Axos, Rocket results ~7am Fri."
   ]
 }
