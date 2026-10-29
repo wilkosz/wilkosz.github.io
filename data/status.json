@@ -1,112 +1,112 @@
 {
-  "as_of": "2026-10-29T04:45",
-  "market_summary": "The Fed held at 3.75-4.00% on Oct 28 in a 10-2 vote, with Cook and Hammack wanting a hike; Warsh would not commit on December. The curve steepened: 2-yr 4.67% (-3bp), 10-yr 5.05% (+6bp), with US crude near $101.5 on Iran concerns. The S&P 500 rose 0.28% and the Nasdaq 100 0.55%, led by memory after SK hynix's record quarter (Micron +5.9%) and Vertiv +16.6% on orders more than doubling. AI capex keeps climbing: Alphabet spent $51.4B in Q3 and fell about 10% after hours on an earnings miss, while Microsoft (capex $45.2B, Azure +48%) rose about 5%. Enphase fell 16.0% on a weak Q4 guide; China markets were not checked. Next: Amazon, Axos, Rocket ~7am AEDT Fri.",
+  "as_of": "2026-10-29T18:50",
+  "market_summary": "US Q3 GDP advance came in at a 3.4% annualised pace (Q2 2.2%), while headline PCE inflation rose to 3.6% y/y in September and sped up. The Nasdaq was down about 1% at 11:37 ET Thursday as Alphabet fell about 10% on a search and ad miss, with the S&P 500 and Dow slightly lower and Microsoft up about 3% on Azure. The 10-year yield eased to about 4.98% from 5.05% and Brent fell 2.1% to about $109. The ECB held its deposit rate at 2.50% and Lagarde said she will step down on Feb 7, 2027; markets lean to a December hike. Hang Seng fell 0.6% to 22,958.65. Midday read, not the close. Next: Amazon, Axos, Rocket results ~7am AEDT Fri; Apple Mon after close = Tue morning AEDT; RBA Tue 2:30pm AEDT.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "Reports Q3 on Oct 29. After Alphabet's cash-flow-driven drop, AWS growth and capex funding will set the reaction. No change before the print.",
-      "price_usd": null,
+      "reason": "Down about 4% intraday in the Alphabet-led tech selloff ahead of Q3 after today's close. Results not out at time of check.",
+      "price_usd": 244.41,
       "updated": "2026-10-29"
     },
     "AXOS": {
       "take": "hold",
-      "reason": "No new company news this window. The Fed held at 3.75-4% and a December hike is expected, which keeps funding costs elevated but stable for the bank.",
+      "reason": "Reports Q1 FY27 after today's close; results not out at time of check. No intraday move found.",
       "price_usd": null,
       "updated": "2026-10-29"
     },
     "BABA": {
       "take": "hold",
-      "reason": "No material new news found this window. Thesis unchanged.",
+      "reason": "No company news found today; no intraday move confirmed.",
       "price_usd": null,
       "updated": "2026-10-29"
     },
     "ENPH": {
-      "take": "watch",
-      "reason": "Q3 revenue was flat sequentially and down 29% y/y. Sell-through grew 1% against a 10% plan, and Q4 guide implies a further 13-23% fall. Data-center power is a 2028 story.",
+      "take": "hold",
+      "reason": "No company news found today; no intraday move confirmed.",
       "price_usd": null,
       "updated": "2026-10-29"
     },
     "FIGR": {
       "take": "hold",
-      "reason": "No new company news found this window. Thesis unchanged.",
+      "reason": "No company news found today; small caps firm, Russell 2000 up about 0.7-1.1% while Nasdaq fell.",
       "price_usd": null,
       "updated": "2026-10-29"
     },
     "GOOGL": {
       "take": "hold",
-      "reason": "Cloud revenue grew 103% with a 36% margin, but an $8.7B equity loss cut EPS and free cash flow went negative. Shares fell about 10% after hours.",
-      "price_usd": null,
+      "reason": "Down about 13% intraday, worst session since 2004 IPO: Q3 free cash flow negative on capex. Cloud grew 103%, so thesis intact; do not add into the slide yet.",
+      "price_usd": 281.82,
       "updated": "2026-10-29"
     },
     "LDI": {
-      "take": "hold",
-      "reason": "The Fed held and 30-year mortgage rates sit near 7.3-7.4%, a two-year high, while applications fell for seven straight weeks. A soft origination backdrop.",
+      "take": "watch",
+      "reason": "No company news found today; no intraday move confirmed.",
       "price_usd": null,
       "updated": "2026-10-29"
     },
     "META": {
       "take": "hold",
-      "reason": "No new results this window. Alphabet's negative free cash flow keeps attention on Meta's capex outrunning operating cash flow last quarter.",
+      "reason": "No intraday move confirmed; caught in AI-capex worries after Alphabet's negative free cash flow.",
       "price_usd": null,
       "updated": "2026-10-29"
     },
     "MRVL": {
-      "take": "hold",
-      "reason": "No company-specific news this window. Chips are mixed, with memory leading on SK Hynix's record profit.",
+      "take": "watch",
+      "reason": "Down about 11% on reports of advanced talks to buy Lumentum; Lumentum up about 2%. Watch deal price and dilution.",
       "price_usd": null,
       "updated": "2026-10-29"
     },
     "MU": {
       "take": "hold",
-      "reason": "Rose about 6% on Oct 28 after SK Hynix posted a record quarterly profit, which confirms tight memory pricing.",
+      "reason": "Semis down with SOX off almost 2%; one report has Micron down nearly 4%. No company news.",
       "price_usd": null,
       "updated": "2026-10-29"
     },
     "NFLX": {
       "take": "hold",
-      "reason": "No material new news found this window.",
+      "reason": "No company news found today; no intraday move confirmed.",
       "price_usd": null,
       "updated": "2026-10-29"
     },
     "NVDA": {
       "take": "hold",
-      "reason": "Down about 1% on Oct 28. Alphabet's Cloud up 103% and unchanged hyperscaler capex plans support demand, though investors are now questioning how the spend is funded.",
-      "price_usd": null,
+      "reason": "Slightly lower as SOX fell almost 2% on AI-capex jitters after Alphabet. No company news.",
+      "price_usd": 213.62,
       "updated": "2026-10-29"
     },
     "RKT": {
-      "take": "watch",
-      "reason": "Mortgage rates are near a two-year high and MBA applications have fallen seven weeks in a row. The Fed held and signalled no relief, with a December hike expected.",
+      "take": "hold",
+      "reason": "Reports Q3 after today's close; results not out at time of check.",
       "price_usd": null,
       "updated": "2026-10-29"
     },
     "TSM": {
       "take": "hold",
-      "reason": "Up about 0.4% on Oct 28. Hyperscaler capex plans remain intact, and Alphabet guided to a significant increase in 2027.",
+      "reason": "Semis down almost 2% as a group; KLAC beat-and-raise guided 2027 WFE above $200B, supportive for foundry spend.",
       "price_usd": null,
       "updated": "2026-10-29"
     },
     "STRIPE": {
       "take": "hold",
-      "reason": "No new valuation reported this window. The OpenRouter deal (reported at about $7.5B) is still pending.",
+      "reason": "No new valuation or company news found.",
       "price_usd": null,
       "updated": "2026-10-29",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "OpenAI cut its funding-round target to $1.25T pre-money from $1.4T after investor pushback, with commitments due Oct 30. Not yet closed, so the last mark is still $852B (TechCrunch).",
+      "reason": "No report found on the round commitments due Oct 30; last closed mark remains $852B from March.",
       "price_usd": null,
       "updated": "2026-10-29",
       "mark_multiple": 5.43
     }
   },
   "headlines": [
-    "Alphabet Cloud grew 103%, but an investment loss and negative free cash flow sent it down about 10% after hours.",
-    "Fed held at 3.75-4% on a 10-2 vote, two wanting a hike; 10-yr back at 5.05%.",
-    "Memory rallied on SK hynix's record quarter: Micron up 5.9%.",
-    "Enphase fell 16% on a weak Q4 guide; take moved to watch.",
-    "GE Vernova orders up 96% to about $29B; buyback doubled to $20B.",
+    "Alphabet down about 13% intraday on the free cash flow miss, its worst day since the 2004 IPO.",
+    "Marvell down about 11% on reports it is in advanced talks to buy Lumentum; take moved to watch.",
+    "Samsung says 2027 HBM is sold out at agreed prices; chip operating profit KRW 106.5T.",
+    "US Q3 GDP grew 3.4% annualised; September PCE inflation 3.6% and rising.",
+    "Nasdaq down about 1.7% midday, chips almost 2%; 10-yr eased to 4.98%.",
     "Next, AEDT: Amazon, Axos, Rocket results ~7am Fri."
   ]
 }

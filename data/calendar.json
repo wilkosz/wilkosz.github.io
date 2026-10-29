@@ -96,10 +96,10 @@
       "date": "2026-10-29",
       "time": "Results and call 10:00 KST Thu (12:00 AEDT Thu Oct 29; 21:00 ET Wed Oct 28)",
       "ticker": "005930",
-      "title": "Samsung Electronics full Q3 2026 results and call",
+      "title": "Samsung Q3: op profit KRW 107.4T confirmed, chips KRW 106.5T; net profit missed",
       "type": "earnings",
-      "why": "Detail behind the Oct 8 preliminary miss: memory margins and HBM4 progress, the day after SK hynix. Memory read for MU.",
-      "link": "https://www.investegate.co.uk/announcement/rns/samsung-electronics-co-ltd-att---smsd/notice-of-3q-2026-earnings-release-schedule/9812151"
+      "why": "Chip revenue KRW 147.1T; devices swung to a KRW 0.8T loss on component costs. Management says 2027 HBM supply is sold out at agreed prices. Shares slid on the net miss.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/samsung-posts-record-quarterly-profit-014019876.html"
     },
     {
       "key": "2026-10-29-byd-q3",
@@ -146,10 +146,10 @@
       "date": "2026-10-29",
       "time": "Decision 14:15 CET, press conference 14:45 CET (09:15 / 09:45 ET; 00:15 / 00:45 AEDT Fri Oct 30)",
       "ticker": "ECB",
-      "title": "ECB monetary policy decision and press conference",
+      "title": "ECB held deposit rate at 2.50%; Lagarde to leave Feb 7, 2027",
       "type": "central_bank",
-      "why": "Deposit rate 2.50% after a September hike; markets priced a live chance of another 25bp. Times from Admiral Markets; ECB calendar gives dates only.",
-      "link": "https://admiralmarkets.com/analytics/traders-blog/ecb-meeting-october-2026"
+      "why": "Euro-area inflation 3.8% on energy; statement flags energy risk. Markets lean to a December hike.",
+      "link": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html"
     },
     {
       "key": "2026-10-29-intc-q3",
@@ -166,20 +166,20 @@
       "date": "2026-10-29",
       "time": "08:30 ET Thu (23:30 AEDT Thu Oct 29)",
       "ticker": "MACRO",
-      "title": "US Q3 GDP, advance estimate (BEA)",
+      "title": "US Q3 GDP advance: +3.4% annualised (Q2 2.2%)",
       "type": "macro",
-      "why": "Lands the day after the FOMC decision; first full read on Q3 growth with energy prices up 20% y/y.",
-      "link": "https://www.bea.gov/news/schedule"
+      "why": "Stronger growth plus hotter inflation keeps the Fed's December hike debate alive.",
+      "link": "https://www.stocktitan.net/articles/stock-market-today-live-october-29-2026"
     },
     {
       "key": "2026-10-29-us-pce-sept",
       "date": "2026-10-29",
       "time": "08:30 ET Thu (23:30 AEDT Thu Oct 29), same slot as GDP",
       "ticker": "MACRO",
-      "title": "US September personal income and outlays, PCE inflation (BEA)",
+      "title": "US September PCE: prices +3.6% y/y, pace quickened",
       "type": "macro",
-      "why": "The Fed's preferred inflation gauge; after a 0.3% core CPI, a hot core PCE would back a December hike.",
-      "link": "https://www.bea.gov/news/schedule"
+      "why": "The Fed's preferred gauge moved the wrong way; core figure not verified here.",
+      "link": "https://www.stocktitan.net/articles/stock-market-today-live-october-29-2026"
     },
     {
       "key": "2026-10-29-pjm-backstop-filing",
@@ -430,6 +430,16 @@
       "type": "earnings",
       "why": "First quarter since the Sea Cloud launch and two downgrades; watch Shopee margins and any cloud capex figure.",
       "link": "https://www.financialcontent.com/article/bizwire-2026-10-27-sea-limited-to-report-third-quarter-2026-results"
+    },
+    {
+      "key": "2026-11-12-figr-q3",
+      "date": "2026-11-12",
+      "time": "Before US open Thu; call 08:30 ET (00:30 AEDT Fri Nov 13)",
+      "ticker": "FIGR",
+      "title": "Figure Technology Solutions Q3 2026 results and call",
+      "type": "earnings",
+      "why": "Holding. Date set by the company's Oct 22 release; one aggregator wrongly lists after close.",
+      "link": "https://finviz.com/news/406948/figure-technology-solutions-announces-date-for-third-quarter-2026-results"
     },
     {
       "key": "2026-11-13-aapl-homeview",
