@@ -1,13 +1,12 @@
 {
-  "as_of": "2026-10-27T13:41",
-  "summary": "Facebook was back this run and nearly everything on it is still listed at the same price. The one sale was the $22,000 off-grid container home at Cootamundra. Loader tractors in band are still at clearing sales: the Kioti and the relisted Deutz M600 both close 2 Nov. New private loader tractors on Facebook this week were either over 4,500 hours or under 90hp.",
+  "as_of": "2026-10-29T04:30",
+  "summary": "Quiet week. Prices are mostly holding; the Coleambally fuel cart dropped $180 and one Cobram container cabin went up $1,010. Two AuctionsPlus tractor lots close today with no bids showing.",
   "headlines": [
-    "New: 2010 container home, bunk room, kitchenette and lounge, toilet and shower, $19,000, Young NSW, 250km.",
-    "Sold: the $22,000 off-grid container home at Cootamundra.",
-    "Kioti PX1002 with loader, 1,200 hours: bidding opens 29 Oct, closes 2 Nov. No bids yet.",
-    "Deutz M600 relisted with $71,000 standing from the pass-in; also closes 2 Nov.",
-    "Barellan sale 5-9 Nov adds a Jarrett 3PL single-tyne ripper beside the 1000 L fuel cart. One trip, 110km.",
-    "Tractors on Facebook this week missed: Case JX1100U with loader at 5,336 hours, Kubota M8540 at 85hp."
+    "New: 2021 MF 1204 cab with loader, 120hp, 1,278 hours, $71,500 inc GST; town not stated.",
+    "Kioti PX1002 (1,200 hours) and Deutz M600 AuctionsPlus lots close today 4pm AEDT, no bids shown.",
+    "Coleambally 1000 L fuel cart down to $1,800 from $1,980.",
+    "Claas Celtis 436 tractor sold.",
+    "New: Daken single-tine ripper, 800 mm depth, $995 plus freight from QLD."
   ],
   "finds": [
     {
@@ -33,7 +32,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-02",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "photo": "img/finds/fb-1529309308826340.jpg"
     },
     {
@@ -58,7 +57,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-08",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "photo": "img/finds/fb-1166415099041888.jpg"
     },
     {
@@ -83,7 +82,7 @@
       "why": "Undamaged MF single tine at $350 firm, but no hp or depth stated; unchanged after 16 weeks.",
       "status": "live",
       "first_seen": "2026-10-10",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "photo": "img/finds/fb-1794651221505734.jpg"
     },
     {
@@ -107,8 +106,34 @@
       "why": "A proper single-tyne build from a known Australian maker at under half the new price, still $600; no hp rating and about 380 km away.",
       "status": "live",
       "first_seen": "2026-10-14",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "photo": "img/finds/fb-1376645941299287.jpg"
+    },
+    {
+      "key": "tradefarm-855857",
+      "want": "deep-ripper",
+      "title": "Daken 86000DC single-tine ripper, up to 100hp (new)",
+      "price_aud": 995,
+      "price_note": "inc GST, freight extra",
+      "location": "Coopers Plains, QLD (ships)",
+      "distance_km": null,
+      "detail": [
+        "up to 100hp, Cat 1/2",
+        "150 x 50 mm leg",
+        "800 mm max depth",
+        "reversible point",
+        "no shear bolt listed"
+      ],
+      "source": "Trade Farm Machinery",
+      "url": "https://farm-supplies-machinery-equipment.tradefarmmachinery.com.au/detail/daken-single-tine-ripper-up-to-100hp-galvanized--86000dc-855857",
+      "verdict": "decent",
+      "why": "800 mm rip for $995, deepest of the new units, but rated only to 100hp and freight is extra.",
+      "status": "live",
+      "ends": null,
+      "first_seen": "2026-10-29",
+      "updated": "2026-10-29",
+      "photo": "img/finds/tradefarm-855857.jpg",
+      "photo_url": "https://assets.primecreative.com.au/imagegen/max/cr/93/70/s3/digital-cougar-assets/momoads/2021/08/10/091255/60hp-ripper.JPG"
     },
     {
       "key": "pipeliner-495937",
@@ -136,31 +161,6 @@
       "photo_url": "https://assets.primecreative.com.au/imagegen/p/1280/960/s3/digital-cougar-assets/momoads/2019/04/30/115536/5191236_FA106_1.jpg"
     },
     {
-      "key": "hayes-extra-heavy-duty-single-tine-tractor-ripper-pipelayer",
-      "want": "deep-ripper",
-      "title": "Hayes Extra Heavy Duty single-tine ripper with pipelayer (new)",
-      "price_aud": 1290,
-      "price_note": "Inc GST; freight available Australia-wide",
-      "location": "Pakenham, VIC (ships)",
-      "distance_km": null,
-      "detail": [
-        "150 x 50 mm solid shank",
-        "rips about 650 mm (900 mm max)",
-        "90-120 hp for hard, dry ground",
-        "pipelayer included"
-      ],
-      "source": "Hayes Products",
-      "url": "https://hayesproducts.com.au/product/extra-heavy-duty-single-tine-tractor-ripper-pipelayer/",
-      "verdict": "decent",
-      "why": "Rated 90-120 hp in hard ground with a pipelayer, but no breakaway mentioned and freight is extra.",
-      "status": "live",
-      "ends": null,
-      "first_seen": "2026-09-30",
-      "updated": "2026-10-27",
-      "photo": "img/finds/hayes-extra-heavy-duty-single-tine-tractor-ripper-pipelayer.jpg",
-      "photo_url": "https://hayesproducts.com.au/wp-content/uploads/2019/05/Extra-Heavy-Duty.jpg"
-    },
-    {
       "key": "fb-2603503066789216",
       "want": "diesel-storage",
       "title": "About 1000 L steel diesel tank on raised stand, gravity feed",
@@ -180,7 +180,7 @@
       "why": "The tank-and-stand option for $500: gravity feeds a tractor with no pump, but it's rusty, so check inside for scale and leaks.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "photo": "img/finds/fb-2603503066789216.jpg"
     },
     {
@@ -204,7 +204,7 @@
       "why": "1000 L towable cart with a 12V pump, 30km away, at under half the price of the Coleambally cart; listed in June, so ring to check it's still there.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "photo": "img/finds/farmtender-131044.jpg",
       "photo_url": "https://media.farmtender.com.au/listings/6a1e4a4435776/large/f868ee7c47b91b576f64d7284c0e5140.jpg"
     },
@@ -212,8 +212,8 @@
       "key": "fb-913292798511535",
       "want": "diesel-storage",
       "title": "1000 L fuel cart with electric pump and toolbox",
-      "price_aud": 1980,
-      "price_note": "$1,800 + GST",
+      "price_aud": 1800,
+      "price_note": "down from $1,980",
       "location": "Coleambally, NSW",
       "distance_km": 40,
       "detail": [
@@ -229,7 +229,7 @@
       "why": "Tidy tandem 1000 L cart with pump, 40km away; listed 9 weeks, so there may be room on price.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "photo": "img/finds/fb-913292798511535.jpg"
     },
     {
@@ -251,9 +251,9 @@
       "verdict": "strong",
       "why": "Local 1000 L cart with a pump at a clearing sale, likely to go under the $400-$1,980 seen for similar gear.",
       "status": "live",
-      "ends": "2026-11-09",
+      "ends": "2026-11-05",
       "first_seen": "2026-10-25",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "photo": "img/finds/auctionsplus-129303-1464487.jpg",
       "photo_url": "https://auctionsplusblob.blob.core.windows.net/apmediaprod/Photos/1639280200847772424_b125f2cc-6df1-4054-9762-9647e988e152.webp"
     },
@@ -276,7 +276,7 @@
       "why": "Cheapest working diesel tank found, in use until last month, but rusty, bare and 190km away.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "photo": "img/finds/fb-1680015046874285.jpg"
     },
     {
@@ -299,7 +299,7 @@
       "why": "Clean-looking 1000 L tank 40km away, but bare: budget for a pump or a stand.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "photo": "img/finds/fb-1663698828091004.jpg"
     },
     {
@@ -351,7 +351,7 @@
       "why": "Closest used 28-plate, with the bearing work done. Measure the width and check plate wear in person.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "ends": null,
       "photo": "img/finds/fb-1096043223368086.jpg"
     },
@@ -380,7 +380,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "photo": "img/finds/fb-1054966007434070.jpg"
     },
     {
@@ -404,7 +404,7 @@
       "why": "Brand new for the price of a used set, but it is a light Chinese build rated to 100hp and needs assembling.",
       "status": "live",
       "first_seen": "2026-10-12",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "photo": "img/finds/fb-1576107450589526.jpg"
     },
     {
@@ -430,7 +430,7 @@
       "why": "A proper heavy Brazilian 28-plate at a third of new, but it sits at the top of the hp range and needs about $3,800 in plates to bite like new.",
       "status": "live",
       "first_seen": "2026-10-13",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "photo": "img/finds/fb-1730861284788002.jpg"
     },
     {
@@ -454,7 +454,7 @@
       "why": "A hardly-used 28-plate for $9,000 about 200 km away, but the listing is three lines long: get the width and hp before driving.",
       "status": "live",
       "first_seen": "2026-10-14",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "photo": "img/finds/fb-1005183285292089.jpg"
     },
     {
@@ -477,7 +477,7 @@
       "why": "New Australian-made with a stated 3.2 m cut inside the width limit, but about three times the price of the used discs on the list.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "photo": "img/finds/machines4u-298124.jpg",
       "photo_url": "https://media.machines4u.com.au/machinery/24/298124/Big-Country-Ag-28-Plate-Offset-Disc_65654145.h.jpg"
     },
@@ -531,7 +531,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "photo": "img/finds/fb-1117657974131225.jpg"
     },
     {
@@ -565,7 +565,7 @@
       "key": "fb-1729183591520678",
       "want": "portable-home",
       "title": "New expanding container cabin, 2 bed, bathroom, kitchen",
-      "price_aud": 22990,
+      "price_aud": 24000,
       "location": "Cobram, VIC",
       "distance_km": 180,
       "detail": [
@@ -584,8 +584,8 @@
       "why": "Premium model from the same Cobram dealer with the kitchen fitted; it clears every must and every prefer at 180km.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-10-27",
-      "price_note": "plus GST if applicable",
+      "updated": "2026-10-29",
+      "price_note": "up from $22,990",
       "ends": null,
       "photo": "img/finds/fb-1729183591520678.jpg"
     },
@@ -658,7 +658,7 @@
       "why": "Same box as the $25,850 2-bed model for $7.7k less, but no bedroom wall or kitchen is shown, so confirm the layout.",
       "status": "live",
       "first_seen": "2026-10-25",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "photo": "img/finds/machines4u-1286001.jpg",
       "photo_url": "https://media.machines4u.com.au/machinery/1/1286001/Expandable-Container-House-with-Ensuite_82793567.h.jpg"
     },
@@ -684,7 +684,7 @@
       "why": "Clears the bathroom and two-room bar for $19k inside 250km, but it is homemade and the listing is thin, so inspect it.",
       "status": "live",
       "first_seen": "2026-10-27",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "photo": "img/finds/fb-4498847773713057.jpg"
     },
     {
@@ -707,7 +707,7 @@
       "why": "Cheapest new Euro-hitch loader rake found at $1,890, 2.1m wide to sit inside the P5130 loader frame.",
       "status": "live",
       "first_seen": "2026-10-18",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "photo": "img/finds/fb-1636995964726865.jpg"
     },
     {
@@ -730,7 +730,7 @@
       "why": "Local maker 150km away, 2.4 m with the heaviest tines on the list and Euro hitch standard.",
       "status": "live",
       "first_seen": "2026-10-18",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "photo": "img/finds/m4u-956441.jpg",
       "photo_url": "https://media.machines4u.com.au/machinery/41/956441/Berrigan-Stick-rake-2400-HD-MADE-TOUGH-IN-AUSTRALIA_62086332.h.jpg"
     },
@@ -754,7 +754,7 @@
       "why": "Bisalloy tines and a Euro option, but no width or hp rating, and the model name hints at a skid-steer size.",
       "status": "live",
       "first_seen": "2026-10-18",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "photo": "img/finds/farmtender-130183.jpg",
       "photo_url": "https://media.farmtender.com.au/listings/69e97353a3003/large/c724b4508e5c7fac073aaeb8d9d5fcc7.jpeg"
     },
@@ -779,7 +779,7 @@
       "why": "Known brand at the right width, but posted from Melbourne with freight extra, built to order, and lighter tines than the BEH rakes.",
       "status": "live",
       "first_seen": "2026-10-18",
-      "updated": "2026-10-26",
+      "updated": "2026-10-29",
       "photo": "img/finds/earthmovingwarehouse-digga-stick-rake-euro.jpg",
       "photo_url": "https://www.earthmovingwarehouse.com.au/cdn/shop/products/Digga-Stick-Rake-Tractor.jpg?v=1641450859"
     },
@@ -803,7 +803,7 @@
       "why": "Same heavy local build with tighter tine spacing; ask whether the wings are actually included.",
       "status": "live",
       "first_seen": "2026-10-18",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "photo": "img/finds/m4u-946957.jpg",
       "photo_url": "https://media.machines4u.com.au/machinery/57/946957/BEH-Stick-rake-2400-WITH-WINGS-MADE-TOUGH-IN-AUSTRALIA_61902648.h.jpg"
     },
@@ -830,7 +830,7 @@
       "why": "Still the best value on the list: a 2022 cab tractor with a 4-in-1 loader at 251 hrs, 190 km away. It is $18,000 under the ceiling and has sat 10 weeks, so there is room to offer.",
       "status": "live",
       "first_seen": "2026-10-14",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "photo": "img/finds/fb-1027921470152750.jpg"
     },
     {
@@ -854,9 +854,9 @@
       "verdict": "strong",
       "why": "Low hours, factory loader, cab and 100hp from a listed maker, with a slasher thrown in; should land inside the $80k ceiling.",
       "status": "live",
-      "ends": "2026-11-02",
+      "ends": "2026-10-29",
       "first_seen": "2026-10-26",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "photo": "img/finds/auctionsplus-129203-1470696.jpg",
       "photo_url": "https://auctionsplusblob.blob.core.windows.net/apmediaprod/Photos/1639286078176258395_ce0ec826-317f-48a0-91cf-24b04e208112.webp"
     },
@@ -881,9 +881,9 @@
       "url": "https://www.facebook.com/marketplace/item/4587767698160637/",
       "verdict": "decent",
       "why": "Cheapest cab loader tractor on the list at $40,000 with 3,404 hrs and fresh 2025 repairs; confirm hp and why it was split.",
-      "status": "live",
+      "status": "sold",
       "first_seen": "2026-10-18",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "photo": "img/finds/fb-4587767698160637.jpg"
     },
     {
@@ -906,11 +906,37 @@
       "verdict": "decent",
       "why": "Mid-hours 2016 cab tractor with a loader, in range; Deutz-Fahr isn't on the named list, there's no service history and the hp isn't on the listing.",
       "status": "live",
-      "ends": "2026-11-02",
+      "ends": "2026-10-29",
       "first_seen": "2026-10-22",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "photo": "img/finds/auctionsplus-129202-1468742.jpg",
       "photo_url": "https://auctionsplusblob.blob.core.windows.net/apmediaprod/Photos/1639281224905367357_a14805ef-ff7a-453c-b4f9-a9d69239bfce.webp"
+    },
+    {
+      "key": "machines4u-1280220",
+      "want": "tractor",
+      "title": "2021 Massey Ferguson 1204 cab with loader",
+      "price_aud": 71500,
+      "price_note": "inc GST ($65,000 ex)",
+      "location": "NSW (town not stated)",
+      "distance_km": null,
+      "detail": [
+        "1,278 hours",
+        "120hp",
+        "front-end loader",
+        "cab with air con",
+        "AdBlue not stated"
+      ],
+      "source": "Machines4U",
+      "url": "https://www.machines4u.com.au/view/advert/MASSEY-FERGUSON-1204-TRACTOR-AVAILABLE-FOR-SALE/1280220/",
+      "verdict": "decent",
+      "why": "Clears every must with a cab, but no town given so distance is unknown.",
+      "status": "live",
+      "ends": null,
+      "first_seen": "2026-10-29",
+      "updated": "2026-10-29",
+      "photo": "img/finds/machines4u-1280220.jpg",
+      "photo_url": "https://media.machines4u.com.au/machinery/20/1280220/MASSEY-FERGUSON-1204-TRACTOR-AVAILABLE-FOR-SALE_82531092.h.jpg"
     },
     {
       "key": "fb-1336993044818018",
@@ -934,7 +960,7 @@
       "why": "Clears every must at 92hp and 1,375 hrs with a cab and a 4-in-1 loader, and it is $7,400 under the ceiling. It is 410 km away and has sat for 10 weeks, so there is room to offer.",
       "status": "live",
       "first_seen": "2026-10-15",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "photo": "img/finds/fb-1336993044818018.jpg"
     },
     {
@@ -959,9 +985,9 @@
       "verdict": "decent",
       "why": "One owner, serviced and low hours, so it clears every must on paper, but it sits at the 140hp top of the band and may sell above $80k.",
       "status": "live",
-      "ends": "2026-11-16",
+      "ends": "2026-11-12",
       "first_seen": "2026-10-25",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "photo": "img/finds/auctionsplus-129297-1470171.jpg",
       "photo_url": "https://auctionsplusblob.blob.core.windows.net/apmediaprod/Photos/1639285652916943282_86d8b40a-f56b-4e31-84d1-42e0709cd749.webp"
     }
