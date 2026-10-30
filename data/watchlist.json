@@ -21,13 +21,13 @@
     "sector": "AI",
     "status": "accumulate",
     "conviction": "medium",
-    "thesis": "Broadcom supplies custom AI accelerators (Google, Meta, OpenAI, Anthropic) plus Ethernet networking and VMware. On Oct 26 BofA, Citi, Morgan Stanley and Blackstone lined up $63B for a vehicle that buys Broadcom chips and networking and leases them to Anthropic, deliveries from 2027. DA Davidson upgraded to Buy ($400). AVGO was $341.90 (+3.9%) early Tuesday.",
-    "risks": "Broadcom gives residual-value support to the Anthropic lenders (on an earlier $35B deal the backstop was up to $29B), so it carries equipment-value risk; Moody's warns risk rises if more such deals follow quickly. It also weighed buying Meta stock.",
-    "price_usd": 341.9,
-    "catalyst": "Alphabet and Microsoft capex comments Oct 28-29 US (Oct 29-30 AEDT); Q4 FY26 results around Dec 10 (not yet confirmed).",
-    "source": "https://www.investing.com/news/stock-market-news/wall-street-banks-blackstone-line-up-63-billion-to-finance-broadcom-chips-for-anthropic-4973662",
+    "thesis": "Broadcom supplies custom AI accelerators (Google, Meta, OpenAI, Anthropic) plus Ethernet networking and VMware. On Oct 26 banks and Blackstone lined up $63B for a vehicle that buys Broadcom gear and leases it to Anthropic, deliveries from 2027. No company news since then. It fell about 3.7% premarket and nearly 5% in morning trade on Fri Oct 30 in the semis sell-off triggered by Intel's guide. Amazon kept 2026 capex at about $220B and said 2027 will be 'meaningfully more', so custom-silicon demand is intact.",
+    "risks": "Broadcom gives residual-value support to the Anthropic lenders, so it carries equipment-value risk; the market is now punishing capex that runs ahead of cash flow (Alphabet -12.6%, Amazon trailing FCF about -$42B), which could hit the whole AI-chip group regardless of orders.",
+    "price_usd": null,
+    "catalyst": "Q4 FY26 results around Dec 10 (not yet confirmed); AMD Nov 3 and NVDA later in November as sector reads.",
+    "source": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
     "added": "2026-08-24",
-    "updated": "2026-10-27"
+    "updated": "2026-10-30"
   },
   {
     "ticker": "CLS",
@@ -186,13 +186,13 @@
     "sector": "Machinery",
     "status": "buy",
     "conviction": "high",
-    "thesis": "Keyence sells machine-vision, sensors and measurement gear direct to factories with industry-leading margins and no debt. It closed Oct 27 at JPY 79,080 (+2.3%, about US$502 at 157.4), recovering the Oct 26 dip, two days before fiscal Q2. Lam's record quarter and supply-constrained guide point to continued fab spending, a core end market.",
-    "risks": "Orders follow the factory-capex cycle within a quarter, Q1 EPS slightly missed, and a stronger yen (BOJ meets Oct 29-30) cuts reported overseas revenue.",
+    "thesis": "Keyence sells machine-vision, sensors and measurement gear direct to factories with industry-leading margins and no debt. First-half results (Oct 29): sales JPY 735.4B (+34.9%), operating profit JPY 408.3B (+50.0%), operating margin 55.5% (from 49.9%); Q2 operating profit grew about 55%, faster than Q1. Interim dividend raised JPY 50 to JPY 325, and a 5-for-1 stock split takes effect Nov 21. Growth came mainly from semiconductor and AI equipment demand in Asia.",
+    "risks": "Orders follow the factory-capex cycle and are now heavily tied to AI/chip capex, which the market is questioning; the BOJ signalled a December hike, and a stronger yen cuts reported overseas revenue. The Nikkei fell 2.1% on Oct 30 on AI-spending worries.",
     "price_usd": 502.29,
-    "catalyst": "Fiscal Q2 results Thu Oct 29 after Tokyo close (time TBC); BOJ decision Fri Oct 30.",
-    "source": "https://stockanalysis.com/quote/tyo/6861/",
+    "catalyst": "5-for-1 stock split effective Nov 21; BOJ December meeting; China October PMI Oct 31.",
+    "source": "https://filingreader.com/news-wire/tokyo/2026-10-29/keyence-reports-strong-first-half-growth-and-stock-split",
     "added": "2026-08-24",
-    "updated": "2026-10-27"
+    "updated": "2026-10-30"
   },
   {
     "ticker": "ASML",

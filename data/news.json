@@ -1,5 +1,125 @@
 [
   {
+    "date": "2026-10-30",
+    "ticker": "MARKET",
+    "headline": "Nasdaq down over 3% as AI capex fears spread",
+    "summary": "Amazon and Alphabet misses, Intel's weak guide, oil above $100 and Fed speakers floating a December hike pushed the Nasdaq down 3%+ and the VIX up 35%. Alphabet and Meta are now 20%+ below their highs.",
+    "source": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-131609630.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-30",
+    "ticker": "OPENAI",
+    "headline": "OpenAI $30B round at $1.25T still open",
+    "summary": "OpenAI cut its target to $1.25T pre-money from $1.4T, with UAE investors and Coatue leading. Commitments were reportedly due Oct 30 and no close has been announced.",
+    "source": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-30",
+    "ticker": "INTC",
+    "headline": "Intel falls about 30% on weak Q4 guide, dragging chips",
+    "summary": "Q4 revenue guide $15-16B vs $17.1B expected and gross margin 38%; AMD near -10%, Broadcom near -5%, Micron -4.4% in morning trade.",
+    "source": "https://www.forbes.com/sites/fionariley/2026/10/30/intel-sinks-29-on-earnings-as-ai-spending-fears-worsen-tech-selloff/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-30",
+    "ticker": "BOJ",
+    "headline": "BOJ holds at 1.25%, flags December hike",
+    "summary": "8-1 vote; underlying inflation declared at 2% target; Nikkei -2.1%.",
+    "source": "https://cnbc.com/2026/10/30/boj-inflation-target-rates.html",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-30",
+    "ticker": "MACRO",
+    "headline": "Oil up about 2% after Hormuz tanker attack; 10-yr eases to about 4.93%",
+    "summary": "Brent about $113-117 depending on source; Treasuries rallied on the tech sell-off.",
+    "source": "https://www.zerohedge.com/markets/futures-slide-ai-reckoning-claims-amazon-intel-oil-jumps-hormuz-tanker-hits",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-29",
+    "ticker": "AMZN",
+    "headline": "Amazon misses on Q3 EPS and revenue; AWS grows 39%",
+    "summary": "EPS was $1.89 vs $1.97 expected and revenue $201.9B vs $202.3B. AWS grew 39%, its fastest in nearly five years. 2026 capex is held near $220B and Q4 revenue is guided to $240-247B.",
+    "source": "https://www.geekwire.com/2026/aws-growth-hits-39-its-fastest-in-nearly-five-years-as-amazon-misses-on-earnings/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-29",
+    "ticker": "AXOS",
+    "headline": "Axos FQ1 EPS up 16%, NIM up 10bp",
+    "summary": "Net income was $129.6M and diluted EPS $2.25, both up about 15-16% YoY. Deposits rose $848M, including deposits acquired from Capital One, and management expects faster loan growth in the December quarter.",
+    "source": "https://www.sec.gov/Archives/edgar/data/0001299709/000129970926000081/pressrelease20260930axearn.htm",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-29",
+    "ticker": "RKT",
+    "headline": "Rocket beats Q3 estimates; Q4 guide lower",
+    "summary": "Revenue was $3.28B and GAAP net income $709M on $43.6B of originations. Q4 adjusted revenue is guided to $2.1-2.3B, below Q3's $2.57B.",
+    "source": "https://www.sec.gov/Archives/edgar/data/0001805284/000180528426000121/rkt-093020268xkex991earnin.htm",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-29",
+    "ticker": "GOOGL",
+    "headline": "Alphabet falls 12.6%, worst day in 20+ years",
+    "summary": "Q3 adjusted EPS missed consensus by 28% and fell 26% YoY. Search revenue of $63.4B missed the $64.9B estimate and free cash flow was -$9.1B.",
+    "source": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-oct-30-083100676.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-29",
+    "ticker": "MRVL",
+    "headline": "Marvell drops 13% on reported Lumentum talks",
+    "summary": "Bloomberg reported advanced talks for an all-stock deal worth about $83B, and an announcement could come next week. Neither company has confirmed it, and analysts flag dilution risk.",
+    "source": "https://www.streetinsider.com/Investing/Marvell+Technology+shares+drop+on+Lumentum+deal+concerns/27263536.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-29",
+    "ticker": "AMZN",
+    "headline": "Amazon: AWS +39%, backlog $578B, 2027 capex to rise further",
+    "summary": "EPS $1.89 missed $1.96; 2026 capex held near $220B; trailing FCF about -$42B. Shares -7% early Oct 30, about -2% by 2pm ET.",
+    "source": "https://www.aboutamazon.com/news/company-news/aws-growth-ai-demand-q3-2026-earnings",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-29",
+    "ticker": "AXOS",
+    "headline": "Axos EPS $2.25, up 16%; NIM 4.64%",
+    "summary": "Roughly in line; loan growth guide kept at low-to-mid teens for FY27.",
+    "source": "https://www.businesswire.com/news/home/20261029575204/en/Axos-Financial-Inc.-Reports-First-Quarter-Fiscal-Year-2027-Results",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-29",
+    "ticker": "RKT",
+    "headline": "Rocket Q3 adj. EBITDA $748M, best margin since 2021",
+    "summary": "GAAP profit $709M; management expects a tougher Q4 as refinancing shrinks.",
+    "source": "https://www.detroitnews.com/story/business/real-estate/2026/10/29/rocket-reports-higher-third-quarter-profit-revenue/92502301007/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-10-29",
+    "ticker": "6861",
+    "headline": "Keyence H1 operating profit +50%, 5-for-1 split",
+    "summary": "Margin 55.5%; dividend raised JPY 50; chip and AI equipment demand in Asia.",
+    "source": "https://filingreader.com/news-wire/tokyo/2026-10-29/keyence-reports-strong-first-half-growth-and-stock-split",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-29",
+    "ticker": "1211",
+    "headline": "BYD Q3 profit +28% but misses forecasts",
+    "summary": "CNY 10.02B vs about 11.1B expected; overseas sales doubled; inventory up 60%.",
+    "source": "https://finance.biggo.com/news/be7c945b-fdaf-491b-b23b-2dc2a4b9961c",
+    "impact": "negative"
+  },
+  {
     "date": "2026-10-29",
     "ticker": "GOOGL",
     "headline": "Alphabet falls 12-13%, biggest post-earnings drop on record",
@@ -518,125 +638,5 @@
     "summary": "Revenue EUR 4.97B, up 14% in constant currency; gross margin 33.0%; operating income EUR 672M; free cash flow EUR 735M. MAU 788M.",
     "source": "https://www.sec.gov/Archives/edgar/data/0001639920/000114036126040435/ef20084028_ex99-1.htm",
     "impact": "positive"
-  },
-  {
-    "date": "2026-10-22",
-    "ticker": "SPOT",
-    "headline": "Spotify shares up about 7-10% on the subscriber beat and Q4 guide",
-    "summary": "Both the subscriber and operating income guides for Q4 came in above analyst expectations, which outweighed revenue slightly below estimates.",
-    "source": "https://finance.yahoo.com/markets/stocks/articles/spotify-jumps-10-premium-subscriber-133733648.html",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-22",
-    "ticker": "BE",
-    "headline": "Bloom Q3 revenue +138% to $1.24B, 2026 guide raised to $4.4-4.6B; stock falls 11%",
-    "summary": "Record revenue and adjusted EPS of $0.94 beat; full-year guidance was raised for the third time. Shares fell 11.2% on Oct 23 to $193.30 on -$181M free cash flow from capacity capex and the AI selloff.",
-    "source": "https://www.fool.com/investing/2026/10/23/bloom-energy-stock-sinks-despite-record-revenue-and-a-stellar-outlook-is-it-time-to-buy/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-22",
-    "ticker": "ASML",
-    "headline": "SOX falls 6.7% after Lam flags supply limits; all 30 members down",
-    "summary": "Lam said supply constraints trimmed an estimated $300-400M from its Dec-quarter guide and could limit the industry into 2027. ASML fell 6.9%, Teradyne 10.6%, Astera 11.1%; Meta fell 7% on capex and $810B of commitments.",
-    "source": "https://www.techtimes.com/articles/329406/20261023/chip-stocks-lose-200-billion-equipment-makers-warning-counters-nvidias-ai-optimism.htm",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-22",
-    "ticker": "GEV",
-    "headline": "GE Vernova falls 10.6% with AI-power stocks after Meta results",
-    "summary": "No company news; the drop came with the AI selloff, with commentary citing valuation and wind losses. It closed Oct 23 at $815, about 31% below its June record, ahead of Q3 on Oct 28.",
-    "source": "https://stockanalysis.com/stocks/gev/history/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-21",
-    "ticker": "META",
-    "headline": "Meta Q3 beats on revenue but capex rises, free cash flow turns negative",
-    "summary": "Revenue rose 26% to $64.6B and the Q4 guide of $73-76B was in line or better, but 2026 capex is now $135-145B, Q3 free cash flow was -$2.1B and buybacks are paused. A non-voting Class C share, one per existing share, arrives Jan 2027.",
-    "source": "https://www.xtb.com/int/market-analysis/news-and-research/record-breaking-meta-though-with-a-cash-loss-investors-for-now-are-buying-zuckerberg-s-plan-anyway",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-21",
-    "ticker": "META",
-    "headline": "Meta Q3 revenue up 26% to $64.6B, Q4 guide $73-76B; shares up after hours",
-    "summary": "GAAP EPS was $3.83 after a $9.9B charge for the state attorneys general settlement ($7.40 excluding it). 2026 capex is now $135-145B (was $130-145B), with no 2027 figure given yet; shares rose 3-5% after hours.",
-    "source": "https://fortune.com/2026/10/21/meta-q3-earnings-mark-zuckerberg-capex-muse/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-21",
-    "ticker": "META",
-    "headline": "Meta to issue non-voting Class C shares as a one-for-one stock dividend",
-    "summary": "Effective January 2027, each Class A and B share gets one Class C share, which works like a two-for-one split with no change to voting control. Q3 capex of $34.9B exceeded operating cash flow, and Meta expects Reality Labs losses near $15B next year.",
-    "source": "https://www.sec.gov/Archives/edgar/data/0001326801/000162828026066700/meta-09302026xexhibit991.htm",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-21",
-    "ticker": "NVDA",
-    "headline": "Huang at GTC Berlin: every European company will become an AI company",
-    "summary": "Nvidia showed a factory-built DSX POD data center module on Vera Rubin that can be deployed in about two weeks, and said it has committed nearly $10B to Europe's tech ecosystem. Shares rose 2.5% on the day.",
-    "source": "https://investing.com/news/stock-market-news/nvidias-huang-hails-europes-ai-potential-flanked-by-robot-ducks-4963697",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-21",
-    "ticker": "MU",
-    "headline": "Micron signs labour deal with Taichung union; Taoyuan strike still planned",
-    "summary": "The Taichung union signed a collective agreement and cancelled the Oct 22 mediation. The Taoyuan union, which wants 15% of operating profit shared with staff, had not called off its one-day warning strike.",
-    "source": "https://www.tradingkey.com/analysis/stocks/us-stocks/262228767-micron-taichung-labor-agreement-taoyuan-strike-pending-mu-tradingkey",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-21",
-    "ticker": "GOOGL",
-    "headline": "Alphabet slips ahead of Oct 28 results; KeyBanc trims target",
-    "summary": "KeyBanc cut its target to $410 from $435 (still Overweight), and a London Google Cloud data center outage on Oct 20 disrupted UK banks. OpenAI models are coming to Google Cloud's Model Garden.",
-    "source": "https://www.investing.com/news/stock-market-news/why-is-alphabet-stock-sliding-today-93CH-4963511",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-21",
-    "ticker": "BABA",
-    "headline": "Alibaba falls about 4% as US-listed China tech sells off",
-    "summary": "No single trigger; coverage cites heavy AI capex weighing on free cash flow, weak Chinese consumer spending and chip export limits.",
-    "source": "https://www.tradingkey.com/news/market-movers/262229210-market-movers-baba-20261021",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-21",
-    "ticker": "TSLA",
-    "headline": "Tesla Q3: EPS and cash flow beat, revenue a hair light, stock flat to slightly up after hours",
-    "summary": "Adj. EPS $0.48 vs $0.44 expected, revenue $28.05B vs $28.13B, free cash flow +$1.53B vs an expected $4.9B outflow, and Q3 capex $4.7B. Full-year capex is guided above $25B for Optimus (now in production at Fremont), AI compute, Cybercab and Terafab; shares rose 3.4% in the session and about 0.5% after hours.",
-    "source": "https://news.jkn.co.kr/editions/english/post/1041029",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-21",
-    "ticker": "ANTHROPIC",
-    "headline": "Anthropic launches Claude Duet, an always-on agent, as a research preview",
-    "summary": "Claude Duet runs on its own cloud computer, handling email, calendar and app tasks in the background, and asks before sending, paying or deleting anything. It is rolling out by waitlist to US Pro and Max subscribers at no extra cost.",
-    "source": "https://9to5mac.com/2026/10/21/anthropic-takes-on-chatgpt-dots-and-meta-muse-with-claude-duet",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-21",
-    "ticker": "HOOD",
-    "headline": "Robinhood up about 4% after Rosenblatt starts coverage at Buy",
-    "summary": "Rosenblatt initiated at Buy with a $135 target and called it a \"generational growth story\", and a bitcoin rebound lifted crypto-linked names. Q3 results are due next week.",
-    "source": "https://stockstory.org/us/stocks/nasdaq/hood/news/why-up-down/robinhood-hood-stock-is-up-what-you-need-to-know-5",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-21",
-    "ticker": "1211",
-    "headline": "BYD falls about 3% as September China retail drops 29% and CATL disappoints",
-    "summary": "BYD's domestic passenger retail sales were 246,816 in September (down 28.9% y/y), though it still led with a 22.8% NEV share and overseas sales are booming. Q3 results are due Oct 29.",
-    "source": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/byd-s-domestic-retail-slump-tests-the-bull-case-as-catl-s-weak-quarter-weighs-on-hong-kong/70384413",
-    "impact": "negative"
   }
 ]

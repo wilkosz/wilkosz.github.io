@@ -1,96 +1,6 @@
 {
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "events": [
-    {
-      "key": "2026-10-28-aapl-pro-and-tell",
-      "date": "2026-10-28",
-      "time": "10:00 PT Wed (04:00 AEDT Thu Oct 29)",
-      "ticker": "AAPL",
-      "title": "Apple 'Pro and Tell' Mac event, Los Angeles",
-      "type": "product",
-      "why": "Love. Invites sent Oct 19. Expected (not confirmed): touchscreen OLED MacBook Pro, M6 MacBook Pro and iMac, OLED iPad mini. Likely videos and releases, not a keynote.",
-      "link": "https://www.cultofmac.com/?p=941400"
-    },
-    {
-      "key": "2026-10-28-fomc-decision",
-      "date": "2026-10-28",
-      "time": "14:00 ET statement, 14:30 ET press conference (05:00 / 05:30 AEDT Thu Oct 29)",
-      "ticker": "FED",
-      "title": "FOMC held at 3.75-4.00%, vote 10-2 (Cook, Hammack for a hike)",
-      "type": "central_bank",
-      "why": "Warsh: inflation too high but policy working, no December commitment. Next meeting Dec 8-9.",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/2026-press-fomc.htm"
-    },
-    {
-      "key": "2026-10-28-gev-q3",
-      "date": "2026-10-28",
-      "time": "07:30 ET (22:30 AEDT Wed)",
-      "ticker": "GEV",
-      "title": "GE Vernova Q3 2026 results and webcast",
-      "type": "earnings",
-      "why": "Confirmed on the IR events page (7:30-8:30am EDT). Q2 EPS missed; watch gas orders, wind losses and FY guide after JPMorgan's target cut.",
-      "link": "https://www.gevernova.com/investors/events/3rd-quarter-2026-earnings-webcast"
-    },
-    {
-      "key": "2026-10-28-googl-q3",
-      "date": "2026-10-28",
-      "time": "Call 13:30 PT / 16:30 ET (07:30 AEDT Thu Oct 29)",
-      "ticker": "GOOGL",
-      "title": "Alphabet Q3 2026: Cloud +103%, capex $51.4B, EPS miss",
-      "type": "earnings",
-      "why": "Holding. Cloud beat but EPS, revenue and ad lines missed; 2027 capex talk weighed on the stock after hours.",
-      "link": "https://www.stocktitan.net/articles/stock-market-today-live-october-28-2026"
-    },
-    {
-      "key": "2026-10-28-au-cpi",
-      "date": "2026-10-28",
-      "time": "11:30 AEDT Wed (20:30 ET Tue Oct 27)",
-      "ticker": "MACRO",
-      "title": "Australia CPI, September (ABS)",
-      "type": "macro",
-      "why": "On the ABS release calendar; key input for the RBA after the September hike to 4.60%.",
-      "link": "https://www.abs.gov.au/release-calendar/future-releases"
-    },
-    {
-      "key": "2026-10-28-msft-q1-fy27",
-      "date": "2026-10-28",
-      "time": "After US close; webcast 14:30 PT / 17:30 ET (08:30 AEDT Thu Oct 29)",
-      "ticker": "MSFT",
-      "title": "Microsoft FQ1 2027: Azure +48%, capex $45.2B, EPS $4.92 beat",
-      "type": "earnings",
-      "why": "Azure beat 44.8% consensus; shares rose after hours.",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-28-oct-fed-holds-rates-yield-curve-steepens-as-big-tech-earnings-diverge/"
-    },
-    {
-      "key": "2026-10-28-now-q3",
-      "date": "2026-10-28",
-      "time": "After US close; call 14:00 PT / 17:00 ET (08:00 AEDT Thu Oct 29)",
-      "ticker": "NOW",
-      "title": "ServiceNow Q3 2026 results and call",
-      "type": "earnings",
-      "why": "Confirmed by the company. Enterprise AI agent demand read the same evening as Alphabet and Microsoft; shares rose 6.2% Oct 15 in the rotation into software.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/servicenow-announce-third-quarter-2026-150000753.html"
-    },
-    {
-      "key": "2026-10-28-skhy-q3",
-      "date": "2026-10-28",
-      "time": "Call 09:00 KST Wed (11:00 AEDT Wed Oct 28; 20:00 ET Tue Oct 27)",
-      "ticker": "SKHY",
-      "title": "SK hynix Q3 2026 results, call and shareholder-return plan",
-      "type": "earnings",
-      "why": "HBM pricing and capex read for MU, NVDA and TSM; the company says a shareholder-return plan comes the same day, with press reports of a KRW 16T ($12B) special dividend.",
-      "link": "https://www.koreaherald.com/article/10914252"
-    },
-    {
-      "key": "2026-10-28-vrt-q3",
-      "date": "2026-10-28",
-      "time": "Before US open Wed; call 11:00 ET (02:00 AEDT Thu Oct 29)",
-      "ticker": "VRT",
-      "title": "Vertiv Q3 2026 results and call (confirmed Oct 14)",
-      "type": "earnings",
-      "why": "Guided Q3 revenue $3.65-3.85B, EPS $1.77-1.83. Data-center power and cooling read in the same week as the hyperscaler capex guides.",
-      "link": "https://finviz.com/news/402308/vertiv-announces-date-of-third-quarter-2026-earnings-release-and-conference-call"
-    },
     {
       "key": "2026-10-29-samsung-q3",
       "date": "2026-10-29",
@@ -104,42 +14,42 @@
     {
       "key": "2026-10-29-byd-q3",
       "date": "2026-10-29",
-      "time": "After Hong Kong close, time TBC (evening AEDT Thu)",
+      "time": "After Hong Kong close Thu",
       "ticker": "1211",
-      "title": "BYD Q3 2026 results",
+      "title": "BYD Q3 net profit CNY 10.02B (+28%), below forecasts",
       "type": "earnings",
-      "why": "Love. Date from Boerse Express (Oct 16); no HKEX board notice found. Consensus EPS CNY 1.30 vs 0.94; Q3 sales 1.32M NEVs, +18.8%.",
-      "link": "https://www.boerse-express.com/news/articles/byd-aktie-alles-auf-den-29-oktober-953597"
+      "why": "Love. Revenue +13.6% to CNY 221.5B; overseas shipments more than doubled; inventories +60% and receivables +53% since year end. Consensus was about CNY 11.1B.",
+      "link": "https://finance.biggo.com/news/be7c945b-fdaf-491b-b23b-2dc2a4b9961c"
     },
     {
       "key": "2026-10-29-keyence-q2",
       "date": "2026-10-29",
-      "time": "After Tokyo close, time TBC (about 17:30 AEDT Thu; 02:30 ET)",
+      "time": "After Tokyo close Thu",
       "ticker": "6861",
-      "title": "Keyence fiscal Q2 (half-year) results",
+      "title": "Keyence H1: operating profit +50%, margin 55.5%; 5-for-1 split Nov 21",
       "type": "earnings",
-      "why": "Date on Keyence's IR calendar, matching last year's Oct 29; factory-automation orders in China and the US.",
-      "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/keyence-stock-results-due-october-29-for-keyence-stock/70385427"
+      "why": "Sales JPY 735.4B (+34.9%); interim dividend raised to JPY 325. Chip and AI equipment demand in Asia drove it.",
+      "link": "https://filingreader.com/news-wire/tokyo/2026-10-29/keyence-reports-strong-first-half-growth-and-stock-split"
     },
     {
       "key": "2026-10-29-amzn-q3",
       "date": "2026-10-29",
-      "time": "After US close Thu; call 14:00 PT / 17:00 ET (08:00 AEDT Fri Oct 30)",
+      "time": "After US close Thu; call 17:00 ET (08:00 AEDT Fri Oct 30)",
       "ticker": "AMZN",
-      "title": "Amazon Q3 2026 results and call (confirmed Oct 15)",
+      "title": "Amazon Q3: AWS +39%, backlog $578B, EPS missed; 2027 capex 'meaningfully more'",
       "type": "earnings",
-      "why": "AWS growth and capex guide; last of the big four hyperscalers to report that week.",
-      "link": "https://finviz.com/news/403264/amazoncom-to-webcast-third-quarter-2026-financial-results-conference-call"
+      "why": "Sales +12% to $201.9B; EPS $1.89 vs $1.96. 2026 capex held at about $220B. Shares -7% early Oct 30, about -2% by 2pm ET.",
+      "link": "https://www.aboutamazon.com/news/company-news/aws-growth-ai-demand-q3-2026-earnings"
     },
     {
       "key": "2026-10-29-axos-q1-fy27",
       "date": "2026-10-29",
       "time": "After 16:00 ET; call 17:00 ET (08:00 AEDT Fri Oct 30)",
       "ticker": "AXOS",
-      "title": "Axos Financial fiscal Q1 2027 results and call",
+      "title": "Axos fiscal Q1 2027: EPS $2.25 (+16%), adj. $2.34, roughly in line",
       "type": "earnings",
-      "why": "Holding; company release confirms Oct 29 (one calendar wrongly shows Oct 30).",
-      "link": "https://earningswhispers.com/article/AX/2609297258"
+      "why": "Holding. Net interest margin 4.64% (+10bp q/q); loans $25.9B; still guides low-to-mid-teens loan growth for FY27. Revenue $395.1M slightly under estimates.",
+      "link": "https://www.businesswire.com/news/home/20261029575204/en/Axos-Financial-Inc.-Reports-First-Quarter-Fiscal-Year-2027-Results"
     },
     {
       "key": "2026-10-29-ecb-decision",
@@ -154,12 +64,12 @@
     {
       "key": "2026-10-29-intc-q3",
       "date": "2026-10-29",
-      "time": "Release after US close; call 14:00 PT / 17:00 ET (08:00 AEDT Fri Oct 30)",
+      "time": "Release after US close; call 17:00 ET (08:00 AEDT Fri Oct 30)",
       "ticker": "INTC",
-      "title": "Intel Q3 2026 results and call",
+      "title": "Intel Q4 guide $15-16B vs $17.1B expected; stock about -30% Oct 30",
       "type": "earnings",
-      "why": "Confirmed by Intel's Oct 6 release. Foundry and PC-CPU demand read for the semis, the day after the FOMC.",
-      "link": "https://www.intc.com/news-events/press-releases/detail/1782/intel-to-report-third-quarter-2026-financial-results"
+      "why": "Guide below Q3's $16.5B; gross margin 38% vs 44.1%; PC slowdown into H1 2027. Triggered the Oct 30 semis sell-off.",
+      "link": "https://www.forbes.com/sites/fionariley/2026/10/30/intel-sinks-29-on-earnings-as-ai-spending-fears-worsen-tech-selloff/"
     },
     {
       "key": "2026-10-29-us-gdp-q3-advance",
@@ -196,10 +106,10 @@
       "date": "2026-10-29",
       "time": "Release Thu Oct 29; call 16:30 ET (07:30 AEDT Fri Oct 30)",
       "ticker": "RKT",
-      "title": "Rocket Companies Q3 results",
+      "title": "Rocket Q3: adj. net income $419M, adj. EBITDA margin 29%; Q4 flagged harder",
       "type": "earnings",
-      "why": "Mortgage volumes with the 10-year back near 5%.",
-      "link": "https://www.tradingview.com/news/prnewswire:ef49c42aeccd5:0-rocket-companies-to-announce-third-quarter-2026-results-on-october-29-2026/"
+      "why": "GAAP net income $709M vs a loss a year ago; purchase share about 6.5%. CFO expects refinance market to shrink in Q4 as rates rose.",
+      "link": "https://www.detroitnews.com/story/business/real-estate/2026/10/29/rocket-reports-higher-third-quarter-profit-revenue/92502301007/"
     },
     {
       "key": "2026-10-30-aapl-homepod-mini-2",
@@ -214,22 +124,32 @@
     {
       "key": "2026-10-30-boj-decision",
       "date": "2026-10-30",
-      "time": "Meeting Oct 29-30; statement after the meeting ends Fri Oct 30, time TBC (usually Tokyo midday, early afternoon AEDT); Outlook Report Oct 30",
+      "time": "Statement Fri Oct 30 (Tokyo midday)",
       "ticker": "BOJ",
-      "title": "Bank of Japan policy decision and Outlook Report",
+      "title": "BOJ held at 1.25% (8-1); says underlying inflation at 2%, December hike in play",
       "type": "central_bank",
-      "why": "Yen near 158 per dollar; a BoJ move matters for Japanese chip and machinery names and for global yields.",
-      "link": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm"
+      "why": "Takata voted for 1.50%. ETF sales speed up from January to JPY 860B a year. Dollar slipped to about 157.3 yen; Nikkei -2.1%.",
+      "link": "https://cnbc.com/2026/10/30/boj-inflation-target-rates.html"
     },
     {
       "key": "2026-10-30-us-eci",
       "date": "2026-10-30",
       "time": "08:30 ET Fri (23:30 AEDT Fri Oct 30)",
       "ticker": "MACRO",
-      "title": "US Employment Cost Index, Q3 2026 (BLS)",
+      "title": "US Employment Cost Index Q3: +0.8% q/q",
       "type": "macro",
-      "why": "Wage-cost gauge the Fed watches; lands two days after the FOMC and a day after PCE, feeding the December hike debate.",
-      "link": "https://www.bls.gov/schedule/2026/10_sched_list.htm"
+      "why": "Wage-cost gauge for the Fed's December decision; year-on-year rate not checked.",
+      "link": "https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026"
+    },
+    {
+      "key": "2026-10-31-china-pmi-oct",
+      "date": "2026-10-31",
+      "time": "09:30 Beijing Sat (12:30 AEDT Sat Oct 31)",
+      "ticker": "MACRO",
+      "title": "China official PMIs, October (consensus manufacturing 50.0 vs 50.1)",
+      "type": "macro",
+      "why": "Factory demand read for Keyence and machinery names after September's return above 50.",
+      "link": "https://www.financecalendar.com/event/china-official-pmi-october-2026/"
     },
     {
       "key": "2026-11-02-aapl-q4",
@@ -412,6 +332,16 @@
       "link": "https://cryptobriefing.com/commodity-brokers-prepare-ai-compute-futures/"
     },
     {
+      "key": "2026-11-09-tsm-oct-revenue",
+      "date": "2026-11-09",
+      "time": "TBC (usually Taipei afternoon, evening AEDT)",
+      "ticker": "TSM",
+      "title": "TSMC October 2026 revenue (date from MarketScreener, not confirmed)",
+      "type": "other",
+      "why": "Holding. First monthly AI-foundry demand read after the hyperscaler capex prints and the Oct 30 chip sell-off.",
+      "link": "https://uk.marketscreener.com/quote/stock/TSMC-TAIWAN-SEMICONDUCTOR-6492349/calendar/"
+    },
+    {
       "key": "2026-11-10-us-cpi",
       "date": "2026-11-10",
       "time": "08:30 ET Tue (00:30 AEDT Wed Nov 11; US on standard time)",
@@ -450,6 +380,16 @@
       "type": "product",
       "why": "Apple's first new device category in years; early demand reads land in the holiday quarter. Not sold in the EU.",
       "link": "https://www.macobserver.com/news/homeview-homepod-mini-2-apple-tv-4k-release-dates/"
+    },
+    {
+      "key": "2026-11-21-keyence-split",
+      "date": "2026-11-21",
+      "time": "Effective date",
+      "ticker": "6861",
+      "title": "Keyence 5-for-1 stock split takes effect",
+      "type": "other",
+      "why": "Lowers the per-share price, widening the retail buyer base.",
+      "link": "https://finance.biggo.com/news/012a41f4-3217-4d62-8b2c-8a29c549d7c5"
     }
   ]
 }

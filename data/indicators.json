@@ -1,18 +1,18 @@
 {
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "explainer": "The single best AI-bubble bellwether is the rental price of an installed Nvidia GPU, measured in dollars per GPU-hour, and specifically the H100: it is the daily marginal clearing price for AI compute, it is published by independent indexes (Silicon Data's SDH100RT, SemiAnalysis's one-year contract index), and a CME futures contract on it is pending: the CFTC extended its review to November 9, 2026, so a forward curve is coming but not yet listed. Right now it is saying the opposite of discounting: the Silicon Data index sits at $2.75/hr (Sep 30), a new high, one-year contract rates rose about 40% from $1.70 to $2.35 between October 2025 and March 2026, spot has run at roughly twice contract, and a four-year-old chip is renting for more than it did a year ago while CoreWeave says it has contracted 2020-vintage GPUs out to 2029 at full price. Pair it with three things: neocloud credit spreads (CoreWeave's July loan cleared at SOFR+550 for a 10.44% yield with maintenance covenants, and its CDS implies roughly a coin-flip default probability), which is the financing leg and the one signal already flashing red; server DRAM and HBM contract-price momentum (+13-18% QoQ in 3Q26 after +93-98% in 1Q26, with 4Q26 guided to only +3-8%), because memory is the first physical input that will roll over; and hyperscaler backlog growth versus capex growth (Microsoft commercial RPO +84%, Oracle RPO +363%, roughly $2.4 trillion of committed cloud backlog against about $1 trillion of 2026 capex), because the bubble only deflates if the buyers stop signing. Over the next one to two quarters watch Nvidia's August 26 print for gross margin and customer concentration (three direct customers were already 54% of revenue), the shape of the CME H100/B200 curve if the CFTC clears it in November (a steep backwardation would be the first public forecast of discounting), whether 4Q26 memory contract talks and 2027 HBM4 pricing turn negative, and what ERCOT's December audit says about how much of Texas's 474 GW interconnection queue is phantom demand. The threshold that would flip the call is simple: the H100 index sustained below about $2.00/hr, or spot trading below the one-year contract rate, while Blackwell and Rubin volumes keep arriving; until then compute is being sold at a premium, not a discount, and the risk lives in who is borrowing to build it rather than in the price of the product.",
   "indicators": [
     {
       "key": "h100_rental",
       "name": "H100 rental price, $/GPU-hour (Silicon Data index; 1-yr contract and spot)",
-      "value": "Silicon Data SDH100RT $2.90/hr on Oct 28 (page shows +6.2% 7d; daily table Oct 21 $2.86 implies ~+1.4%), a new high, up 1c. H200 $3.47, A100 $1.56, MI300X $2.76. CME H100/B200 futures: CFTC review to Nov 9, no listing.",
+      "value": "Silicon Data SDH100RT $2.90/hr on Oct 30, flat since Oct 28 (Oct 24 $2.88). Page says +4.7% 7d, which matches the Oct 1 to Oct 30 change ($2.77 to $2.90), not the week. H200 $3.50, A100 $1.56, MI300X $2.76.",
       "trend": "up",
       "signal": "bullish",
-      "why": "Hopper rents set another high in a week when the chip index fell almost 7% and neocloud bonds slid further: rented compute is still bid, not discounted.",
-      "watch": "Bearish flip if SDH100RT prints below ~$2.00 for a month or spot drops under the 1-yr contract rate. Next: the CFTC decision on CME GPU futures by Nov 9, and whether hyperscaler capex guides Oct 28-29 hold demand up.",
-      "note": "Changed since Oct 26: headline up 1c to $2.90; H200 up 6c to $3.47; A100 and MI300X flat. The page's 7d figure does not match its own daily table. FAQ still stale at $2.53. Trend and signal held; the $2.00 line is 90c away.",
+      "why": "Rents held at the high while chip stocks sold off hard on capex worries: renters are still paying up for compute.",
+      "watch": "Bearish flip if SDH100RT prints below about $2.00 for a month or spot drops under the 1-yr contract rate. CFTC decision on CME GPU futures by Nov 9.",
+      "note": "Changed since Oct 29: H200 up 3c to $3.50; H100, A100 and MI300X flat. Headline 7d figure is mislabelled; FAQ still stale at $2.53.",
       "source": "https://www.silicondata.com/products/silicon-index/h100",
-      "updated": "2026-10-29"
+      "updated": "2026-10-30"
     },
     {
       "key": "b200_rental",
@@ -77,14 +77,14 @@
     {
       "key": "capex_vs_backlog",
       "name": "Capex vs backlog: hyperscaler spend, RPO, AI-lab commitments and buyer revenue quality",
-      "value": "Alphabet Q3 capex $51.4B (more than double a year ago), Google Cloud revenue $30.7B (+103%); EPS and revenue missed, shares down about 9-11% after hours Oct 28. Microsoft capex $45.2B, Azure +48% vs 44.8% expected; shares up about 4-5% after hours. Amazon reports Oct 29 US time.",
-      "trend": "flat",
+      "value": "Amazon Q3: cash capex about $75.9B, 2026 kept at about $220B, 2027 'meaningfully more' (no figure). AWS +39% to about $46B; AWS backlog $578B (from $496B). Trailing 12-month FCF about -$42B. EPS $1.89 vs $1.96 expected. Alphabet closed -12.6% Oct 29; Amazon about -2% Oct 30 after -7% early.",
+      "trend": "up",
       "signal": "neutral",
-      "why": "Buyers keep signing, but more of it is now funded by equity and lease vehicles with vendor backstops rather than cash flow, which raises the bar for returns.",
-      "watch": "Microsoft and Alphabet capex guides (07:30-08:30 AEDT Oct 29), Amazon (08:00 AEDT Oct 30); any 2027 capex figure; any capex cut tied to neocloud credit stress or power delays.",
-      "note": "Changed since Oct 27: two hyperscaler prints. Capex still rising and cloud growth accelerating; the market punished Alphabet's spend-and-miss and rewarded Microsoft. Backlog (RPO) figures not checked.",
-      "source": "https://www.stocktitan.net/articles/stock-market-today-live-october-28-2026",
-      "updated": "2026-10-29"
+      "why": "All four hyperscalers raised or held spend and backlogs are growing fast, but Amazon and Alphabet are now spending more than they generate, and the market is selling the spenders.",
+      "watch": "Any 2027 capex number; Nvidia and AMD guides in November; any capex cut tied to free-cash-flow pressure or neocloud credit stress.",
+      "note": "Changed since Oct 29: Amazon reported. Capex still rising and AWS backlog up about $82B in a quarter; negative FCF is the new pressure point. Trend moved to up; signal held at neutral because of the cash-flow reaction.",
+      "source": "https://www.aboutamazon.com/news/company-news/aws-growth-ai-demand-q3-2026-earnings",
+      "updated": "2026-10-30"
     },
     {
       "key": "neocloud_credit",
