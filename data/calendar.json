@@ -1,116 +1,6 @@
 {
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "events": [
-    {
-      "key": "2026-10-29-samsung-q3",
-      "date": "2026-10-29",
-      "time": "Results and call 10:00 KST Thu (12:00 AEDT Thu Oct 29; 21:00 ET Wed Oct 28)",
-      "ticker": "005930",
-      "title": "Samsung Q3: op profit KRW 107.4T confirmed, chips KRW 106.5T; net profit missed",
-      "type": "earnings",
-      "why": "Chip revenue KRW 147.1T; devices swung to a KRW 0.8T loss on component costs. Management says 2027 HBM supply is sold out at agreed prices. Shares slid on the net miss.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/samsung-posts-record-quarterly-profit-014019876.html"
-    },
-    {
-      "key": "2026-10-29-byd-q3",
-      "date": "2026-10-29",
-      "time": "After Hong Kong close Thu",
-      "ticker": "1211",
-      "title": "BYD Q3 net profit CNY 10.02B (+28%), below forecasts",
-      "type": "earnings",
-      "why": "Love. Revenue +13.6% to CNY 221.5B; overseas shipments more than doubled; inventories +60% and receivables +53% since year end. Consensus was about CNY 11.1B.",
-      "link": "https://finance.biggo.com/news/be7c945b-fdaf-491b-b23b-2dc2a4b9961c"
-    },
-    {
-      "key": "2026-10-29-keyence-q2",
-      "date": "2026-10-29",
-      "time": "After Tokyo close Thu",
-      "ticker": "6861",
-      "title": "Keyence H1: operating profit +50%, margin 55.5%; 5-for-1 split Nov 21",
-      "type": "earnings",
-      "why": "Sales JPY 735.4B (+34.9%); interim dividend raised to JPY 325. Chip and AI equipment demand in Asia drove it.",
-      "link": "https://filingreader.com/news-wire/tokyo/2026-10-29/keyence-reports-strong-first-half-growth-and-stock-split"
-    },
-    {
-      "key": "2026-10-29-amzn-q3",
-      "date": "2026-10-29",
-      "time": "After US close Thu; call 17:00 ET (08:00 AEDT Fri Oct 30)",
-      "ticker": "AMZN",
-      "title": "Amazon Q3: AWS +39%, backlog $578B, EPS missed; 2027 capex 'meaningfully more'",
-      "type": "earnings",
-      "why": "Sales +12% to $201.9B; EPS $1.89 vs $1.96. 2026 capex held at about $220B. Shares -7% early Oct 30, about -2% by 2pm ET.",
-      "link": "https://www.aboutamazon.com/news/company-news/aws-growth-ai-demand-q3-2026-earnings"
-    },
-    {
-      "key": "2026-10-29-axos-q1-fy27",
-      "date": "2026-10-29",
-      "time": "After 16:00 ET; call 17:00 ET (08:00 AEDT Fri Oct 30)",
-      "ticker": "AXOS",
-      "title": "Axos fiscal Q1 2027: EPS $2.25 (+16%), adj. $2.34, roughly in line",
-      "type": "earnings",
-      "why": "Holding. Net interest margin 4.64% (+10bp q/q); loans $25.9B; still guides low-to-mid-teens loan growth for FY27. Revenue $395.1M slightly under estimates.",
-      "link": "https://www.businesswire.com/news/home/20261029575204/en/Axos-Financial-Inc.-Reports-First-Quarter-Fiscal-Year-2027-Results"
-    },
-    {
-      "key": "2026-10-29-ecb-decision",
-      "date": "2026-10-29",
-      "time": "Decision 14:15 CET, press conference 14:45 CET (09:15 / 09:45 ET; 00:15 / 00:45 AEDT Fri Oct 30)",
-      "ticker": "ECB",
-      "title": "ECB held deposit rate at 2.50%; Lagarde to leave Feb 7, 2027",
-      "type": "central_bank",
-      "why": "Euro-area inflation 3.8% on energy; statement flags energy risk. Markets lean to a December hike.",
-      "link": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html"
-    },
-    {
-      "key": "2026-10-29-intc-q3",
-      "date": "2026-10-29",
-      "time": "Release after US close; call 17:00 ET (08:00 AEDT Fri Oct 30)",
-      "ticker": "INTC",
-      "title": "Intel Q4 guide $15-16B vs $17.1B expected; stock about -30% Oct 30",
-      "type": "earnings",
-      "why": "Guide below Q3's $16.5B; gross margin 38% vs 44.1%; PC slowdown into H1 2027. Triggered the Oct 30 semis sell-off.",
-      "link": "https://www.forbes.com/sites/fionariley/2026/10/30/intel-sinks-29-on-earnings-as-ai-spending-fears-worsen-tech-selloff/"
-    },
-    {
-      "key": "2026-10-29-us-gdp-q3-advance",
-      "date": "2026-10-29",
-      "time": "08:30 ET Thu (23:30 AEDT Thu Oct 29)",
-      "ticker": "MACRO",
-      "title": "US Q3 GDP advance: +3.4% annualised (Q2 2.2%)",
-      "type": "macro",
-      "why": "Stronger growth plus hotter inflation keeps the Fed's December hike debate alive.",
-      "link": "https://www.stocktitan.net/articles/stock-market-today-live-october-29-2026"
-    },
-    {
-      "key": "2026-10-29-us-pce-sept",
-      "date": "2026-10-29",
-      "time": "08:30 ET Thu (23:30 AEDT Thu Oct 29), same slot as GDP",
-      "ticker": "MACRO",
-      "title": "US September PCE: prices +3.6% y/y, pace quickened",
-      "type": "macro",
-      "why": "The Fed's preferred gauge moved the wrong way; core figure not verified here.",
-      "link": "https://www.stocktitan.net/articles/stock-market-today-live-october-29-2026"
-    },
-    {
-      "key": "2026-10-29-pjm-backstop-filing",
-      "date": "2026-10-29",
-      "time": "Filing deadline (US time)",
-      "ticker": "MACRO",
-      "title": "PJM files revised reliability-backstop plan at FERC",
-      "type": "other",
-      "why": "Covers the 6.8 GW capacity shortfall and who pays for it; DOE wants large loads to carry the cost. Power-bottleneck read for VRT, GEV, BE.",
-      "link": "https://www.utilitydive.com/news/doe-pjm-ferc-ratepayer-protection-large-load-data-center/832479/"
-    },
-    {
-      "key": "2026-10-29-rkt-q3",
-      "date": "2026-10-29",
-      "time": "Release Thu Oct 29; call 16:30 ET (07:30 AEDT Fri Oct 30)",
-      "ticker": "RKT",
-      "title": "Rocket Q3: adj. net income $419M, adj. EBITDA margin 29%; Q4 flagged harder",
-      "type": "earnings",
-      "why": "GAAP net income $709M vs a loss a year ago; purchase share about 6.5%. CFO expects refinance market to shrink in Q4 as rates rose.",
-      "link": "https://www.detroitnews.com/story/business/real-estate/2026/10/29/rocket-reports-higher-third-quarter-profit-revenue/92502301007/"
-    },
     {
       "key": "2026-10-30-aapl-homepod-mini-2",
       "date": "2026-10-30",
@@ -146,10 +36,10 @@
       "date": "2026-10-31",
       "time": "09:30 Beijing Sat (12:30 AEDT Sat Oct 31)",
       "ticker": "MACRO",
-      "title": "China official PMIs, October (consensus manufacturing 50.0 vs 50.1)",
+      "title": "China official manufacturing PMI fell to 49.3 in October (Sept 50.1; consensus 50.0); services also contracted",
       "type": "macro",
-      "why": "Factory demand read for Keyence and machinery names after September's return above 50.",
-      "link": "https://www.financecalendar.com/event/china-official-pmi-october-2026/"
+      "why": "Factories slipped back into contraction a month after the first expansion since June: a soft read for Keyence and machinery demand.",
+      "link": "https://tradingeconomics.com/china/business-confidence"
     },
     {
       "key": "2026-11-02-aapl-q4",

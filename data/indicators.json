@@ -1,30 +1,30 @@
 {
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "explainer": "The single best AI-bubble bellwether is the rental price of an installed Nvidia GPU, measured in dollars per GPU-hour, and specifically the H100: it is the daily marginal clearing price for AI compute, it is published by independent indexes (Silicon Data's SDH100RT, SemiAnalysis's one-year contract index), and a CME futures contract on it is pending: the CFTC extended its review to November 9, 2026, so a forward curve is coming but not yet listed. Right now it is saying the opposite of discounting: the Silicon Data index sits at $2.75/hr (Sep 30), a new high, one-year contract rates rose about 40% from $1.70 to $2.35 between October 2025 and March 2026, spot has run at roughly twice contract, and a four-year-old chip is renting for more than it did a year ago while CoreWeave says it has contracted 2020-vintage GPUs out to 2029 at full price. Pair it with three things: neocloud credit spreads (CoreWeave's July loan cleared at SOFR+550 for a 10.44% yield with maintenance covenants, and its CDS implies roughly a coin-flip default probability), which is the financing leg and the one signal already flashing red; server DRAM and HBM contract-price momentum (+13-18% QoQ in 3Q26 after +93-98% in 1Q26, with 4Q26 guided to only +3-8%), because memory is the first physical input that will roll over; and hyperscaler backlog growth versus capex growth (Microsoft commercial RPO +84%, Oracle RPO +363%, roughly $2.4 trillion of committed cloud backlog against about $1 trillion of 2026 capex), because the bubble only deflates if the buyers stop signing. Over the next one to two quarters watch Nvidia's August 26 print for gross margin and customer concentration (three direct customers were already 54% of revenue), the shape of the CME H100/B200 curve if the CFTC clears it in November (a steep backwardation would be the first public forecast of discounting), whether 4Q26 memory contract talks and 2027 HBM4 pricing turn negative, and what ERCOT's December audit says about how much of Texas's 474 GW interconnection queue is phantom demand. The threshold that would flip the call is simple: the H100 index sustained below about $2.00/hr, or spot trading below the one-year contract rate, while Blackwell and Rubin volumes keep arriving; until then compute is being sold at a premium, not a discount, and the risk lives in who is borrowing to build it rather than in the price of the product.",
   "indicators": [
     {
       "key": "h100_rental",
       "name": "H100 rental price, $/GPU-hour (Silicon Data index; 1-yr contract and spot)",
-      "value": "Silicon Data SDH100RT $2.90/hr on Oct 30, flat since Oct 28 (Oct 24 $2.88). Page says +4.7% 7d, which matches the Oct 1 to Oct 30 change ($2.77 to $2.90), not the week. H200 $3.50, A100 $1.56, MI300X $2.76.",
+      "value": "Silicon Data SDH100RT $2.92/hr on Oct 31, up 2c from $2.90 Oct 30 and +1.4% on the week (Oct 24 $2.88). Page's '+5.4% 7d' matches Oct 2 to Oct 31 ($2.77 to $2.92).",
       "trend": "up",
       "signal": "bullish",
-      "why": "Rents held at the high while chip stocks sold off hard on capex worries: renters are still paying up for compute.",
+      "why": "Rents ticked to a new high on the day Nasdaq fell 2.9% on capex worries: renters are still paying up for compute.",
       "watch": "Bearish flip if SDH100RT prints below about $2.00 for a month or spot drops under the 1-yr contract rate. CFTC decision on CME GPU futures by Nov 9.",
-      "note": "Changed since Oct 29: H200 up 3c to $3.50; H100, A100 and MI300X flat. Headline 7d figure is mislabelled; FAQ still stale at $2.53.",
+      "note": "Changed since Oct 30: H100 up 2c to $2.92. Headline 7d figure still mislabelled; FAQ still stale at $2.53. H200, A100, MI300X not rechecked.",
       "source": "https://www.silicondata.com/products/silicon-index/h100",
-      "updated": "2026-10-30"
+      "updated": "2026-10-31"
     },
     {
       "key": "b200_rental",
       "name": "B200 rental price, $/GPU-hour (Silicon Data index) and B200/H100 ratio",
-      "value": "Silicon Data B200 $6.47 on Oct 28 (+10.0% 7d), down 16c from the Oct 26 high; B300 $7.56 (+9.2% 7d), flat. B200/H100 ratio 2.23x (6.47/2.90). Both above the $4.50 and 2x triggers.",
-      "trend": "flat",
+      "value": "Silicon Data B200 $6.64 on Oct 31, up 17c from $6.47 Oct 28 and +2.9% on the week (Oct 24 $6.45); a new high. B200/H100 ratio 2.27x (6.64/2.92). Both above the $4.50 and 2x triggers.",
+      "trend": "up",
       "signal": "bullish",
-      "why": "Blackwell rents jumped 7-8% in four days, the biggest move in months: the newest capacity is clearing at a widening premium, which is what a supply-constrained market looks like.",
-      "watch": "Bearish if B200 drops below $4.50 or the B200/H100 ratio falls under 2x. Watch whether Google Cloud's Rubin GA next month starts to cap B200/B300 premiums.",
-      "note": "Changed since Oct 26: B200 fell 16c, the first dip in the run; B300 flat. Ratio eased to 2.23x from 2.29x. Trend moved to flat on one print; signal held.",
+      "why": "The Oct 28 dip reversed within three days: the newest capacity still clears at a widening premium.",
+      "watch": "Bearish if B200 drops below $4.50 or the B200/H100 ratio falls under 2x. Watch whether Google Cloud's Rubin GA starts to cap B200/B300 premiums.",
+      "note": "Changed since Oct 28: B200 up 17c to a new high; ratio 2.27x from 2.23x. Trend back to up. Page's '+13.3% 7d' is really Oct 2 to Oct 31. B300 not rechecked.",
       "source": "https://www.silicondata.com/products/silicon-index/b200",
-      "updated": "2026-10-29"
+      "updated": "2026-10-31"
     },
     {
       "key": "hopper_residual",
@@ -41,14 +41,14 @@
     {
       "key": "dc_cost_per_gw",
       "name": "Data-centre cost per GW and the cost of capital (10-yr Treasury)",
-      "value": "10-yr Treasury par yield 5.05% on Oct 28, up 6bp from 4.99% Oct 27; 2-yr 4.67%, down 3bp. Curve steepened after the Fed hold. 30-yr about 5.36%. Build cost unchanged near $50B per GW (Huang, Oct 21).",
-      "trend": "flat",
+      "value": "10-yr Treasury about 4.93% at the Oct 30 close, down about 6bp on the day and 12bp below the 5.05% Oct 28 print. WTI $102.95. Build cost unchanged near $50B per GW (Huang, Oct 21).",
+      "trend": "down",
       "signal": "neutral",
-      "why": "Funding costs eased into the Oct 27-28 FOMC, but at 5% the 10-yr still prices every GW at near two-decade-high rates.",
-      "watch": "10-yr back above 5.30% or below 4.75%; FOMC Oct 28 (05:00 AEDT Oct 29) and the Nov 6 jobs report; any campus announcement implying more than ~$60B/GW.",
-      "note": "Changed since Oct 26: 10-yr up 5bp to 5.05%, 2-yr down 1bp; long end sold off on the hold and $101 oil. Trend flat, signal neutral held.",
-      "source": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
-      "updated": "2026-10-29"
+      "why": "Yields fell as stocks sold off, easing the funding cost of every GW, but sub-5% is still near two-decade highs.",
+      "watch": "10-yr back above 5.30% or below 4.75%; Nov 6 jobs and Nov 10 CPI; any campus announcement implying more than about $60B/GW.",
+      "note": "Changed since Oct 28: 10-yr back under 5% (market quote from tapeboard, not the Treasury par curve; 2-yr not rechecked).",
+      "source": "https://tapeboard.com/blog/market-pulse-2026-10-30",
+      "updated": "2026-10-31"
     },
     {
       "key": "memory_prices",

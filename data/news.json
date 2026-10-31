@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-10-31",
+    "ticker": "MACRO",
+    "headline": "China October factory PMI 49.3, back in contraction",
+    "summary": "Down from 50.1 in September and below the 50.0 consensus; services also contracted.",
+    "source": "https://tradingeconomics.com/china/business-confidence",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-30",
+    "ticker": "MRVL",
+    "headline": "Marvell slides again on reported all-stock Lumentum deal",
+    "summary": "Bloomberg reports an all-stock deal for Lumentum could be announced as soon as next week, at a small premium. Marvell fell 13% Thursday and about 10% Friday on dilution fears.",
+    "source": "https://www.fxleaders.com/news/2026/10/30/mrvl-stock-slips-below-200-as-lumentum-deal-talks-weigh-on-marvell/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-30",
+    "ticker": "GOOGL",
+    "headline": "Alphabet extends losses after worst day since 2004",
+    "summary": "Q3 EPS of $2.12 missed $3.01 and free cash flow worsened to -$9.06B on capex; shares fell about 13% Thursday and 1% Friday. Cloud grew 103%.",
+    "source": "https://finance.yahoo.com/technology/article/google-stock-plunges-more-than-12-on-q3-earnings-miss-135322453.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-30",
+    "ticker": "MARKET",
+    "headline": "Nasdaq -2.9%, chip index -7.2% as Intel drops 28.6%",
+    "summary": "S&P 500 fell 1.8%, the worst day since June, and the Nasdaq had its worst month since March 2025. Doubts about AI spending returns drove the selloff.",
+    "source": "https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-30",
+    "ticker": "MACRO",
+    "headline": "Nasdaq -2.9%, S&P -1.8% as Intel's guide drags chips",
+    "summary": "S&P 500 7,580 (-1.8%), Nasdaq 25,437 (-2.9%), Dow 51,770 (-1.1%). Intel fell 28.6% after a Q4 guide of $15-16B vs $17.1B expected. VIX +12.9% to 19.4; 10-yr about 4.93%; WTI $102.95.",
+    "source": "https://tapeboard.com/blog/market-pulse-2026-10-30",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-30",
+    "ticker": "ALAB",
+    "headline": "Astera Labs -10.9% to $258.70 ahead of Nov 3 results",
+    "summary": "Worst of the watchlist on the day; flat on the week (+0.6%).",
+    "source": "https://stockanalysis.com/stocks/alab/history/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-30",
+    "ticker": "NET",
+    "headline": "Cloudflare -9.5%, -13.8% on the week",
+    "summary": "No company news found for the drop; Q3 results Nov 5 after US close.",
+    "source": "https://stockanalysis.com/stocks/net/history/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-10-30",
+    "ticker": "GEV",
+    "headline": "HSBC upgrades GE Vernova to Buy",
+    "summary": "Mizuho lifted its target to $959. Shares -3.4% Friday but +5.3% on the week after the Q3 beat and Trench deal.",
+    "source": "https://stockanalysis.com/stocks/gev/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-30",
+    "ticker": "CLS",
+    "headline": "Celestica gets TSX approval for new buyback",
+    "summary": "Normal course issuer bid accepted; shares -6.1% Friday, +2.1% on the week.",
+    "source": "https://stockanalysis.com/stocks/cls/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-10-30",
+    "ticker": "HOOD",
+    "headline": "Robinhood -7.2%, -10.6% week after crypto-led miss",
+    "summary": "Truist cut its target to $123 from $125.",
+    "source": "https://stockanalysis.com/stocks/hood/",
+    "impact": "negative"
+  },
+  {
     "date": "2026-10-30",
     "ticker": "MARKET",
     "headline": "Nasdaq down over 3% as AI capex fears spread",
@@ -43,7 +123,7 @@
     "date": "2026-10-29",
     "ticker": "AMZN",
     "headline": "Amazon misses on Q3 EPS and revenue; AWS grows 39%",
-    "summary": "EPS was $1.89 vs $1.97 expected and revenue $201.9B vs $202.3B. AWS grew 39%, its fastest in nearly five years. 2026 capex is held near $220B and Q4 revenue is guided to $240-247B.",
+    "summary": "EPS was $1.89 vs $1.97 expected and revenue $201.9B vs $202.3B. AWS grew 39%, its fastest in nearly five years. 2026 capex is held near $220B and the Q4 revenue guide midpoint is about 21% above Q3.",
     "source": "https://www.geekwire.com/2026/aws-growth-hits-39-its-fastest-in-nearly-five-years-as-amazon-misses-on-earnings/",
     "impact": "neutral"
   },
@@ -557,86 +637,6 @@
     "headline": "SK hynix drops Solidigm Nasdaq listing; shares rebound 4.4%",
     "summary": "SK hynix abandoned plans to list its US NAND unit after shareholder pushback. Seoul shares rose 4.4% to KRW 1,277,000 and the ADR 4.1% to $137.02, as the KOSPI reversed a 4% intraday drop.",
     "source": "https://www.kedglobal.com/korean-stock-market/newsView/ked202610230002",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-22",
-    "ticker": "OPENAI",
-    "headline": "OpenAI trims funding-round target to $1.25T",
-    "summary": "The target for a raise of up to $30B was cut from $1.4T after investor pushback. Commitments are due Oct 30, ahead of Anthropic's expected mid-November IPO.",
-    "source": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-22",
-    "ticker": "META",
-    "headline": "Meta falls about 7%, Nasdaq drops 2.6% as AI spending fears spread",
-    "summary": "The Nasdaq had its worst day since June and the Philadelphia chip index fell 6.7%. Marvell fell 8.7%, Micron 6.3% and TSMC 4.5%, while Treasury yields fell sharply as money moved to safety.",
-    "source": "https://www.kucoin.com/news/flash/meta-s-ai-spending-spook-markets-nasdaq-plummets-2-6",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-22",
-    "ticker": "MRVL",
-    "headline": "Lam Research supply warning deepens chip selloff",
-    "summary": "Lam's CEO said clean room space and component shortages will constrain chipmakers into 2027. Marvell, AMD and Intel fell 7-8% in morning trade.",
-    "source": "https://finance.yahoo.com/technology/articles/chip-stocks-fall-supply-warning-154508313.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-22",
-    "ticker": "MU",
-    "headline": "Micron Taoyuan strike goes ahead with 11 union officials, no output disruption",
-    "summary": "The 24-hour solidarity strike followed Micron's deal with the larger Taichung union. The union said it was not meant to disrupt production but warned more workers could join.",
-    "source": "https://focustaiwan.tw/business/202610220016",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-22",
-    "ticker": "BABA",
-    "headline": "Alibaba falls as China tells e-commerce platforms to tighten quality controls",
-    "summary": "The State Administration for Market Regulation flagged risks in livestream sales and quick retail. Shares fell as much as 6.3% and the Hang Seng Tech index dropped 5.2% intraday.",
-    "source": "https://www.gurufocus.com/news/9135970/alibaba-baba-shares-drop-63-amid-chinas-ecommerce-quality-crackdown",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-22",
-    "ticker": "RKT",
-    "headline": "Rocket sets Q3 results for Oct 29",
-    "summary": "Results come out before a 4:30pm ET call on Thu Oct 29. Mortgage lenders rose on Oct 22 as Treasury yields fell.",
-    "source": "https://www.tradingview.com/news/prnewswire:ef49c42aeccd5:0-rocket-companies-to-announce-third-quarter-2026-results-on-october-29-2026/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-22",
-    "ticker": "FIGR",
-    "headline": "Figure sets Q3 results for Nov 12, small business lending tops $100M a quarter",
-    "summary": "Figure reports before the open on Nov 12, with the call at 8:30am ET. Its small business financing ecosystem had its first $50M month and first $100M quarter.",
-    "source": "https://www.stocktitan.net/news/FIGR/figure-technology-solutions-announces-date-for-third-quarter-2026-ga0cl23hiawv.html",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-22",
-    "ticker": "MACRO",
-    "headline": "Chip index falls more than 6% in a day after Lam cites supply constraints",
-    "summary": "Lam said Q4 guidance would have been higher without supply limits and fell as much as 11%; Marvell fell 9%, Intel and Applied Materials 7%, ASML 6%. AI funding worries and higher oil added to the selling.",
-    "source": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-equipment-maker-lam-research-cites-supply-chain-constraints-130648719.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-22",
-    "ticker": "MACRO",
-    "headline": "Bloom Energy Q3 revenue up 138% to $1.24B; raises 2026 guidance to $4.4-4.6B",
-    "summary": "Third raise this year; gross margin 33.8%, GAAP operating margin 18.2%. Bloom also joined the S&P 500, citing hyperscaler demand for onsite power.",
-    "source": "https://www.sec.gov/Archives/edgar/data/0001664703/000162828026066890/ex991_q326financialresults.htm",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-22",
-    "ticker": "SPOT",
-    "headline": "Spotify Q3: 306M subscribers, 1M ahead of guide; Q4 guide 316M and EUR 820M operating income",
-    "summary": "Revenue EUR 4.97B, up 14% in constant currency; gross margin 33.0%; operating income EUR 672M; free cash flow EUR 735M. MAU 788M.",
-    "source": "https://www.sec.gov/Archives/edgar/data/0001639920/000114036126040435/ef20084028_ex99-1.htm",
     "impact": "positive"
   }
 ]
