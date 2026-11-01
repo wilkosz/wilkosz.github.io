@@ -1,112 +1,110 @@
 {
-  "as_of": "2026-10-31T18:55",
-  "market_summary": "US stocks fell on Friday Oct 30: S&P 500 -1.8%, Nasdaq -2.9% and Dow -1.1%, after Intel's weak Q4 guide sent it down 28.6% and pulled AI chips 5-11% lower. For the week the S&P was about -0.6%, the Nasdaq about -2.0% and the Dow about -0.9%. VIX jumped 12.9% to 19.4, the 10-yr eased to about 4.93% and WTI held near $103. China's official manufacturing PMI fell to 49.3 in October from 50.1. The week ahead: Apple and Palantir Nov 2, RBA and AMD/Astera Labs Nov 3, US midterms Nov 3, MercadoLibre Nov 4, Cloudflare Nov 5 and US jobs Nov 6. Next, AEDT: Apple and Palantir Tue morning; RBA Tue 2:30pm; AMD and Astera Wed morning; US jobs Fri night.",
+  "as_of": "2026-11-01T18:50",
+  "market_summary": "Quiet weekend; US prices unchanged from Friday's close, when chips fell 7.2% after Intel's 28.6% drop and the Nasdaq lost 2.9%. China's October factory PMI fell to 49.3. BYD's October sales rose 11% on a year ago, with overseas sales doubling. No confirmation yet of a Marvell-Lumentum deal or an OpenAI round close. Next, AEDT: Apple results 9am Tue; RBA 2:30pm Tue; Astera, AMD and Supermicro Wed morning; US jobs 12:30am Sat.",
   "takes": {
     "AMZN": {
       "take": "hold",
       "reason": "-1.4% Fri, -3.1% week. AWS +39% but trailing free cash flow turned negative on AI spend; market punished capex, not demand.",
       "price_usd": 240.35,
-      "updated": "2026-10-31"
+      "updated": "2026-11-01"
     },
     "AXOS": {
       "take": "hold",
       "reason": "-2.3% Fri, -1.5% week. No company news found; drifted with the broad selloff.",
       "price_usd": 90.38,
-      "updated": "2026-10-31"
+      "updated": "2026-11-01"
     },
     "BABA": {
       "take": "hold",
       "reason": "-1.5% Fri, -1.6% week. No new catalyst found; moved with the tech tape.",
       "price_usd": 98.04,
-      "updated": "2026-10-31"
+      "updated": "2026-11-01"
     },
     "ENPH": {
       "take": "watch",
       "reason": "-0.8% Fri, -18.8% week after the Q3 miss and Q4 guide roughly 20% below estimates (-16% on Wed). Six-year lows; thesis now rests on new products.",
       "price_usd": 25.65,
-      "updated": "2026-10-31"
+      "updated": "2026-11-01"
     },
     "FIGR": {
       "take": "watch",
       "reason": "-8.5% Fri, -6.9% week. No specific news found; high-beta name hit hardest in the risk-off day.",
       "price_usd": 21.58,
-      "updated": "2026-10-31"
+      "updated": "2026-11-01"
     },
     "GOOGL": {
       "take": "hold",
       "reason": "-1.4% Fri, -12.6% week. Worst day since 2004 on Thursday after an EPS miss, higher capex guidance and negative free cash flow. Cloud +103% keeps the thesis intact.",
       "price_usd": 279.84,
-      "updated": "2026-10-31"
+      "updated": "2026-11-01"
     },
     "LDI": {
       "take": "watch",
       "reason": "-3.2% Fri, -4.9% week. No news found; stays a small speculative position.",
       "price_usd": 0.58,
-      "updated": "2026-10-31"
+      "updated": "2026-11-01"
     },
     "META": {
       "take": "hold",
       "reason": "-1.5% Fri, -4.3% week. Held up better than chips despite AI capex worries.",
       "price_usd": 614.99,
-      "updated": "2026-10-31"
+      "updated": "2026-11-01"
     },
     "MRVL": {
       "take": "hold",
       "reason": "-10.1% Fri, -14.1% week. Reported all-stock Lumentum deal, small premium, could be announced next week; dilution fear. Not confirmed yet.",
       "price_usd": 196.4,
-      "updated": "2026-10-31"
+      "updated": "2026-11-01"
     },
     "MU": {
       "take": "hold",
       "reason": "-5.3% Fri, +0.8% week. Chip index -7.2% Fri on Intel; high memory prices blamed for PC weakness, which still favours Micron's pricing.",
       "price_usd": 884.74,
-      "updated": "2026-10-31"
+      "updated": "2026-11-01"
     },
     "NFLX": {
       "take": "hold",
       "reason": "+0.1% Fri, -5.7% week. Defensive on Friday; no new news found.",
       "price_usd": 62.08,
-      "updated": "2026-10-31"
+      "updated": "2026-11-01"
     },
     "NVDA": {
       "take": "hold",
       "reason": "-4.2% Fri, -3.0% week. Fell in the Intel-led chip rout (chip index -7.2%), not on own news.",
       "price_usd": 204.64,
-      "updated": "2026-10-31"
+      "updated": "2026-11-01"
     },
     "RKT": {
       "take": "hold",
       "reason": "+7.4% Fri, +9.1% week. Only green holding; reports cite a Q3 beat (released Oct 29), not independently confirmed.",
       "price_usd": 12.8,
-      "updated": "2026-10-31"
+      "updated": "2026-11-01"
     },
     "TSM": {
       "take": "hold",
       "reason": "-6.0% Fri, -3.0% week. Sold off with the chip index on AI-spend doubts; no company-specific news.",
       "price_usd": 406.13,
-      "updated": "2026-10-31"
+      "updated": "2026-11-01"
     },
     "STRIPE": {
       "take": "hold",
       "reason": "No new priced round or tender found this period.",
       "price_usd": null,
-      "updated": "2026-10-31",
+      "updated": "2026-11-01",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
       "reason": "No new closed round found since the March close; nothing over the weekend.",
       "price_usd": null,
-      "updated": "2026-10-31",
+      "updated": "2026-11-01",
       "mark_multiple": 5.43
     }
   },
   "headlines": [
-    "Chips fell 7.2% Friday after Intel's 28.6% drop; Nasdaq down 2.9%, S&P down 1.8%.",
-    "Holdings Friday: Marvell -10.1%, Figure -8.5%, TSMC -6.0%, Micron -5.3%, Nvidia -4.2%; Rocket +7.4%.",
-    "Week: Enphase -18.8%, Marvell -14.1%, Alphabet -12.6%; Vertiv +19.6% led the watchlist.",
-    "China's October factory PMI fell to 49.3 from 50.1, below the 50.0 consensus.",
-    "Marvell-Lumentum still unconfirmed; Bloomberg says an all-stock deal could come as soon as next week.",
-    "Next, AEDT: Apple Tue morning, RBA Tue 2:30pm, US jobs Fri night."
+    "Quiet weekend: US prices unchanged since Friday's 7.2% chip sell-off.",
+    "BYD October sales up 11% to 490,168; overseas sales doubled on a year ago.",
+    "Marvell-Lumentum and OpenAI's round still unconfirmed; Lumentum reports Nov 5.",
+    "Next, AEDT: Apple results 9am Tue, RBA 2:30pm Tue, AMD and Astera Wed morning, US jobs early Sat."
   ]
 }

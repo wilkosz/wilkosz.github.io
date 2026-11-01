@@ -1,36 +1,6 @@
 {
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "events": [
-    {
-      "key": "2026-10-30-aapl-homepod-mini-2",
-      "date": "2026-10-30",
-      "time": "Availability Fri Oct 30",
-      "ticker": "AAPL",
-      "title": "Apple HomePod mini 2 ($149) ships",
-      "type": "product",
-      "why": "First of the new home products to reach customers; Siri AI comes later via software update.",
-      "link": "https://www.macobserver.com/news/homeview-homepod-mini-2-apple-tv-4k-release-dates/"
-    },
-    {
-      "key": "2026-10-30-boj-decision",
-      "date": "2026-10-30",
-      "time": "Statement Fri Oct 30 (Tokyo midday)",
-      "ticker": "BOJ",
-      "title": "BOJ held at 1.25% (8-1); says underlying inflation at 2%, December hike in play",
-      "type": "central_bank",
-      "why": "Takata voted for 1.50%. ETF sales speed up from January to JPY 860B a year. Dollar slipped to about 157.3 yen; Nikkei -2.1%.",
-      "link": "https://cnbc.com/2026/10/30/boj-inflation-target-rates.html"
-    },
-    {
-      "key": "2026-10-30-us-eci",
-      "date": "2026-10-30",
-      "time": "08:30 ET Fri (23:30 AEDT Fri Oct 30)",
-      "ticker": "MACRO",
-      "title": "US Employment Cost Index Q3: +0.8% q/q",
-      "type": "macro",
-      "why": "Wage-cost gauge for the Fed's December decision; year-on-year rate not checked.",
-      "link": "https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026"
-    },
     {
       "key": "2026-10-31-china-pmi-oct",
       "date": "2026-10-31",
@@ -74,12 +44,12 @@
     {
       "key": "2026-11-03-alab-q3",
       "date": "2026-11-03",
-      "time": "After US close; call 16:30 ET (08:30 AEDT Wed Nov 4)",
+      "time": "After US close; call 13:30 PT / 16:30 ET (08:30 AEDT Wed Nov 4)",
       "ticker": "ALAB",
-      "title": "Astera Labs Q3 2026 results",
+      "title": "Astera Labs Q3 2026 results and call",
       "type": "earnings",
-      "why": "Guided EPS $1.16-1.21; consensus revenue ~$551M. Date reported Oct 7 (company IR page could not be opened).",
-      "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/astera-labs-sets-results-date-while-astera-labs-stock-falls-3-74-percent/70256368"
+      "why": "Confirmed by the company's Oct 6 release. Guide revenue $540-560M, non-GAAP EPS $1.16-1.21; Scorpio X and PCIe 6 ramp.",
+      "link": "https://finviz.com/news/399499/astera-labs-announces-conference-call-to-review-third-quarter-2026-financial-results"
     },
     {
       "key": "2026-11-03-amd-q3",
@@ -214,11 +184,11 @@
     {
       "key": "2026-11-09-cftc-gpu-futures",
       "date": "2026-11-09",
-      "time": "Review deadline (US time)",
+      "time": "TBC",
       "ticker": "NVDA",
-      "title": "CFTC review deadline for CME H100/B200 GPU rental futures",
+      "title": "CFTC review of CME H100/B200 GPU rental futures (Nov 9 date not confirmed)",
       "type": "other",
-      "why": "Holding read. Cash-settled on Silicon Data indices, 730 GPU-hours a contract. Approval gives the first public forward curve for compute prices.",
+      "why": "Holding read. CME's Oct 5 launch was put on hold while the CFTC extended its review; no source found confirming a Nov 9 deadline. Approval would give the first public forward curve for compute prices.",
       "link": "https://cryptobriefing.com/commodity-brokers-prepare-ai-compute-futures/"
     },
     {

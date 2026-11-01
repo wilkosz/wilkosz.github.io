@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-11-01",
+    "ticker": "1211.HK",
+    "headline": "BYD October sales 490,168, up 11% y/y; exports up 103%",
+    "summary": "BYD sold 490,168 NEVs in October, up 10.97% year on year. Overseas sales were 170,194, up 102.84% year on year but down 5.81% from September.",
+    "source": "https://cnevpost.com/2026/11/01/byd-oct-2026-sales/",
+    "impact": "positive"
+  },
+  {
     "date": "2026-10-31",
     "ticker": "MACRO",
     "headline": "China October factory PMI 49.3, back in contraction",
@@ -630,13 +638,5 @@
     "summary": "MaxLinear said it aims for 20-30% of 1.6T active electrical cables within a couple of years, where it puts Credo's share at 93-99%. Research also pointed to slower 1.6T rollouts; Credo closed at $147.29.",
     "source": "https://finance.yahoo.com/markets/stocks/articles/credo-stock-fell-nearly-10-151111899.html",
     "impact": "negative"
-  },
-  {
-    "date": "2026-10-23",
-    "ticker": "SKHY",
-    "headline": "SK hynix drops Solidigm Nasdaq listing; shares rebound 4.4%",
-    "summary": "SK hynix abandoned plans to list its US NAND unit after shareholder pushback. Seoul shares rose 4.4% to KRW 1,277,000 and the ADR 4.1% to $137.02, as the KOSPI reversed a 4% intraday drop.",
-    "source": "https://www.kedglobal.com/korean-stock-market/newsView/ked202610230002",
-    "impact": "positive"
   }
 ]
