@@ -66,13 +66,13 @@
     "sector": "AI",
     "status": "accumulate",
     "conviction": "high",
-    "thesis": "Fri Oct 30 close $149.21 (-8.0% day, +8.9% week). Gave back part of the post-results gain. Q3 operating profit ~KRW 83.3T (+38% QoQ), revenue over KRW 100T for the first time, ~80% operating margin. HBM4 in full mass production and expected to overtake HBM3E in Q4.",
-    "risks": "Net income fell ~58% QoQ because Q2 had a one-off Kioxia gain. The memory cycle is at a peak, and the stock is crowded.",
+    "thesis": "Seoul shares +4.5% Mon Nov 2 (KRW 1,482,000) as the Kospi rebounded 2.2%; Korea's October chip exports were reported up 259% y/y. Fri Oct 30 US close $149.21 (-8.0% day). Q3 operating profit ~KRW 83.3T, revenue over KRW 100T for the first time, ~80% operating margin. HBM4 in full mass production and expected to overtake HBM3E in Q4.",
+    "risks": "Kioxia fell ~16% in Tokyo the same day on a weak December-quarter outlook, a reminder that not all memory names are winning. Net income fell ~58% QoQ on a Q2 one-off; the cycle is at a peak and the stock is crowded.",
     "price_usd": 149.21,
     "catalyst": "Q4 HBM4 mix shift; 2026 shareholder return plan (~$75B reported)",
-    "source": "https://stockanalysis.com/stocks/skhy/history/",
+    "source": "https://tradingkey.com/analysis/stocks/more/262263510-japan-korea-stocks-skhy-kospi-nikkei-samsung-kioxia-ai-softbank-fomc-ai-tradingkey",
     "added": "2026-08-24",
-    "updated": "2026-10-31"
+    "updated": "2026-11-02"
   },
   {
     "ticker": "BE",

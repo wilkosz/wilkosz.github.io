@@ -1,16 +1,6 @@
 {
-  "as_of": "2026-11-01",
+  "as_of": "2026-11-02",
   "events": [
-    {
-      "key": "2026-10-31-china-pmi-oct",
-      "date": "2026-10-31",
-      "time": "09:30 Beijing Sat (12:30 AEDT Sat Oct 31)",
-      "ticker": "MACRO",
-      "title": "China official manufacturing PMI fell to 49.3 in October (Sept 50.1; consensus 50.0); services also contracted",
-      "type": "macro",
-      "why": "Factories slipped back into contraction a month after the first expansion since June: a soft read for Keyence and machinery demand.",
-      "link": "https://tradingeconomics.com/china/business-confidence"
-    },
     {
       "key": "2026-11-02-aapl-q4",
       "date": "2026-11-02",
@@ -29,7 +19,8 @@
       "title": "ISM manufacturing PMI, October",
       "type": "macro",
       "why": "First-business-day rule; listed as estimated pending ISM confirmation (ISM's own calendar is behind a login). Prices-paid and new orders for the machinery names.",
-      "link": "https://therighttrader.com/economic-calendar/ism-manufacturing"
+      "link": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-55-5-october-2026-ism-manufacturing-pmi-report-302925617.html",
+      "outcome": "55.5 vs ~54.6 expected and 54.5 in Sep; 10th straight month of expansion. Production 59.0 (highest since Nov 2021), prices 75.2 (-2.7, largest monthly drop), employment 52.4."
     },
     {
       "key": "2026-11-02-pltr-q3",

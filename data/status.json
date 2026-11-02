@@ -1,110 +1,111 @@
 {
-  "as_of": "2026-11-01T18:50",
-  "market_summary": "Quiet weekend; US prices unchanged from Friday's close, when chips fell 7.2% after Intel's 28.6% drop and the Nasdaq lost 2.9%. China's October factory PMI fell to 49.3. BYD's October sales rose 11% on a year ago, with overseas sales doubling. No confirmation yet of a Marvell-Lumentum deal or an OpenAI round close. Next, AEDT: Apple results 9am Tue; RBA 2:30pm Tue; Astera, AMD and Supermicro Wed morning; US jobs 12:30am Sat.",
+  "as_of": "2026-11-02T18:55",
+  "market_summary": "Intraday Mon Nov 2, about 11:30am ET: S&P 500 +0.6%, Nasdaq +0.8%, Dow +1.1%, a partial rebound after Friday's chip rout (S&P -1.8%, Nasdaq -2.9%). Crude fell about 7% on Iran ceasefire hopes (Brent near $107), the 10-year eased to about 4.94%, and ISM manufacturing beat at 55.5 with prices paid falling. In Asia the Kospi closed +2.2% on SK hynix (+4.5%), the Hang Seng rose about 0.5%, and the Nikkei slipped 0.3% as Kioxia fell 16%. SOX intraday move not confirmed. Next, AEDT: Apple results 9am Tue; RBA 2:30pm Tue; AMD, Astera and Supermicro Wed morning; US jobs 12:30am Sat.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "-1.4% Fri, -3.1% week. AWS +39% but trailing free cash flow turned negative on AI spend; market punished capex, not demand.",
-      "price_usd": 240.35,
-      "updated": "2026-11-01"
+      "reason": "Up about 4.2% by 1pm ET Monday, leading megacaps after Friday's tech sell-off. No company news found to explain the move.",
+      "price_usd": null,
+      "updated": "2026-11-02"
     },
     "AXOS": {
       "take": "hold",
-      "reason": "-2.3% Fri, -1.5% week. No company news found; drifted with the broad selloff.",
-      "price_usd": 90.38,
-      "updated": "2026-11-01"
+      "reason": "No news found since Sunday. Market up about 0.3-1% Monday.",
+      "price_usd": null,
+      "updated": "2026-11-02"
     },
     "BABA": {
       "take": "hold",
-      "reason": "-1.5% Fri, -1.6% week. No new catalyst found; moved with the tech tape.",
-      "price_usd": 98.04,
-      "updated": "2026-11-01"
+      "reason": "No news found since Sunday. XPeng up about 7% Monday; no Alibaba move checked.",
+      "price_usd": null,
+      "updated": "2026-11-02"
     },
     "ENPH": {
       "take": "watch",
-      "reason": "-0.8% Fri, -18.8% week after the Q3 miss and Q4 guide roughly 20% below estimates (-16% on Wed). Six-year lows; thesis now rests on new products.",
-      "price_usd": 25.65,
-      "updated": "2026-11-01"
+      "reason": "No company news found. Brent fell over 7% Monday, which tends to weigh on energy names.",
+      "price_usd": null,
+      "updated": "2026-11-02"
     },
     "FIGR": {
-      "take": "watch",
-      "reason": "-8.5% Fri, -6.9% week. No specific news found; high-beta name hit hardest in the risk-off day.",
-      "price_usd": 21.58,
-      "updated": "2026-11-01"
+      "take": "hold",
+      "reason": "No news found since Sunday.",
+      "price_usd": null,
+      "updated": "2026-11-02"
     },
     "GOOGL": {
       "take": "hold",
-      "reason": "-1.4% Fri, -12.6% week. Worst day since 2004 on Thursday after an EPS miss, higher capex guidance and negative free cash flow. Cloud +103% keeps the thesis intact.",
-      "price_usd": 279.84,
-      "updated": "2026-11-01"
+      "reason": "No new Alphabet news found since Sunday. Nasdaq gain faded from 1.3% to 0.3% by early afternoon.",
+      "price_usd": null,
+      "updated": "2026-11-02"
     },
     "LDI": {
-      "take": "watch",
-      "reason": "-3.2% Fri, -4.9% week. No news found; stays a small speculative position.",
-      "price_usd": 0.58,
-      "updated": "2026-11-01"
+      "take": "hold",
+      "reason": "No news found since Sunday.",
+      "price_usd": null,
+      "updated": "2026-11-02"
     },
     "META": {
       "take": "hold",
-      "reason": "-1.5% Fri, -4.3% week. Held up better than chips despite AI capex worries.",
-      "price_usd": 614.99,
-      "updated": "2026-11-01"
+      "reason": "No news found since Sunday. Some big tech fell again Monday as the Nasdaq gain faded.",
+      "price_usd": null,
+      "updated": "2026-11-02"
     },
     "MRVL": {
-      "take": "hold",
-      "reason": "-10.1% Fri, -14.1% week. Reported all-stock Lumentum deal, small premium, could be announced next week; dilution fear. Not confirmed yet.",
-      "price_usd": 196.4,
-      "updated": "2026-11-01"
+      "take": "watch",
+      "reason": "Signed all-stock Lumentum deal, 4.5 shares each, about 33% dilution, closing 1H 2028. Shares down about 9.5% by 1pm ET. Q3 revenue guide held, range narrowed.",
+      "price_usd": null,
+      "updated": "2026-11-02"
     },
     "MU": {
       "take": "hold",
-      "reason": "-5.3% Fri, +0.8% week. Chip index -7.2% Fri on Intel; high memory prices blamed for PC weakness, which still favours Micron's pricing.",
-      "price_usd": 884.74,
-      "updated": "2026-11-01"
+      "reason": "Up about 2.4% pre-market Monday as chips bounced after Friday's sell-off. Intraday move not confirmed.",
+      "price_usd": null,
+      "updated": "2026-11-02"
     },
     "NFLX": {
       "take": "hold",
-      "reason": "+0.1% Fri, -5.7% week. Defensive on Friday; no new news found.",
-      "price_usd": 62.08,
-      "updated": "2026-11-01"
+      "reason": "No news found since Sunday.",
+      "price_usd": null,
+      "updated": "2026-11-02"
     },
     "NVDA": {
       "take": "hold",
-      "reason": "-4.2% Fri, -3.0% week. Fell in the Intel-led chip rout (chip index -7.2%), not on own news.",
-      "price_usd": 204.64,
-      "updated": "2026-11-01"
+      "reason": "Up about 1-1.4% Monday, a modest bounce after Friday's chip sell-off.",
+      "price_usd": null,
+      "updated": "2026-11-02"
     },
     "RKT": {
       "take": "hold",
-      "reason": "+7.4% Fri, +9.1% week. Only green holding; reports cite a Q3 beat (released Oct 29), not independently confirmed.",
-      "price_usd": 12.8,
-      "updated": "2026-11-01"
+      "reason": "No news found since Sunday.",
+      "price_usd": null,
+      "updated": "2026-11-02"
     },
     "TSM": {
       "take": "hold",
-      "reason": "-6.0% Fri, -3.0% week. Sold off with the chip index on AI-spend doubts; no company-specific news.",
-      "price_usd": 406.13,
-      "updated": "2026-11-01"
+      "reason": "No news found since Sunday. Chip peers bounced modestly Monday.",
+      "price_usd": null,
+      "updated": "2026-11-02"
     },
     "STRIPE": {
       "take": "hold",
-      "reason": "No new priced round or tender found this period.",
+      "reason": "No new priced round or tender found.",
       "price_usd": null,
-      "updated": "2026-11-01",
+      "updated": "2026-11-02",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "No new closed round found since the March close; nothing over the weekend.",
+      "reason": "No new closed round found. The last confirmed round closed in March; reports of a larger raise are unconfirmed and undated.",
       "price_usd": null,
-      "updated": "2026-11-01",
+      "updated": "2026-11-02",
       "mark_multiple": 5.43
     }
   },
   "headlines": [
-    "Quiet weekend: US prices unchanged since Friday's 7.2% chip sell-off.",
-    "BYD October sales up 11% to 490,168; overseas sales doubled on a year ago.",
-    "Marvell-Lumentum and OpenAI's round still unconfirmed; Lumentum reports Nov 5.",
-    "Next, AEDT: Apple results 9am Tue, RBA 2:30pm Tue, AMD and Astera Wed morning, US jobs early Sat."
+    "Marvell signed an all-stock deal for Lumentum at a 24% premium; Marvell down 9.5% midday, take stays watch.",
+    "Partial rebound Monday midday: S&P up 0.6%, Nasdaq up 0.8%; oil down about 7% on Iran ceasefire hopes.",
+    "US factory ISM 55.5 beat the 54.6 forecast; production at its highest since November 2021.",
+    "Korea October chip exports up 259% on a year ago; SK hynix up 4.5% in Seoul.",
+    "Next, AEDT: Apple results 9am Tue, RBA 2:30pm Tue, AMD and Astera Wed morning."
   ]
 }
