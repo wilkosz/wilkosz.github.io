@@ -1,10 +1,11 @@
 {
-  "as_of": "2026-11-01T13:50",
-  "summary": "No movement. Every find that could be opened is still listed at the same price. Loader tractors under 4,500 hours and 80k within 400km remain scarce on Facebook this week.",
+  "as_of": "2026-11-02T13:50",
+  "summary": "The EXEQ expandable container house in Shepparton dropped about $4,700 to $13,441 inc GST, now the cheapest container option on the list. Everything else is unchanged; still no new loader tractor in band.",
   "headlines": [
-    "Quiet day: nothing new cleared the bar and no prices moved.",
+    "EXEQ expandable container house with ensuite, Shepparton, down to $13,441 inc GST from $18,150; 260km, pick-up only.",
+    "New: 6m x 3m portable building with bathroom, Shepparton, $15,000; room count not stated.",
     "Barellan tow-behind fuel tank auction closes Thu 5 Nov, 3pm AEDT.",
-    "MF 7614 with loader, 1,103 hours, Little Billabong clearing sale closes 12 Nov."
+    "No new tractor cleared the bar; MF 7614 clearing sale closes 12 Nov."
   ],
   "finds": [
     {
@@ -30,7 +31,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-02",
-      "updated": "2026-11-01",
+      "updated": "2026-11-02",
       "photo": "img/finds/fb-1529309308826340.jpg"
     },
     {
@@ -55,7 +56,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-08",
-      "updated": "2026-11-01",
+      "updated": "2026-11-02",
       "photo": "img/finds/fb-1166415099041888.jpg"
     },
     {
@@ -80,7 +81,7 @@
       "why": "Undamaged MF single tine at $350 firm, but no hp or depth stated; unchanged after 16 weeks.",
       "status": "live",
       "first_seen": "2026-10-10",
-      "updated": "2026-11-01",
+      "updated": "2026-11-02",
       "photo": "img/finds/fb-1794651221505734.jpg"
     },
     {
@@ -104,7 +105,7 @@
       "why": "A proper single-tyne build from a known Australian maker at under half the new price, still $600; no hp rating and about 380 km away.",
       "status": "live",
       "first_seen": "2026-10-14",
-      "updated": "2026-11-01",
+      "updated": "2026-11-02",
       "photo": "img/finds/fb-1376645941299287.jpg"
     },
     {
@@ -129,7 +130,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-29",
-      "updated": "2026-11-01",
+      "updated": "2026-11-02",
       "photo": "img/finds/tradefarm-855857.jpg",
       "photo_url": "https://assets.primecreative.com.au/imagegen/max/cr/93/70/s3/digital-cougar-assets/momoads/2021/08/10/091255/60hp-ripper.JPG"
     },
@@ -178,7 +179,7 @@
       "why": "The tank-and-stand option for $500: gravity feeds a tractor with no pump, but it's rusty, so check inside for scale and leaks.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-11-01",
+      "updated": "2026-11-02",
       "photo": "img/finds/fb-2603503066789216.jpg"
     },
     {
@@ -202,7 +203,7 @@
       "why": "1000 L towable cart with a 12V pump, 30km away, at under half the price of the Coleambally cart; listed in June, so ring to check it's still there.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-11-01",
+      "updated": "2026-11-02",
       "photo": "img/finds/farmtender-131044.jpg",
       "photo_url": "https://media.farmtender.com.au/listings/6a1e4a4435776/large/f868ee7c47b91b576f64d7284c0e5140.jpg"
     },
@@ -227,7 +228,7 @@
       "why": "Tidy tandem 1000 L cart with pump, 40km away; listed 9 weeks, so there may be room on price.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-11-01",
+      "updated": "2026-11-02",
       "photo": "img/finds/fb-913292798511535.jpg"
     },
     {
@@ -251,7 +252,7 @@
       "status": "live",
       "ends": "2026-11-05",
       "first_seen": "2026-10-25",
-      "updated": "2026-11-01",
+      "updated": "2026-11-02",
       "photo": "img/finds/auctionsplus-129303-1464487.jpg",
       "photo_url": "https://auctionsplusblob.blob.core.windows.net/apmediaprod/Photos/1639280200847772424_b125f2cc-6df1-4054-9762-9647e988e152.webp"
     },
@@ -274,7 +275,7 @@
       "why": "Cheapest working diesel tank found, in use until last month, but rusty, bare and 190km away.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-11-01",
+      "updated": "2026-11-02",
       "photo": "img/finds/fb-1680015046874285.jpg"
     },
     {
@@ -297,7 +298,7 @@
       "why": "Clean-looking 1000 L tank 40km away, but bare: budget for a pump or a stand.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-11-01",
+      "updated": "2026-11-02",
       "photo": "img/finds/fb-1663698828091004.jpg"
     },
     {
@@ -323,7 +324,7 @@
       "why": "Closest used 28-plate, with the bearing work done. Measure the width and check plate wear in person.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-11-01",
+      "updated": "2026-11-02",
       "ends": null,
       "photo": "img/finds/fb-1096043223368086.jpg"
     },
@@ -352,7 +353,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-11-01",
+      "updated": "2026-11-02",
       "photo": "img/finds/fb-1054966007434070.jpg"
     },
     {
@@ -376,7 +377,7 @@
       "why": "Brand new for the price of a used set, but it is a light Chinese build rated to 100hp and needs assembling.",
       "status": "live",
       "first_seen": "2026-10-12",
-      "updated": "2026-11-01",
+      "updated": "2026-11-02",
       "photo": "img/finds/fb-1576107450589526.jpg"
     },
     {
@@ -402,7 +403,7 @@
       "why": "A proper heavy Brazilian 28-plate at a third of new, but it sits at the top of the hp range and needs about $3,800 in plates to bite like new.",
       "status": "live",
       "first_seen": "2026-10-13",
-      "updated": "2026-11-01",
+      "updated": "2026-11-02",
       "photo": "img/finds/fb-1730861284788002.jpg"
     },
     {
@@ -426,7 +427,7 @@
       "why": "A hardly-used 28-plate for $9,000 about 200 km away, but the listing is three lines long: get the width and hp before driving.",
       "status": "live",
       "first_seen": "2026-10-14",
-      "updated": "2026-11-01",
+      "updated": "2026-11-02",
       "photo": "img/finds/fb-1005183285292089.jpg"
     },
     {
@@ -449,7 +450,7 @@
       "why": "New Australian-made with a stated 3.2 m cut inside the width limit, but about three times the price of the used discs on the list.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-11-01",
+      "updated": "2026-11-02",
       "photo": "img/finds/machines4u-298124.jpg",
       "photo_url": "https://media.machines4u.com.au/machinery/24/298124/Big-Country-Ag-28-Plate-Offset-Disc_65654145.h.jpg"
     },
@@ -476,7 +477,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-11-01",
+      "updated": "2026-11-02",
       "photo": "img/finds/fb-1117657974131225.jpg"
     },
     {
@@ -529,7 +530,7 @@
       "why": "Premium model from the same Cobram dealer with the kitchen fitted; it clears every must and every prefer at 180km.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-11-01",
+      "updated": "2026-11-02",
       "price_note": "up from $22,990",
       "ends": null,
       "photo": "img/finds/fb-1729183591520678.jpg"
@@ -559,6 +560,31 @@
       "price_note": "Buyer removes; moves as 2 sections of 10m x 3m, oversize transport not included"
     },
     {
+      "key": "machines4u-1286001",
+      "want": "portable-home",
+      "title": "EXEQ L0206 expandable container house with ensuite (unused)",
+      "price_aud": 13441,
+      "price_note": "$12,219 ex GST, down from $18,150 inc; pick-up only, transport extra",
+      "location": "Shepparton, VIC",
+      "distance_km": 290,
+      "detail": [
+        "20ft expandable, 19ft x 20ft opened",
+        "ensuite: shower, toilet, sink",
+        "8 double-glazed sliding windows",
+        "folded, about 3.9t",
+        "not wired, needs an electrician"
+      ],
+      "source": "Machines4u",
+      "url": "https://www.machines4u.com.au/view/advert/Expandable-Container-House-with-Ensuite/1286001/",
+      "verdict": "decent",
+      "why": "Same box as the $25,850 2-bed model for $7.7k less, but no bedroom wall or kitchen is shown, so confirm the layout.",
+      "status": "live",
+      "first_seen": "2026-10-25",
+      "updated": "2026-11-02",
+      "photo": "img/finds/machines4u-1286001.jpg",
+      "photo_url": "https://media.machines4u.com.au/machinery/1/1286001/Expandable-Container-House-with-Ensuite_82793567.h.jpg"
+    },
+    {
       "key": "gumtree-1344906821",
       "want": "portable-home",
       "title": "New 20ft expandable granny flat, 2 bed, bathroom, kitchenette",
@@ -583,31 +609,6 @@
       "photo_url": "https://images.gumtree.com.au/image/private/t_$_s-l800/gumtree/dbe4a93e-46bd-4f5a-87ed-a1f924190a89.jpg"
     },
     {
-      "key": "machines4u-1286001",
-      "want": "portable-home",
-      "title": "EXEQ L0206 expandable container house with ensuite (unused)",
-      "price_aud": 18150,
-      "price_note": "$16,500 plus GST. Not wired. Transport extra, not suited to a skel trailer or side loader.",
-      "location": "Shepparton, VIC",
-      "distance_km": 290,
-      "detail": [
-        "20ft expandable, 19ft x 20ft opened",
-        "ensuite: shower, toilet, sink",
-        "8 double-glazed sliding windows",
-        "folded, about 3.9t",
-        "not wired, needs an electrician"
-      ],
-      "source": "Machines4u",
-      "url": "https://www.machines4u.com.au/view/advert/Expandable-Container-House-with-Ensuite/1286001/",
-      "verdict": "decent",
-      "why": "Same box as the $25,850 2-bed model for $7.7k less, but no bedroom wall or kitchen is shown, so confirm the layout.",
-      "status": "live",
-      "first_seen": "2026-10-25",
-      "updated": "2026-11-01",
-      "photo": "img/finds/machines4u-1286001.jpg",
-      "photo_url": "https://media.machines4u.com.au/machinery/1/1286001/Expandable-Container-House-with-Ensuite_82793567.h.jpg"
-    },
-    {
       "key": "fb-4498847773713057",
       "want": "portable-home",
       "title": "2010 homemade container home, bunk room, kitchenette, lounge, toilet and shower",
@@ -629,8 +630,31 @@
       "why": "Clears the bathroom and two-room bar for $19k inside 250km, but it is homemade and the listing is thin, so inspect it.",
       "status": "live",
       "first_seen": "2026-10-27",
-      "updated": "2026-11-01",
+      "updated": "2026-11-02",
       "photo": "img/finds/fb-4498847773713057.jpg"
+    },
+    {
+      "key": "fb-1595486731869298",
+      "want": "portable-home",
+      "title": "Portable accommodation building, 6m x 3m, with bathroom",
+      "price_aud": 15000,
+      "location": "Shepparton, VIC",
+      "distance_km": 260,
+      "detail": [
+        "6m x 3m",
+        "bathroom (per listing)",
+        "used, like new, no leaks",
+        "tilt-tray delivery can be arranged",
+        "number of rooms not stated"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1595486731869298/",
+      "verdict": "stretch",
+      "why": "Solid 6m hut with a bathroom and delivery on offer, but the ad does not say it has two rooms.",
+      "status": "live",
+      "ends": null,
+      "first_seen": "2026-11-02",
+      "updated": "2026-11-02"
     },
     {
       "key": "fb-1636995964726865",
@@ -652,7 +676,7 @@
       "why": "Cheapest new Euro-hitch loader rake found at $1,890, 2.1m wide to sit inside the P5130 loader frame.",
       "status": "live",
       "first_seen": "2026-10-18",
-      "updated": "2026-11-01",
+      "updated": "2026-11-02",
       "photo": "img/finds/fb-1636995964726865.jpg"
     },
     {
@@ -675,7 +699,7 @@
       "why": "Local maker 150km away, 2.4 m with the heaviest tines on the list and Euro hitch standard.",
       "status": "live",
       "first_seen": "2026-10-18",
-      "updated": "2026-11-01",
+      "updated": "2026-11-02",
       "photo": "img/finds/m4u-956441.jpg",
       "photo_url": "https://media.machines4u.com.au/machinery/41/956441/Berrigan-Stick-rake-2400-HD-MADE-TOUGH-IN-AUSTRALIA_62086332.h.jpg"
     },
@@ -699,7 +723,7 @@
       "why": "Bisalloy tines and a Euro option, but no width or hp rating, and the model name hints at a skid-steer size.",
       "status": "live",
       "first_seen": "2026-10-18",
-      "updated": "2026-11-01",
+      "updated": "2026-11-02",
       "photo": "img/finds/farmtender-130183.jpg",
       "photo_url": "https://media.farmtender.com.au/listings/69e97353a3003/large/c724b4508e5c7fac073aaeb8d9d5fcc7.jpeg"
     },
@@ -724,7 +748,7 @@
       "why": "Known brand at the right width, but posted from Melbourne with freight extra, built to order, and lighter tines than the BEH rakes.",
       "status": "live",
       "first_seen": "2026-10-18",
-      "updated": "2026-10-29",
+      "updated": "2026-11-02",
       "photo": "img/finds/earthmovingwarehouse-digga-stick-rake-euro.jpg",
       "photo_url": "https://www.earthmovingwarehouse.com.au/cdn/shop/products/Digga-Stick-Rake-Tractor.jpg?v=1641450859"
     },
@@ -748,7 +772,7 @@
       "why": "Same heavy local build with tighter tine spacing; ask whether the wings are actually included.",
       "status": "live",
       "first_seen": "2026-10-18",
-      "updated": "2026-11-01",
+      "updated": "2026-11-02",
       "photo": "img/finds/m4u-946957.jpg",
       "photo_url": "https://media.machines4u.com.au/machinery/57/946957/BEH-Stick-rake-2400-WITH-WINGS-MADE-TOUGH-IN-AUSTRALIA_61902648.h.jpg"
     },
@@ -775,7 +799,7 @@
       "why": "Still the best value on the list: a 2022 cab tractor with a 4-in-1 loader at 251 hrs, 190 km away. It is $18,000 under the ceiling and has sat 10 weeks, so there is room to offer.",
       "status": "live",
       "first_seen": "2026-10-14",
-      "updated": "2026-11-01",
+      "updated": "2026-11-02",
       "photo": "img/finds/fb-1027921470152750.jpg"
     },
     {
@@ -905,7 +929,7 @@
       "why": "Clears every must at 92hp and 1,375 hrs with a cab and a 4-in-1 loader, and it is $7,400 under the ceiling. It is 410 km away and has sat for 10 weeks, so there is room to offer.",
       "status": "live",
       "first_seen": "2026-10-15",
-      "updated": "2026-11-01",
+      "updated": "2026-11-02",
       "photo": "img/finds/fb-1336993044818018.jpg"
     },
     {
@@ -932,7 +956,7 @@
       "status": "live",
       "ends": "2026-11-12",
       "first_seen": "2026-10-25",
-      "updated": "2026-11-01",
+      "updated": "2026-11-02",
       "photo": "img/finds/auctionsplus-129297-1470171.jpg",
       "photo_url": "https://auctionsplusblob.blob.core.windows.net/apmediaprod/Photos/1639285652916943282_86d8b40a-f56b-4e31-84d1-42e0709cd749.webp"
     }
