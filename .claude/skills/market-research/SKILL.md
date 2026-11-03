@@ -87,6 +87,19 @@ Asian open. Write for that:
      for events that were cancelled or moved.
    - **Macro**: 3-5 sentences on the backdrop that matters for these themes right now
      (rates, AI capex, semis, energy policy, China).
+   - **Kevin channel (private input, do this yourself, not in a subagent)**: read
+     `https://discord.com/channels/519749471102304258/1324786557936472198`
+     (Meet Kevin, #alpha-reports-and-trades) in the owner's logged-in Chrome via the
+     claude-in-chrome tools, read-only. Only posts newer than the timestamp in
+     `~/wilkosz-private/kevin/last_seen.txt`; the substance is in the screenshots, so zoom
+     into them. Append dated notes (ticker, action, size if shown) to
+     `~/wilkosz-private/kevin/notes.md` and update `last_seen.txt`. Never click, react or post.
+     If Chrome isn't connected or not logged in, skip it and say so in the report.
+     **This is paid members' content and the site is public:** it may shape takes, but never
+     name Kevin, quote him, describe his trades or link the channel in anything that goes
+     through `merge.py` (takes, news, headlines, summary, notes), and never put the notes
+     inside this repo. Report his new moves only in the step 6 chat report, under "Kevin
+     (private)".
 
 3. **Write one run file** at `/tmp/market-research-run.json` (or the scratchpad dir):
    ```json
@@ -145,7 +158,8 @@ Asian open. Write for that:
    If push is rejected, `git pull --rebase origin main` and push again.
 
 6. **Report** in 5-10 lines: date, notable holding news, watchlist changes, and the
-   commit hash. No need to repeat the whole log.
+   commit hash. Then a separate "Kevin (private)" section with his new posts since the
+   last run, or why the channel was skipped. No need to repeat the whole log.
 
 ## If the prompt carries extra instructions
 
