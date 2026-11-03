@@ -94,7 +94,9 @@ Asian open. Write for that:
      `~/wilkosz-private/kevin/last_seen.txt`; the substance is in the screenshots, so zoom
      into them. Append dated notes (ticker, action, size if shown) to
      `~/wilkosz-private/kevin/notes.md` and update `last_seen.txt`. Never click, react or post.
-     If Chrome isn't connected or not logged in, skip it and say so in the report.
+     If Chrome isn't connected or not logged in, skip it and say so in the report. Never log
+     in for the owner. Read slowly (a few seconds between scrolls, no bulk backfills): a fast
+     scripted scroll back on 2026-11-04 got the session logged out.
      **This is paid members' content and the site is public:** it may shape takes, but never
      name Kevin, quote him, describe his trades or link the channel in anything that goes
      through `merge.py` (takes, news, headlines, summary, notes), and never put the notes
