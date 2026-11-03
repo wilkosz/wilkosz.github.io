@@ -1,11 +1,8 @@
 {
-  "as_of": "2026-11-02T13:50",
-  "summary": "The EXEQ expandable container house in Shepparton dropped about $4,700 to $13,441 inc GST, now the cheapest container option on the list. Everything else is unchanged; still no new loader tractor in band.",
+  "as_of": "2026-11-03T00:00",
+  "summary": "Offer of $52,500 lodged on the 2015 Kioti PX1002 package after it passed in at $51,500. Awaiting the vendor's answer.",
   "headlines": [
-    "EXEQ expandable container house with ensuite, Shepparton, down to $13,441 inc GST from $18,150; 260km, pick-up only.",
-    "New: 6m x 3m portable building with bathroom, Shepparton, $15,000; room count not stated.",
-    "Barellan tow-behind fuel tank auction closes Thu 5 Nov, 3pm AEDT.",
-    "No new tractor cleared the bar; MF 7614 clearing sale closes 12 Nov."
+    "Offer in: $52,500 on 2015 Kioti PX1002, 1,200 hours, loader, slasher, post-hole digger; passed in at $51,500."
   ],
   "finds": [
     {
@@ -777,6 +774,34 @@
       "photo_url": "https://media.machines4u.com.au/machinery/57/946957/BEH-Stick-rake-2400-WITH-WINGS-MADE-TOUGH-IN-AUSTRALIA_61902648.h.jpg"
     },
     {
+      "key": "auctionsplus-129203-1470696",
+      "want": "tractor",
+      "title": "2015 Kioti PX1002 100hp 4WD cab with KL901 loader, slasher, post-hole digger",
+      "price_aud": 52500,
+      "price_note": "our offer, pending; passed in at $51,500; 0% buyer premium; GST status not stated",
+      "location": "Oxley, VIC",
+      "distance_km": 330,
+      "detail": [
+        "1,200 hours, full service at 1,000",
+        "100hp, 4WD power shuttle",
+        "cab with air con and heat",
+        "KL901 loader, 4-in-1 bucket, hay forks",
+        "Howard Nugget 6ft slasher",
+        "post-hole digger with 3 augers",
+        "Vic registered"
+      ],
+      "source": "AuctionsPlus",
+      "url": "https://auctionsplus.com.au/auction-results/machinery/auctionsplus-multi-vendor-machinery-auction/2015-kioti-px1002-100hp-4wd-tractor-plus-impl/listing/129203-1470696/browse",
+      "verdict": "strong",
+      "why": "Full package with low hours; tractor and loader net out around $44-48k after the attachments.",
+      "status": "live",
+      "ends": null,
+      "first_seen": "2026-10-26",
+      "updated": "2026-11-03",
+      "photo": "img/finds/auctionsplus-129203-1470696.jpg",
+      "photo_url": "https://auctionsplusblob.blob.core.windows.net/apmediaprod/Photos/1639286078176258395_ce0ec826-317f-48a0-91cf-24b04e208112.webp"
+    },
+    {
       "key": "fb-1027921470152750",
       "want": "tractor",
       "title": "2022 McCormick S-Max 90hp 4WD cab tractor with loader and 4-in-1 bucket, 251 hours",
@@ -801,33 +826,6 @@
       "first_seen": "2026-10-14",
       "updated": "2026-11-02",
       "photo": "img/finds/fb-1027921470152750.jpg"
-    },
-    {
-      "key": "auctionsplus-129203-1470696",
-      "want": "tractor",
-      "title": "2015 Kioti PX1002 100hp 4WD cab with KL901 loader, slasher and post-hole digger",
-      "price_aud": null,
-      "price_note": "auction closed 29 Oct; result not visible without login",
-      "location": "Oxley, VIC",
-      "distance_km": 320,
-      "detail": [
-        "2015",
-        "1,200 hours",
-        "100hp, 4WD, power shuttle",
-        "KL901 loader, 4-in-1 bucket, hay forks",
-        "cab with air-con",
-        "includes Howard 6ft slasher and post-hole digger"
-      ],
-      "source": "AuctionsPlus (AWN Wangaratta)",
-      "url": "https://auctionsplus.com.au/auctions/machinery/auctionsplus-multi-vendor-machinery-auction/2015-kioti-px1002-100hp-4wd-tractor-plus-impl/listing/129203-1470696",
-      "verdict": "strong",
-      "why": "Low hours, factory loader, cab and 100hp from a listed maker, with a slasher thrown in; should land inside the $80k ceiling.",
-      "status": "gone",
-      "ends": "2026-10-29",
-      "first_seen": "2026-10-26",
-      "updated": "2026-10-30",
-      "photo": "img/finds/auctionsplus-129203-1470696.jpg",
-      "photo_url": "https://auctionsplusblob.blob.core.windows.net/apmediaprod/Photos/1639286078176258395_ce0ec826-317f-48a0-91cf-24b04e208112.webp"
     },
     {
       "key": "fb-4587767698160637",
