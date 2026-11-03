@@ -66,13 +66,13 @@
     "sector": "AI",
     "status": "accumulate",
     "conviction": "high",
-    "thesis": "Seoul shares +4.5% Mon Nov 2 (KRW 1,482,000) as the Kospi rebounded 2.2%; Korea's October chip exports were reported up 259% y/y. Fri Oct 30 US close $149.21 (-8.0% day). Q3 operating profit ~KRW 83.3T, revenue over KRW 100T for the first time, ~80% operating margin. HBM4 in full mass production and expected to overtake HBM3E in Q4.",
+    "thesis": "Tue Nov 3: SK hynix down about 5% in early Seoul trade as the KOSPI fell more than 3%, following Monday's 3.4% SOX drop. Seoul shares +4.5% Mon Nov 2 (KRW 1,482,000) as the Kospi rebounded 2.2%; Korea's October chip exports were reported up 259% y/y. Fri Oct 30 US close $149.21 (-8.0% day). Q3 operating profit ~KRW 83.3T, revenue over KRW 100T for the first time, ~80% operating margin. HBM4 in full mass production and expected to overtake HBM3E in Q4.",
     "risks": "Kioxia fell ~16% in Tokyo the same day on a weak December-quarter outlook, a reminder that not all memory names are winning. Net income fell ~58% QoQ on a Q2 one-off; the cycle is at a peak and the stock is crowded.",
     "price_usd": 149.21,
     "catalyst": "Q4 HBM4 mix shift; 2026 shareholder return plan (~$75B reported)",
-    "source": "https://tradingkey.com/analysis/stocks/more/262263510-japan-korea-stocks-skhy-kospi-nikkei-samsung-kioxia-ai-softbank-fomc-ai-tradingkey",
+    "source": "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---us-mid-term-elections-today-the-focus---3-november-2026-03112026",
     "added": "2026-08-24",
-    "updated": "2026-11-02"
+    "updated": "2026-11-03"
   },
   {
     "ticker": "BE",
@@ -81,13 +81,13 @@
     "sector": "Energy",
     "status": "accumulate",
     "conviction": "medium",
-    "thesis": "Fri Oct 30 close $203.17 (-8.6% day, +5.1% week). Citi lifted its target to $284 from $281 (about Oct 29). Bloom makes solid-oxide fuel cells for onsite data-centre power. Q3 revenue was a record $1.236B (+138% y/y), adjusted EPS $0.94 vs $0.69, and 2026 guidance was raised to $4.4-4.6B. After falling 19% over Oct 22-23 it has rebounded: $221.07 (+8.4%) early Tuesday Oct 27, about 15% above the Oct 23 close, with Barclays raising its target to $316.",
+    "thesis": "Tue Nov 3: up about 10-12% intraday after Barclays upgraded to Overweight ($289 target) and Bloom signed a non-binding MOU with California Resources and Carbon TerraVault to evaluate at least 1 GW of fuel cells with carbon capture; shares had fallen about 31% in the prior month. Fri Oct 30 close $203.17 (-8.6% day, +5.1% week). Citi lifted its target to $284 from $281 (about Oct 29). Bloom makes solid-oxide fuel cells for onsite data-centre power. Q3 revenue was a record $1.236B (+138% y/y), adjusted EPS $0.94 vs $0.69, and 2026 guidance was raised to $4.4-4.6B. After falling 19% over Oct 22-23 it has rebounded: $221.07 (+8.4%) early Tuesday Oct 27, about 15% above the Oct 23 close, with Barclays raising its target to $316.",
     "risks": "Capex of $153M (from $12M) to double capacity turned Q3 cash flow negative; delivery depends on Oracle and Brookfield sites arriving on time; Jefferies cut its target to $242 from $289 after the print.",
     "price_usd": 203.17,
     "catalyst": "Oracle Jupiter permit Nov 23; 2027 guidance and backlog figure with Q4 results (February).",
-    "source": "https://stockanalysis.com/stocks/be/history/",
+    "source": "https://invezz.com/news/2026/11/03/why-is-bloom-energy-stock-rising-10-today/",
     "added": "2026-08-24",
-    "updated": "2026-10-31"
+    "updated": "2026-11-03"
   },
   {
     "ticker": "GEV",
@@ -156,13 +156,13 @@
     "sector": "Internet",
     "status": "accumulate",
     "conviction": "high",
-    "thesis": "Fri Oct 30 close $280.70 (-9.5% day, -13.8% week). No company-specific news found for the drop; Q3 results Nov 5. Cloudflare runs a global edge network selling security, CDN, zero-trust and the Workers developer platform; Q2 revenue was $696M (+36%) and it guided Q3 to $736-737M. It was $331.00 early Tuesday Oct 27, near flat, holding the Oct 22-24 cybersecurity rally while chips rebounded.",
+    "thesis": "Tue Nov 3: JPMorgan upgraded to Overweight from Equal Weight, $350 target. Q3 results Thursday Nov 5. Fri Oct 30 close $280.70 (-9.5% day, -13.8% week). No company-specific news found for the drop; Q3 results Nov 5. Cloudflare runs a global edge network selling security, CDN, zero-trust and the Workers developer platform; Q2 revenue was $696M (+36%) and it guided Q3 to $736-737M. It was $331.00 early Tuesday Oct 27, near flat, holding the Oct 22-24 cybersecurity rally while chips rebounded.",
     "risks": "The stock has had 38 moves of more than 5% in a year and now sits close to the consensus target, so Q3 has to beat and raise.",
     "price_usd": 280.7,
     "catalyst": "Q3 results Thu Nov 5 after US close, call 5:00pm ET (09:00 AEDT Fri Nov 6).",
-    "source": "https://stockanalysis.com/stocks/net/history/",
+    "source": "https://247wallst.com/investing/2026/11/03/buy-sell-or-hold-tuesdays-top-upgrades-and-downgrades-aon-bloom-energy-chevron-cloudflare-marvell-technologies-lumentum-holdings-merck-co-roku-x-energy-and-more/",
     "added": "2026-08-24",
-    "updated": "2026-10-31"
+    "updated": "2026-11-03"
   },
   {
     "ticker": "SE",

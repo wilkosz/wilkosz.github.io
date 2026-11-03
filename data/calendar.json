@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-02",
+  "as_of": "2026-11-03",
   "events": [
     {
       "key": "2026-11-02-aapl-q4",
@@ -8,8 +8,8 @@
       "ticker": "AAPL",
       "title": "Apple fiscal Q4 2026 results and call (first under CEO John Ternus)",
       "type": "earnings",
-      "why": "Love. Guide was +9-11% revenue, iPhone up mid-teens. Lands the morning of the RBA decision; iPhone Duo sales fall in the December quarter.",
-      "link": "https://macdailynews.com/2026/10/07/apple-to-report-q426-earnings-on-monday-november-2nd/"
+      "why": "Out: revenue $114.5B vs ~$113.4B consensus; iPhone $57.6B (+17%) despite supply limits; EPS $2.10 (+14%); FY26 revenue record $479B. Guided December-quarter gross margin 45-46% on memory costs and missed on Greater China; stock lower Tuesday.",
+      "link": "https://www.macrumors.com/2026/11/02/apple-4q-2026-earnings/"
     },
     {
       "key": "2026-11-02-us-ism-mfg",
@@ -29,8 +29,8 @@
       "ticker": "PLTR",
       "title": "Palantir Q3 2026 results and webcast",
       "type": "earnings",
-      "why": "Confirmed by Palantir's Oct 12 release. Guide revenue $2.160-2.164B. AI software demand read alongside AAPL the same evening.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-announces-date-third-quarter-200500055.html"
+      "why": "Out: revenue $2.313B (+96% y/y) vs $2.160-2.164B guide; US commercial $984M (+148%). Q4 guide $2.649-2.653B; FY26 raised to $8.530-8.534B.",
+      "link": "https://www.sec.gov/Archives/edgar/data/0001321655/000132165526000045/a2026q3ex991pressrelease.htm"
     },
     {
       "key": "2026-11-03-alab-q3",
@@ -59,8 +59,8 @@
       "ticker": "MACRO",
       "title": "US job openings (JOLTS), September",
       "type": "macro",
-      "why": "Labour demand read ahead of the Nov 6 payrolls; on the BLS November schedule.",
-      "link": "https://www.bls.gov/schedule/2026/11_sched_list.htm"
+      "why": "Out: September openings 7.5M (4.5% rate), up from a revised 7.2M; hires 5.4M (3.4%); quits 3.4M, up on the month. Low-hire, low-fire.",
+      "link": "https://www.bls.gov/news.release/jolts.nr0.htm"
     },
     {
       "key": "2026-11-03-us-midterms",
@@ -79,8 +79,8 @@
       "ticker": "RBA",
       "title": "RBA cash rate decision and November Statement on Monetary Policy (Board meets Nov 2-3)",
       "type": "central_bank",
-      "why": "Cash rate 4.60% after the September hike; September-quarter CPI lands Oct 28 first. Press conference time now confirmed by the RBA.",
-      "link": "https://www.rba.gov.au/media-releases/2025/mr-25-02.html"
+      "why": "Out: hiked 25bp to 4.85% (6-3; three voted to hold at 4.60%). Inflation outlook materially higher on fuel and capacity pressures; not back to the top of 2-3% until late 2027.",
+      "link": "https://www.rba.gov.au/media-releases/2026/mr-26-30.html"
     },
     {
       "key": "2026-11-03-smci-q1-fy27",

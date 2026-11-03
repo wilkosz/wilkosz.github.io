@@ -1,5 +1,77 @@
 [
   {
+    "date": "2026-11-03",
+    "ticker": "AAPL",
+    "headline": "Apple beats on Q4 but guides margins lower on memory costs",
+    "summary": "Revenue rose 12% and iPhone revenue rose 17.5%. Gross margin guidance of 45-46% for December was below the 46.3% analysts expected, and shares fell about 3% after hours.",
+    "source": "https://www.euronews.com/2026/11/03/apple-earnings-beat-expectations-but-rising-chip-costs-worry-investors",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-03",
+    "ticker": "BE",
+    "headline": "Bloom up about 11% on Barclays upgrade and 1 GW MOU",
+    "summary": "Barclays to Overweight, $289 target; non-binding MOU with California Resources for at least 1 GW of fuel cells with carbon capture.",
+    "source": "https://invezz.com/news/2026/11/03/why-is-bloom-energy-stock-rising-10-today/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-03",
+    "ticker": "NET",
+    "headline": "JPMorgan upgrades Cloudflare to Overweight",
+    "summary": "Target $350; results Thursday Nov 5.",
+    "source": "https://247wallst.com/investing/2026/11/03/buy-sell-or-hold-tuesdays-top-upgrades-and-downgrades-aon-bloom-energy-chevron-cloudflare-marvell-technologies-lumentum-holdings-merck-co-roku-x-energy-and-more/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-03",
+    "ticker": "SKHY",
+    "headline": "SK hynix about -5% as KOSPI drops over 3%",
+    "summary": "Korea memory names fell early Tuesday after Monday's 3.4% SOX slide.",
+    "source": "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---us-mid-term-elections-today-the-focus---3-november-2026-03112026",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-03",
+    "ticker": "RBA",
+    "headline": "RBA hikes to 4.85% in a 6-3 vote",
+    "summary": "Second hike in two meetings; inflation seen above band until late 2027.",
+    "source": "https://www.rba.gov.au/media-releases/2026/mr-26-30.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-02",
+    "ticker": "MRVL",
+    "headline": "Marvell falls 13% and Lumentum 19% on the all-stock megadeal",
+    "summary": "Investors questioned the 115B all-stock purchase. Because Lumentum holders get a fixed 4.5 Marvell shares each, Lumentum fell with Marvell.",
+    "source": "https://finance.yahoo.com/technology/ai/articles/marvells-115-billion-lumentum-acquisition-133000048.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-02",
+    "ticker": "MU",
+    "headline": "Chips sold off Monday: MU -5.8%, NVDA -1.3%, AMZN +2.2%",
+    "summary": "Money rotated out of tech, and the Nasdaq fell 1.1% while the Dow rose. Apple fell 1.8% in the regular session ahead of its results.",
+    "source": "https://cappnotes.substack.com/p/closing-look-monday-november-2-2026",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-02",
+    "ticker": "AAPL",
+    "headline": "Apple beats on revenue, guides margin 45-46% on memory costs",
+    "summary": "Revenue $114.5B, iPhone +17%; Greater China missed; shares lower Tuesday.",
+    "source": "https://www.macrumors.com/2026/11/02/apple-4q-2026-earnings/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-11-02",
+    "ticker": "PLTR",
+    "headline": "Palantir revenue +96% to $2.313B, FY guide raised",
+    "summary": "Q4 guide $2.649-2.653B; US commercial +148%.",
+    "source": "https://www.sec.gov/Archives/edgar/data/0001321655/000132165526000045/a2026q3ex991pressrelease.htm",
+    "impact": "positive"
+  },
+  {
     "date": "2026-11-02",
     "ticker": "MRVL",
     "headline": "Marvell signs all-stock deal to buy Lumentum",
@@ -565,78 +637,6 @@
     "headline": "Vertiv completes King Environmental Services purchase",
     "summary": "The deal adds fluid-management services for high-density data centres across Europe, the Middle East and Africa, two days before Q3 results.",
     "source": "https://stockanalysis.com/stocks/vrt/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-25",
-    "ticker": "MELI",
-    "headline": "Brazil runoff too close to call; Lula slightly ahead at half count",
-    "summary": "TSE had Lula 50.14% and Flavio Bolsonaro 49.86% with about half counted, after the lead swapped several times. Prediction markets favoured Lula; a Lula win would weigh on Brazilian assets.",
-    "source": "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-23",
-    "ticker": "MU",
-    "headline": "Taoyuan members reject Micron profit-sharing offer; talks pushed to Oct 27 by typhoon",
-    "summary": "About 70% of voting members rejected the offer. Micron's new global quarterly bonus starts in fiscal 2027, but the union wants a fixed 15% of operating profit.",
-    "source": "https://www.tradingkey.com/analysis/stocks/us-stocks/262235910-micron-taoyuan-union-mu-profit-sharing-talks-tradingkey",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-23",
-    "ticker": "OPENAI",
-    "headline": "OpenAI nears up to $30B round at $1.25T, down from $1.4T target",
-    "summary": "Coatue and UAE funds are reported to be leading the round, seen as a bridge to a possible 2027 IPO. Nothing has been signed or announced.",
-    "source": "https://www.aol.com/articles/openai-aiming-30-billion-funding-131325000.html",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-23",
-    "ticker": "GOOGL",
-    "headline": "Alphabet reports Wed Oct 28; consensus about $128B revenue",
-    "summary": "Results come after the close, with the call at 4:30pm ET. Consensus EPS is about $3.02-3.04. Cloud growth against rising capex is the focus.",
-    "source": "https://primexbt.com/for-traders/alphabet-earnings-date/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-23",
-    "ticker": "MACRO",
-    "headline": "S&P 500 -0.5%, Nasdaq -0.7% for the week; second straight weekly loss",
-    "summary": "S&P 500 closed at 7,623.68 and the Nasdaq at 25,955.34 on Oct 23; the Dow rose 0.4% and the Russell 2000 2.0% on the week. Rising oil weighed on Friday.",
-    "source": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-201458598.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-23",
-    "ticker": "MACRO",
-    "headline": "Brent hits about $116, highest since June 2022, up 5% on the week",
-    "summary": "Driven by talk of renewed US strikes on Iran and Houthi attacks on Saudi Arabia; the war is not settled, with Hormuz navigation the main sticking point. WTI near $102.50.",
-    "source": "https://www.middleeastmonitor.com/20261023-brent-crude-hits-highest-since-june-2022-on-fears-of-renewed-us-strikes-on-iran/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-23",
-    "ticker": "FED",
-    "headline": "10-year falls 8bp on the week to 5.00% as money leaves AI stocks",
-    "summary": "First weekly close below 5% in four weeks; 2-year 4.69%, 30-year 5.32%. Futures still price one more hike in December; CME put October hike odds near 9% (hold about 91%) ahead of the Oct 27-28 meeting.",
-    "source": "https://finance.yahoo.com/markets/currencies/articles/stocktwits-weekly-spread-shaped-treasury-010033087.html",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-23",
-    "ticker": "ANTHROPIC",
-    "headline": "Anthropic and Hg plan a European AI consulting firm, per FT",
-    "summary": "Offices in London and Berlin, starting by end-2026, aiming for a valuation above $10B within five years. Adds services revenue ahead of the planned November IPO.",
-    "source": "https://www.techzine.eu/news/infrastructure/145245/anthropic-plans-to-launch-a-european-consulting-firm/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-23",
-    "ticker": "ANTHROPIC",
-    "headline": "Anthropic merges Claude chat and Cowork into one experience for Enterprise",
-    "summary": "Chats move into a cloud sandbox when a task needs code or files. It is off by default for existing organisations and turns on by default Nov 16.",
-    "source": "https://pymnts.com/news/artificial-intelligence/2026/anthropic-merges-claude-chat-and-cowork-for-enterprise-users",
     "impact": "neutral"
   }
 ]

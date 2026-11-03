@@ -1,111 +1,112 @@
 {
-  "as_of": "2026-11-02T18:55",
-  "market_summary": "Intraday Mon Nov 2, about 11:30am ET: S&P 500 +0.6%, Nasdaq +0.8%, Dow +1.1%, a partial rebound after Friday's chip rout (S&P -1.8%, Nasdaq -2.9%). Crude fell about 7% on Iran ceasefire hopes (Brent near $107), the 10-year eased to about 4.94%, and ISM manufacturing beat at 55.5 with prices paid falling. In Asia the Kospi closed +2.2% on SK hynix (+4.5%), the Hang Seng rose about 0.5%, and the Nikkei slipped 0.3% as Kioxia fell 16%. SOX intraday move not confirmed. Next, AEDT: Apple results 9am Tue; RBA 2:30pm Tue; AMD, Astera and Supermicro Wed morning; US jobs 12:30am Sat.",
+  "as_of": "2026-11-03T18:55",
+  "market_summary": "Monday Nov 2 US close: S&P 500 -0.5%, Nasdaq -1.1%, SOX -3.4% (about 22% below its Oct 6 high, a bear market) while the Dow rose 0.4% and oil fell nearly 8% on US-Iran talk hopes. The RBA hiked 25bp to 4.85% on Nov 3, a 6-3 vote, citing a materially higher inflation outlook. Tuesday Asia: KOSPI fell more than 3% early (Samsung, SK hynix about -5%), ASX +0.4%, Hang Seng slightly higher. Intraday Tuesday about 1:40pm ET: S&P 500 +0.7%, Nasdaq +1.1%, Dow -0.2% as chips rebound and Apple slips after earnings; 10-yr about 4.95%, WTI about $96 (-0.5%), Brent about $103. September JOLTS openings rose to 7.5M from a revised 7.2M; midterm options priced about a 0.9% S&P move today, results from about 11:00 AEDT Wed. Next, AEDT: midterm results from 11am Wed; Astera, AMD, Supermicro results Wed morning; US jobs 12:30am Sat.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "Up about 4.2% by 1pm ET Monday, leading megacaps after Friday's tech sell-off. No company news found to explain the move.",
+      "reason": "Rose 2.2% Monday while the Nasdaq fell 1.1%, one of the few big tech names up as money left chips.",
       "price_usd": null,
-      "updated": "2026-11-02"
+      "updated": "2026-11-03"
     },
     "AXOS": {
       "take": "hold",
-      "reason": "No news found since Sunday. Market up about 0.3-1% Monday.",
+      "reason": "No new company news found since Monday.",
       "price_usd": null,
-      "updated": "2026-11-02"
+      "updated": "2026-11-03"
     },
     "BABA": {
       "take": "hold",
-      "reason": "No news found since Sunday. XPeng up about 7% Monday; no Alibaba move checked.",
+      "reason": "No new company news found. Apple reported Greater China revenue up 21%, a sign that China consumer demand is holding up.",
       "price_usd": null,
-      "updated": "2026-11-02"
+      "updated": "2026-11-03"
     },
     "ENPH": {
       "take": "watch",
-      "reason": "No company news found. Brent fell over 7% Monday, which tends to weigh on energy names.",
+      "reason": "No company news. Energy was one of only two sectors to fall sharply Monday, as oil dropped on hopes of US-Iran talks.",
       "price_usd": null,
-      "updated": "2026-11-02"
+      "updated": "2026-11-03"
     },
     "FIGR": {
       "take": "hold",
-      "reason": "No news found since Sunday.",
+      "reason": "No new company news found since Monday.",
       "price_usd": null,
-      "updated": "2026-11-02"
+      "updated": "2026-11-03"
     },
     "GOOGL": {
       "take": "hold",
-      "reason": "No new Alphabet news found since Sunday. Nasdaq gain faded from 1.3% to 0.3% by early afternoon.",
+      "reason": "Still down about 12% from late last week after its Q3 report. No Monday move confirmed.",
       "price_usd": null,
-      "updated": "2026-11-02"
+      "updated": "2026-11-03"
     },
     "LDI": {
       "take": "hold",
-      "reason": "No news found since Sunday.",
+      "reason": "No new company news found. Midterm results could shift the outlook for mortgage rates.",
       "price_usd": null,
-      "updated": "2026-11-02"
+      "updated": "2026-11-03"
     },
     "META": {
       "take": "hold",
-      "reason": "No news found since Sunday. Some big tech fell again Monday as the Nasdaq gain faded.",
+      "reason": "No new company news found. Big tech capex is expected above 700B this year, per Euronews.",
       "price_usd": null,
-      "updated": "2026-11-02"
+      "updated": "2026-11-03"
     },
     "MRVL": {
       "take": "watch",
-      "reason": "Signed all-stock Lumentum deal, 4.5 shares each, about 33% dilution, closing 1H 2028. Shares down about 9.5% by 1pm ET. Q3 revenue guide held, range narrowed.",
+      "reason": "Fell 12.7% Monday on the all-stock Lumentum deal; Lumentum fell 18.6%. Chips rebounded early Tuesday. Deal closes 1H 2028.",
       "price_usd": null,
-      "updated": "2026-11-02"
+      "updated": "2026-11-03"
     },
     "MU": {
       "take": "hold",
-      "reason": "Up about 2.4% pre-market Monday as chips bounced after Friday's sell-off. Intraday move not confirmed.",
+      "reason": "Fell 5.8% Monday in the chip selloff. Apple said memory costs are the main squeeze on its margins, which shows memory makers have pricing power.",
       "price_usd": null,
-      "updated": "2026-11-02"
+      "updated": "2026-11-03"
     },
     "NFLX": {
       "take": "hold",
-      "reason": "No news found since Sunday.",
+      "reason": "No new company news found since Monday.",
       "price_usd": null,
-      "updated": "2026-11-02"
+      "updated": "2026-11-03"
     },
     "NVDA": {
       "take": "hold",
-      "reason": "Up about 1-1.4% Monday, a modest bounce after Friday's chip sell-off.",
+      "reason": "Fell 1.3% Monday as chips sold off. Holds stakes in both Marvell and Lumentum. Chips led the rebound early Tuesday.",
       "price_usd": null,
-      "updated": "2026-11-02"
+      "updated": "2026-11-03"
     },
     "RKT": {
       "take": "hold",
-      "reason": "No news found since Sunday.",
+      "reason": "No new company news found. Midterm results could shift the outlook for mortgage rates.",
       "price_usd": null,
-      "updated": "2026-11-02"
+      "updated": "2026-11-03"
     },
     "TSM": {
       "take": "hold",
-      "reason": "No news found since Sunday. Chip peers bounced modestly Monday.",
+      "reason": "No new company news found. Moved with the chip selloff Monday and the rebound Tuesday; its own moves were not checked.",
       "price_usd": null,
-      "updated": "2026-11-02"
+      "updated": "2026-11-03"
     },
     "STRIPE": {
       "take": "hold",
-      "reason": "No new priced round or tender found.",
+      "reason": "No new closed valuation found.",
       "price_usd": null,
-      "updated": "2026-11-02",
+      "updated": "2026-11-03",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "No new closed round found. The last confirmed round closed in March; reports of a larger raise are unconfirmed and undated.",
+      "reason": "No new closed valuation found.",
       "price_usd": null,
-      "updated": "2026-11-02",
+      "updated": "2026-11-03",
       "mark_multiple": 5.43
     }
   },
   "headlines": [
-    "Marvell signed an all-stock deal for Lumentum at a 24% premium; Marvell down 9.5% midday, take stays watch.",
-    "Partial rebound Monday midday: S&P up 0.6%, Nasdaq up 0.8%; oil down about 7% on Iran ceasefire hopes.",
-    "US factory ISM 55.5 beat the 54.6 forecast; production at its highest since November 2021.",
-    "Korea October chip exports up 259% on a year ago; SK hynix up 4.5% in Seoul.",
-    "Next, AEDT: Apple results 9am Tue, RBA 2:30pm Tue, AMD and Astera Wed morning."
+    "RBA raised the cash rate 25bp to 4.85% on a 6-3 vote; inflation seen above band until late 2027.",
+    "Monday: chips fell 3.4%, now about 22% below the Oct 6 high; Marvell -12.7%, Lumentum -18.6%, Micron -5.8%.",
+    "Apple beat on revenue and iPhone (+17%) but guided margins lower on memory costs; down about 3% after hours.",
+    "Tuesday midday rebound: Nasdaq up 1.1%, S&P up 0.7%, on US midterm election day.",
+    "Bloom Energy up about 11% on a Barclays upgrade and a 1 GW fuel-cell deal.",
+    "Next, AEDT: midterm results from 11am Wed; Astera and AMD results Wed morning."
   ]
 }
