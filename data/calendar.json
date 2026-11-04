@@ -1,97 +1,6 @@
 {
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "events": [
-    {
-      "key": "2026-11-02-aapl-q4",
-      "date": "2026-11-02",
-      "time": "Call 14:00 PT / 17:00 ET Mon Nov 2 (09:00 AEDT Tue Nov 3; US clocks go back Nov 1)",
-      "ticker": "AAPL",
-      "title": "Apple fiscal Q4 2026 results and call (first under CEO John Ternus)",
-      "type": "earnings",
-      "why": "Out: revenue $114.5B vs ~$113.4B consensus; iPhone $57.6B (+17%) despite supply limits; EPS $2.10 (+14%); FY26 revenue record $479B. Guided December-quarter gross margin 45-46% on memory costs and missed on Greater China; stock lower Tuesday.",
-      "link": "https://www.macrumors.com/2026/11/02/apple-4q-2026-earnings/"
-    },
-    {
-      "key": "2026-11-02-us-ism-mfg",
-      "date": "2026-11-02",
-      "time": "10:00 ET Mon (02:00 AEDT Tue Nov 3; US clocks go back Nov 1)",
-      "ticker": "MACRO",
-      "title": "ISM manufacturing PMI, October",
-      "type": "macro",
-      "why": "First-business-day rule; listed as estimated pending ISM confirmation (ISM's own calendar is behind a login). Prices-paid and new orders for the machinery names.",
-      "link": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-55-5-october-2026-ism-manufacturing-pmi-report-302925617.html",
-      "outcome": "55.5 vs ~54.6 expected and 54.5 in Sep; 10th straight month of expansion. Production 59.0 (highest since Nov 2021), prices 75.2 (-2.7, largest monthly drop), employment 52.4."
-    },
-    {
-      "key": "2026-11-02-pltr-q3",
-      "date": "2026-11-02",
-      "time": "After US close; webcast 17:00 ET (09:00 AEDT Tue Nov 3)",
-      "ticker": "PLTR",
-      "title": "Palantir Q3 2026 results and webcast",
-      "type": "earnings",
-      "why": "Out: revenue $2.313B (+96% y/y) vs $2.160-2.164B guide; US commercial $984M (+148%). Q4 guide $2.649-2.653B; FY26 raised to $8.530-8.534B.",
-      "link": "https://www.sec.gov/Archives/edgar/data/0001321655/000132165526000045/a2026q3ex991pressrelease.htm"
-    },
-    {
-      "key": "2026-11-03-alab-q3",
-      "date": "2026-11-03",
-      "time": "After US close; call 13:30 PT / 16:30 ET (08:30 AEDT Wed Nov 4)",
-      "ticker": "ALAB",
-      "title": "Astera Labs Q3 2026 results and call",
-      "type": "earnings",
-      "why": "Confirmed by the company's Oct 6 release. Guide revenue $540-560M, non-GAAP EPS $1.16-1.21; Scorpio X and PCIe 6 ramp.",
-      "link": "https://finviz.com/news/399499/astera-labs-announces-conference-call-to-review-third-quarter-2026-financial-results"
-    },
-    {
-      "key": "2026-11-03-amd-q3",
-      "date": "2026-11-03",
-      "time": "After US close; call 17:00 ET (09:00 AEDT Wed Nov 4)",
-      "ticker": "AMD",
-      "title": "AMD Q3 2026 results and call (guide about $13B revenue)",
-      "type": "earnings",
-      "why": "Confirmed by AMD's Oct 6 release. MI-series GPU ramp is the main AI-compute read after the hyperscaler capex guides.",
-      "link": "https://ir.amd.com/news-events/press-releases/detail/1300/amd-to-report-fiscal-third-quarter-2026-financial-results"
-    },
-    {
-      "key": "2026-11-03-us-jolts",
-      "date": "2026-11-03",
-      "time": "10:00 ET Tue (02:00 AEDT Wed Nov 4)",
-      "ticker": "MACRO",
-      "title": "US job openings (JOLTS), September",
-      "type": "macro",
-      "why": "Out: September openings 7.5M (4.5% rate), up from a revised 7.2M; hires 5.4M (3.4%); quits 3.4M, up on the month. Low-hire, low-fire.",
-      "link": "https://www.bls.gov/news.release/jolts.nr0.htm"
-    },
-    {
-      "key": "2026-11-03-us-midterms",
-      "date": "2026-11-03",
-      "time": "Polls close evening ET Tue; results from about 11:00 AEDT Wed Nov 4",
-      "ticker": "MACRO",
-      "title": "US midterm elections (House and Senate)",
-      "type": "macro",
-      "why": "Control of Congress sets tax, spending and energy policy; close races could keep markets uncertain for days.",
-      "link": "https://www.ig.com/sg/trading-strategies/us-2026-midterm-elections-explained--key-dates-and-market-implic-261013"
-    },
-    {
-      "key": "2026-11-03-rba-decision",
-      "date": "2026-11-03",
-      "time": "Decision and Statement on Monetary Policy 14:30 AEDT Tue Nov 3 (22:30 ET Mon Nov 2); Governor's media conference 15:30 AEDT",
-      "ticker": "RBA",
-      "title": "RBA cash rate decision and November Statement on Monetary Policy (Board meets Nov 2-3)",
-      "type": "central_bank",
-      "why": "Out: hiked 25bp to 4.85% (6-3; three voted to hold at 4.60%). Inflation outlook materially higher on fuel and capacity pressures; not back to the top of 2-3% until late 2027.",
-      "link": "https://www.rba.gov.au/media-releases/2026/mr-26-30.html"
-    },
-    {
-      "key": "2026-11-03-smci-q1-fy27",
-      "date": "2026-11-03",
-      "time": "After US close; call 17:00 ET (09:00 AEDT Wed Nov 4)",
-      "ticker": "SMCI",
-      "title": "Supermicro fiscal Q1 2027 results and call",
-      "type": "earnings",
-      "why": "Pre-announced Sep-qtr revenue $18.5-19.5B vs $14.5-15.5B guide, GM 12.0-12.5%. AI server demand read the same evening as AMD.",
-      "link": "https://ir.supermicro.com/news/news-details/2026/Supermicro-Provides-First-Quarter-of-Fiscal-Year-2027-Preliminary-Business-Update/default.aspx"
-    },
     {
       "key": "2026-11-04-arm-q2-fy27",
       "date": "2026-11-04",
@@ -125,12 +34,12 @@
     {
       "key": "2026-11-04-meli-q3",
       "date": "2026-11-04",
-      "time": "TBC (provisional on IR calendar; recent calls 17:00 ET = 09:00 AEDT Thu Nov 5)",
+      "time": "After US close; call 17:00 ET (09:00 AEDT Thu Nov 5)",
       "ticker": "MELI",
-      "title": "MercadoLibre Q3 2026 results (provisional)",
+      "title": "MercadoLibre Q3 2026 results and call",
       "type": "earnings",
-      "why": "IR still lists Nov 4 as provisional as of Oct 21; lands after the Brazil runoff. Watch credit book and margins.",
-      "link": "https://investor.mercadolibre.com/news-and-events"
+      "why": "Confirmed by the company's Oct 29 release. Consensus about $10.7B revenue; watch operating margin and Brazil credit book.",
+      "link": "https://www.businesswire.com/news/home/20261029664909/en/MercadoLibre-Inc.-to-Report-Third-Quarter-2026-Financial-Results"
     },
     {
       "key": "2026-11-04-qcom-q4",
@@ -163,24 +72,34 @@
       "link": "https://www.stocktitan.net/news/NET/cloudflare-announces-date-of-third-quarter-2026-financial-c621nx8sm6zm.html"
     },
     {
+      "key": "2026-11-06-fed-bowman",
+      "date": "2026-11-06",
+      "time": "12:15 ET Fri (04:15 AEDT Sat Nov 7)",
+      "ticker": "FED",
+      "title": "Fed Vice Chair for Supervision Bowman on supervision and regulation",
+      "type": "central_bank",
+      "why": "On the Fed Board calendar; first Board speaker after the jobs data.",
+      "link": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+    },
+    {
       "key": "2026-11-06-us-jobs",
       "date": "2026-11-06",
       "time": "08:30 ET Fri (00:30 AEDT Sat Nov 7)",
       "ticker": "MACRO",
-      "title": "US jobs report (Employment Situation), October",
+      "title": "US jobs report, October",
       "type": "macro",
-      "why": "No payrolls print falls before the Oct 28 FOMC (September's came Oct 2). This is the first jobs read for the December hike call.",
-      "link": "https://www.bls.gov/schedule/2026/11_sched_list.htm"
+      "why": "BLS schedule confirmed. Last big labour read before the Dec 9 Fed meeting; markets price about 77% odds of a December hike.",
+      "link": "https://www.bls.gov/schedule/news_release/empsit.htm"
     },
     {
       "key": "2026-11-09-cftc-gpu-futures",
       "date": "2026-11-09",
-      "time": "TBC",
-      "ticker": "NVDA",
-      "title": "CFTC review of CME H100/B200 GPU rental futures (Nov 9 date not confirmed)",
+      "time": "End of CFTC extended review (no set time)",
+      "ticker": "CME",
+      "title": "CFTC review deadline for CME H100/B200 GPU rental futures",
       "type": "other",
-      "why": "Holding read. CME's Oct 5 launch was put on hold while the CFTC extended its review; no source found confirming a Nov 9 deadline. Approval would give the first public forward curve for compute prices.",
-      "link": "https://cryptobriefing.com/commodity-brokers-prepare-ai-compute-futures/"
+      "why": "Contracts are deemed approved at the end of the period unless the CFTC objects or review is extended; CME would still need to set a listing date. First public forward curve for GPU rents.",
+      "link": "https://www.desilvalawoffices.com/articles/blog/2026/october/gpu-compute-futures-cftc-review-of-cme-and-ice-c/"
     },
     {
       "key": "2026-11-09-tsm-oct-revenue",
@@ -191,6 +110,16 @@
       "type": "other",
       "why": "Holding. First monthly AI-foundry demand read after the hyperscaler capex prints and the Oct 30 chip sell-off.",
       "link": "https://uk.marketscreener.com/quote/stock/TSMC-TAIWAN-SEMICONDUCTOR-6492349/calendar/"
+    },
+    {
+      "key": "2026-11-10-crwv-q3",
+      "date": "2026-11-10",
+      "time": "After US close; call 17:00 ET (09:00 AEDT Wed Nov 11)",
+      "ticker": "CRWV",
+      "title": "CoreWeave Q3 2026 results and call",
+      "type": "earnings",
+      "why": "Confirmed Oct 27. The neocloud credit test: watch funding, GPU depreciation lives and backlog; its CDS widened again Nov 4.",
+      "link": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Date-of-Third-Quarter-2026-Financial-Results-and-Conference-Call/default.aspx"
     },
     {
       "key": "2026-11-10-us-cpi",
@@ -213,6 +142,36 @@
       "link": "https://www.financialcontent.com/article/bizwire-2026-10-27-sea-limited-to-report-third-quarter-2026-results"
     },
     {
+      "key": "2026-11-10-tsm-oct-revenue",
+      "date": "2026-11-10",
+      "time": "TBC (estimate; usually Taipei afternoon, evening AEDT)",
+      "ticker": "TSM",
+      "title": "TSMC October 2026 revenue",
+      "type": "other",
+      "why": "Date not announced; September revenue was NT$511.86B (+54.6% y/y). Q4 guide US$52.3-54.3B.",
+      "link": "https://pr.tsmc.com/english/news/3343"
+    },
+    {
+      "key": "2026-11-12-amat-q4",
+      "date": "2026-11-12",
+      "time": "After US close; call 16:30 ET (08:30 AEDT Fri Nov 13)",
+      "ticker": "AMAT",
+      "title": "Applied Materials fiscal Q4 2026 results and call",
+      "type": "earnings",
+      "why": "Confirmed Oct 22. Chip-equipment read for ASML, TER and Keyence.",
+      "link": "https://www.marketscreener.com/news/applied-materials-to-report-fourth-quarter-and-fiscal-2026-results-on-nov-12-2026-ce785cded980f32c"
+    },
+    {
+      "key": "2026-11-12-csco-q1-fy27",
+      "date": "2026-11-12",
+      "time": "TBC (estimated after US close; last year's call was 16:30 ET)",
+      "ticker": "CSCO",
+      "title": "Cisco fiscal Q1 2027 results (date not confirmed)",
+      "type": "earnings",
+      "why": "Estimates range Nov 11-18; AI networking orders from hyperscalers. Not yet announced by Cisco.",
+      "link": "https://www.tipranks.com/stocks/csco/earnings"
+    },
+    {
       "key": "2026-11-12-figr-q3",
       "date": "2026-11-12",
       "time": "Before US open Thu; call 08:30 ET (00:30 AEDT Fri Nov 13)",
@@ -231,6 +190,26 @@
       "type": "product",
       "why": "Apple's first new device category in years; early demand reads land in the holiday quarter. Not sold in the EU.",
       "link": "https://www.macobserver.com/news/homeview-homepod-mini-2-apple-tv-4k-release-dates/"
+    },
+    {
+      "key": "2026-11-17-nvda-q3-fy27",
+      "date": "2026-11-17",
+      "time": "Commentary ~13:20 PT / 16:20 ET; call 14:00 PT / 17:00 ET Tue (09:00 AEDT Wed Nov 18)",
+      "ticker": "NVDA",
+      "title": "Nvidia Q3 fiscal 2027 results and call",
+      "type": "earnings",
+      "why": "Confirmed in Nvidia's Oct 28 release. The main AI-demand read for the month: data-centre revenue, gross margin, customer concentration, Rubin ramp.",
+      "link": "https://www.investing.com/news/company-news/nvidia-schedules-q3-fiscal-2027-earnings-call-for-nov-17-93CH-4980909"
+    },
+    {
+      "key": "2026-11-18-fomc-minutes",
+      "date": "2026-11-18",
+      "time": "14:00 ET Wed (06:00 AEDT Thu Nov 19)",
+      "ticker": "FED",
+      "title": "FOMC minutes, Oct 27-28 meeting",
+      "type": "central_bank",
+      "why": "Fed held at 3.75-4.00% (10-2, a dissent for a hike). Minutes show how close a December hike is.",
+      "link": "https://www.federalreserve.gov/newsevents/2026-november.htm"
     },
     {
       "key": "2026-11-21-keyence-split",

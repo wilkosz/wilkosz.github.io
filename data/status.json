@@ -1,112 +1,111 @@
 {
-  "as_of": "2026-11-03T18:55",
-  "market_summary": "Monday Nov 2 US close: S&P 500 -0.5%, Nasdaq -1.1%, SOX -3.4% (about 22% below its Oct 6 high, a bear market) while the Dow rose 0.4% and oil fell nearly 8% on US-Iran talk hopes. The RBA hiked 25bp to 4.85% on Nov 3, a 6-3 vote, citing a materially higher inflation outlook. Tuesday Asia: KOSPI fell more than 3% early (Samsung, SK hynix about -5%), ASX +0.4%, Hang Seng slightly higher. Intraday Tuesday about 1:40pm ET: S&P 500 +0.7%, Nasdaq +1.1%, Dow -0.2% as chips rebound and Apple slips after earnings; 10-yr about 4.95%, WTI about $96 (-0.5%), Brent about $103. September JOLTS openings rose to 7.5M from a revised 7.2M; midterm options priced about a 0.9% S&P move today, results from about 11:00 AEDT Wed. Next, AEDT: midterm results from 11am Wed; Astera, AMD, Supermicro results Wed morning; US jobs 12:30am Sat.",
+  "as_of": "2026-11-04T18:40",
+  "market_summary": "Democrats won both chambers in the midterms and US stocks rallied: Dow up about 2.9%, Nasdaq up 1.9% intraday. Treasury yields slipped a few bps, the 10-year near 4.9%, and oil fell more than 8% on expectations of pressure to end the Iran war; no confirmed progress in Iran talks was found. AI leaders lagged (NVDA, MU, TSM about -1%) while mega-cap platforms led, though AMD's Q3 beat (+7% after hours) supports AI capex demand. ADP showed 86,000 private jobs in October; ISM services and ARM/QCOM results were not yet confirmed at time of writing. No material China news found.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "Rose 2.2% Monday while the Nasdaq fell 1.1%, one of the few big tech names up as money left chips.",
+      "reason": "Up about 7% intraday Nov 4 in the post-midterm rally. AWS AI demand thesis unchanged.",
       "price_usd": null,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     "AXOS": {
       "take": "hold",
-      "reason": "No new company news found since Monday.",
+      "reason": "No material news since Nov 3. Lower yields help bank margins at the margin.",
       "price_usd": null,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     "BABA": {
       "take": "hold",
-      "reason": "No new company news found. Apple reported Greater China revenue up 21%, a sign that China consumer demand is holding up.",
+      "reason": "No material news since Nov 3. China cloud and AI thesis unchanged.",
       "price_usd": null,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     "ENPH": {
       "take": "watch",
-      "reason": "No company news. Energy was one of only two sectors to fall sharply Monday, as oil dropped on hopes of US-Iran talks.",
+      "reason": "Renewables bid on a Democratic Congress, but policy changes take time. Keep on watch until demand turns.",
       "price_usd": null,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     "FIGR": {
       "take": "hold",
-      "reason": "No new company news found since Monday.",
+      "reason": "No material news since Nov 3.",
       "price_usd": null,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     "GOOGL": {
       "take": "hold",
-      "reason": "Still down about 12% from late last week after its Q3 report. No Monday move confirmed.",
+      "reason": "Up about 5% intraday Nov 4 as mega-caps led the midterm rally.",
       "price_usd": null,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     "LDI": {
       "take": "hold",
-      "reason": "No new company news found. Midterm results could shift the outlook for mortgage rates.",
+      "reason": "Falling yields after the midterms are a modest tailwind for mortgage volumes.",
       "price_usd": null,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     "META": {
       "take": "hold",
-      "reason": "No new company news found. Big tech capex is expected above 700B this year, per Euronews.",
+      "reason": "Up about 2% intraday Nov 4. No company news.",
       "price_usd": null,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     "MRVL": {
       "take": "watch",
-      "reason": "Fell 12.7% Monday on the all-stock Lumentum deal; Lumentum fell 18.6%. Chips rebounded early Tuesday. Deal closes 1H 2028.",
+      "reason": "No new company news. AI names lagged the broad rally; stay on watch.",
       "price_usd": null,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     "MU": {
       "take": "hold",
-      "reason": "Fell 5.8% Monday in the chip selloff. Apple said memory costs are the main squeeze on its margins, which shows memory makers have pricing power.",
+      "reason": "Down about 1% while AI-linked names lagged the rally. Memory pricing thesis intact.",
       "price_usd": null,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     "NFLX": {
       "take": "hold",
-      "reason": "No new company news found since Monday.",
+      "reason": "No material news since Nov 3.",
       "price_usd": null,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     "NVDA": {
       "take": "hold",
-      "reason": "Fell 1.3% Monday as chips sold off. Holds stakes in both Marvell and Lumentum. Chips led the rebound early Tuesday.",
+      "reason": "Down about 1% Nov 4 as money rotated away from AI leaders. AMD beat is supportive read-across for AI demand.",
       "price_usd": null,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     "RKT": {
       "take": "hold",
-      "reason": "No new company news found. Midterm results could shift the outlook for mortgage rates.",
+      "reason": "Lower yields after the midterms help refinance volumes at the margin.",
       "price_usd": null,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     "TSM": {
       "take": "hold",
-      "reason": "No new company news found. Moved with the chip selloff Monday and the rebound Tuesday; its own moves were not checked.",
+      "reason": "Down about 1% in Asia trade. AMD beat supports leading-edge demand.",
       "price_usd": null,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     "STRIPE": {
       "take": "hold",
-      "reason": "No new closed valuation found.",
+      "reason": "No new valuation reported since last run.",
       "price_usd": null,
-      "updated": "2026-11-03",
+      "updated": "2026-11-04",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "No new closed valuation found.",
+      "reason": "No new valuation reported since last run.",
       "price_usd": null,
-      "updated": "2026-11-03",
+      "updated": "2026-11-04",
       "mark_multiple": 5.43
     }
   },
   "headlines": [
-    "RBA raised the cash rate 25bp to 4.85% on a 6-3 vote; inflation seen above band until late 2027.",
-    "Monday: chips fell 3.4%, now about 22% below the Oct 6 high; Marvell -12.7%, Lumentum -18.6%, Micron -5.8%.",
-    "Apple beat on revenue and iPhone (+17%) but guided margins lower on memory costs; down about 3% after hours.",
-    "Tuesday midday rebound: Nasdaq up 1.1%, S&P up 0.7%, on US midterm election day.",
-    "Bloom Energy up about 11% on a Barclays upgrade and a 1 GW fuel-cell deal.",
-    "Next, AEDT: midterm results from 11am Wed; Astera and AMD results Wed morning."
+    "Democrats take both chambers; Dow up about 2.9% intraday, oil down 8%, 10-yr near 4.9%.",
+    "Mega-caps lead: AMZN +7%, GOOGL +5%, META +2%; NVDA -1% as AI hardware lags.",
+    "Texas governor result pledges a data-centre pause; VRT -14%, GEV -10%, BE -8% intraday.",
+    "AMD beats in Q3, up 7% after hours; added to watchlist. CRDO dropped.",
+    "Next: Cloudflare Thu after US close (Fri 9am AEDT); jobs Fri (Sat 00:30 AEDT); Nvidia Nov 17."
   ]
 }
