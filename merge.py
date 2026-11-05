@@ -9,7 +9,7 @@ Run file shape (all keys optional except as_of):
   "market_summary": "...",                 # replaces data/status.json market_summary
   "headlines": ["..."],                    # replaces status.json headlines: what changed since last run
   "takes": {                               # merged over existing takes, keyed by holding ticker
-    "AMZN": {"take": "hold|add|trim|watch", "reason": "...", "price_usd": 123.4}
+    "AMZN": {"take": "hold|add|trim|watch", "reason": "...", "price_usd": 123.4, "pe_forward": 30.5}
   },
   "watchlist": [                           # upsert by (ticker, exchange); 'added' is preserved
     {"ticker": "X", "exchange": "US", "name": "...", "sector": "AI|Internet|Machinery|Energy",

@@ -109,7 +109,7 @@ Asian open. Write for that:
      "as_of": "YYYY-MM-DDTHH:MM",
      "market_summary": "...",
      "headlines": ["3-6 one-liners: what changed since last run, most important first"],
-     "takes": {"NVDA": {"take": "hold", "reason": "...", "price_usd": 0.0}},
+     "takes": {"NVDA": {"take": "hold", "reason": "...", "price_usd": 0.0, "pe_forward": 0.0}},
      "watchlist": [
        {"ticker": "X", "exchange": "US", "name": "...", "sector": "AI",
         "status": "buy", "conviction": "high", "thesis": "...", "risks": "...",
@@ -137,6 +137,10 @@ Asian open. Write for that:
    Use holding tickers exactly as in `holdings.json` (private: `STRIPE`, `OPENAI`);
    for loved private companies use `ANTHROPIC`, `CURSOR`. Include takes for **all** holdings
    every run (price refresh), even if the take is unchanged.
+   Add `"pe_forward"` to each public take: price / next-12-month consensus EPS, one number
+   (e.g. `31.2`), from one source on the same day for every name (stockanalysis.com
+   statistics page is a good default). `null` if earnings are negative or you can't find it.
+   It is rendered under the weight; it is a multiple, not a price, so it is allowed.
    For private holdings (`cost_usd` / `cost_date` in `holdings.json`) add `"mark_multiple"`:
    latest reported valuation divided by the valuation at `cost_date` (e.g. `2.27`), plus the
    source in the reason. Only change it when a new round / tender / secondary mark is reported.

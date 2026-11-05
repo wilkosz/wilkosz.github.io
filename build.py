@@ -416,6 +416,9 @@ def render_portfolio(holdings, status):
     for h in holdings:
         t = takes.get(h["ticker"], {})
         weight = fmt_weight(w, h["ticker"])
+        pe = t.get("pe_forward")
+        if pe is not None:
+            weight += '<br><span class="nw">fwd P/E %.0fx</span>' % float(pe)
         rows.append(
             '<tr><td><b>%s</b>:%s</td><td data-label="weight" class="nw">%s</td><td data-label="take">%s</td></tr>'
             % (
