@@ -1,111 +1,124 @@
 {
-  "as_of": "2026-11-04T18:40",
-  "market_summary": "Democrats won both chambers in the midterms and US stocks rallied: Dow up about 2.9%, Nasdaq up 1.9% intraday. Treasury yields slipped a few bps, the 10-year near 4.9%, and oil fell more than 8% on expectations of pressure to end the Iran war; no confirmed progress in Iran talks was found. AI leaders lagged (NVDA, MU, TSM about -1%) while mega-cap platforms led, though AMD's Q3 beat (+7% after hours) supports AI capex demand. ADP showed 86,000 private jobs in October; ISM services and ARM/QCOM results were not yet confirmed at time of writing. No material China news found.",
+  "as_of": "2026-11-05T18:40",
+  "market_summary": "Nasdaq -5.2% (now in correction) and S&P 500 -3.9% on Nov 5, the S&P's worst day since April 2025. Chips had their worst day since March 2020 (SOXX about -11%) on fears that the Democratic midterm sweep and a proposed data-centre moratorium will slow AI capex. Investors moved into Treasuries: the 10-year fell to 4.83% and the 2-year dropped 10bp. Odds of a December Fed hike fell to about 70% from 83%, although Barkin still expects gradual hikes. Oil fell more than 8% overnight on hopes that the Qatar-brokered Iran talks end the war, and Alibaba rose while US tech fell.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "Up about 7% intraday Nov 4 in the post-midterm rally. AWS AI demand thesis unchanged.",
-      "price_usd": null,
-      "updated": "2026-11-04"
+      "reason": "Down 2.6% in the tech selloff. Much smaller move than chips. Forward P/E about 26.",
+      "price_usd": 259.08,
+      "updated": "2026-11-05",
+      "pe_forward": 26.16
     },
     "AXOS": {
       "take": "hold",
-      "reason": "No material news since Nov 3. Lower yields help bank margins at the margin.",
-      "price_usd": null,
-      "updated": "2026-11-04"
+      "reason": "Down 1.9% with the broader market. No company news. Forward P/E about 9.",
+      "price_usd": 92.77,
+      "updated": "2026-11-05",
+      "pe_forward": 9.19
     },
     "BABA": {
       "take": "hold",
-      "reason": "No material news since Nov 3. China cloud and AI thesis unchanged.",
-      "price_usd": null,
-      "updated": "2026-11-04"
+      "reason": "Up 1.4% while US tech fell. Not exposed to the US data-centre politics. Forward P/E about 13.",
+      "price_usd": 106.78,
+      "updated": "2026-11-05",
+      "pe_forward": 13.24
     },
     "ENPH": {
       "take": "watch",
-      "reason": "Renewables bid on a Democratic Congress, but policy changes take time. Keep on watch until demand turns.",
-      "price_usd": null,
-      "updated": "2026-11-04"
+      "reason": "Down 10% in a risk-off session. No company-specific news found. Forward P/E about 28.",
+      "price_usd": 28.39,
+      "updated": "2026-11-05",
+      "pe_forward": 27.82
     },
     "FIGR": {
       "take": "hold",
-      "reason": "No material news since Nov 3.",
-      "price_usd": null,
-      "updated": "2026-11-04"
+      "reason": "Down 10% as small caps (Russell 2000 -4.6%) fell into correction. Q3 results expected mid-November.",
+      "price_usd": 20.62,
+      "updated": "2026-11-05",
+      "pe_forward": 16.77
     },
     "GOOGL": {
       "take": "hold",
-      "reason": "Up about 5% intraday Nov 4 as mega-caps led the midterm rally.",
-      "price_usd": null,
-      "updated": "2026-11-04"
+      "reason": "Down 2% while chips fell 9-15%. Forward P/E about 21.",
+      "price_usd": 283.18,
+      "updated": "2026-11-05",
+      "pe_forward": 20.53
     },
     "LDI": {
       "take": "hold",
-      "reason": "Falling yields after the midterms are a modest tailwind for mortgage volumes.",
-      "price_usd": null,
-      "updated": "2026-11-04"
+      "reason": "Down 7%. Lower Treasury yields help mortgage lenders, but the stock trades on sentiment. No forward P/E shown.",
+      "price_usd": 0.63,
+      "updated": "2026-11-05"
     },
     "META": {
       "take": "hold",
-      "reason": "Up about 2% intraday Nov 4. No company news.",
-      "price_usd": null,
-      "updated": "2026-11-04"
+      "reason": "Down 4% on concerns about AI capex and debt. Forward P/E about 18.",
+      "price_usd": 604.17,
+      "updated": "2026-11-05",
+      "pe_forward": 18.35
     },
     "MRVL": {
       "take": "watch",
-      "reason": "No new company news. AI names lagged the broad rally; stay on watch.",
-      "price_usd": null,
-      "updated": "2026-11-04"
+      "reason": "Down 14%, one of the worst holdings, as AI infrastructure names sold off. Forward P/E about 24.",
+      "price_usd": 137.0,
+      "updated": "2026-11-05",
+      "pe_forward": 24.28
     },
     "MU": {
       "take": "hold",
-      "reason": "Down about 1% while AI-linked names lagged the rally. Memory pricing thesis intact.",
-      "price_usd": null,
-      "updated": "2026-11-04"
+      "reason": "Down 15%. Memory names were hit hardest (SanDisk -20%). Forward P/E under 4 points to peak-earnings pricing.",
+      "price_usd": 675.08,
+      "updated": "2026-11-05",
+      "pe_forward": 3.83
     },
     "NFLX": {
       "take": "hold",
-      "reason": "No material news since Nov 3.",
-      "price_usd": null,
-      "updated": "2026-11-04"
+      "reason": "Down 1.6%. Not tied to AI capex. Forward P/E about 18.",
+      "price_usd": 65.33,
+      "updated": "2026-11-05",
+      "pe_forward": 18.2
     },
     "NVDA": {
       "take": "hold",
-      "reason": "Down about 1% Nov 4 as money rotated away from AI leaders. AMD beat is supportive read-across for AI demand.",
-      "price_usd": null,
-      "updated": "2026-11-04"
+      "reason": "Down about 9% as semis had their worst day since March 2020. Forward P/E about 15.",
+      "price_usd": 182.66,
+      "updated": "2026-11-05",
+      "pe_forward": 15.11
     },
     "RKT": {
       "take": "hold",
-      "reason": "Lower yields after the midterms help refinance volumes at the margin.",
-      "price_usd": null,
-      "updated": "2026-11-04"
+      "reason": "Down 1.7%. A 6bp fall in the 10-year yield helps mortgage demand. Forward P/E about 25.",
+      "price_usd": 14.76,
+      "updated": "2026-11-05",
+      "pe_forward": 25.03
     },
     "TSM": {
       "take": "hold",
-      "reason": "Down about 1% in Asia trade. AMD beat supports leading-edge demand.",
-      "price_usd": null,
-      "updated": "2026-11-04"
+      "reason": "Down about 10% with the chip sector. No company news. Forward P/E about 17.",
+      "price_usd": 357.94,
+      "updated": "2026-11-05",
+      "pe_forward": 17.14
     },
     "STRIPE": {
       "take": "hold",
-      "reason": "No new valuation reported since last run.",
+      "reason": "Private. No new valuation reported this run.",
       "price_usd": null,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "No new valuation reported since last run.",
+      "reason": "Private. The selloff in public AI infrastructure names and Sanders' call for a data-centre moratorium are risks to AI funding. No new valuation reported.",
       "price_usd": null,
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "mark_multiple": 5.43
     }
   },
   "headlines": [
-    "Democrats take both chambers; Dow up about 2.9% intraday, oil down 8%, 10-yr near 4.9%.",
-    "Mega-caps lead: AMZN +7%, GOOGL +5%, META +2%; NVDA -1% as AI hardware lags.",
-    "Texas governor result pledges a data-centre pause; VRT -14%, GEV -10%, BE -8% intraday.",
-    "AMD beats in Q3, up 7% after hours; added to watchlist. CRDO dropped.",
-    "Next: Cloudflare Thu after US close (Fri 9am AEDT); jobs Fri (Sat 00:30 AEDT); Nvidia Nov 17."
+    "Chips have their worst day since March 2020: MU -15%, MRVL -14%, NVDA and TSM about -10% intraday.",
+    "Nasdaq down about 5% into correction on fear of data-centre pauses after the Democratic sweep; no law exists yet.",
+    "GPU rents still at highs: H100 $2.97/hr, B200 $6.70, up 6-14% on the week while the stocks fall.",
+    "10-yr falls to 4.83% and December hike odds slip to about 70%; rate-sensitive names still fell.",
+    "Next: Cloudflare results Fri 9am AEDT; jobs Sat 00:30 AEDT; CPI Wed Nov 11; Nvidia Wed Nov 18."
   ]
 }

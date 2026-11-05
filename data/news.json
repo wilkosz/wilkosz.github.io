@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-11-05",
+    "ticker": "NVDA",
+    "headline": "Chip stocks have worst day since March 2020; Nasdaq enters correction",
+    "summary": "SOXX fell about 11%. Nasdaq -5.2%, S&P 500 -3.9%, Dow down about 1,600 points. Traders fear a slower data-centre build-out after the Democratic midterm sweep. Nvidia and Broadcom were down about 9%, AMD and Micron about 15%.",
+    "source": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-05",
+    "ticker": "MU",
+    "headline": "Memory names lead the losses: Micron -13%, SanDisk -20% midday",
+    "summary": "AI infrastructure names fell across the board: CoreWeave -12%, Corning -13%, Lumentum -14%, Astera Labs -15%.",
+    "source": "https://www.cnbc.com/2026/11/05/stocks-making-the-biggest-moves-midday-mu-tsla-trip-app-nvda.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-05",
+    "ticker": "META",
+    "headline": "Investors question how hyperscalers are funding AI capex",
+    "summary": "Barclays cites concern about how long the AI infrastructure supercycle can last. SOXX is down more than 23% in a month, while the Dow is up 4.1%. Goldman says a Democratic Congress could make data-centre builds slower and costlier.",
+    "source": "https://www.cnbc.com/2026/11/05/the-rotation-out-of-tech-is-becoming-a-risk-for-the-broader-market.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-05",
+    "ticker": "RKT",
+    "headline": "10-year yield falls to 4.83%, 2-year down 10bp",
+    "summary": "Investors moved into Treasuries during the tech selloff. October payrolls are due Friday, with a 59k gain expected. Jobless claims came in at 189k.",
+    "source": "https://www.cnbc.com/2026/11/05/treasury-yields-bonds-interest-rates.html",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-05",
+    "ticker": "LDI",
+    "headline": "Barkin expects further gradual rate hikes",
+    "summary": "Richmond Fed President Barkin named inflation as the top risk, said AI is adding to price pressures, and flagged more than $500bn of hyperscaler debt as worth watching. He is not a voter until 2027.",
+    "source": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-05",
+    "ticker": "MELI",
+    "headline": "MercadoLibre Q3: revenue +45%, operating income -6%",
+    "summary": "Revenue $10.75B; margin 6.3%; EPS $8.83; TPV +53%; credit book +62%. Stock about -13% intraday.",
+    "source": "https://www.sec.gov/Archives/edgar/data/0001099590/000109959026000027/meli-20260930xex991.htm",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-05",
+    "ticker": "AMD",
+    "headline": "AI chips sell off on midterm data-centre fears",
+    "summary": "S&P about -3.5% and Nasdaq -4.7% midday; AMD -14.6%, NVDA -7.5%, CoreWeave -12.1%; Kospi -5.3%. 10-yr yield 4.83%.",
+    "source": "https://spectrumlocalnews.com/us/snplus/business/2026/11/05/stock-market-ai-chip-selloff",
+    "impact": "negative"
+  },
+  {
     "date": "2026-11-04",
     "ticker": "MARKET",
     "headline": "Democrats win Congress; stocks rally, oil falls over 8%",
@@ -86,6 +142,14 @@
     "summary": "Second hike in two meetings; inflation seen above band until late 2027.",
     "source": "https://www.rba.gov.au/media-releases/2026/mr-26-30.html",
     "impact": "negative"
+  },
+  {
+    "date": "2026-11-02",
+    "ticker": "ENPH",
+    "headline": "Oil slips as Iran-Qatar talks continue for a third day",
+    "summary": "Brent was down 1.4%. Iran's foreign minister called the talks 'ongoing and progressing'. Oil later fell more than 8% overnight into Nov 5 on expectations of pressure to end the war.",
+    "source": "https://www.nst.com.my/amp/business/economy/2026/11/1568718/oil-slips-more-1-cent-talks-continue-ending-iran-war",
+    "impact": "neutral"
   },
   {
     "date": "2026-11-02",
@@ -574,69 +638,5 @@
     "summary": "Q3 revenue $5.83B (+83%) and adjusted EPS $3.30 topped guidance; 2026 raised to $21.0B, and 2027 guided to $40B revenue and $21.50 EPS. Shares were up about 10% early Tuesday.",
     "source": "https://www.sec.gov/Archives/edgar/data/0001030894/000103089426000049/cls-20260930prcondensedfs.htm",
     "impact": "positive"
-  },
-  {
-    "date": "2026-10-26",
-    "ticker": "AVGO",
-    "headline": "Banks and Blackstone line up $63B to finance Broadcom chips for Anthropic",
-    "summary": "A new vehicle will buy Broadcom accelerators and networking and lease them to Anthropic from 2027; about $43.5B is senior debt and Broadcom provides residual-value support to lenders.",
-    "source": "https://www.investing.com/news/stock-market-news/wall-street-banks-blackstone-line-up-63-billion-to-finance-broadcom-chips-for-anthropic-4973662",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-26",
-    "ticker": "CRWV",
-    "headline": "CoreWeave five-year CDS at 1,148bp, off an Oct 22 peak of 1,167bp",
-    "summary": "S&P Global data imply about a 62% five-year default probability, versus 835bp a month earlier.",
-    "source": "https://www.tradingview.com/news/benzinga:595e6852b094b:0-coreweave-debt-fears-hit-a-record-some-are-whispering-lehman/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-26",
-    "ticker": "ANTHROPIC",
-    "headline": "Anthropic publicly files S-1 for Nasdaq IPO under ticker ANT",
-    "summary": "H1 2026 revenue was $16.3B, up 1,300% year on year. The net loss was $80.7B, mostly non-cash charges on financing instruments. Goldman Sachs and Morgan Stanley lead the deal, and reports put the valuation at $1.5-2T with listing in mid-November.",
-    "source": "https://www.anthropic.com/news/s1-sec",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-26",
-    "ticker": "NVDA",
-    "headline": "Anthropic S-1: about $3.1B a month to SpaceX for Nvidia-GPU compute",
-    "summary": "The filing commits up to $120.5B into 2029 for SpaceX compute on Nvidia GPUs, plus deals with Microsoft, Nscale and Lambda. Meanwhile neoclouds Nvidia backs are down 30%+ in October, which tests its $36B in off-balance-sheet backstops.",
-    "source": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-26",
-    "ticker": "META",
-    "headline": "Meta launches $35B equity offering to fund AI buildout",
-    "summary": "The offering is $22.5B of Class A stock via forward sales plus $12.5B of mandatory convertible preferred. A further ~$60B non-voting Class C at-the-market program is planned from Q1 2027. Shares swung from -4% to +1% premarket.",
-    "source": "https://www.investing.com/news/stock-market-news/meta-falls-as-it-launches-35-billion-equity-offering-to-fund-ai-buildout-4972118",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-26",
-    "ticker": "MACRO",
-    "headline": "Lula wins Brazil runoff; Brazil ADRs plunge",
-    "summary": "Lula won about 51.8% to 48.2% for a fourth term, and Flavio Bolsonaro says he will challenge the result. The Brazil ETF fell more than 27% premarket, Petrobras about 22% and MercadoLibre about 11%.",
-    "source": "https://www.riotimesonline.com/brazil-runoff-october-25-2026-flavio-bolsonaro-lula/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-26",
-    "ticker": "FED",
-    "headline": "Futures price ~91% hold at Oct 27-28 FOMC, ~80% December hike",
-    "summary": "US futures rose Monday as Brent eased after Trump ruled out an immediate Iran strike. The 10-year is near 5%. The decision is due Thu 5am AEDT, followed by Warsh's press conference.",
-    "source": "https://fxstreet.com/news/dow-jones-futures-rise-on-easing-middle-east-tensions-fed-rate-pause-bets-202610260846",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-26",
-    "ticker": "MELI",
-    "headline": "Lula wins Brazil runoff; MELI down 11.7% at the open",
-    "summary": "The electoral court declared Lula the winner with about 51.8% to 48.2%; Flavio Bolsonaro refused to concede and will seek annulment. MELI opened at $1,578 and traded at $1,598 early, from $1,810; Brazil ETFs and real futures fell about 10-19% overnight.",
-    "source": "https://www.yahoo.com/news/politics/articles/lula-declared-winner-brazil-run-044823546.html",
-    "impact": "negative"
   }
 ]
