@@ -1,11 +1,10 @@
 {
-  "as_of": "2026-11-04T13:40",
-  "summary": "Quiet day. The 2010 McCormick T-Max 100 at $72,600 has gone. Everything else checked is still listed at the same price, and the Kioti offer is still pending.",
+  "as_of": "2026-11-05T13:40",
+  "summary": "Quiet day. One price drop on the offset discs; everything else checked is unchanged. Kioti offer still pending.",
   "headlines": [
-    "2010 McCormick T-Max 100 ($72,600) is gone, marked sold.",
+    "Baldan CRSG28 28-plate offset discs down $1,000 to $7,000.",
     "No new finds worth a call today.",
-    "17 other Facebook finds still listed, no price moves.",
-    "Kioti PX1002 offer of $52,500 still pending; MF 7614 closes 12 Nov."
+    "Kioti PX1002 offer of $52,500 still pending; MF 7614 auction closes 12 Nov."
   ],
   "finds": [
     {
@@ -56,7 +55,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-08",
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "photo": "img/finds/fb-1166415099041888.jpg"
     },
     {
@@ -81,7 +80,7 @@
       "why": "Undamaged MF single tine at $350 firm, but no hp or depth stated; unchanged after 16 weeks.",
       "status": "live",
       "first_seen": "2026-10-10",
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "photo": "img/finds/fb-1794651221505734.jpg"
     },
     {
@@ -179,7 +178,7 @@
       "why": "The tank-and-stand option for $500: gravity feeds a tractor with no pump, but it's rusty, so check inside for scale and leaks.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "photo": "img/finds/fb-2603503066789216.jpg"
     },
     {
@@ -228,7 +227,7 @@
       "why": "Tidy tandem 1000 L cart with pump, 40km away; listed 9 weeks, so there may be room on price.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "photo": "img/finds/fb-913292798511535.jpg"
     },
     {
@@ -275,7 +274,7 @@
       "why": "Cheapest working diesel tank found, in use until last month, but rusty, bare and 190km away.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "photo": "img/finds/fb-1680015046874285.jpg"
     },
     {
@@ -298,8 +297,34 @@
       "why": "Clean-looking 1000 L tank 40km away, but bare: budget for a pump or a stand.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "photo": "img/finds/fb-1663698828091004.jpg"
+    },
+    {
+      "key": "fb-1730861284788002",
+      "want": "offset-discs",
+      "title": "Baldan CRSG28 28-plate trailing offset disc",
+      "price_aud": 7000,
+      "price_note": "cash on pickup only",
+      "location": "Myrtleford, VIC",
+      "distance_km": 320,
+      "detail": [
+        "28 plates, owned since new",
+        "about 2.4 t, oil bath bearings",
+        "seller says it needs about 130hp; pulled with a Case 1370",
+        "plates worn: seller quoted $135+GST a plate to replace (about $3,800+GST for 28)",
+        "width not stated by seller; a WA dealer's new CRSG28 lists 3,200 mm and 125-140hp",
+        "Serafin (Yoogali) lists a new CRSG 28+1 at $24,400+GST",
+        "buyer must load and cart it"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1730861284788002/",
+      "verdict": "decent",
+      "why": "A proper heavy Brazilian 28-plate at a third of new, but it sits at the top of the hp range and needs about $3,800 in plates to bite like new.",
+      "status": "live",
+      "first_seen": "2026-10-13",
+      "updated": "2026-11-05",
+      "photo": "img/finds/fb-1730861284788002.jpg"
     },
     {
       "key": "fb-1096043223368086",
@@ -324,7 +349,7 @@
       "why": "Closest used 28-plate, with the bearing work done. Measure the width and check plate wear in person.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "ends": null,
       "photo": "img/finds/fb-1096043223368086.jpg"
     },
@@ -353,7 +378,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "photo": "img/finds/fb-1054966007434070.jpg"
     },
     {
@@ -377,34 +402,8 @@
       "why": "Brand new for the price of a used set, but it is a light Chinese build rated to 100hp and needs assembling.",
       "status": "live",
       "first_seen": "2026-10-12",
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "photo": "img/finds/fb-1576107450589526.jpg"
-    },
-    {
-      "key": "fb-1730861284788002",
-      "want": "offset-discs",
-      "title": "Baldan CRSG28 28-plate trailing offset disc",
-      "price_aud": 8000,
-      "price_note": "cash on pickup only",
-      "location": "Myrtleford, VIC",
-      "distance_km": 320,
-      "detail": [
-        "28 plates, owned since new",
-        "about 2.4 t, oil bath bearings",
-        "seller says it needs about 130hp; pulled with a Case 1370",
-        "plates worn: seller quoted $135+GST a plate to replace (about $3,800+GST for 28)",
-        "width not stated by seller; a WA dealer's new CRSG28 lists 3,200 mm and 125-140hp",
-        "Serafin (Yoogali) lists a new CRSG 28+1 at $24,400+GST",
-        "buyer must load and cart it"
-      ],
-      "source": "Facebook Marketplace",
-      "url": "https://www.facebook.com/marketplace/item/1730861284788002/",
-      "verdict": "decent",
-      "why": "A proper heavy Brazilian 28-plate at a third of new, but it sits at the top of the hp range and needs about $3,800 in plates to bite like new.",
-      "status": "live",
-      "first_seen": "2026-10-13",
-      "updated": "2026-11-04",
-      "photo": "img/finds/fb-1730861284788002.jpg"
     },
     {
       "key": "fb-1005183285292089",
@@ -427,7 +426,7 @@
       "why": "A hardly-used 28-plate for $9,000 about 200 km away, but the listing is three lines long: get the width and hp before driving.",
       "status": "live",
       "first_seen": "2026-10-14",
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "photo": "img/finds/fb-1005183285292089.jpg"
     },
     {
@@ -477,7 +476,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "photo": "img/finds/fb-1117657974131225.jpg"
     },
     {
@@ -503,7 +502,7 @@
       "why": "Premium model from the same Cobram dealer with the kitchen fitted; it clears every must and every prefer at 180km.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "price_note": "up from $22,990",
       "ends": null,
       "photo": "img/finds/fb-1729183591520678.jpg"
@@ -603,7 +602,7 @@
       "why": "Clears the bathroom and two-room bar for $19k inside 250km, but it is homemade and the listing is thin, so inspect it.",
       "status": "live",
       "first_seen": "2026-10-27",
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "photo": "img/finds/fb-4498847773713057.jpg"
     },
     {
@@ -627,7 +626,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-11-02",
-      "updated": "2026-11-04"
+      "updated": "2026-11-05"
     },
     {
       "key": "fb-1636995964726865",
@@ -800,7 +799,7 @@
       "why": "Still the best value on the list: a 2022 cab tractor with a 4-in-1 loader at 251 hrs, 190 km away. It is $18,000 under the ceiling and has sat 10 weeks, so there is room to offer.",
       "status": "live",
       "first_seen": "2026-10-14",
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "photo": "img/finds/fb-1027921470152750.jpg"
     },
     {
