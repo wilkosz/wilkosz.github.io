@@ -1,124 +1,124 @@
 {
-  "as_of": "2026-11-05T18:40",
-  "market_summary": "Nasdaq -5.2% (now in correction) and S&P 500 -3.9% on Nov 5, the S&P's worst day since April 2025. Chips had their worst day since March 2020 (SOXX about -11%) on fears that the Democratic midterm sweep and a proposed data-centre moratorium will slow AI capex. Investors moved into Treasuries: the 10-year fell to 4.83% and the 2-year dropped 10bp. Odds of a December Fed hike fell to about 70% from 83%, although Barkin still expects gradual hikes. Oil fell more than 8% overnight on hopes that the Qatar-brokered Iran talks end the war, and Alibaba rose while US tech fell.",
+  "as_of": "2026-11-06T03:40",
+  "market_summary": "US stocks had their worst day since April 2025 on Nov 5: Nasdaq -5.5%, S&P 500 -4.4%, Dow -3.4%. The chip index fell 12.3%, its worst day since 2020, on fears that midterm results bring tighter data center rules; Micron -17.5%, Marvell -16.4%, TSMC -10.8%, Nvidia -9.3%. A Fed official also argued for more hikes. After hours, Cloudflare rose about 15% on a beat and raise, Nvidia added 1.3% and Lumentum 3.1%.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "Down 2.6% in the tech selloff. Much smaller move than chips. Forward P/E about 26.",
-      "price_usd": 259.08,
-      "updated": "2026-11-05",
-      "pe_forward": 26.16
+      "reason": "Fell 2.2% in the AI rout, far less than chips. AWS thesis unchanged.",
+      "price_usd": 260.21,
+      "updated": "2026-11-06",
+      "pe_forward": 26.27
     },
     "AXOS": {
       "take": "hold",
-      "reason": "Down 1.9% with the broader market. No company news. Forward P/E about 9.",
-      "price_usd": 92.77,
-      "updated": "2026-11-05",
-      "pe_forward": 9.19
+      "reason": "Down 2.2% with the market. No company news; cheap at about 9x forward.",
+      "price_usd": 92.46,
+      "updated": "2026-11-06",
+      "pe_forward": 9.18
     },
     "BABA": {
       "take": "hold",
-      "reason": "Up 1.4% while US tech fell. Not exposed to the US data-centre politics. Forward P/E about 13.",
-      "price_usd": 106.78,
-      "updated": "2026-11-05",
-      "pe_forward": 13.24
+      "reason": "One of few gainers, up 2.6% as money left US AI names.",
+      "price_usd": 108.07,
+      "updated": "2026-11-06",
+      "pe_forward": 13.58
     },
     "ENPH": {
       "take": "watch",
-      "reason": "Down 10% in a risk-off session. No company-specific news found. Forward P/E about 28.",
-      "price_usd": 28.39,
-      "updated": "2026-11-05",
-      "pe_forward": 27.82
+      "reason": "Down 8.2% on a risk-off day. Still waiting for a demand floor.",
+      "price_usd": 28.97,
+      "updated": "2026-11-06",
+      "pe_forward": 28.34
     },
     "FIGR": {
       "take": "hold",
-      "reason": "Down 10% as small caps (Russell 2000 -4.6%) fell into correction. Q3 results expected mid-November.",
-      "price_usd": 20.62,
-      "updated": "2026-11-05",
-      "pe_forward": 16.77
+      "reason": "Down 9.2% with high-beta growth. No company news.",
+      "price_usd": 20.9,
+      "updated": "2026-11-06",
+      "pe_forward": 17.11
     },
     "GOOGL": {
       "take": "hold",
-      "reason": "Down 2% while chips fell 9-15%. Forward P/E about 21.",
-      "price_usd": 283.18,
-      "updated": "2026-11-05",
-      "pe_forward": 20.53
+      "reason": "Down 2.2%, held up well against the Nasdaq's 5.5% drop.",
+      "price_usd": 282.57,
+      "updated": "2026-11-06",
+      "pe_forward": 20.5
     },
     "LDI": {
       "take": "hold",
-      "reason": "Down 7%. Lower Treasury yields help mortgage lenders, but the stock trades on sentiment. No forward P/E shown.",
-      "price_usd": 0.63,
-      "updated": "2026-11-05"
+      "reason": "Down 7.9%, then another 4% after hours. Q3 results due Nov 9.",
+      "price_usd": 0.6255,
+      "updated": "2026-11-06"
     },
     "META": {
       "take": "hold",
-      "reason": "Down 4% on concerns about AI capex and debt. Forward P/E about 18.",
-      "price_usd": 604.17,
-      "updated": "2026-11-05",
-      "pe_forward": 18.35
+      "reason": "Down 4% with AI spenders on data center regulation fears.",
+      "price_usd": 605.08,
+      "updated": "2026-11-06",
+      "pe_forward": 18.37
     },
     "MRVL": {
       "take": "watch",
-      "reason": "Down 14%, one of the worst holdings, as AI infrastructure names sold off. Forward P/E about 24.",
-      "price_usd": 137.0,
-      "updated": "2026-11-05",
-      "pe_forward": 24.28
+      "reason": "Down 16.4%. Lumentum's strong guide supports optics demand, but policy risk on data centers is new. Stay on watch.",
+      "price_usd": 133.55,
+      "updated": "2026-11-06",
+      "pe_forward": 23.64
     },
     "MU": {
       "take": "hold",
-      "reason": "Down 15%. Memory names were hit hardest (SanDisk -20%). Forward P/E under 4 points to peak-earnings pricing.",
-      "price_usd": 675.08,
-      "updated": "2026-11-05",
-      "pe_forward": 3.83
+      "reason": "Down 17.5% on data center policy fears and a reported Taiwan plant pause. Now over 30% off its Oct 28 high. Forward P/E very low on peak-cycle earnings estimates.",
+      "price_usd": 656.39,
+      "updated": "2026-11-06",
+      "pe_forward": 3.72
     },
     "NFLX": {
       "take": "hold",
-      "reason": "Down 1.6%. Not tied to AI capex. Forward P/E about 18.",
-      "price_usd": 65.33,
-      "updated": "2026-11-05",
-      "pe_forward": 18.2
+      "reason": "Down 1.3%; not exposed to the AI capex trade.",
+      "price_usd": 65.56,
+      "updated": "2026-11-06",
+      "pe_forward": 18.26
     },
     "NVDA": {
       "take": "hold",
-      "reason": "Down about 9% as semis had their worst day since March 2020. Forward P/E about 15.",
-      "price_usd": 182.66,
-      "updated": "2026-11-05",
-      "pe_forward": 15.11
+      "reason": "Down 9.3%, near a seven-month low; up 1.3% after hours. About 15x forward.",
+      "price_usd": 181.6,
+      "updated": "2026-11-06",
+      "pe_forward": 15.01
     },
     "RKT": {
       "take": "hold",
-      "reason": "Down 1.7%. A 6bp fall in the 10-year yield helps mortgage demand. Forward P/E about 25.",
-      "price_usd": 14.76,
-      "updated": "2026-11-05",
-      "pe_forward": 25.03
+      "reason": "Down 1.3%, a mild move on a rough day.",
+      "price_usd": 14.82,
+      "updated": "2026-11-06",
+      "pe_forward": 25.15
     },
     "TSM": {
       "take": "hold",
-      "reason": "Down about 10% with the chip sector. No company news. Forward P/E about 17.",
-      "price_usd": 357.94,
-      "updated": "2026-11-05",
-      "pe_forward": 17.14
+      "reason": "Down 10.8% with the chip index. Demand thesis unchanged; about 17x forward.",
+      "price_usd": 353.1,
+      "updated": "2026-11-06",
+      "pe_forward": 16.97
     },
     "STRIPE": {
       "take": "hold",
-      "reason": "Private. No new valuation reported this run.",
+      "reason": "Private. No new news.",
       "price_usd": null,
-      "updated": "2026-11-05",
+      "updated": "2026-11-06",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "Private. The selloff in public AI infrastructure names and Sanders' call for a data-centre moratorium are risks to AI funding. No new valuation reported.",
+      "reason": "Private. Data center regulation talk is a risk to its build-out plans.",
       "price_usd": null,
-      "updated": "2026-11-05",
+      "updated": "2026-11-06",
       "mark_multiple": 5.43
     }
   },
   "headlines": [
-    "Chips have their worst day since March 2020: MU -15%, MRVL -14%, NVDA and TSM about -10% intraday.",
-    "Nasdaq down about 5% into correction on fear of data-centre pauses after the Democratic sweep; no law exists yet.",
-    "GPU rents still at highs: H100 $2.97/hr, B200 $6.70, up 6-14% on the week while the stocks fall.",
-    "10-yr falls to 4.83% and December hike odds slip to about 70%; rate-sensitive names still fell.",
-    "Next: Cloudflare results Fri 9am AEDT; jobs Sat 00:30 AEDT; CPI Wed Nov 11; Nvidia Wed Nov 18."
+    "Nasdaq closes -5.5% into correction; chip index -12.3%, worst day since 2020, on data-centre rule fears.",
+    "Holdings at the close: MU -17.5%, MRVL -16.4%, TSM -10.8%, NVDA -9.3%; BABA the only gainer.",
+    "Cloudflare beats: revenue +39%, Q4 guide above; up 14.7% after hours after -8.3% in the session.",
+    "Lumentum guides next quarter up about 27% but fell 18.7%; read-across for the Marvell deal.",
+    "Next: jobs Sat 00:30 AEDT; loanDepot Q3 Mon Nov 9; CPI Wed Nov 11; Nvidia Wed Nov 18."
   ]
 }

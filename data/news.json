@@ -1,6 +1,54 @@
 [
   {
     "date": "2026-11-05",
+    "ticker": "MU",
+    "headline": "Chip stocks have worst day since 2020; Micron falls 17.5%",
+    "summary": "The chip index fell 12.3% with all 30 members down. Micron fell 17.5%, Nvidia about 9%, also hit by a reported pause at a Taiwan plant over a labor dispute.",
+    "source": "https://www.tradingkey.com/analysis/stocks/us-stocks/262284414-us-stocks-close-nasdaq-sp500-dow-enters-correction-ai-selloff-tradingkey",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-05",
+    "ticker": "NVDA",
+    "headline": "Nasdaq enters correction as AI trade unwinds",
+    "summary": "Nasdaq -5.5%, S&P 500 -4.4%, Dow -3.4%. Worry that new Democratic lawmakers will slow data center approvals. Goldman puts about 45% of planned US capacity in states likely to tighten rules.",
+    "source": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-05",
+    "ticker": "MRVL",
+    "headline": "Marvell falls 16.4% in chip selloff",
+    "summary": "Marvell closed down 16.4% and TSMC down 10.8% as chip and AI infrastructure names were sold.",
+    "source": "https://www.theglobeandmail.com/investing/markets/stocks/MU/pressreleases/8679739/lam-research-monolithic-power-systems-marvell-technology-micron-and-onsemi-shares-are-falling-what-you-need-to-know/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-05",
+    "ticker": "NET",
+    "headline": "Cloudflare Q3 revenue up 39%, guide raised; shares up 15% after hours",
+    "summary": "Q3 revenue $782.5M, up 39%. Q4 guide $845-846M; full-year raised to about $2.96B. Shares fell 8.3% in the session, then rose 14.7% after hours.",
+    "source": "https://www.cloudflare.net/news/news-details/2026/Cloudflare-Announces-Third-Quarter-2026-Financial-Results/default.aspx",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-05",
+    "ticker": "MRVL",
+    "headline": "Lumentum beats and guides next quarter up about 27%",
+    "summary": "Revenue $1.26B, inside guidance. Next-quarter guide $1.575-1.625B. Positive read-across for optical AI networking. Lumentum fell 18.7% in the session, up 3.1% after hours.",
+    "source": "https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-First-Quarter-of-Fiscal-Year-2027-Financial-Results/default.aspx",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-05",
+    "ticker": "LDI",
+    "headline": "loanDepot falls 7.9% ahead of Nov 9 results",
+    "summary": "No Q3 report yet; results due Nov 9. Shares fell another 4% after hours.",
+    "source": "https://stockanalysis.com/stocks/ldi/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-05",
     "ticker": "NVDA",
     "headline": "Chip stocks have worst day since March 2020; Nasdaq enters correction",
     "summary": "SOXX fell about 11%. Nasdaq -5.2%, S&P 500 -3.9%, Dow down about 1,600 points. Traders fear a slower data-centre build-out after the Democratic midterm sweep. Nvidia and Broadcom were down about 9%, AMD and Micron about 15%.",
@@ -590,53 +638,5 @@
     "summary": "Hold expected despite hot inflation, decision Wednesday 2pm ET (Thursday 5am AEDT). Traders will watch for a December hike signal.",
     "source": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-081901995.html",
     "impact": "neutral"
-  },
-  {
-    "date": "2026-10-27",
-    "ticker": "SKHY",
-    "headline": "SK hynix up 5.2% in Seoul on eve of Q3 and return plan",
-    "summary": "Shares closed at KRW 1,341,000 as the KOSPI rose 3.09% and foreigners net bought KRW 836B, a rally credited to Anthropic's IPO filing; Korean press report a KRW 50-60T return package, unconfirmed.",
-    "source": "https://www.mt.co.kr/en/stock/2026/10/27/2026102716110627181",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-27",
-    "ticker": "VRT",
-    "headline": "Vertiv closes $1.45B UtilityInnovation Group purchase",
-    "summary": "Adds microgrid controls and behind-the-meter power systems for AI data centres, with up to $1.15B more in earnout; expected to add to adjusted EPS in year one.",
-    "source": "https://www.sec.gov/Archives/edgar/data/0001674101/000162828026067393/exhibit991vrt-q42026102720.htm",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-27",
-    "ticker": "MELI",
-    "headline": "Citi upgrades MercadoLibre to Buy after election selloff",
-    "summary": "Citi moved to Buy from Neutral with a $2,050 target, a day after the stock fell 7.8% on Lula's win.",
-    "source": "https://www.marketbeat.com/instant-alerts/analyst-mercadolibre-nasdaq-meli-upgraded-at-citigroup-2026-10-27/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-27",
-    "ticker": "SE",
-    "headline": "Sea sets Q3 results for Nov 10",
-    "summary": "Results before the US open on Nov 10 with a call at 7:30am ET (23:30 AEDT).",
-    "source": "https://www.financialcontent.com/article/bizwire-2026-10-27-sea-limited-to-report-third-quarter-2026-results",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-26",
-    "ticker": "GOOGL",
-    "headline": "Anthropic S-1: 48% of revenue via Google, Amazon, Microsoft clouds; $114.5B Google commitment",
-    "summary": "Anthropic sold 48% of its first-half revenue through cloud marketplaces, up from 11% in 2023, and committed at least $114.5B to Google through 2033 and $110B to Amazon through 2036. Q2 sales were $11.6B with a $974M operating profit.",
-    "source": "https://www.investing.com/news/stock-market-news/anthropic-relies-on-google-amazon-and-microsoft-for-nearly-half-its-revenue-4973358",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-26",
-    "ticker": "CLS",
-    "headline": "Celestica beats Q3 and guides 2027 revenue to $40B",
-    "summary": "Q3 revenue $5.83B (+83%) and adjusted EPS $3.30 topped guidance; 2026 raised to $21.0B, and 2027 guided to $40B revenue and $21.50 EPS. Shares were up about 10% early Tuesday.",
-    "source": "https://www.sec.gov/Archives/edgar/data/0001030894/000103089426000049/cls-20260930prcondensedfs.htm",
-    "impact": "positive"
   }
 ]
