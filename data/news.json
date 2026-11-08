@@ -1,5 +1,53 @@
 [
   {
+    "date": "2026-11-06",
+    "ticker": "MARKET",
+    "headline": "October payrolls rise 165,000, unemployment falls to 4.1%",
+    "summary": "BLS: payrolls +165k against a 12-month average of 48k; hourly earnings +0.4% m/m, +3.1% y/y; August and September revised up a combined 84k.",
+    "source": "https://www.bls.gov/news.release/empsit.nr0.htm",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-11-06",
+    "ticker": "MARKET",
+    "headline": "Reuters: traders hope tech storm blows out; Fed hike odds above 80%",
+    "summary": "Thursday's 5.5% Nasdaq drop erased about $2.5 trillion on midterm AI-regulation and data-centre backlash fears. CPI Tuesday and PPI Friday next; Fed meets Dec 8-9.",
+    "source": "https://www.investing.com/news/economy-news/take-five-tech-wreck-and-roll-5006749",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-06",
+    "ticker": "NVDA",
+    "headline": "Chips lead partial rebound after record-scale selloff",
+    "summary": "Tech was the best sector, +1.45%; NVDA +2.8%, MU +5.1%, MRVL +5.7% as the Nasdaq-100 rose 1.35%, while the S&P 500 still lost 2.7% on the week.",
+    "source": "https://cappnotes.substack.com/p/closing-look-friday-november-6-2026",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-06",
+    "ticker": "NET",
+    "headline": "Cloudflare up 9.9% after Q3 beat",
+    "summary": "Q3 revenue $782.5M (+39%); Q4 guide about $845M. Stock closed $268.75.",
+    "source": "https://www.sec.gov/Archives/edgar/data/0001477333/000147733326000060/q326exhibit991.htm",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-06",
+    "ticker": "SKHY",
+    "headline": "SK hynix falls another 10% in Seoul",
+    "summary": "Down 10.4% to 1,132,000 won after -9.5% Nov 5, missing the US rebound.",
+    "source": "https://stockanalysis.com/quote/krx/000660/history/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-06",
+    "ticker": "AMD",
+    "headline": "Chips bounce after worst day since 2020",
+    "summary": "SOX fell 12.25% Nov 5; AMD rebounded 11%, ASML 5%, SOXX 3.5% on Nov 6.",
+    "source": "https://247wallst.com/investing/2026/11/06/chip-stocks-just-had-their-second-worst-day-on-record/",
+    "impact": "neutral"
+  },
+  {
     "date": "2026-11-05",
     "ticker": "MU",
     "headline": "Chip stocks have worst day since 2020; Micron falls 17.5%",
@@ -590,53 +638,5 @@
     "summary": "Revenue was down 29% y/y, sell-through grew 1% against a 10% plan, and Europe fell 11%. Q4 guidance assumes sell-through down about 10% and gross margin of 40-43%.",
     "source": "https://www.sec.gov/Archives/edgar/data/0001463101/000146310126000101/a2026q3exx991pressrelease.htm",
     "impact": "negative"
-  },
-  {
-    "date": "2026-10-27",
-    "ticker": "HOOD",
-    "headline": "Robinhood record revenue, but crypto slump sends shares down about 8%",
-    "summary": "Revenue rose 12% to a record $1.42B. Crypto revenue fell 55% y/y, GAAP EPS fell 16%, and Ohio issued a cease-and-desist over sports event contracts.",
-    "source": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-27",
-    "ticker": "TER",
-    "headline": "Teradyne Q3 revenue $1.31B, up 70% YoY, above guidance",
-    "summary": "Non-GAAP EPS $2.29. Semi Test $1,072M. Revenue slightly below Q2.",
-    "source": "https://www.sec.gov/Archives/edgar/data/0000097210/000119312526434981/ter-ex99_1.htm",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-27",
-    "ticker": "META",
-    "headline": "Nvidia takes $3B of Meta's upsized equity raise, expands Muse and Vera Rubin deal",
-    "summary": "Meta upsized its common offering to $25B from $22.5B, up to $37.5B with depositary shares, and Nvidia will invest $3B. Meta will deploy more Nvidia Vera Rubin, Vera CPUs and networking for its Muse agents.",
-    "source": "https://www.investing.com/news/stock-market-news/nvidia-to-invest-3-bln-in-meta-share-offering-as-part-of-bigger-ai-partnership-4974236",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-27",
-    "ticker": "MU",
-    "headline": "Micron Taoyuan union talks end without a deal; third round set for Nov 6",
-    "summary": "The second session with the Taoyuan union on Oct 27 produced no agreement, and the city labour bureau set a third round for Nov 6. No further strike has been announced since the 24-hour warning strike on Oct 22.",
-    "source": "https://ec.ltn.com.tw/article/breakingnews/5620640",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-27",
-    "ticker": "MACRO",
-    "headline": "Chips extend rally; Kospi up 3.8%, Nikkei up 1.7% on Anthropic IPO optimism",
-    "summary": "SK hynix rose 7.1% and Samsung 5.2%, and the Kospi triggered a buy-side sidecar. The S&P 500 opened up 0.3% Tuesday after Monday's 0.7% gain.",
-    "source": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-27",
-    "ticker": "FED",
-    "headline": "Fed meeting begins; futures price about 10% chance of a hike",
-    "summary": "Hold expected despite hot inflation, decision Wednesday 2pm ET (Thursday 5am AEDT). Traders will watch for a December hike signal.",
-    "source": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-081901995.html",
-    "impact": "neutral"
   }
 ]

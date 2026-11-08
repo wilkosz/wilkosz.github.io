@@ -1,124 +1,125 @@
 {
-  "as_of": "2026-11-06T03:40",
-  "market_summary": "US stocks had their worst day since April 2025 on Nov 5: Nasdaq -5.5%, S&P 500 -4.4%, Dow -3.4%. The chip index fell 12.3%, its worst day since 2020, on fears that midterm results bring tighter data center rules; Micron -17.5%, Marvell -16.4%, TSMC -10.8%, Nvidia -9.3%. A Fed official also argued for more hikes. After hours, Cloudflare rose about 15% on a beat and raise, Nvidia added 1.3% and Lumentum 3.1%.",
+  "as_of": "2026-11-08T05:00",
+  "market_summary": "October payrolls rose 165k against roughly 60k expected, unemployment held at 4.1% and hourly pay rose 0.4%, so markets now price about a 78% chance of a December Fed hike and the 10-yr rose 2bp to 4.86%. Friday was a partial rebound after the worst week for the S&P 500 since April 2025 (-2.7%): Nasdaq +1.1%, S&P +0.3%, Dow -0.5%, chips about +4% after Thursday's 12% SOX drop (AMD +11%, MRVL +5.7%, MU +5.1%, NVDA +2.8%). The selloff was policy fear, not orders: the Democratic sweep and a Texas governor-elect who ran on pausing data centres hit power names hardest, while GPU rents kept setting highs and hyperscaler capex plans are unchanged. Brent sits near $98 after a steep weekly fall. Next week brings CPI (Tue), CoreWeave (Tue), AMAT and Cisco (Thu) and PPI (Fri), with Nvidia on Nov 17.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "Fell 2.2% in the AI rout, far less than chips. AWS thesis unchanged.",
-      "price_usd": 260.21,
-      "updated": "2026-11-06",
-      "pe_forward": 26.27
+      "reason": "-0.4% on a tech rebound day; no company news. Regulation worries over data centres weigh, but nothing changes the thesis.",
+      "price_usd": 259.3,
+      "updated": "2026-11-08",
+      "pe_forward": 26.22
     },
     "AXOS": {
       "take": "hold",
-      "reason": "Down 2.2% with the market. No company news; cheap at about 9x forward.",
-      "price_usd": 92.46,
-      "updated": "2026-11-06",
-      "pe_forward": 9.18
+      "reason": "+0.2%, no news. Higher-for-longer rates after a strong jobs print are neutral to mildly positive for a bank.",
+      "price_usd": 92.67,
+      "updated": "2026-11-08",
+      "pe_forward": 9.2
     },
     "BABA": {
       "take": "hold",
-      "reason": "One of few gainers, up 2.6% as money left US AI names.",
-      "price_usd": 108.07,
-      "updated": "2026-11-06",
-      "pe_forward": 13.58
+      "reason": "+1.3% with no company news; cheapest big-tech multiple in the book at about 14x forward.",
+      "price_usd": 109.45,
+      "updated": "2026-11-08",
+      "pe_forward": 13.77
     },
     "ENPH": {
       "take": "watch",
-      "reason": "Down 8.2% on a risk-off day. Still waiting for a demand floor.",
-      "price_usd": 28.97,
-      "updated": "2026-11-06",
-      "pe_forward": 28.34
+      "reason": "-1.7% as 10-year yield rose to 4.86%; rate-hike odds above 80% keep pressure on residential solar financing.",
+      "price_usd": 28.47,
+      "updated": "2026-11-08",
+      "pe_forward": 27.84
     },
     "FIGR": {
       "take": "hold",
-      "reason": "Down 9.2% with high-beta growth. No company news.",
-      "price_usd": 20.9,
-      "updated": "2026-11-06",
-      "pe_forward": 17.11
+      "reason": "+8.7%, the best holding on the day, with no specific news found; volatile, let it run.",
+      "price_usd": 22.73,
+      "updated": "2026-11-08",
+      "pe_forward": 18.6
     },
     "GOOGL": {
       "take": "hold",
-      "reason": "Down 2.2%, held up well against the Nasdaq's 5.5% drop.",
-      "price_usd": 282.57,
-      "updated": "2026-11-06",
-      "pe_forward": 20.5
+      "reason": "+0.8% in the rebound; no new company news. Regulatory headline risk rises after midterms but valuation near 21x forward.",
+      "price_usd": 284.78,
+      "updated": "2026-11-08",
+      "pe_forward": 20.66
     },
     "LDI": {
       "take": "hold",
-      "reason": "Down 7.9%, then another 4% after hours. Q3 results due Nov 9.",
-      "price_usd": 0.6255,
-      "updated": "2026-11-06"
+      "reason": "+2.3% but rising yields after the jobs beat are a headwind for mortgage origination volumes.",
+      "price_usd": 0.6399,
+      "updated": "2026-11-08"
     },
     "META": {
       "take": "hold",
-      "reason": "Down 4% with AI spenders on data center regulation fears.",
-      "price_usd": 605.08,
-      "updated": "2026-11-06",
-      "pe_forward": 18.37
+      "reason": "+0.8%, no company news; about 18.5x forward is undemanding if AI capex worries fade.",
+      "price_usd": 610.15,
+      "updated": "2026-11-08",
+      "pe_forward": 18.52
     },
     "MRVL": {
       "take": "watch",
-      "reason": "Down 16.4%. Lumentum's strong guide supports optics demand, but policy risk on data centers is new. Stay on watch.",
-      "price_usd": 133.55,
-      "updated": "2026-11-06",
-      "pe_forward": 23.64
+      "reason": "+5.7% bounce only partly recovers Thursday's chip-index 12% drop; wait for regulation fears to settle.",
+      "price_usd": 141.2,
+      "updated": "2026-11-08",
+      "pe_forward": 25.0
     },
     "MU": {
       "take": "hold",
-      "reason": "Down 17.5% on data center policy fears and a reported Taiwan plant pause. Now over 30% off its Oct 28 high. Forward P/E very low on peak-cycle earnings estimates.",
-      "price_usd": 656.39,
-      "updated": "2026-11-06",
-      "pe_forward": 3.72
+      "reason": "+5.1% after a 17% fall Thursday; memory demand intact, swings remain large.",
+      "price_usd": 690.0,
+      "updated": "2026-11-08",
+      "pe_forward": 3.91
     },
     "NFLX": {
       "take": "hold",
-      "reason": "Down 1.3%; not exposed to the AI capex trade.",
-      "price_usd": 65.56,
-      "updated": "2026-11-06",
-      "pe_forward": 18.26
+      "reason": "-3.3% while tech rallied, extending the slide since the October ad-revenue target cut; no new news.",
+      "price_usd": 63.41,
+      "updated": "2026-11-08",
+      "pe_forward": 17.66
     },
     "NVDA": {
       "take": "hold",
-      "reason": "Down 9.3%, near a seven-month low; up 1.3% after hours. About 15x forward.",
-      "price_usd": 181.6,
-      "updated": "2026-11-06",
-      "pe_forward": 15.01
+      "reason": "+2.8% in the chip rebound; about 15x forward after the selloff, regulation fears are the main overhang.",
+      "price_usd": 186.64,
+      "updated": "2026-11-08",
+      "pe_forward": 15.43
     },
     "RKT": {
       "take": "hold",
-      "reason": "Down 1.3%, a mild move on a rough day.",
-      "price_usd": 14.82,
-      "updated": "2026-11-06",
-      "pe_forward": 25.15
+      "reason": "+1.6% despite higher yields; Fed hike odds above 80% are a headwind for refinance volume.",
+      "price_usd": 15.06,
+      "updated": "2026-11-08",
+      "pe_forward": 25.56
     },
     "TSM": {
       "take": "hold",
-      "reason": "Down 10.8% with the chip index. Demand thesis unchanged; about 17x forward.",
-      "price_usd": 353.1,
-      "updated": "2026-11-06",
-      "pe_forward": 16.97
+      "reason": "+6.3%, the strongest chip rebound in the book; about 18x forward with record quarters behind it.",
+      "price_usd": 375.44,
+      "updated": "2026-11-08",
+      "pe_forward": 17.8
     },
     "STRIPE": {
       "take": "hold",
-      "reason": "Private. No new news.",
+      "reason": "No new round or tender reported since November 6; mark unchanged.",
       "price_usd": null,
-      "updated": "2026-11-06",
+      "updated": "2026-11-08",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "Private. Data center regulation talk is a risk to its build-out plans.",
+      "reason": "No new round or tender reported; AI-regulation fears hit public peers but do not change the mark.",
       "price_usd": null,
-      "updated": "2026-11-06",
+      "updated": "2026-11-08",
       "mark_multiple": 5.43
     }
   },
   "headlines": [
-    "Nasdaq closes -5.5% into correction; chip index -12.3%, worst day since 2020, on data-centre rule fears.",
-    "Holdings at the close: MU -17.5%, MRVL -16.4%, TSM -10.8%, NVDA -9.3%; BABA the only gainer.",
-    "Cloudflare beats: revenue +39%, Q4 guide above; up 14.7% after hours after -8.3% in the session.",
-    "Lumentum guides next quarter up about 27% but fell 18.7%; read-across for the Marvell deal.",
-    "Next: jobs Sat 00:30 AEDT; loanDepot Q3 Mon Nov 9; CPI Wed Nov 11; Nvidia Wed Nov 18."
+    "Chips bounce Fri after Thursday's rout: TSM +6.3%, MRVL +5.7%, MU +5.1%, NVDA +2.8%; Nasdaq +1.1%.",
+    "October payrolls +165k vs about 60k expected; markets now price about 80% odds of a December Fed hike.",
+    "S&P 500 still -2.7% on the week, its worst since April 2025; selloff is policy fear, not orders.",
+    "H100 rents top $3 an hour for the first time; GPU supply still tight.",
+    "FIGR +8.7%; NFLX -3.3%. Takes unchanged: ENPH and MRVL on watch, rest hold.",
+    "Next: CPI and CoreWeave Tue (Wed AEDT), AMAT and Cisco Thu, Nvidia Nov 17 (Wed Nov 18 AEDT)."
   ]
 }
