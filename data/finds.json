@@ -1,12 +1,10 @@
 {
-  "as_of": "2026-11-08T05:00",
-  "summary": "Quiet week. Tractors are the only want with fresh stock: two AuctionsPlus clearing-sale loader tractors near Holbrook close 12 Nov. Discs, rippers, diesel storage and portable homes are unchanged, and prices held. The stick rake is bought and has moved to Sorted.",
+  "as_of": "2026-11-08T13:37",
+  "summary": "Quiet day. One new cheap 26-plate offset disc near Benalla; nothing new for tractors, homes, rippers or diesel storage. The two AuctionsPlus loader tractors near Holbrook still close 12 Nov.",
   "headlines": [
-    "New: 2017 John Deere 6110M, 1,937 hours, 623R loader, Gerogery 300km, AuctionsPlus closes 12 Nov.",
-    "MF 7614 with loader, 1,103 hours, 140hp, Holbrook 300km, also closes 12 Nov.",
-    "Barellan 1,000 L fuel trailer auction closed 5 Nov; Warburn 1,000 L cart still $770, 30km.",
-    "Stick rake bought, moved to Sorted.",
-    "No new discs, rippers or portable homes worth a call."
+    "New: 26-plate offset discs, $2,250, Baddaginnie VIC 330km, no lift ram, width not stated.",
+    "Deere 6110M (1,937 hours) and MF 7614 (1,103 hours) loader tractors still close 12 Nov on AuctionsPlus.",
+    "Nothing new worth a call for tractors, homes, rippers or diesel."
   ],
   "finds": [
     {
@@ -303,6 +301,28 @@
       "photo": "img/finds/fb-1663698828091004.jpg"
     },
     {
+      "key": "fb-1605224174739541",
+      "want": "offset-discs",
+      "title": "26-plate trailing offset discs, no ram",
+      "price_aud": 2250,
+      "location": "Baddaginnie, VIC",
+      "distance_km": 330,
+      "detail": [
+        "26 plates",
+        "no hydraulic lift ram",
+        "width not stated",
+        "used, good condition per seller"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1605224174739541/",
+      "verdict": "decent",
+      "why": "A third of the price of the next-cheapest disc; budget a lift ram and check width is under 3.5 m.",
+      "status": "live",
+      "first_seen": "2026-11-08",
+      "updated": "2026-11-08",
+      "photo": "img/finds/fb-1605224174739541.jpg"
+    },
+    {
       "key": "fb-1730861284788002",
       "want": "offset-discs",
       "title": "Baldan CRSG28 28-plate trailing offset disc",
@@ -430,30 +450,6 @@
       "first_seen": "2026-10-14",
       "updated": "2026-11-08",
       "photo": "img/finds/fb-1005183285292089.jpg"
-    },
-    {
-      "key": "machines4u-298124",
-      "want": "offset-discs",
-      "title": "Big Country Ag 28-plate offset disc (new 2026)",
-      "price_aud": 24200,
-      "price_note": "$22,000 + GST, new, freight extra from Murarrie QLD",
-      "location": "QLD (delivers nationally)",
-      "distance_km": null,
-      "detail": [
-        "28 plates, 710mm x 8mm",
-        "3.2 m cut, 3.4 m working width",
-        "new 2026",
-        "delivers nationally"
-      ],
-      "source": "Machines4u",
-      "url": "https://www.machines4u.com.au/view/advert/Big-Country-Ag-28-Plate-Offset-Disc/298124/",
-      "verdict": "decent",
-      "why": "New Australian-made with a stated 3.2 m cut inside the width limit, but about three times the price of the used discs on the list.",
-      "status": "live",
-      "first_seen": "2026-10-22",
-      "updated": "2026-11-08",
-      "photo": "img/finds/machines4u-298124.jpg",
-      "photo_url": "https://media.machines4u.com.au/machinery/24/298124/Big-Country-Ag-28-Plate-Offset-Disc_65654145.h.jpg"
     },
     {
       "key": "fb-1117657974131225",
