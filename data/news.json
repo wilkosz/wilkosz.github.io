@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-11-10",
+    "ticker": "NVDA",
+    "headline": "Nasdaq-100 +3.4% while Nvidia lost about $200B",
+    "summary": "CNBC: Nasdaq-100 was as oversold as at the March 30 low; SOX needs another 9% to clear its 20-day average.",
+    "source": "https://www.cnbc.com/2026/11/10/chip-stocks-rally-nvidia-scandal.html",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-11-10",
+    "ticker": "TSM",
+    "headline": "TSMC October revenue +59.7% y/y",
+    "summary": "NT$586.9B, up 14.7% on September. Year to date up 43.3%.",
+    "source": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000796/tsm-revenue20261110.htm",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-09",
+    "ticker": "MARKET",
+    "headline": "S&P 500 +2.35%, Nasdaq +2.74%, chip index +6.85%",
+    "summary": "Best S&P day since April 8 after the worst week since April 2025. Dow +1,104. Brent -5.85% to $92.57. October CPI due Wednesday.",
+    "source": "https://noctaaa.substack.com/p/daily-brief-tuesday-10-november-2026",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-09",
+    "ticker": "NVDA",
+    "headline": "Nvidia -4.3% as board probes CEO; chips rally without it",
+    "summary": "Board opened an investigation into Jensen Huang's relationship with an alleged Chinese spy. Stock fell up to 8% intraday, lowest close since April 7.",
+    "source": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-09",
+    "ticker": "LDI",
+    "headline": "loanDepot Q3: loss widens to $29M, volume down 12%",
+    "summary": "Revenue $307M (-9% q/q). Margin up 54bp to 399bp. Q4 volume guide $4.5-6.5B vs $7.05B in Q3. Seeking refinancing of debt maturities. Stock -17%.",
+    "source": "https://www.sec.gov/Archives/edgar/data/0001831631/000183163126000113/a2026q3earningsreleaseex991.htm",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-09",
+    "ticker": "META",
+    "headline": "JPMorgan adds Meta to focus list; Meta +5%, Amazon +3%",
+    "summary": "Meta and Amazon are JPMorgan's preferred internet picks; Alphabet removed but stays overweight. Meta Q3 ad revenue +26%.",
+    "source": "https://finance.yahoo.com/markets/stocks/articles/meta-amazon-rise-5-jpmorgan-144819847.html",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-09",
+    "ticker": "MRVL",
+    "headline": "Marvell +9.5% with chips, no company news",
+    "summary": "B. Riley cut target to $250, Cantor to $225 (neutral). Lumentum all-stock deal remains the overhang.",
+    "source": "https://www.marketbeat.com/instant-alerts/price-marvell-technology-nasdaq-mrvl-stock-jumps-95-heres-why-2026-11-09/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-11-09",
+    "ticker": "BABA",
+    "headline": "Alibaba -3.8% on no news",
+    "summary": "Fell against the rally. September-quarter results due Nov 19.",
+    "source": "https://www.marketbeat.com/instant-alerts/price-alibaba-group-nyse-baba-shares-down-38-heres-why-2026-11-09/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-09",
+    "ticker": "ANTHROPIC",
+    "headline": "Anthropic to set IPO range this week, trading next week",
+    "summary": "WSJ via TechCrunch: some investors want below the $1.5T discussed last week, down from $2T floated months ago.",
+    "source": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-11-09",
+    "ticker": "AAPL",
+    "headline": "Apple closes at record high",
+    "summary": "Up about 2.4% on Monday.",
+    "source": "https://macdailynews.com/2026/11/09/apple-shares-hit-new-all-time-closing-high-261109/",
+    "impact": "positive"
+  },
+  {
     "date": "2026-11-06",
     "ticker": "MARKET",
     "headline": "October payrolls rise 165,000, unemployment falls to 4.1%",
@@ -558,85 +638,5 @@
     "summary": "Deposit rate unchanged after September hike; inflation 3.8%. Lagarde leaves Feb 7, 2027. December hike widely expected.",
     "source": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
     "impact": "neutral"
-  },
-  {
-    "date": "2026-10-29",
-    "ticker": "MACRO",
-    "headline": "US Q3 GDP +3.4%, September PCE inflation 3.6% y/y",
-    "summary": "Growth up from 2.2% in Q2 while inflation quickened; 10-year eased to about 4.98% as Brent fell 2.1% to about $109.",
-    "source": "https://www.stocktitan.net/articles/stock-market-today-live-october-29-2026",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-29",
-    "ticker": "GOOGL",
-    "headline": "Alphabet falls about 10% on search and ad miss; Microsoft up about 3%",
-    "summary": "Nasdaq down about 1% late morning ET. Capex concern weighed on Alphabet; Azure beat lifted Microsoft.",
-    "source": "https://www.investing.com/news/stock-market-news/us-stock-futures-drop-as-alphabet-slides-on-soft-earnings-microsoft-firms-4981271",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-28",
-    "ticker": "GOOGL",
-    "headline": "Alphabet Cloud revenue doubles, but an investment loss and negative free cash flow hit the stock",
-    "summary": "Q3 revenue rose 25% and Google Cloud rose 103% with operating margin at 36%. An $8.7B equity-securities loss cut EPS 26% y/y, quarterly free cash flow was -$9.1B, and shares fell about 10% after hours.",
-    "source": "https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000080/googexhibit991q32026.htm",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-28",
-    "ticker": "MACRO",
-    "headline": "Fed holds at 3.75-4% in a 10-2 vote, two dissenters wanted a hike",
-    "summary": "Cook and Hammack dissented in favour of a quarter-point increase. Chair Warsh gave no forward guidance, and economists widely expect a December hike.",
-    "source": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-28",
-    "ticker": "AAPL",
-    "headline": "Apple launches its first touchscreen Mac",
-    "summary": "The new MacBook Pro has a tandem-OLED touch display and M5 Pro/Max chips, starting at $2,899. Pre-orders are open and deliveries start Nov 6.",
-    "source": "https://9to5mac.com/2026/10/28/apple-announces-redesigned-macbook-pro-its-first-touchscreen-mac/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-28",
-    "ticker": "MU",
-    "headline": "Memory names rally on SK Hynix record profit",
-    "summary": "Micron rose about 6% after SK Hynix posted a record quarterly profit ahead of estimates. Nvidia slipped about 1%.",
-    "source": "https://finance.yahoo.com/markets/stocks/articles/micron-amd-nvidia-stocks-rise-183814387.html",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-28",
-    "ticker": "GEV",
-    "headline": "GE Vernova Q3 beats on orders; guidance up, buyback doubled, Trench deal",
-    "summary": "Orders ~$29.3B (+96%), backlog ~$197B, full-year guidance raised. Buyback authorisation up from $10B to $20B. Agreed to acquire Trench Group.",
-    "source": "https://www.gevernova.com/news/articles/ge-vernova-releases-third-quarter-2026-financial-results-announces-agreement-acquire",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-28",
-    "ticker": "SKHY",
-    "headline": "SK hynix posts record Q3; HBM4 in full mass production",
-    "summary": "Operating profit ~KRW 83.3T (+38% QoQ), revenue over KRW 100T, ~80% margin. Net income down QoQ because Q2 included a one-off Kioxia gain. Shares rose after hours.",
-    "source": "https://www.investing.com/news/transcripts/earnings-call-transcript-sk-hynix-posts-record-q3-2026-results-shares-jump-after-hours-93CH-4977343",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-28",
-    "ticker": "FED",
-    "headline": "Fed holds at 3.75-4.00%, two dissents for a hike",
-    "summary": "10-2 vote; Warsh says inflation too high but wants more data before December. 10-yr rose to 5.05%, 2-yr fell to 4.67%.",
-    "source": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-28-oct-fed-holds-rates-yield-curve-steepens-as-big-tech-earnings-diverge/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-27",
-    "ticker": "ENPH",
-    "headline": "Enphase Q3 flat sequentially, Q4 guide points lower",
-    "summary": "Revenue was down 29% y/y, sell-through grew 1% against a 10% plan, and Europe fell 11%. Q4 guidance assumes sell-through down about 10% and gross margin of 40-43%.",
-    "source": "https://www.sec.gov/Archives/edgar/data/0001463101/000146310126000101/a2026q3exx991pressrelease.htm",
-    "impact": "negative"
   }
 ]

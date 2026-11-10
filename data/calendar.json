@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-10",
   "events": [
     {
       "key": "2026-11-09-ldi-q3",
@@ -10,16 +10,6 @@
       "type": "earnings",
       "why": "Holding; origination volume vs rates.",
       "link": "https://investors.loandepot.com"
-    },
-    {
-      "key": "2026-11-09-cftc-gpu-futures",
-      "date": "2026-11-09",
-      "time": "No set time",
-      "ticker": "MACRO",
-      "title": "CFTC review deadline for CME H100/B200 GPU rental futures",
-      "type": "other",
-      "why": "First public forward curve for compute prices.",
-      "link": "https://finimize.com/content/cmes-nvidia-gpu-futures-hit-a-regulatory-speed-bump"
     },
     {
       "key": "2026-11-09-china-cpi-ppi",
@@ -39,17 +29,27 @@
       "title": "CoreWeave Q3 results and call",
       "type": "earnings",
       "why": "Neocloud credit test; backlog and financing.",
-      "link": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Date-of-Third-Quarter-2026-Financial-Results-and-Conference-Call/default.aspx"
+      "link": "https://investors.coreweave.com/"
     },
     {
       "key": "2026-11-10-us-cpi",
       "date": "2026-11-10",
       "time": "8:30am ET (Wed 12:30am AEDT)",
       "ticker": "MACRO",
-      "title": "US CPI, October",
+      "title": "US CPI, October (confirmed)",
       "type": "macro",
-      "why": "Hot print after strong jobs firms a December hike.",
+      "why": "Consensus +0.3% m/m, core +0.2%; hot print firms December hike.",
       "link": "https://www.bls.gov/schedule/2026/11_sched.htm"
+    },
+    {
+      "key": "2026-11-10-fed-waller",
+      "date": "2026-11-10",
+      "time": "TBC",
+      "ticker": "MACRO",
+      "title": "Fed speakers: Waller, Logan 9:35am ET, Schmid 1:30pm ET",
+      "type": "central_bank",
+      "why": "Waller leaning toward a hike.",
+      "link": "https://www.federalreserve.gov/newsevents/2026-november.htm"
     },
     {
       "key": "2026-11-10-se-q3",
@@ -72,6 +72,16 @@
       "link": "https://investor.tsmc.com/english/monthly-revenue"
     },
     {
+      "key": "2026-11-11-veterans-day",
+      "date": "2026-11-11",
+      "time": "All day",
+      "ticker": "MACRO",
+      "title": "Veterans Day: stocks open, bond market closed",
+      "type": "other",
+      "why": "No Treasury trading.",
+      "link": "https://www.sifma.org/resources/general/holiday-schedule/"
+    },
+    {
       "key": "2026-11-12-amat-q4",
       "date": "2026-11-12",
       "time": "After close; call 4:30pm ET (Fri 8:30am AEDT)",
@@ -79,7 +89,7 @@
       "title": "Applied Materials fiscal Q4 results and call",
       "type": "earnings",
       "why": "Equipment demand and China exposure.",
-      "link": "https://ir.appliedmaterials.com/events/event-details/q4-2026-applied-materials-earnings-conference-call"
+      "link": "https://ir.appliedmaterials.com/"
     },
     {
       "key": "2026-11-12-csco-q1-fy27",
@@ -88,8 +98,8 @@
       "ticker": "CSCO",
       "title": "Cisco fiscal Q1 2027 results and call (confirmed)",
       "type": "earnings",
-      "why": "AI networking orders from hyperscalers.",
-      "link": "https://investor.cisco.com/news/news-details/2026/Cisco-Schedules-Conference-Call-for-Q1-Fiscal-Year-2027-Financial-Results/default.aspx"
+      "why": "AI networking orders; guide $18.0-18.2B.",
+      "link": "https://investor.cisco.com/"
     },
     {
       "key": "2026-11-12-figr-q3",
@@ -99,7 +109,17 @@
       "title": "Figure Technology Q3 results and call",
       "type": "earnings",
       "why": "Holding; HELOC volume and marketplace growth.",
-      "link": "https://investors.figure.com"
+      "link": "https://investors.figure.com/"
+    },
+    {
+      "key": "2026-11-12-fed-speakers",
+      "date": "2026-11-12",
+      "time": "From 9:00am ET (Fri 1:00am AEDT)",
+      "ticker": "MACRO",
+      "title": "Fed speakers: Hammack, Barr, Bowman, Goolsbee, Daly, Jefferson",
+      "type": "central_bank",
+      "why": "Post-CPI read on December hike.",
+      "link": "https://www.federalreserve.gov/newsevents/2026-november.htm"
     },
     {
       "key": "2026-11-13-aapl-homeview",
@@ -116,7 +136,7 @@
       "date": "2026-11-13",
       "time": "8:30am ET (Sat 12:30am AEDT)",
       "ticker": "MACRO",
-      "title": "US PPI, October",
+      "title": "US PPI, October (confirmed)",
       "type": "macro",
       "why": "Pipeline inflation ahead of December FOMC.",
       "link": "https://www.bls.gov/schedule/2026/11_sched.htm"
@@ -136,9 +156,9 @@
       "date": "2026-11-17",
       "time": "8:30am ET (Wed 12:30am AEDT)",
       "ticker": "MACRO",
-      "title": "US import and export prices, October",
+      "title": "US import and export prices, October (confirmed)",
       "type": "macro",
-      "why": "Tariff pass-through.",
+      "why": "Tariff and oil pass-through.",
       "link": "https://www.bls.gov/schedule/2026/11_sched.htm"
     },
     {
@@ -148,8 +168,18 @@
       "ticker": "NVDA",
       "title": "Nvidia Q3 fiscal 2027 results and call",
       "type": "earnings",
-      "why": "Guide $108B; the AI capex verdict.",
-      "link": "https://eciks.org/29651-nvidia-fiscal-2027-q3-results"
+      "why": "Guide $108B; board probe questions likely.",
+      "link": "https://investor.nvidia.com/"
+    },
+    {
+      "key": "2026-11-17-rba-minutes",
+      "date": "2026-11-17",
+      "time": "11:30am AEDT (Mon 7:30pm ET) - TBC",
+      "ticker": "RBA",
+      "title": "RBA minutes, November meeting",
+      "type": "central_bank",
+      "why": "Two weeks after Nov 3 meeting; date inferred.",
+      "link": "https://www.rba.gov.au/schedules-events/"
     },
     {
       "key": "2026-11-18-fomc-minutes",
@@ -160,6 +190,16 @@
       "type": "central_bank",
       "why": "How many members lean to a December hike.",
       "link": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+    },
+    {
+      "key": "2026-11-19-baba-q2-fy27",
+      "date": "2026-11-19",
+      "time": "Before open; call TBC (likely 7:30am ET, 11:30pm AEDT)",
+      "ticker": "BABA",
+      "title": "Alibaba September quarter results and call",
+      "type": "earnings",
+      "why": "Holding; cloud growth and quick-commerce losses. Date per Stock-World, no IR notice seen.",
+      "link": "https://www.stock-world.de/alibaba-aktie-zahlentermin-steht-jetzt-fest/"
     },
     {
       "key": "2026-11-20-umich-final",

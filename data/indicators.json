@@ -1,114 +1,114 @@
 {
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-10",
   "explainer": "The single best AI-bubble bellwether is the rental price of an installed Nvidia GPU, measured in dollars per GPU-hour, and specifically the H100: it is the daily marginal clearing price for AI compute, it is published by independent indexes (Silicon Data's SDH100RT, SemiAnalysis's one-year contract index), and a CME futures contract on it is pending: the CFTC extended its review to November 9, 2026, so a forward curve is coming but not yet listed. Right now it is saying the opposite of discounting: the Silicon Data index sits at $2.75/hr (Sep 30), a new high, one-year contract rates rose about 40% from $1.70 to $2.35 between October 2025 and March 2026, spot has run at roughly twice contract, and a four-year-old chip is renting for more than it did a year ago while CoreWeave says it has contracted 2020-vintage GPUs out to 2029 at full price. Pair it with three things: neocloud credit spreads (CoreWeave's July loan cleared at SOFR+550 for a 10.44% yield with maintenance covenants, and its CDS implies roughly a coin-flip default probability), which is the financing leg and the one signal already flashing red; server DRAM and HBM contract-price momentum (+13-18% QoQ in 3Q26 after +93-98% in 1Q26, with 4Q26 guided to only +3-8%), because memory is the first physical input that will roll over; and hyperscaler backlog growth versus capex growth (Microsoft commercial RPO +84%, Oracle RPO +363%, roughly $2.4 trillion of committed cloud backlog against about $1 trillion of 2026 capex), because the bubble only deflates if the buyers stop signing. Over the next one to two quarters watch Nvidia's August 26 print for gross margin and customer concentration (three direct customers were already 54% of revenue), the shape of the CME H100/B200 curve if the CFTC clears it in November (a steep backwardation would be the first public forecast of discounting), whether 4Q26 memory contract talks and 2027 HBM4 pricing turn negative, and what ERCOT's December audit says about how much of Texas's 474 GW interconnection queue is phantom demand. The threshold that would flip the call is simple: the H100 index sustained below about $2.00/hr, or spot trading below the one-year contract rate, while Blackwell and Rubin volumes keep arriving; until then compute is being sold at a premium, not a discount, and the risk lives in who is borrowing to build it rather than in the price of the product.",
   "indicators": [
     {
       "key": "h100_rental",
       "name": "H100 rental price, $/GPU-hour (Silicon Data SDH100RT)",
-      "value": "$3.04/hr, +6.7% on 7 days. New high, first print above $3.",
+      "value": "$3.01/hr, +6.4% on 7 days. Holding above $3.",
       "trend": "up",
       "signal": "bullish",
-      "why": "Rents rose through the worst AI-stock week since April 2025.",
-      "watch": "Below about $2.00 for a month, or spot under 1-yr contract; CFTC review of CME GPU futures ends Nov 9.",
-      "note": "Product price and stock prices still diverging.",
+      "why": "Rents firm while AI stocks swung.",
+      "watch": "Below about $2.00 for a month, or spot under 1-yr contract.",
+      "note": "CFTC GPU futures review deadline Nov 9 passed with no public decision.",
       "source": "https://www.silicondata.com/products/silicon-index?gpu=h100",
-      "updated": "2026-11-08"
+      "updated": "2026-11-10"
     },
     {
       "key": "b200_rental",
       "name": "B200 rental price, $/GPU-hour (Silicon Data) and B200/H100 ratio",
-      "value": "B200 $6.80, +14.7% on 7 days; ratio 2.24x.",
+      "value": "B200 $6.84, +15.3% on 7 days; ratio 2.27x.",
       "trend": "up",
       "signal": "bullish",
-      "why": "Blackwell capacity is being absorbed faster than it arrives.",
+      "why": "Blackwell capacity still absorbed fast.",
       "watch": "Below $4.50 or ratio under 2x.",
       "note": "",
       "source": "https://www.silicondata.com/products/silicon-index?gpu=h100",
-      "updated": "2026-11-08"
+      "updated": "2026-11-10"
     },
     {
       "key": "hopper_residual",
       "name": "Hopper residual value: A100 floor, H200 rents",
-      "value": "A100 $1.59 (+3.9% on 7 days), 9c above the $1.50 floor; H200 $3.53 (+4.1%).",
+      "value": "A100 $1.59 (+3.9% on 7 days); H200 $3.48 (+1.2%).",
       "trend": "flat",
       "signal": "neutral",
-      "why": "Old chips are holding rental value.",
+      "why": "Old chips holding rental value.",
       "watch": "A100 under $1.50; any useful-life cut.",
       "note": "",
       "source": "https://www.silicondata.com/products/silicon-index?gpu=h100",
-      "updated": "2026-11-08"
+      "updated": "2026-11-10"
     },
     {
       "key": "dc_cost_per_gw",
       "name": "Data-centre cost of capital and build cost (10-yr, oil, $/GW)",
-      "value": "10-yr 4.86% Nov 6 (+2bp on hot jobs), from 4.83% Nov 5. Brent -0.5% to $97.79.",
+      "value": "10-yr 4.88% Nov 9 (+2bp); 2-yr 4.56% (+5bp). Brent -5.9% to $92.57, lowest since early Sep.",
       "trend": "flat",
       "signal": "neutral",
-      "why": "Yield relief from the selloff is fading as a December hike gets priced.",
-      "watch": "10-yr back above 5%; Brent above $100; CPI Nov 10.",
+      "why": "Oil relief offset by 78% odds of a December hike.",
+      "watch": "10-yr above 5%; CPI Nov 10, PPI Nov 13.",
       "note": "Build cost still near $50B per GW.",
-      "source": "https://cappnotes.substack.com/p/closing-look-friday-november-6-2026",
-      "updated": "2026-11-08"
+      "source": "https://cappnotes.substack.com/p/closing-look-monday-november-9-2026",
+      "updated": "2026-11-10"
     },
     {
       "key": "memory_prices",
       "name": "Memory prices: DRAM spot (TrendForce), contract, HBM",
-      "value": "Spot Nov 6: DDR5 16Gb 60.167 (-0.82%), DDR4 16Gb 80.815 (-1.06%). Third day of declines.",
-      "trend": "down",
+      "value": "Spot Nov 10: DDR5 16Gb 60.167 (flat), DDR4 16Gb 79.99 (-0.31%).",
+      "trend": "flat",
       "signal": "neutral",
-      "why": "Spot easing slowly; contract pricing still firm.",
+      "why": "DDR5 spot decline paused; contract still firm.",
       "watch": "November contract prints; any HBM4 2027 price cut.",
       "note": "",
       "source": "https://www.trendforce.com/price/dram/dram_spot",
-      "updated": "2026-11-08"
+      "updated": "2026-11-10"
     },
     {
       "key": "power_bottleneck",
       "name": "Power and permitting bottleneck for AI data centres",
-      "value": "VRT fell about 13% then 16% on Nov 4-5; GEV and Eaton about -9-10% on Nov 4. No law or moratorium passed.",
-      "trend": "up",
-      "signal": "bearish",
-      "why": "Market prices forced build pauses before any policy exists.",
-      "watch": "Texas governor-elect takes office Jan 19; new Congress Jan 3; ERCOT December audit.",
-      "note": "Bernstein: 56% of pipeline exposed but risk overstated; Texas Senate stays Republican.",
-      "source": "https://www.trefis.com/articles/622736/what-s-happening-with-vertiv-stock/2026-11-05",
-      "updated": "2026-11-08"
+      "value": "Industrials +3.8% Nov 9; CEG +10.5%, NRG +10.3%; CAT +7.2% on Anthropic buying ~$3.4B of gas generators.",
+      "trend": "flat",
+      "signal": "neutral",
+      "why": "Market bought power names back; no law or moratorium passed.",
+      "watch": "Texas governor-elect Jan 19; new Congress Jan 3; ERCOT December audit.",
+      "note": "Buyers turning to on-site gas to skip the grid queue.",
+      "source": "https://cappnotes.substack.com/p/closing-look-monday-november-9-2026",
+      "updated": "2026-11-10"
     },
     {
       "key": "capex_vs_backlog",
       "name": "Hyperscaler capex vs cloud backlog",
-      "value": "No capex cuts announced. AMD +11% Nov 6 on Q4 guide about $17B; Cisco guides $18.0-18.2B for Nov 12.",
+      "value": "No capex cuts. SOXX +7.5% Nov 9; AMD +13.3% on upgrade, AVGO +8.8%.",
       "trend": "flat",
       "signal": "bullish",
-      "why": "Buyers are still signing; the selloff is about policy, not orders.",
-      "watch": "Site-delay comments at AMAT, Cisco (Nov 12) and NVDA (Nov 17).",
+      "why": "Buyers still signing; last week was policy fear.",
+      "watch": "Site-delay comments at AMAT, Cisco (Nov 12), NVDA (Nov 17).",
       "note": "",
-      "source": "https://cappnotes.substack.com/p/closing-look-friday-november-6-2026",
-      "updated": "2026-11-08"
+      "source": "https://www.stocktitan.net/articles/stock-market-today-live-november-9-2026",
+      "updated": "2026-11-10"
     },
     {
       "key": "neocloud_credit",
       "name": "Neocloud credit: CoreWeave CDS and bonds",
-      "value": "No new November CDS print. October: 2031 bonds yield above 15%, about 79c; CDS record 1,194.5bp Oct 15.",
+      "value": "CRWV +5.6% Nov 9 after -15.4% last week. No new CDS print; Oct record 1,194.5bp.",
       "trend": "up",
       "signal": "bearish",
-      "why": "Financing leg is the weak point; equity down about 45% in a month.",
-      "watch": "CRWV Q3 Tue Nov 10, call 5pm ET; CDS back above 1,194bp.",
+      "why": "Financing leg still the weak point.",
+      "watch": "CRWV Q3 tonight Nov 10, call 5pm ET (Wed 9am AEDT).",
       "note": "",
-      "source": "https://www.morningstar.com/stocks/coreweave-shares-are-down-45-past-month-is-stock-buy-ahead-earnings",
-      "updated": "2026-11-08"
+      "source": "https://cappnotes.substack.com/p/closing-look-monday-november-9-2026",
+      "updated": "2026-11-10"
     },
     {
       "key": "nvidia_dc",
       "name": "Nvidia data-centre demand signals",
-      "value": "Nvidia +2.8% Nov 6 after a heavy week. Q3 FY27 Tue Nov 17, call 5pm ET; guide $108B +/-2%, GM 74%.",
+      "value": "NVDA -4.3% Nov 9 as semis rallied; board probe into reports Huang was target of foreign intelligence effort.",
       "trend": "flat",
       "signal": "neutral",
-      "why": "No demand news; the drop was policy fear.",
-      "watch": "Nov 17 data-centre revenue, gross margin, customer concentration.",
+      "why": "Governance overhang, not demand; board says no harm found.",
+      "watch": "Nov 17: data-centre revenue, guide $108B, GM 74%; probe findings.",
       "note": "",
-      "source": "https://eciks.org/29651-nvidia-fiscal-2027-q3-results",
-      "updated": "2026-11-08"
+      "source": "https://www.stocktitan.net/articles/stock-market-today-live-november-9-2026",
+      "updated": "2026-11-10"
     }
   ]
 }
