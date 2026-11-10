@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-10T13:37",
+  "as_of": "2026-11-10T13:40",
   "summary": "Tractors are moving: the Kioti sold, and two private loader-or-near tractors appeared within 260km. The two AuctionsPlus loader tractors near Holbrook run on 12 Nov with no bids showing yet. Discs, rippers, diesel and homes are unchanged; one expandable container house was pulled.",
   "headlines": [
     "Deere 6110M (1,937 hours) and MF 7614 (1,103 hours) with loaders: AuctionsPlus, Holbrook area 300km, run tomorrow 12 Nov.",
@@ -758,8 +758,8 @@
       "key": "fb-956902247220890",
       "want": "tractor",
       "title": "2015 Kubota M9540 cab, no loader",
-      "price_aud": 33000,
-      "price_note": "$30,000 + GST",
+      "price_aud": 30000,
+      "price_note": "plus GST",
       "location": "Griffith, NSW",
       "distance_km": 100,
       "detail": [
