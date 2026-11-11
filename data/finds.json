@@ -1,11 +1,11 @@
 {
-  "as_of": "2026-11-11T21:40",
+  "as_of": "2026-11-11T21:35",
   "summary": "Auction day for tractors: three AuctionsPlus loader tractors run today, none showing bids yet. The Young New Holland TL100A has gone to sale pending. Discs, rippers, homes and diesel unchanged.",
   "headlines": [
-    "New: 2014 Deutz-Fahr 5130 TTV, ALO X56P loader, 2,149 hours, Wagga 140km, Slattery bid $36,100, ends tonight 7:12pm.",
-    "Today: MF 7614 with loader, 1,103 hours, Holbrook 300km, AuctionsPlus 8:30am AEDT.",
-    "Today: 2017 Deere 6110M with loader, 1,937 hours, Gerogery 300km, AuctionsPlus 4:00pm AEDT.",
-    "2002 New Holland TL100A at Young now marked sale pending."
+    "New: 2016 Case IH Maxxum 140, 3,271 hours, loader, 4-in-1, slasher and forks, Young 260km, Grays bid $43,000, closes 6:30pm today.",
+    "New: 2014 Deutz-Fahr 5130 TTV, loader, 2,149 hours, Wagga 140km, Slattery bid $36,100, ends 7:12pm today.",
+    "Today: Deere 6110M (1,937 hours) and MF 7614 (1,103 hours) with loaders, AuctionsPlus, Holbrook area 300km.",
+    "2014 Deere 6150M with loader, 4,488 hours, 150hp, Grays Young, bid $69,000, 34 bids."
   ],
   "finds": [
     {
@@ -630,6 +630,32 @@
       "photo": "img/finds/slattery-148669.jpg"
     },
     {
+      "key": "grays-0006-23502890",
+      "want": "tractor",
+      "title": "2016 Case IH Maxxum 140 with Challenge Prime-Lift 50S loader",
+      "price_aud": 43000,
+      "price_note": "current bid, 7 bids, reserve not met; plus variable buyer premium and admin fee; GST inclusive",
+      "location": "Young District, NSW",
+      "distance_km": 260,
+      "detail": [
+        "3,271 hours",
+        "140hp, 6-cylinder FPT",
+        "cab, front suspension, partial powershift",
+        "loader with 4-in-1 bucket, pallet forks",
+        "Howard 2.2 m slasher included",
+        "Trimble GPS display"
+      ],
+      "source": "Grays",
+      "url": "https://www.grays.com/lot/0006-23502890/agriculture-tractors/2016-case-ih-maxxum-140-tractor",
+      "verdict": "strong",
+      "why": "Every must cleared with attachments thrown in, and bidding is $37k under budget with hours to go.",
+      "status": "live",
+      "ends": "2026-11-12",
+      "first_seen": "2026-11-11",
+      "updated": "2026-11-11",
+      "photo": "img/finds/grays-0006-23502890.jpg"
+    },
+    {
       "key": "auctionsplus-129203-1470696",
       "want": "tractor",
       "title": "2015 Kioti PX1002 100hp 4WD cab with KL901 loader, slasher, post-hole digger",
@@ -779,29 +805,6 @@
       "updated": "2026-11-11",
       "photo": "img/finds/auctionsplus-129297-1470171.jpg",
       "photo_url": "https://auctionsplusblob.blob.core.windows.net/apmediaprod/Photos/1639285652916943282_86d8b40a-f56b-4e31-84d1-42e0709cd749.webp"
-    },
-    {
-      "key": "fb-956902247220890",
-      "want": "tractor",
-      "title": "2015 Kubota M9540 cab, no loader",
-      "price_aud": 30000,
-      "price_note": "plus GST",
-      "location": "Griffith, NSW",
-      "distance_km": 100,
-      "detail": [
-        "no loader shown",
-        "95hp class",
-        "hours in photos only, not stated in text",
-        "new PTO clutch ($4,000)",
-        "tyres 90%, 2 owners"
-      ],
-      "source": "Facebook Marketplace",
-      "url": "https://www.facebook.com/marketplace/item/956902247220890/",
-      "verdict": "stretch",
-      "why": "Cheap, tidy and 100km away, but no loader; only worth a call if a loader can be fitted for well under $47k.",
-      "status": "live",
-      "first_seen": "2026-11-10",
-      "updated": "2026-11-11"
     }
   ]
 }
