@@ -58,6 +58,19 @@ Always sweep these, plus any `sources` listed on the want itself:
 | machines4u.com.au, tradefarmmachinery.com.au, agtrader.com.au | Dealer and private farm gear. |
 | gumtree.com.au | Worth a pass for chainsaws and site huts. |
 
+**Check everything in the browser.** The owner wants every source read in Chrome, not
+WebFetch: most of these sites are JS-rendered or return 403 to fetchers, and web-only agents
+kept coming back empty. Sweep the sources in Chrome yourself, one tab, closing it at the end.
+WebSearch is still fine for finding leads; open every lead in Chrome before listing it.
+Subagents can't share the browser, so don't fan out to them for source sweeps.
+
+**Permission or access problems: notify the owner.** If Chrome is unreachable, a site is
+not allowed in the extension ("Navigation to this domain is not allowed"), Facebook is
+logged out, or a site blocks the browser, call `PushNotification` (load it with
+`ToolSearch select:PushNotification`) once per run with one line naming the site and the fix,
+e.g. `asset-hunt: grays.com blocked in Chrome extension - allow it in site permissions`.
+Then carry on with the other sources and list the gap in `notes`.
+
 Auction listings: put the **asking / current bid** in `price_aud` and the premium in
 `price_note` (e.g. "plus 5.5% buyer premium + GST"). Put the close date in `ends`.
 
@@ -77,7 +90,7 @@ Marketplace is only reachable through the owner's logged-in Chrome session.
 5. Close every tab you opened when you're done.
 
 **If Chrome is unreachable** (extension not connected, Mac asleep, logged out): do not retry
-more than twice and do not block the run. Note "Facebook skipped: <reason>" in `notes`, and
+more than twice and do not block the run. Send the `PushNotification` described above. Note "Facebook skipped: <reason>" in `notes`, and
 publish everything else. Never mark existing `fb-*` finds as sold just because you couldn't
 check them this run - leave them alone.
 
@@ -97,9 +110,14 @@ yourself in Chrome on every run (don't hand them to a web-only agent).
   blocked (it contains query strings), so read it with screenshots: the header has bid and
   close time, scroll ~10 ticks for Item Details (Hour Meter, year) and the buyer premium
   table. Key: `slattery-<asset id>`.
-- **Grays**: search `https://www.grays.com/search/agriculture?q=<terms>` and open lots the same
-  way. Key: `grays-<lot id>` (e.g. `grays-0006-23502890`). If the extension says grays.com
-  isn't allowed, note "Grays skipped: not allowed in Chrome extension" and carry on.
+- **Grays**: open
+  `https://www.grays.com/search/mining-construction-and-agriculture/agriculture-and-tractors?tab=items&isc=true&rows=72`,
+  wait 3s, list lots with
+  `[...new Set([...document.querySelectorAll('a[href*="/lot/"]')].map(a=>a.getAttribute('href').split('?')[0].replace(/^.*\/lot\//,'')))].join('\n')`
+  (output truncates; page through with `.slice(n)`). On a lot page `innerText` works: slice
+  from `Year of Manufacture` for hours, hp and loader; zoom the right column for current bid,
+  bid count, reserve and close time. Key: `grays-<lot id>` (e.g. `grays-0006-23502890`).
+  If the extension says grays.com isn't allowed, notify (above) and carry on.
 
 Do not message sellers, place bids, watchlist items, or fill in any form. You look and report;
 the owner makes contact.
@@ -137,8 +155,8 @@ shrinks it to 400px and commits it to `img/finds/`. `photo_file` wins if you sen
    - sold or delisted -> send `"status": "sold"` (or `"gone"` if it just vanished).
      `hunt.py` keeps it visible for 7 days as a price signal, then drops it.
 
-3. **Hunt** (use the Agent tool to fan out - one agent per want works well; give each the
-   want's criteria, the source list and the exact JSON shape). For each want with
+3. **Hunt** in Chrome yourself (see "Check everything in the browser" above; agents can't
+   share the browser). For each want with
    `status: "hunting"`:
    - Search each source with terms drawn from the want. Widen and narrow: "tractor loader",
      "FEL tractor", plus brand names from the `must` list.
