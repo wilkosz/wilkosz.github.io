@@ -1,11 +1,11 @@
 {
-  "as_of": "2026-11-11T13:37",
+  "as_of": "2026-11-11T21:40",
   "summary": "Auction day for tractors: three AuctionsPlus loader tractors run today, none showing bids yet. The Young New Holland TL100A has gone to sale pending. Discs, rippers, homes and diesel unchanged.",
   "headlines": [
+    "New: 2014 Deutz-Fahr 5130 TTV, ALO X56P loader, 2,149 hours, Wagga 140km, Slattery bid $36,100, ends tonight 7:12pm.",
     "Today: MF 7614 with loader, 1,103 hours, Holbrook 300km, AuctionsPlus 8:30am AEDT.",
     "Today: 2017 Deere 6110M with loader, 1,937 hours, Gerogery 300km, AuctionsPlus 4:00pm AEDT.",
-    "2002 New Holland TL100A at Young now marked sale pending.",
-    "Nothing new worth a call for discs, rippers, homes or diesel."
+    "2002 New Holland TL100A at Young now marked sale pending."
   ],
   "finds": [
     {
@@ -604,6 +604,32 @@
       "updated": "2026-11-11"
     },
     {
+      "key": "slattery-148669",
+      "want": "tractor",
+      "title": "2014 Deutz-Fahr 5130 TTV with ALO X56P loader",
+      "price_aud": 36100,
+      "price_note": "current bid, 2 bids; plus 12.5% buyer premium incl GST ($30-50k band); $1,000 deposit",
+      "location": "Wagga Wagga, NSW",
+      "distance_km": 140,
+      "detail": [
+        "2,149 hours showing",
+        "2014",
+        "ALO X56P loader, Euro hitch, 3rd service",
+        "TTV (CVT) transmission, 4x4",
+        "hp not stated on lot page",
+        "torn operator seat; no log book"
+      ],
+      "source": "Slattery Auctions",
+      "url": "https://slatteryauctions.com.au/assets/148669?auctionId=12542",
+      "verdict": "strong",
+      "why": "Low hours, loader fitted, 140km away and bidding well under budget; inspect at Wagga today before 5pm.",
+      "status": "live",
+      "ends": "2026-11-12",
+      "first_seen": "2026-11-11",
+      "updated": "2026-11-11",
+      "photo": "img/finds/slattery-148669.jpg"
+    },
+    {
       "key": "auctionsplus-129203-1470696",
       "want": "tractor",
       "title": "2015 Kioti PX1002 100hp 4WD cab with KL901 loader, slasher, post-hole digger",
@@ -774,29 +800,6 @@
       "verdict": "stretch",
       "why": "Cheap, tidy and 100km away, but no loader; only worth a call if a loader can be fitted for well under $47k.",
       "status": "live",
-      "first_seen": "2026-11-10",
-      "updated": "2026-11-11"
-    },
-    {
-      "key": "auctionsplus-129205-1478848",
-      "want": "tractor",
-      "title": "2019 Massey Ferguson 7614 FWA with FEL",
-      "price_aud": null,
-      "price_note": "no bid shown; 2% buyer premium; auction 12 Nov 4:00pm AEDT",
-      "location": "Dubbo, NSW",
-      "distance_km": 420,
-      "detail": [
-        "850 hours",
-        "2019",
-        "FEL per listing title",
-        "hp not stated on lot page"
-      ],
-      "source": "AuctionsPlus",
-      "url": "https://auctionsplus.com.au/auctions/machinery/auctionsplus-multi-vendor-machinery-auction/fel-tractor/listing/129205-1478848/browse",
-      "verdict": "stretch",
-      "why": "Very low hours and late model, but about 420km, just past the 400km limit, and likely over $80k.",
-      "status": "live",
-      "ends": "2026-11-12",
       "first_seen": "2026-11-10",
       "updated": "2026-11-11"
     }
