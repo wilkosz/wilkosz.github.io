@@ -50,9 +50,9 @@ Always sweep these, plus any `sources` listed on the want itself:
 | Source | Notes |
 | --- | --- |
 | Facebook Marketplace | Most private-seller tractors, saws and site huts. Needs Chrome (below). |
-| grays.com | Ex-government and ex-corporate plant. Note buyer premium in `price_note`. |
+| grays.com | **Owner priority, every run.** Ex-government and ex-corporate plant. Note buyer premium in `price_note`. Renders with JS: use Chrome, not WebFetch. |
 | pickles.com.au | Trucks, plant, salvage. Premium applies. |
-| slatteryauctions.com.au | Farm and earthmoving clearing sales. |
+| slatteryauctions.com.au | **Owner priority, every run.** Farm and earthmoving clearing sales (Wagga and Griffith yards). Renders with JS: use Chrome (below), not WebFetch. |
 | manheim.com.au | Vehicles and some plant. |
 | rbauction.com.au | Ritchie Bros - big farm machinery, published results. |
 | machines4u.com.au, tradefarmmachinery.com.au, agtrader.com.au | Dealer and private farm gear. |
@@ -84,6 +84,22 @@ check them this run - leave them alone.
 Reading a Marketplace listing: `javascript_tool` with
 `document.body.innerText.split('\n').filter(l=>l.trim()).slice(30,70).join(' | ')` gets the
 description, condition and asking price in one call, far cheaper than a screenshot.
+
+### Slattery and Grays via Chrome
+
+Both are the owner's priority sources and both return empty pages to WebFetch, so sweep them
+yourself in Chrome on every run (don't hand them to a web-only agent).
+
+- **Slattery**: open `https://slatteryauctions.com.au/categories/agriculture` and
+  `/categories/containers-portable-buildings`, wait 3s, then list lots with `javascript_tool`:
+  `[...document.querySelectorAll('a[href^="/assets/"]')].map(a=>a.getAttribute('href').split('?')[0]+' '+a.innerText.replace(/\s+/g,' ').slice(0,130)).join('\n')`.
+  The site search ignores its query; use the categories. On a lot page, `innerText` is
+  blocked (it contains query strings), so read it with screenshots: the header has bid and
+  close time, scroll ~10 ticks for Item Details (Hour Meter, year) and the buyer premium
+  table. Key: `slattery-<asset id>`.
+- **Grays**: search `https://www.grays.com/search/agriculture?q=<terms>` and open lots the same
+  way. Key: `grays-<lot id>` (e.g. `grays-0006-23502890`). If the extension says grays.com
+  isn't allowed, note "Grays skipped: not allowed in Chrome extension" and carry on.
 
 Do not message sellers, place bids, watchlist items, or fill in any form. You look and report;
 the owner makes contact.
