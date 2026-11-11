@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- Install: cp scripts/au.wilkosz.routines.plist ~/Library/LaunchAgents/ && launchctl load ~/Library/LaunchAgents/au.wilkosz.routines.plist -->
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>au.wilkosz.routines</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/zsh</string>
+    <string>-l</string>
+    <string>/Users/joshuawilkosz/GitHub/wilkosz.github.io/scripts/routine.sh</string>
+  </array>
+  <key>StartCalendarInterval</key>
+  <array>
+    <dict><key>Hour</key><integer>5</integer><key>Minute</key><integer>7</integer></dict>
+    <dict><key>Hour</key><integer>11</integer><key>Minute</key><integer>7</integer></dict>
+    <dict><key>Hour</key><integer>17</integer><key>Minute</key><integer>7</integer></dict>
+    <dict><key>Hour</key><integer>23</integer><key>Minute</key><integer>7</integer></dict>
+  </array>
+  <key>StandardOutPath</key>
+  <string>/Users/joshuawilkosz/Library/Logs/wilkosz-routines.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/joshuawilkosz/Library/Logs/wilkosz-routines.log</string>
+</dict>
+</plist>
