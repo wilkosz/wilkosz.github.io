@@ -1,26 +1,6 @@
 {
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "events": [
-    {
-      "key": "2026-11-09-ldi-q3",
-      "date": "2026-11-09",
-      "time": "TBC (date not confirmed)",
-      "ticker": "LDI",
-      "title": "loanDepot Q3 results (date not confirmed)",
-      "type": "earnings",
-      "why": "Holding; origination volume vs rates.",
-      "link": "https://investors.loandepot.com"
-    },
-    {
-      "key": "2026-11-09-china-cpi-ppi",
-      "date": "2026-11-09",
-      "time": "9:30am Beijing (12:30pm AEDT Mon); Sun 8:30pm ET",
-      "ticker": "MACRO",
-      "title": "China CPI and PPI, October",
-      "type": "macro",
-      "why": "Deflation read for BABA and China demand.",
-      "link": "https://cappnotes.substack.com/p/closing-look-friday-november-6-2026"
-    },
     {
       "key": "2026-11-10-crwv-q3",
       "date": "2026-11-10",
@@ -86,10 +66,10 @@
       "date": "2026-11-12",
       "time": "After close; call 4:30pm ET (Fri 8:30am AEDT)",
       "ticker": "AMAT",
-      "title": "Applied Materials fiscal Q4 results and call",
+      "title": "Applied Materials fiscal Q4 results and call (confirmed)",
       "type": "earnings",
-      "why": "Equipment demand and China exposure.",
-      "link": "https://ir.appliedmaterials.com/"
+      "why": "Wafer-fab spend and China share; capex read for semis.",
+      "link": "https://ir.appliedmaterials.com/events/event-details/q4-2026-applied-materials-earnings-conference-call"
     },
     {
       "key": "2026-11-12-csco-q1-fy27",
@@ -98,7 +78,7 @@
       "ticker": "CSCO",
       "title": "Cisco fiscal Q1 2027 results and call (confirmed)",
       "type": "earnings",
-      "why": "AI networking orders; guide $18.0-18.2B.",
+      "why": "AI networking orders from hyperscalers.",
       "link": "https://investor.cisco.com/"
     },
     {
@@ -108,7 +88,7 @@
       "ticker": "FIGR",
       "title": "Figure Technology Q3 results and call",
       "type": "earnings",
-      "why": "Holding; HELOC volume and marketplace growth.",
+      "why": "Holding; HELOC volumes as rates rise.",
       "link": "https://investors.figure.com/"
     },
     {
@@ -118,8 +98,8 @@
       "ticker": "MACRO",
       "title": "Fed speakers: Hammack, Barr, Bowman, Goolsbee, Daly, Jefferson",
       "type": "central_bank",
-      "why": "Post-CPI read on December hike.",
-      "link": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+      "why": "Size of December hike after hot CPI.",
+      "link": "https://www.federalreserve.gov/newsevents/calendar.htm"
     },
     {
       "key": "2026-11-13-aapl-homeview",
@@ -128,7 +108,7 @@
       "ticker": "AAPL",
       "title": "Apple HomeView and Apple TV 4K ship",
       "type": "product",
-      "why": "Loved company; home product push.",
+      "why": "Home push; early demand read.",
       "link": "https://www.apple.com/newsroom/"
     },
     {
@@ -138,8 +118,8 @@
       "ticker": "MACRO",
       "title": "US PPI, October (confirmed)",
       "type": "macro",
-      "why": "Pipeline inflation ahead of December FOMC.",
-      "link": "https://www.bls.gov/schedule/2026/11_sched.htm"
+      "why": "Second inflation read after hot CPI; 50bp hike odds.",
+      "link": "https://www.bls.gov/schedule/news_release/ppi.htm"
     },
     {
       "key": "2026-11-17-us-retail-sales",
@@ -148,7 +128,7 @@
       "ticker": "MACRO",
       "title": "US advance retail sales, October",
       "type": "macro",
-      "why": "Consumer read for AMZN, MELI, SE.",
+      "why": "Consumer strength into holidays; AMZN, MELI read.",
       "link": "https://www.census.gov/retail/index.html"
     },
     {
@@ -159,27 +139,27 @@
       "title": "US import and export prices, October (confirmed)",
       "type": "macro",
       "why": "Tariff and oil pass-through.",
-      "link": "https://www.bls.gov/schedule/2026/11_sched.htm"
+      "link": "https://www.bls.gov/schedule/news_release/ximpim.htm"
     },
     {
       "key": "2026-11-17-nvda-q3-fy27",
       "date": "2026-11-17",
-      "time": "After close; call 5:00pm ET (Wed 9:00am AEDT)",
+      "time": "After close ~4:20pm ET; call 5:00pm ET (Wed 9:00am AEDT) (confirmed)",
       "ticker": "NVDA",
       "title": "Nvidia Q3 fiscal 2027 results and call",
       "type": "earnings",
-      "why": "Guide $108B; board probe questions likely.",
-      "link": "https://investor.nvidia.com/"
+      "why": "Data-centre revenue, guide, gross margin; probe update.",
+      "link": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/"
     },
     {
       "key": "2026-11-17-rba-minutes",
       "date": "2026-11-17",
       "time": "11:30am AEDT (Mon 7:30pm ET) - TBC",
       "ticker": "RBA",
-      "title": "RBA minutes, November meeting",
+      "title": "RBA minutes, Nov 2-3 meeting",
       "type": "central_bank",
-      "why": "Two weeks after Nov 3 meeting; date inferred.",
-      "link": "https://www.rba.gov.au/schedules-events/"
+      "why": "RBA publishes two weeks after meeting; rate path for AUD.",
+      "link": "https://www.rba.gov.au/monetary-policy/rba-board-minutes/"
     },
     {
       "key": "2026-11-18-fomc-minutes",
@@ -188,7 +168,7 @@
       "ticker": "MACRO",
       "title": "FOMC minutes, Oct 27-28 meeting",
       "type": "central_bank",
-      "why": "How many members lean to a December hike.",
+      "why": "How many members back further hikes.",
       "link": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
     },
     {
@@ -196,10 +176,10 @@
       "date": "2026-11-19",
       "time": "Before open; call TBC (likely 7:30am ET, 11:30pm AEDT)",
       "ticker": "BABA",
-      "title": "Alibaba September quarter results and call",
+      "title": "Alibaba September quarter results and call (date confirmed)",
       "type": "earnings",
-      "why": "Holding; cloud growth and quick-commerce losses. Date per Stock-World, no IR notice seen.",
-      "link": "https://www.stock-world.de/alibaba-aktie-zahlentermin-steht-jetzt-fest/"
+      "why": "Cloud growth, AI capex, quick-commerce losses.",
+      "link": "https://www.alibabagroup.com/news-press-releases"
     },
     {
       "key": "2026-11-20-umich-final",
@@ -218,8 +198,18 @@
       "ticker": "Keyence",
       "title": "Keyence 5-for-1 stock split takes effect",
       "type": "other",
-      "why": "Watchlist; lower entry size.",
-      "link": "https://www.keyence.com/ss/about-us/investor/"
+      "why": "Lower unit price; no value change.",
+      "link": "https://www.keyence.com/"
+    },
+    {
+      "key": "2026-11-25-us-gdp-pce",
+      "date": "2026-11-25",
+      "time": "8:30am ET (Thu 12:30am AEDT)",
+      "ticker": "MACRO",
+      "title": "US Q3 GDP second estimate and October PCE",
+      "type": "macro",
+      "why": "Fed's preferred inflation gauge before Dec 8-9 meeting.",
+      "link": "https://www.bea.gov/news/schedule"
     }
   ]
 }

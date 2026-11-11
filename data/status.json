@@ -1,125 +1,139 @@
 {
-  "as_of": "2026-11-10T13:40",
-  "market_summary": "Mon Nov 9: S&P 500 +2.35% (best day since April), Nasdaq +2.74%, SOXX +7.5% with AMD +13% and Broadcom +9%, but Nvidia -4.3% after its board opened a probe into reports Jensen Huang was the target of a foreign intelligence effort. 10-yr rose 2bp to 4.88% and 2-yr 5bp to 4.56%; futures price about 78% odds of a December hike, with October CPI tonight (8:30am ET, consensus +0.3%). Brent fell 5.9% to $92.57 and power names rebounded: Constellation +10.5%, NRG +10.3%, Caterpillar +7.2% on Anthropic buying about $3.4B of its gas generators; no data-centre power law has passed. China October PPI rose 5.7% y/y, the fastest since June 2022 on energy, while CPI slowed to 0.7% and core to 0.8%; Beijing pledged steps to steady the stock market. CoreWeave reports tonight after a 15% drop last week; Cisco and AMAT report Nov 12, Nvidia Nov 17.",
+  "as_of": "2026-11-11T13:40",
+  "market_summary": "US stocks slipped Tue Nov 10 after a hot October CPI: headline +0.4% m/m (0.3% expected), core +0.3% (0.2% expected); S&P 500 -0.38%, Nasdaq -0.74%. The 10-yr rose about 9bp to 4.99% and briefly topped 5%; a 25bp December hike is now fully priced, with about 14% odds of 50bp after Waller floated a bigger step. Semis split: NVDA -5.5% on the board probe while AMD +7.3%, AVGO +7.9% and LRCX +8.5% rose. After the close CoreWeave beat (revenue +168%, backlog $132.5B), held 2026 capex at $37-39B and said it will not issue more parent unsecured debt at current yields; CRWV rose about 8% after hours and Nasdaq futures firmed. Brent fell 1.2% to $91.49 on Iran de-escalation talk, and the Hang Seng drifted lower, with tech down and data-centre generator names up.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "Up 2.9% Monday; JPMorgan kept it as a top internet pick, citing AWS growth of 39% in Q3.",
-      "price_usd": 266.93,
-      "updated": "2026-11-10",
-      "pe_forward": 26.99
+      "reason": "Up 1.5% Tue against a falling Nasdaq; AWS 39% growth thesis intact.",
+      "price_usd": 270.87,
+      "updated": "2026-11-11",
+      "pe_forward": 27.39,
+      "source": "https://stockanalysis.com/stocks/amzn/statistics/"
     },
     "AXOS": {
       "take": "hold",
-      "reason": "Up 1.4% Monday with the market. No company news. Forward P/E about 9.",
-      "price_usd": 93.92,
-      "updated": "2026-11-10",
-      "pe_forward": 9.33
+      "reason": "Down 1.9% Tue with rate-hike bets after hot CPI; no company news.",
+      "price_usd": 92.17,
+      "updated": "2026-11-11",
+      "pe_forward": 9.15,
+      "source": "https://stockanalysis.com/stocks/ax/statistics/"
     },
     "BABA": {
       "take": "hold",
-      "reason": "Down 3.7% Monday with no stated cause. September-quarter results due Nov 19.",
-      "price_usd": 105.38,
-      "updated": "2026-11-10",
-      "pe_forward": 13.28
+      "reason": "Down 2.5% Tue; no material company news.",
+      "price_usd": 102.72,
+      "updated": "2026-11-11",
+      "pe_forward": 12.96,
+      "source": "https://stockanalysis.com/stocks/baba/statistics/"
     },
     "ENPH": {
       "take": "watch",
-      "reason": "Up 2.2% Monday in the broad rally. No company news; still no sign of a turn.",
-      "price_usd": 29.08,
-      "updated": "2026-11-10",
-      "pe_forward": 28.45
+      "reason": "Down 5.0% Tue; higher rate bets hurt solar financing. No company news.",
+      "price_usd": 27.64,
+      "updated": "2026-11-11",
+      "pe_forward": 27.04,
+      "source": "https://stockanalysis.com/stocks/enph/statistics/"
     },
     "FIGR": {
       "take": "hold",
-      "reason": "Up 7.9% Monday in the rebound. No company news.",
-      "price_usd": 24.52,
-      "updated": "2026-11-10",
-      "pe_forward": 20.07
+      "reason": "Down 4.8% Tue as rate-hike odds rose; no company news.",
+      "price_usd": 23.34,
+      "updated": "2026-11-11",
+      "pe_forward": 19.1,
+      "source": "https://stockanalysis.com/stocks/figr/statistics/"
     },
     "GOOGL": {
       "take": "hold",
-      "reason": "Up 1.2% Monday, lagging the Nasdaq's 2.7%. JPMorgan dropped it from its focus list; Cloud grew 103% in Q3.",
-      "price_usd": 288.15,
-      "updated": "2026-11-10",
-      "pe_forward": 20.9
+      "reason": "Flat (-0.3%) Tue; unveiled TPU 8tx and 8i Max chips.",
+      "price_usd": 287.38,
+      "updated": "2026-11-11",
+      "pe_forward": 20.84,
+      "source": "https://stockanalysis.com/stocks/googl/statistics/"
     },
     "LDI": {
       "take": "trim",
-      "reason": "Q3 missed: net loss $29M vs $7M in Q2, volume down 12%, lower Q4 volume guide. Fell 17% Monday.",
-      "price_usd": 0.53,
-      "updated": "2026-11-10"
+      "reason": "Down 9.5% Tue after the Q3 miss; hotter CPI and hike bets hit mortgage lenders.",
+      "price_usd": 0.4801,
+      "updated": "2026-11-11",
+      "source": "https://stockanalysis.com/stocks/ldi/statistics/"
     },
     "META": {
       "take": "hold",
-      "reason": "Up 5.1% Monday after JPMorgan added it to its focus list; Q3 ad revenue grew 26%.",
-      "price_usd": 641.37,
-      "updated": "2026-11-10",
-      "pe_forward": 19.47
+      "reason": "Flat Tue; no material news.",
+      "price_usd": 641.39,
+      "updated": "2026-11-11",
+      "pe_forward": 19.47,
+      "source": "https://stockanalysis.com/stocks/meta/statistics/"
     },
     "MRVL": {
       "take": "watch",
-      "reason": "Up 9.5% Monday with chips, no company news. Lumentum deal overhang and target cuts remain.",
-      "price_usd": 154.6,
-      "updated": "2026-11-10",
-      "pe_forward": 27.41
+      "reason": "Flat (-0.1%) Tue; Lumentum deal overhang unchanged.",
+      "price_usd": 154.39,
+      "updated": "2026-11-11",
+      "pe_forward": 27.37,
+      "source": "https://stockanalysis.com/stocks/mrvl/statistics/"
     },
     "MU": {
       "take": "hold",
-      "reason": "Up 6.3% Monday as the chip index rose 6.9%. Forward P/E about 4.",
-      "price_usd": 733.15,
-      "updated": "2026-11-10",
-      "pe_forward": 4.15
+      "reason": "Down 1.1% Tue; Korea chip exports up 331% Nov 1-10 supports memory demand.",
+      "price_usd": 725.11,
+      "updated": "2026-11-11",
+      "pe_forward": 4.11,
+      "source": "https://stockanalysis.com/stocks/mu/statistics/"
     },
     "NFLX": {
       "take": "hold",
-      "reason": "Up 0.9% Monday. No company news.",
-      "price_usd": 63.95,
-      "updated": "2026-11-10",
-      "pe_forward": 17.81
+      "reason": "Down 1.1% Tue; no material news.",
+      "price_usd": 63.26,
+      "updated": "2026-11-11",
+      "pe_forward": 17.62,
+      "source": "https://stockanalysis.com/stocks/nflx/statistics/"
     },
     "NVDA": {
       "take": "hold",
-      "reason": "Down 4.3% Monday while chips rose 6.9%; board probe into CEO conduct. Q3 results next week are the test.",
-      "price_usd": 178.67,
-      "updated": "2026-11-10",
-      "pe_forward": 14.75
+      "reason": "Down 5.5% Tue after 4.3% Mon; board probe of CEO plus reported FBI look. Results Nov 17 are the test.",
+      "price_usd": 168.89,
+      "updated": "2026-11-11",
+      "pe_forward": 13.94,
+      "source": "https://stockanalysis.com/stocks/nvda/statistics/"
     },
     "RKT": {
       "take": "hold",
-      "reason": "Up 0.9% Monday. No company news.",
-      "price_usd": 15.19,
-      "updated": "2026-11-10",
-      "pe_forward": 25.78
+      "reason": "Down 4.9% Tue as hot CPI lifted rate-hike odds; watch mortgage rates.",
+      "price_usd": 14.45,
+      "updated": "2026-11-11",
+      "pe_forward": 24.52,
+      "source": "https://stockanalysis.com/stocks/rkt/statistics/"
     },
     "TSM": {
       "take": "hold",
-      "reason": "Up 3.5% Monday. October revenue up 59.7% year on year and 14.7% on September.",
-      "price_usd": 388.62,
-      "updated": "2026-11-10",
-      "pe_forward": 18.49
+      "reason": "Up 2.0% Tue as AI chips ex-Nvidia rose; CoreWeave backlog $132.5B supports demand.",
+      "price_usd": 396.48,
+      "updated": "2026-11-11",
+      "pe_forward": 18.99,
+      "source": "https://stockanalysis.com/stocks/tsm/statistics/"
     },
     "STRIPE": {
       "take": "hold",
       "reason": "No new round or tender reported.",
       "price_usd": null,
-      "updated": "2026-11-10",
+      "updated": "2026-11-11",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "Closed $11B of a round at $1.25T, the same valuation already reported; mark unchanged.",
+      "reason": "No new round reported; Anthropic IPO range ($1.4T top) gives a public comparison.",
       "price_usd": null,
-      "updated": "2026-11-10",
+      "updated": "2026-11-11",
       "mark_multiple": 5.43
     }
   },
   "headlines": [
-    "Nvidia -4.3% Monday as its board probes the CEO, while the chip index rose 6.9%.",
-    "loanDepot Q3 missed: loss widened to $29M, volume -12%; shares -17%. Take moved to trim.",
-    "S&P 500 +2.35%, best day since April; MU +6.3%, MRVL +9.5%, META +5.1%.",
-    "TSMC October revenue +59.7% year on year.",
-    "Anthropic to set its IPO range this week, with trading expected next week.",
-    "Next: US CPI tonight 8:30am ET (Wed 12:30am AEDT); CoreWeave after close; Nvidia Nov 17."
+    "Hot October CPI (+0.4%, core +0.3%) puts a December Fed hike fully in price; 10-yr touched 5%.",
+    "Nvidia -5.5% Tue after -4.3% Mon as the CEO probe widens; results Nov 17 (Wed Nov 18 AEDT).",
+    "CoreWeave beats: revenue +168%, backlog $132.5B, guide raised; supports TSM and the AI build-out.",
+    "Anthropic sets IPO range $70-78, up to $1.4T valuation; trading expected Nov 19.",
+    "Rate-sensitive holdings hit: LDI -9.5%, ENPH -5.0%, RKT -4.9%, FIGR -4.8%.",
+    "Next: Cisco and AMAT Thu after close (Fri morning AEDT); PPI Fri."
   ]
 }
