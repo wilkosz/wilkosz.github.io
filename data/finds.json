@@ -1,11 +1,13 @@
 {
-  "as_of": "2026-11-11T21:40",
-  "summary": "Quiet night. The two loader tractors at auction both close today (12 Nov) with bids unchanged since the last run. Nothing new on Slattery or Grays that fits a want.",
+  "as_of": "2026-11-11T22:30",
+  "summary": "Tractors with loaders in the 90-140hp band are still scarce within 400km. Today's best is a 2019 MF 7614 with 850 hours at Dubbo, but it closes this afternoon and the bid is hidden. Dealer stock that clears the hours bar is mostly over budget or past 400km. Implements, cabins and fuel storage are unchanged, and nothing on the list sold.",
   "headlines": [
-    "Case IH Maxxum 140 with loader still $43,000 after 7 bids, reserve not met, closes 6:30pm today at Grays.",
-    "Deutz-Fahr 5130 TTV with loader still $36,100 at Slattery Wagga, closes from 7:12pm today.",
-    "Passed: 2015 Kubota M9540 in Griffith, $30,000 plus GST, but 5,253 hours and no loader.",
-    "Nothing new on Slattery or Grays for the other wants."
+    "2019 MF 7614 with loader, 850 hours, Dubbo 450km, AuctionsPlus closes 4pm today, bid hidden.",
+    "Kubota M9540 with loader, 2,230 hours, $69,850 inc GST, Moss Vale 520km.",
+    "New Lovol 90hp with FEL and implements, $53,990 inc GST, delivered.",
+    "Fuel: 700 L tank $500 at Berrigan 160km; 600 L pod with pump at Young closes today.",
+    "Closing today: Case Maxxum 140 at $43,000 (reserve not met), Deutz 5130 TTV at $36,100, JD 6110M.",
+    "2002 NH TL100A now sale pending. Nothing else sold."
   ],
   "finds": [
     {
@@ -203,7 +205,7 @@
       "why": "1000 L towable cart with a 12V pump, 30km away, at under half the price of the Coleambally cart; listed in June, so ring to check it's still there.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-11-10",
+      "updated": "2026-11-11",
       "photo": "img/finds/farmtender-131044.jpg",
       "photo_url": "https://media.farmtender.com.au/listings/6a1e4a4435776/large/f868ee7c47b91b576f64d7284c0e5140.jpg"
     },
@@ -277,6 +279,28 @@
       "first_seen": "2026-10-22",
       "updated": "2026-11-11",
       "photo": "img/finds/fb-1680015046874285.jpg"
+    },
+    {
+      "key": "fb-1311950427723345",
+      "want": "diesel-storage",
+      "title": "Ground fuel tank, about 700 L, hand pump",
+      "price_aud": 500,
+      "location": "Berrigan, NSW",
+      "distance_km": 160,
+      "detail": [
+        "about 700 L per stamp (185 gal)",
+        "steel, on legs",
+        "hand pump, could go electric",
+        "used, fair"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1311950427723345/",
+      "verdict": "decent",
+      "why": "In the capacity band, cheap and 160km away; hand pump and surface rust.",
+      "status": "live",
+      "first_seen": "2026-11-11",
+      "updated": "2026-11-11",
+      "photo": "img/finds/fb-1311950427723345.jpg"
     },
     {
       "key": "fb-1663698828091004",
@@ -551,7 +575,7 @@
       "why": "Cheapest new 2-bed with bathroom in range, but the dealer's other ads are priced higher, so check the price first.",
       "status": "live",
       "first_seen": "2026-10-14",
-      "updated": "2026-10-31",
+      "updated": "2026-11-11",
       "photo": "img/finds/gumtree-1344906821.jpg",
       "photo_url": "https://images.gumtree.com.au/image/private/t_$_s-l800/gumtree/dbe4a93e-46bd-4f5a-87ed-a1f924190a89.jpg"
     },
@@ -733,28 +757,28 @@
       "updated": "2026-11-11"
     },
     {
-      "key": "fb-1147863417774582",
+      "key": "machines4u-1022670",
       "want": "tractor",
-      "title": "2002 New Holland TL100A cab with Challenge AP30 loader",
-      "price_aud": 48500,
-      "location": "Young, NSW",
-      "distance_km": 260,
+      "title": "New Lovol 90hp 4WD cab tractor with FEL and 4-in-1 bucket (combo)",
+      "price_aud": 53990,
+      "price_note": "inc GST; Combo A adds 6ft slasher, post-hole digger and forks",
+      "location": "not stated (nationwide delivery)",
+      "distance_km": null,
       "detail": [
-        "hours not stated",
-        "98hp",
-        "Challenge AP30 FEL",
-        "new turbo and injectors, fresh oils and filters",
-        "tyres 80%"
+        "new, 0 hours",
+        "90hp",
+        "FEL with 4-in-1 bucket",
+        "5-year warranty"
       ],
-      "source": "Facebook Marketplace",
-      "url": "https://www.facebook.com/marketplace/item/1147863417774582/",
+      "source": "Machines4u",
+      "url": "https://www.machines4u.com.au/view/advert/LOVOL-90HP-4WD-A-C-Cabin-Tractor-with-4-in-1-Bucket-Combo-Deal-5-Years-Warranty/1022670/",
       "verdict": "decent",
-      "why": "Cab, loader and 98hp in band at $48,500, but 24 years old and hours not stated; ask for hours first.",
+      "why": "New with warranty and implements inside budget; bottom of the hp band and the seller's location is not stated.",
       "status": "live",
-      "first_seen": "2026-11-10",
+      "first_seen": "2026-11-11",
       "updated": "2026-11-11",
-      "photo": "img/finds/fb-1147863417774582.jpg",
-      "price_note": "marked Sale pending on Facebook"
+      "photo": "img/finds/machines4u-1022670.jpg",
+      "photo_url": "https://media.machines4u.com.au/machinery/70/1022670/LOVOL-90HP-4WD-A-C-Cabin-Tractor-with-4-in-1-Bucket-Combo-Deal-5-Years-Warranty_82082238.i.jpg"
     },
     {
       "key": "fb-1336993044818018",
