@@ -1,56 +1,6 @@
 {
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "events": [
-    {
-      "key": "2026-11-10-crwv-q3",
-      "date": "2026-11-10",
-      "time": "After close; call 5:00pm ET (Wed 9:00am AEDT)",
-      "ticker": "CRWV",
-      "title": "CoreWeave Q3 results and call",
-      "type": "earnings",
-      "why": "Neocloud credit test; backlog and financing.",
-      "link": "https://investors.coreweave.com/"
-    },
-    {
-      "key": "2026-11-10-us-cpi",
-      "date": "2026-11-10",
-      "time": "8:30am ET (Wed 12:30am AEDT)",
-      "ticker": "MACRO",
-      "title": "US CPI, October (confirmed)",
-      "type": "macro",
-      "why": "Consensus +0.3% m/m, core +0.2%; hot print firms December hike.",
-      "link": "https://www.bls.gov/schedule/2026/11_sched.htm"
-    },
-    {
-      "key": "2026-11-10-fed-waller",
-      "date": "2026-11-10",
-      "time": "TBC",
-      "ticker": "MACRO",
-      "title": "Fed speakers: Waller, Logan 9:35am ET, Schmid 1:30pm ET",
-      "type": "central_bank",
-      "why": "Waller leaning toward a hike.",
-      "link": "https://www.federalreserve.gov/newsevents/2026-november.htm"
-    },
-    {
-      "key": "2026-11-10-se-q3",
-      "date": "2026-11-10",
-      "time": "Before open; call 7:30am ET (11:30pm AEDT Tue)",
-      "ticker": "SE",
-      "title": "Sea Limited Q3 results and call",
-      "type": "earnings",
-      "why": "Watchlist; Shopee margins.",
-      "link": "https://www.sea.com/investor/home"
-    },
-    {
-      "key": "2026-11-10-tsm-oct-revenue",
-      "date": "2026-11-10",
-      "time": "Taiwan afternoon (early evening AEDT)",
-      "ticker": "TSM",
-      "title": "TSMC October revenue",
-      "type": "other",
-      "why": "Monthly read on AI chip demand.",
-      "link": "https://investor.tsmc.com/english/monthly-revenue"
-    },
     {
       "key": "2026-11-11-veterans-day",
       "date": "2026-11-11",
@@ -102,6 +52,16 @@
       "link": "https://www.federalreserve.gov/newsevents/calendar.htm"
     },
     {
+      "key": "2026-11-12-nvda-board",
+      "date": "2026-11-12",
+      "time": "Decision TBC; board met late Wed Nov 11 ET",
+      "ticker": "NVDA",
+      "title": "Nvidia board weighs whether to oust Jensen Huang",
+      "type": "other",
+      "why": "Leadership risk for the AI bellwether; no decision reported yet.",
+      "link": "https://investing.com/news/economy-news/asian-stocks-fragile-nvidia-plummets-as-board-to-decide-ceos-fate-5020170"
+    },
+    {
       "key": "2026-11-13-aapl-homeview",
       "date": "2026-11-13",
       "time": "Availability",
@@ -148,7 +108,7 @@
       "ticker": "NVDA",
       "title": "Nvidia Q3 fiscal 2027 results and call",
       "type": "earnings",
-      "why": "Data-centre revenue, guide, gross margin; probe update.",
+      "why": "Data-centre revenue, guide, margin; first call amid CEO turmoil.",
       "link": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/"
     },
     {
@@ -162,6 +122,16 @@
       "link": "https://www.rba.gov.au/monetary-policy/rba-board-minutes/"
     },
     {
+      "key": "2026-11-18-anthropic-ipo-pricing",
+      "date": "2026-11-18",
+      "time": "After close ET (Thu morning AEDT) - expected",
+      "ticker": "ANT",
+      "title": "Anthropic IPO pricing, range $70-78",
+      "type": "other",
+      "why": "825m shares, up to $64.4B raised, ~$1.4T valuation at top.",
+      "link": "https://www.anthropic.com/news/roadshow-launch"
+    },
+    {
       "key": "2026-11-18-fomc-minutes",
       "date": "2026-11-18",
       "time": "2:00pm ET (Thu 6:00am AEDT)",
@@ -170,6 +140,16 @@
       "type": "central_bank",
       "why": "How many members back further hikes.",
       "link": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+    },
+    {
+      "key": "2026-11-19-anthropic-ant-trading",
+      "date": "2026-11-19",
+      "time": "Nasdaq open 9:30am ET (Fri 1:30am AEDT) - expected",
+      "ticker": "ANT",
+      "title": "Anthropic starts trading on Nasdaq as ANT",
+      "type": "other",
+      "why": "Largest AI listing; sets a mark for AI valuations.",
+      "link": "https://fortune.com/2026/11/10/anthropic-ipo-price-range-ai-stock-sell-off/"
     },
     {
       "key": "2026-11-19-baba-q2-fy27",
@@ -200,6 +180,16 @@
       "type": "other",
       "why": "Lower unit price; no value change.",
       "link": "https://www.keyence.com/"
+    },
+    {
+      "key": "2026-11-23-flash-pmi",
+      "date": "2026-11-23",
+      "time": "9:45am ET (Tue 1:45am AEDT) - secondary source",
+      "ticker": "MACRO",
+      "title": "S&P Global US flash PMIs, November",
+      "type": "macro",
+      "why": "First November activity and price read before Dec Fed.",
+      "link": "https://www.mtsinsights.com/events/4745/"
     },
     {
       "key": "2026-11-25-us-gdp-pce",

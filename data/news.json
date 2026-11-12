@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-11-12",
+    "ticker": "ANTHROPIC",
+    "headline": "Anthropic IPO reportedly several times oversubscribed",
+    "summary": "Bloomberg-sourced reports say orders are several times the 825M shares on offer at $70-78; up to $90.4B raised including a private placement; pricing Nov 18, Nasdaq trading as ANT Nov 19. Talk of a valuation above the range.",
+    "source": "https://qz.com/anthropic-ipo-oversubscribed-roadshow-demand-111126",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-12",
+    "ticker": "CURSOR",
+    "headline": "OpenAI's direct model supply to Cursor due to end today",
+    "summary": "OpenAI proposed Nov 12 as the date to wind down its direct model-supply deal with Cursor, which SpaceX now owns. Not confirmed by a primary source.",
+    "source": "https://blog.mean.ceo/cursor-news-november-2026/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-11",
+    "ticker": "NVDA",
+    "headline": "WSJ: Nvidia board preparing to oust Huang",
+    "summary": "Board could meet Wednesday night; no successor or board chair. NYT also reported a second relationship, with an executive. Shares down over 7% after hours. No decision reported yet.",
+    "source": "https://fortune.com/2026/11/11/nvidia-oust-jensen-huang-spy-affairs/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-11",
+    "ticker": "MU",
+    "headline": "Micron up 11.9% on CoreWeave beat and Anthropic allocation",
+    "summary": "CoreWeave revenue up 168% with a $132.5B backlog revived the memory trade; amended Anthropic IPO filing names Micron for a $1B placement allocation.",
+    "source": "https://www.heygotrade.com/en/news/micron-mu-stock-news-november-12-2026/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-11",
+    "ticker": "MRVL",
+    "headline": "Chips lead rebound: S&P tech sector up 2.7%",
+    "summary": "Marvell up 9.3%, TSMC up 4.3%, Nvidia up 2.9% in session before the after-hours drop. S&P 500 up 1.3%, Nasdaq up 1.6%.",
+    "source": "https://finance.yahoo.com/economy/policy/articles/bonds-reel-hot-inflation-fuels-020451336.html",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-11",
+    "ticker": "AAPL",
+    "headline": "Apple closes at record high, China Renaissance upgrades to Buy",
+    "summary": "Shares rose about 2% to about $355.63, an all-time closing high, for a market value of about $5.1T. China Renaissance upgraded to Buy with a $425 target.",
+    "source": "https://macdailynews.com/2026/11/11/apple-shares-hit-new-all-time-intraday-and-closing-highs-95",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-11",
+    "ticker": "NET",
+    "headline": "Cloudflare up 3% as analysts split",
+    "summary": "Closed at $315.00 (+3%). DZ Bank upgraded to Buy ($300 target); Guggenheim keeps Sell.",
+    "source": "https://stockanalysis.com/stocks/net/",
+    "impact": "neutral"
+  },
+  {
     "date": "2026-11-11",
     "ticker": "SKHY",
     "headline": "Kospi +2.6%, SK hynix +5.4%; Korea chip exports +331% Nov 1-10",
@@ -582,61 +638,5 @@
     "summary": "Revenue was $3.28B and GAAP net income $709M on $43.6B of originations. Q4 adjusted revenue is guided to $2.1-2.3B, below Q3's $2.57B.",
     "source": "https://www.sec.gov/Archives/edgar/data/0001805284/000180528426000121/rkt-093020268xkex991earnin.htm",
     "impact": "positive"
-  },
-  {
-    "date": "2026-10-29",
-    "ticker": "GOOGL",
-    "headline": "Alphabet falls 12.6%, worst day in 20+ years",
-    "summary": "Q3 adjusted EPS missed consensus by 28% and fell 26% YoY. Search revenue of $63.4B missed the $64.9B estimate and free cash flow was -$9.1B.",
-    "source": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-oct-30-083100676.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-29",
-    "ticker": "MRVL",
-    "headline": "Marvell drops 13% on reported Lumentum talks",
-    "summary": "Bloomberg reported advanced talks for an all-stock deal worth about $83B, and an announcement could come next week. Neither company has confirmed it, and analysts flag dilution risk.",
-    "source": "https://www.streetinsider.com/Investing/Marvell+Technology+shares+drop+on+Lumentum+deal+concerns/27263536.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-29",
-    "ticker": "AMZN",
-    "headline": "Amazon: AWS +39%, backlog $578B, 2027 capex to rise further",
-    "summary": "EPS $1.89 missed $1.96; 2026 capex held near $220B; trailing FCF about -$42B. Shares -7% early Oct 30, about -2% by 2pm ET.",
-    "source": "https://www.aboutamazon.com/news/company-news/aws-growth-ai-demand-q3-2026-earnings",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-29",
-    "ticker": "AXOS",
-    "headline": "Axos EPS $2.25, up 16%; NIM 4.64%",
-    "summary": "Roughly in line; loan growth guide kept at low-to-mid teens for FY27.",
-    "source": "https://www.businesswire.com/news/home/20261029575204/en/Axos-Financial-Inc.-Reports-First-Quarter-Fiscal-Year-2027-Results",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-29",
-    "ticker": "RKT",
-    "headline": "Rocket Q3 adj. EBITDA $748M, best margin since 2021",
-    "summary": "GAAP profit $709M; management expects a tougher Q4 as refinancing shrinks.",
-    "source": "https://www.detroitnews.com/story/business/real-estate/2026/10/29/rocket-reports-higher-third-quarter-profit-revenue/92502301007/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-29",
-    "ticker": "6861",
-    "headline": "Keyence H1 operating profit +50%, 5-for-1 split",
-    "summary": "Margin 55.5%; dividend raised JPY 50; chip and AI equipment demand in Asia.",
-    "source": "https://filingreader.com/news-wire/tokyo/2026-10-29/keyence-reports-strong-first-half-growth-and-stock-split",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-29",
-    "ticker": "1211",
-    "headline": "BYD Q3 profit +28% but misses forecasts",
-    "summary": "CNY 10.02B vs about 11.1B expected; overseas sales doubled; inventory up 60%.",
-    "source": "https://finance.biggo.com/news/be7c945b-fdaf-491b-b23b-2dc2a4b9961c",
-    "impact": "negative"
   }
 ]
