@@ -54,12 +54,12 @@
     {
       "key": "2026-11-12-nvda-board",
       "date": "2026-11-12",
-      "time": "Decision TBC; board met late Wed Nov 11 ET",
+      "time": "Announced Thu Nov 12 ET (Fri AEDT)",
       "ticker": "NVDA",
-      "title": "Nvidia board weighs whether to oust Jensen Huang",
+      "title": "Jensen Huang resigns as Nvidia CEO; CFO Colette Kress interim CEO",
       "type": "other",
-      "why": "Leadership risk for the AI bellwether; no decision reported yet.",
-      "link": "https://investing.com/news/economy-news/asian-stocks-fragile-nvidia-plummets-as-board-to-decide-ceos-fate-5020170"
+      "why": "Huang left as CEO and director effective immediately; board searching inside and outside. Harvey Jones named first Chair. No reason given. Stock fell up to 13% intraday.",
+      "link": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
     },
     {
       "key": "2026-11-13-aapl-homeview",
@@ -106,10 +106,10 @@
       "date": "2026-11-17",
       "time": "After close ~4:20pm ET; call 5:00pm ET (Wed 9:00am AEDT) (confirmed)",
       "ticker": "NVDA",
-      "title": "Nvidia Q3 fiscal 2027 results and call",
+      "title": "Nvidia Q3 fiscal 2027 results and call, first under interim CEO Kress",
       "type": "earnings",
-      "why": "Data-centre revenue, guide, margin; first call amid CEO turmoil.",
-      "link": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/"
+      "why": "Date reaffirmed in the CEO-transition release. Watch guidance, any leadership comment and whether hyperscaler orders hold.",
+      "link": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
     },
     {
       "key": "2026-11-17-rba-minutes",
@@ -192,6 +192,26 @@
       "link": "https://www.mtsinsights.com/events/4745/"
     },
     {
+      "key": "2026-11-24-dell-q3",
+      "date": "2026-11-24",
+      "time": "After close - TBC",
+      "ticker": "DELL",
+      "title": "Dell fiscal Q3 results (date projected)",
+      "type": "earnings",
+      "why": "AI server backlog and margins read across to NVDA, MU, VRT, CLS.",
+      "link": "https://chartrow.com/quote/dell/earnings"
+    },
+    {
+      "key": "2026-11-24-wday-zs-q3",
+      "date": "2026-11-24",
+      "time": "After close - TBC",
+      "ticker": "WDAY",
+      "title": "Workday and Zscaler quarterly results (dates projected)",
+      "type": "earnings",
+      "why": "Software demand and AI agent pricing check; both reported same Tuesday last year.",
+      "link": "https://www.digrin.com/stocks/earnings_calendar/2026-11-24"
+    },
+    {
       "key": "2026-11-25-us-gdp-pce",
       "date": "2026-11-25",
       "time": "8:30am ET (Thu 12:30am AEDT)",
@@ -200,6 +220,26 @@
       "type": "macro",
       "why": "Fed's preferred inflation gauge before Dec 8-9 meeting.",
       "link": "https://www.bea.gov/news/schedule"
+    },
+    {
+      "key": "2026-11-26-us-thanksgiving",
+      "date": "2026-11-26",
+      "time": "All day",
+      "ticker": "",
+      "title": "US Thanksgiving: markets closed; Fri 27 half day (1pm ET close)",
+      "type": "other",
+      "why": "Thin trading around holiday.",
+      "link": "https://www.nyse.com/markets/hours-calendars"
+    },
+    {
+      "key": "2026-11-26-mrvl-q3-fy27",
+      "date": "2026-11-26",
+      "time": "After close - TBC (aggregator says confirmed; Nov 26 is US Thanksgiving, verify on IR)",
+      "ticker": "MRVL",
+      "title": "Marvell fiscal Q3 2027 results",
+      "type": "earnings",
+      "why": "Holding. Custom AI silicon and optics growth; date unverified on company page.",
+      "link": "https://www.tipranks.com/stocks/ch:mrvl/earnings"
     }
   ]
 }

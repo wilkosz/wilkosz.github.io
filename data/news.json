@@ -1,6 +1,70 @@
 [
   {
     "date": "2026-11-12",
+    "ticker": "NVDA",
+    "headline": "Jensen Huang resigns; CFO Colette Kress named interim CEO",
+    "summary": "Huang left as CEO and director effective immediately. Harvey Jones becomes first board chair and the board is searching inside and outside for a permanent CEO.",
+    "source": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-12",
+    "ticker": "FIGR",
+    "headline": "Figure Q3: marketplace volume +135%, EBITDA margin 58%",
+    "summary": "Adjusted EBITDA rose 91%. Management flagged seasonal and acquisition costs pressuring Q4 margins; shares rose about 10%.",
+    "source": "https://stockanalysis.com/stocks/figr/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-12",
+    "ticker": "BABA",
+    "headline": "Alibaba drops about 7% on China AI chip worries",
+    "summary": "ADRs fell midday as Nvidia's leadership shock revived chip-supply concerns; T-Head has filed for a Hong Kong IPO and results land Nov 19.",
+    "source": "https://stockanalysis.com/stocks/baba/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-12",
+    "ticker": "AMD",
+    "headline": "AMD up ~5% as rivals gain on Nvidia exit; BofA target $700",
+    "summary": "William Blair upgraded to Outperform; AMD to invest in PsiQuantum.",
+    "source": "https://stockanalysis.com/stocks/amd/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-12",
+    "ticker": "AVGO",
+    "headline": "Broadcom up ~5% on rotation from Nvidia",
+    "summary": "Custom-chip makers bid as Nvidia shares fell.",
+    "source": "https://stockanalysis.com/stocks/avgo/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-12",
+    "ticker": "ALAB",
+    "headline": "Astera sees Scorpio X above $1B run rate by end-2026",
+    "summary": "Said at BMO conference; rising silicon content per XPU.",
+    "source": "https://stockanalysis.com/stocks/alab/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-12",
+    "ticker": "VRT",
+    "headline": "Vertiv launches PowerNexus medium-voltage UPS for AI sites",
+    "summary": "Outdoor-rated MV system; shares +2.7%.",
+    "source": "https://stockanalysis.com/stocks/vrt/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-12",
+    "ticker": "SE",
+    "headline": "Four brokers cut Sea targets after Q3 EPS miss",
+    "summary": "BofA $110, TD Cowen $90, StoneX $155, Barclays $150.",
+    "source": "https://stockanalysis.com/stocks/se/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-12",
     "ticker": "ANTHROPIC",
     "headline": "Anthropic IPO reportedly several times oversubscribed",
     "summary": "Bloomberg-sourced reports say orders are several times the 825M shares on offer at $70-78; up to $90.4B raised including a private placement; pricing Nov 18, Nasdaq trading as ANT Nov 19. Talk of a valuation above the range.",
@@ -105,6 +169,14 @@
   },
   {
     "date": "2026-11-09",
+    "ticker": "ANTHROPIC",
+    "headline": "Anthropic aims for Nasdaq debut as ANT next week",
+    "summary": "WSJ says trading targets Thursday or Friday, Nov 19-20, with Goldman and Morgan Stanley setting the range. Nvidia and Alphabet pledged $10B each at the IPO price.",
+    "source": "https://investinglive.com/stock-market-update/wsj-anthropic-targets-nasdaq-debut-next-week-under-ticker-ant-despite-tech-selloff/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-11-09",
     "ticker": "MARKET",
     "headline": "S&P 500 +2.35%, Nasdaq +2.74%, chip index +6.85%",
     "summary": "Best S&P day since April 8 after the worst week since April 2025. Dow +1,104. Brent -5.85% to $92.57. October CPI due Wednesday.",
@@ -165,6 +237,14 @@
     "headline": "Apple closes at record high",
     "summary": "Up about 2.4% on Monday.",
     "source": "https://macdailynews.com/2026/11/09/apple-shares-hit-new-all-time-closing-high-261109/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-06",
+    "ticker": "OPENAI",
+    "headline": "OpenAI closes first $11B of round at $1.25T",
+    "summary": "The round could reach $20B, well below the original $30B target at a higher valuation. Later reports put the total at $15B.",
+    "source": "https://gvwire.com/2026/11/06/openai-secures-11-billion-funding-at-1-25-trillion-valuation-bloomberg-news-reports/",
     "impact": "positive"
   },
   {
@@ -557,86 +637,6 @@
     "headline": "HSBC upgrades GE Vernova to Buy",
     "summary": "Mizuho lifted its target to $959. Shares -3.4% Friday but +5.3% on the week after the Q3 beat and Trench deal.",
     "source": "https://stockanalysis.com/stocks/gev/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-30",
-    "ticker": "CLS",
-    "headline": "Celestica gets TSX approval for new buyback",
-    "summary": "Normal course issuer bid accepted; shares -6.1% Friday, +2.1% on the week.",
-    "source": "https://stockanalysis.com/stocks/cls/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-30",
-    "ticker": "HOOD",
-    "headline": "Robinhood -7.2%, -10.6% week after crypto-led miss",
-    "summary": "Truist cut its target to $123 from $125.",
-    "source": "https://stockanalysis.com/stocks/hood/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-30",
-    "ticker": "MARKET",
-    "headline": "Nasdaq down over 3% as AI capex fears spread",
-    "summary": "Amazon and Alphabet misses, Intel's weak guide, oil above $100 and Fed speakers floating a December hike pushed the Nasdaq down 3%+ and the VIX up 35%. Alphabet and Meta are now 20%+ below their highs.",
-    "source": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-131609630.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-30",
-    "ticker": "OPENAI",
-    "headline": "OpenAI $30B round at $1.25T still open",
-    "summary": "OpenAI cut its target to $1.25T pre-money from $1.4T, with UAE investors and Coatue leading. Commitments were reportedly due Oct 30 and no close has been announced.",
-    "source": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-30",
-    "ticker": "INTC",
-    "headline": "Intel falls about 30% on weak Q4 guide, dragging chips",
-    "summary": "Q4 revenue guide $15-16B vs $17.1B expected and gross margin 38%; AMD near -10%, Broadcom near -5%, Micron -4.4% in morning trade.",
-    "source": "https://www.forbes.com/sites/fionariley/2026/10/30/intel-sinks-29-on-earnings-as-ai-spending-fears-worsen-tech-selloff/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-30",
-    "ticker": "BOJ",
-    "headline": "BOJ holds at 1.25%, flags December hike",
-    "summary": "8-1 vote; underlying inflation declared at 2% target; Nikkei -2.1%.",
-    "source": "https://cnbc.com/2026/10/30/boj-inflation-target-rates.html",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-30",
-    "ticker": "MACRO",
-    "headline": "Oil up about 2% after Hormuz tanker attack; 10-yr eases to about 4.93%",
-    "summary": "Brent about $113-117 depending on source; Treasuries rallied on the tech sell-off.",
-    "source": "https://www.zerohedge.com/markets/futures-slide-ai-reckoning-claims-amazon-intel-oil-jumps-hormuz-tanker-hits",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-29",
-    "ticker": "AMZN",
-    "headline": "Amazon misses on Q3 EPS and revenue; AWS grows 39%",
-    "summary": "EPS was $1.89 vs $1.97 expected and revenue $201.9B vs $202.3B. AWS grew 39%, its fastest in nearly five years. 2026 capex is held near $220B and the Q4 revenue guide midpoint is about 21% above Q3.",
-    "source": "https://www.geekwire.com/2026/aws-growth-hits-39-its-fastest-in-nearly-five-years-as-amazon-misses-on-earnings/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-10-29",
-    "ticker": "AXOS",
-    "headline": "Axos FQ1 EPS up 16%, NIM up 10bp",
-    "summary": "Net income was $129.6M and diluted EPS $2.25, both up about 15-16% YoY. Deposits rose $848M, including deposits acquired from Capital One, and management expects faster loan growth in the December quarter.",
-    "source": "https://www.sec.gov/Archives/edgar/data/0001299709/000129970926000081/pressrelease20260930axearn.htm",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-29",
-    "ticker": "RKT",
-    "headline": "Rocket beats Q3 estimates; Q4 guide lower",
-    "summary": "Revenue was $3.28B and GAAP net income $709M on $43.6B of originations. Q4 adjusted revenue is guided to $2.1-2.3B, below Q3's $2.57B.",
-    "source": "https://www.sec.gov/Archives/edgar/data/0001805284/000180528426000121/rkt-093020268xkex991earnin.htm",
     "impact": "positive"
   }
 ]
