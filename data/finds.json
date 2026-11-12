@@ -1,13 +1,13 @@
 {
-  "as_of": "2026-11-12T00:50",
-  "summary": "Two tractor auctions close today: the Grays Maxxum 140 is at $43,500 and the Slattery Deutz 5130 at $36,900. A 2019 MF 7614 with 850 hours closes on AuctionsPlus at 4pm. Used 90-140hp loader tractors under $80,000 within 400km stay scarce; dealers are mostly over $100,000. Implements and fuel tanks are steady.",
+  "as_of": "2026-11-12T12:07",
+  "summary": "The 12 Nov auctions cleared high: a 2017 Deere 6110M with loader sold at $90,000 and a 2019 MF 7614 reached $89,000, both above the $80k band. The Grays Case Maxxum 140 passed in at $43,500 and can still be bought by negotiation. Private listings for discs, rippers and fuel tanks are steady, with prices unchanged.",
   "headlines": [
-    "2019 MF 7614 with loader, 850 hours, Dubbo AuctionsPlus, closes 4pm today.",
-    "Grays 2016 Maxxum 140, 3,271 hours, bid up to $43,500 after 8 bids; closes today.",
-    "Slattery 2014 Deutz 5130 TTV with loader at $36,900, closes 7:12pm today.",
-    "2016 JD 6100D with loader, 956 hours, $88,000 at Wangaratta: $8,000 over budget.",
-    "1000 L overhead fuel tank, Berrigan, $1,500; single-tyne ripper, Heathcote, $450.",
-    "Nothing new for portable homes or offset discs within 400km."
+    "Grays Case Maxxum 140 + loader passed in at $43,500 after 81 bids; open to offers.",
+    "New: 2014 Deere 6125R, H340 loader, 3,098 hours, Shepparton area (300km); price not stated.",
+    "Deere 6110M loader tractor sold at $90,000; MF 7614 bid to $89,000. Both above budget.",
+    "New: 2-bed container house with ensuite, Dubbo (390km), cut to $23,500.",
+    "Slattery Deutz 5130 TTV auction closed; no result published.",
+    "New: 1,000 L overhead fuel tank, Berrigan (170km), $1,500."
   ],
   "finds": [
     {
@@ -625,6 +625,30 @@
       "photo": "img/finds/fb-4498847773713057.jpg"
     },
     {
+      "key": "fb-1416522520374898",
+      "want": "portable-home",
+      "title": "New expandable container house, 2 bedrooms, ensuite, kitchenette",
+      "price_aud": 23500,
+      "price_note": "reduced from $28,500; ex-yard pickup, transport extra",
+      "location": "Dubbo, NSW",
+      "distance_km": 390,
+      "detail": [
+        "new, unused (model L0206-BR2)",
+        "2 separate bedrooms",
+        "ensuite: shower, toilet, sink",
+        "small kitchenette",
+        "double-glazed sliding windows"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1416522520374898/",
+      "verdict": "decent",
+      "why": "2 bedrooms and an ensuite for $23,500, cut by $5,000, but it is right at the 400km limit.",
+      "status": "live",
+      "first_seen": "2026-11-12",
+      "updated": "2026-11-12",
+      "photo": "img/finds/fb-1416522520374898.jpg"
+    },
+    {
       "key": "fb-1595486731869298",
       "want": "portable-home",
       "title": "Portable accommodation building, 6m x 3m, with bathroom",
@@ -666,38 +690,12 @@
       "source": "Slattery Auctions",
       "url": "https://slatteryauctions.com.au/assets/148669?auctionId=12542",
       "verdict": "strong",
-      "why": "Low hours, loader fitted, 140km away and bidding well under budget; inspect at Wagga today before 5pm.",
-      "status": "live",
+      "why": "Slattery auction ended 12 Nov 7:12pm; result not shown.",
+      "status": "gone",
       "ends": "2026-11-12",
       "first_seen": "2026-11-11",
       "updated": "2026-11-12",
       "photo": "img/finds/slattery-148669.jpg"
-    },
-    {
-      "key": "grays-0006-23502890",
-      "want": "tractor",
-      "title": "2016 Case IH Maxxum 140 with Challenge Prime-Lift 50S loader",
-      "price_aud": 43500,
-      "price_note": "current bid, 8 bids; plus buyer premium",
-      "location": "Young District, NSW",
-      "distance_km": 260,
-      "detail": [
-        "3,271 hours",
-        "140hp, 6-cylinder FPT",
-        "cab, front suspension, partial powershift",
-        "loader with 4-in-1 bucket, pallet forks",
-        "Howard 2.2 m slasher included",
-        "Trimble GPS display"
-      ],
-      "source": "Grays",
-      "url": "https://www.grays.com/lot/0006-23502890/agriculture-tractors/2016-case-ih-maxxum-140-tractor",
-      "verdict": "strong",
-      "why": "Every must cleared with attachments thrown in, and bidding is $37k under budget with hours to go.",
-      "status": "live",
-      "ends": "2026-11-12",
-      "first_seen": "2026-11-11",
-      "updated": "2026-11-12",
-      "photo": "img/finds/grays-0006-23502890.jpg"
     },
     {
       "key": "auctionsplus-129203-1470696",
@@ -757,8 +755,8 @@
       "key": "auctionsplus-129205-1471114",
       "want": "tractor",
       "title": "2017 John Deere 6110M 4WD cab with 623R loader",
-      "price_aud": null,
-      "price_note": "no bid shown before the sale; 2% buyer premium; auction 12 Nov 4:00pm AEDT",
+      "price_aud": 90000,
+      "price_note": "final bid, reserve met (On Market) when the AuctionsPlus sale closed 12 Nov",
       "location": "Gerogery, NSW",
       "distance_km": 300,
       "detail": [
@@ -770,11 +768,37 @@
       "source": "AuctionsPlus",
       "url": "https://auctionsplus.com.au/auctions/machinery/auctionsplus-multi-vendor-machinery-auction/john-deere-610m/listing/129205-1471114/browse",
       "verdict": "strong",
-      "why": "2017 Deere under 2,000 hours with a Deere loader; in band if it sells under $80k.",
-      "status": "live",
+      "why": "Sold over budget at $90,000 plus 2% premium; a guide for clean 6110M loader tractors.",
+      "status": "sold",
       "ends": "2026-11-12",
       "first_seen": "2026-11-08",
       "updated": "2026-11-12"
+    },
+    {
+      "key": "grays-0006-23502890",
+      "want": "tractor",
+      "title": "2016 Case IH Maxxum 140 with Challenge Prime-Lift 50S loader",
+      "price_aud": 43500,
+      "price_note": "auction closed 12 Nov, referred: reserve not met after 81 bids; last bid $43,500 plus buyer premium",
+      "location": "Young District, NSW",
+      "distance_km": 260,
+      "detail": [
+        "3,271 hours",
+        "140hp, 6-cylinder FPT",
+        "cab, front suspension, partial powershift",
+        "loader with 4-in-1 bucket, pallet forks",
+        "Howard 2.2 m slasher included",
+        "Trimble GPS display"
+      ],
+      "source": "Grays",
+      "url": "https://www.grays.com/lot/0006-23502890/agriculture-tractors/2016-case-ih-maxxum-140-tractor",
+      "verdict": "decent",
+      "why": "Passed in at $43,500 after 81 bids. A referred lot can still be bought by negotiation, so ring Grays (Stephen Martin) with an offer.",
+      "status": "live",
+      "ends": "2026-11-12",
+      "first_seen": "2026-11-11",
+      "updated": "2026-11-12",
+      "photo": "img/finds/grays-0006-23502890.jpg"
     },
     {
       "key": "machines4u-1022670",
@@ -804,8 +828,8 @@
       "key": "auctionsplus-129205-1478848",
       "want": "tractor",
       "title": "2019 Massey Ferguson 7614 with front-end loader",
-      "price_aud": null,
-      "price_note": "no current bid shown; plus 2% buyer premium",
+      "price_aud": 89000,
+      "price_note": "last bid when the AuctionsPlus sale closed 12 Nov; not shown as On Market",
       "location": "Dubbo, NSW",
       "distance_km": 400,
       "detail": [
@@ -817,11 +841,36 @@
       "source": "AuctionsPlus",
       "url": "https://auctionsplus.com.au/auctions/machinery/auctionsplus-multi-vendor-machinery-auction/fel-tractor/listing/129205-1478848/browse",
       "verdict": "decent",
-      "why": "850-hour 2019 MF with loader is the lowest-hour used tractor on the list; detail is thin and Dubbo is at the 400km limit.",
-      "status": "live",
+      "why": "Bidding reached $89,000 for an 850-hour 2019 MF 7614, above the $80k band; outcome not published.",
+      "status": "gone",
       "ends": "2026-11-12",
       "first_seen": "2026-11-12",
       "updated": "2026-11-12"
+    },
+    {
+      "key": "fb-4588282108096628",
+      "want": "tractor",
+      "title": "2014 John Deere 6125R Premium with H340 loader, 3,098 hours",
+      "price_aud": null,
+      "price_note": "price not stated (listed at a $123 placeholder)",
+      "location": "Zeerust (Wunghnu), VIC",
+      "distance_km": 300,
+      "detail": [
+        "3,098 hours",
+        "125hp class",
+        "JD H340 loader, bucket and pallet forks",
+        "3rd-function hydraulics",
+        "AutoQuad, 2 rear remotes, premium cab",
+        "listed by a machinery broker"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/4588282108096628/",
+      "verdict": "decent",
+      "why": "Clears every must: Deere, 125hp, factory loader, 3,098 hours. Price is hidden, so the call decides it.",
+      "status": "live",
+      "first_seen": "2026-11-12",
+      "updated": "2026-11-12",
+      "photo": "img/finds/fb-4588282108096628.jpg"
     }
   ]
 }
