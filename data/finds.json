@@ -1,13 +1,13 @@
 {
-  "as_of": "2026-11-11T22:30",
-  "summary": "Tractors with loaders in the 90-140hp band are still scarce within 400km. Today's best is a 2019 MF 7614 with 850 hours at Dubbo, but it closes this afternoon and the bid is hidden. Dealer stock that clears the hours bar is mostly over budget or past 400km. Implements, cabins and fuel storage are unchanged, and nothing on the list sold.",
+  "as_of": "2026-11-12T00:50",
+  "summary": "Two tractor auctions close today: the Grays Maxxum 140 is at $43,500 and the Slattery Deutz 5130 at $36,900. A 2019 MF 7614 with 850 hours closes on AuctionsPlus at 4pm. Used 90-140hp loader tractors under $80,000 within 400km stay scarce; dealers are mostly over $100,000. Implements and fuel tanks are steady.",
   "headlines": [
-    "2019 MF 7614 with loader, 850 hours, Dubbo 450km, AuctionsPlus closes 4pm today, bid hidden.",
-    "Kubota M9540 with loader, 2,230 hours, $69,850 inc GST, Moss Vale 520km.",
-    "New Lovol 90hp with FEL and implements, $53,990 inc GST, delivered.",
-    "Fuel: 700 L tank $500 at Berrigan 160km; 600 L pod with pump at Young closes today.",
-    "Closing today: Case Maxxum 140 at $43,000 (reserve not met), Deutz 5130 TTV at $36,100, JD 6110M.",
-    "2002 NH TL100A now sale pending. Nothing else sold."
+    "2019 MF 7614 with loader, 850 hours, Dubbo AuctionsPlus, closes 4pm today.",
+    "Grays 2016 Maxxum 140, 3,271 hours, bid up to $43,500 after 8 bids; closes today.",
+    "Slattery 2014 Deutz 5130 TTV with loader at $36,900, closes 7:12pm today.",
+    "2016 JD 6100D with loader, 956 hours, $88,000 at Wangaratta: $8,000 over budget.",
+    "1000 L overhead fuel tank, Berrigan, $1,500; single-tyne ripper, Heathcote, $450.",
+    "Nothing new for portable homes or offset discs within 400km."
   ],
   "finds": [
     {
@@ -33,7 +33,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-02",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "photo": "img/finds/fb-1529309308826340.jpg"
     },
     {
@@ -58,7 +58,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-08",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "photo": "img/finds/fb-1166415099041888.jpg"
     },
     {
@@ -83,8 +83,28 @@
       "why": "Undamaged MF single tine at $350 firm, but no hp or depth stated; unchanged after 16 weeks.",
       "status": "live",
       "first_seen": "2026-10-10",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "photo": "img/finds/fb-1794651221505734.jpg"
+    },
+    {
+      "key": "fb-1491086204083124",
+      "want": "deep-ripper",
+      "title": "Heavy duty single-tyne ripper",
+      "price_aud": 450,
+      "location": "Heathcote, VIC",
+      "distance_km": 330,
+      "detail": [
+        "single tyne",
+        "used, good condition",
+        "hitch and protection not stated"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1491086204083124/",
+      "verdict": "decent",
+      "why": "Cheap heavy single tyne; confirm 3PL category and point condition before the drive.",
+      "status": "live",
+      "first_seen": "2026-11-12",
+      "updated": "2026-11-12"
     },
     {
       "key": "fb-1376645941299287",
@@ -107,7 +127,7 @@
       "why": "A proper single-tyne build from a known Australian maker at under half the new price, still $600; no hp rating and about 380 km away.",
       "status": "live",
       "first_seen": "2026-10-14",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "photo": "img/finds/fb-1376645941299287.jpg"
     },
     {
@@ -132,7 +152,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-29",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "photo": "img/finds/tradefarm-855857.jpg",
       "photo_url": "https://assets.primecreative.com.au/imagegen/max/cr/93/70/s3/digital-cougar-assets/momoads/2021/08/10/091255/60hp-ripper.JPG"
     },
@@ -181,7 +201,7 @@
       "why": "The tank-and-stand option for $500: gravity feeds a tractor with no pump, but it's rusty, so check inside for scale and leaks.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "photo": "img/finds/fb-2603503066789216.jpg"
     },
     {
@@ -205,7 +225,7 @@
       "why": "1000 L towable cart with a 12V pump, 30km away, at under half the price of the Coleambally cart; listed in June, so ring to check it's still there.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "photo": "img/finds/farmtender-131044.jpg",
       "photo_url": "https://media.farmtender.com.au/listings/6a1e4a4435776/large/f868ee7c47b91b576f64d7284c0e5140.jpg"
     },
@@ -230,7 +250,7 @@
       "why": "Tidy tandem 1000 L cart with pump, 40km away; listed 9 weeks, so there may be room on price.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "photo": "img/finds/fb-913292798511535.jpg"
     },
     {
@@ -277,7 +297,7 @@
       "why": "Cheapest working diesel tank found, in use until last month, but rusty, bare and 190km away.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "photo": "img/finds/fb-1680015046874285.jpg"
     },
     {
@@ -299,7 +319,7 @@
       "why": "In the capacity band, cheap and 160km away; hand pump and surface rust.",
       "status": "live",
       "first_seen": "2026-11-11",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "photo": "img/finds/fb-1311950427723345.jpg"
     },
     {
@@ -322,7 +342,7 @@
       "why": "Clean-looking 1000 L tank 40km away, but bare: budget for a pump or a stand.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "photo": "img/finds/fb-1663698828091004.jpg"
     },
     {
@@ -344,7 +364,7 @@
       "why": "A third of the price of the next-cheapest disc; budget a lift ram and check width is under 3.5 m.",
       "status": "live",
       "first_seen": "2026-11-08",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "photo": "img/finds/fb-1605224174739541.jpg"
     },
     {
@@ -370,7 +390,7 @@
       "why": "A proper heavy Brazilian 28-plate at a third of new, but it sits at the top of the hp range and needs about $3,800 in plates to bite like new.",
       "status": "live",
       "first_seen": "2026-10-13",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "photo": "img/finds/fb-1730861284788002.jpg"
     },
     {
@@ -396,7 +416,7 @@
       "why": "Closest used 28-plate, with the bearing work done. Measure the width and check plate wear in person.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "ends": null,
       "photo": "img/finds/fb-1096043223368086.jpg"
     },
@@ -425,7 +445,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "photo": "img/finds/fb-1054966007434070.jpg"
     },
     {
@@ -449,7 +469,7 @@
       "why": "Brand new for the price of a used set, but it is a light Chinese build rated to 100hp and needs assembling.",
       "status": "live",
       "first_seen": "2026-10-12",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "photo": "img/finds/fb-1576107450589526.jpg"
     },
     {
@@ -473,7 +493,7 @@
       "why": "A hardly-used 28-plate for $9,000 about 200 km away, but the listing is three lines long: get the width and hp before driving.",
       "status": "live",
       "first_seen": "2026-10-14",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "photo": "img/finds/fb-1005183285292089.jpg"
     },
     {
@@ -499,7 +519,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "photo": "img/finds/fb-1117657974131225.jpg"
     },
     {
@@ -525,7 +545,7 @@
       "why": "Premium model from the same Cobram dealer with the kitchen fitted; it clears every must and every prefer at 180km.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "price_note": "up from $22,990",
       "ends": null,
       "photo": "img/finds/fb-1729183591520678.jpg"
@@ -575,7 +595,7 @@
       "why": "Cheapest new 2-bed with bathroom in range, but the dealer's other ads are priced higher, so check the price first.",
       "status": "live",
       "first_seen": "2026-10-14",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "photo": "img/finds/gumtree-1344906821.jpg",
       "photo_url": "https://images.gumtree.com.au/image/private/t_$_s-l800/gumtree/dbe4a93e-46bd-4f5a-87ed-a1f924190a89.jpg"
     },
@@ -601,7 +621,7 @@
       "why": "Clears the bathroom and two-room bar for $19k inside 250km, but it is homemade and the listing is thin, so inspect it.",
       "status": "live",
       "first_seen": "2026-10-27",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "photo": "img/finds/fb-4498847773713057.jpg"
     },
     {
@@ -625,14 +645,14 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-11-02",
-      "updated": "2026-11-11"
+      "updated": "2026-11-12"
     },
     {
       "key": "slattery-148669",
       "want": "tractor",
       "title": "2014 Deutz-Fahr 5130 TTV with ALO X56P loader",
-      "price_aud": 36100,
-      "price_note": "current bid, 2 bids; plus 12.5% buyer premium incl GST ($30-50k band); $1,000 deposit",
+      "price_aud": 36900,
+      "price_note": "current bid; plus buyer premium",
       "location": "Wagga Wagga, NSW",
       "distance_km": 140,
       "detail": [
@@ -650,15 +670,15 @@
       "status": "live",
       "ends": "2026-11-12",
       "first_seen": "2026-11-11",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "photo": "img/finds/slattery-148669.jpg"
     },
     {
       "key": "grays-0006-23502890",
       "want": "tractor",
       "title": "2016 Case IH Maxxum 140 with Challenge Prime-Lift 50S loader",
-      "price_aud": 43000,
-      "price_note": "current bid, 7 bids, reserve not met; plus variable buyer premium and admin fee; GST inclusive",
+      "price_aud": 43500,
+      "price_note": "current bid, 8 bids; plus buyer premium",
       "location": "Young District, NSW",
       "distance_km": 260,
       "detail": [
@@ -676,7 +696,7 @@
       "status": "live",
       "ends": "2026-11-12",
       "first_seen": "2026-11-11",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "photo": "img/finds/grays-0006-23502890.jpg"
     },
     {
@@ -730,7 +750,7 @@
       "why": "Still the best value on the list: a 2022 cab tractor with a 4-in-1 loader at 251 hrs, 190 km away. It is $18,000 under the ceiling and has sat 10 weeks, so there is room to offer.",
       "status": "live",
       "first_seen": "2026-10-14",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "photo": "img/finds/fb-1027921470152750.jpg"
     },
     {
@@ -754,7 +774,7 @@
       "status": "live",
       "ends": "2026-11-12",
       "first_seen": "2026-11-08",
-      "updated": "2026-11-11"
+      "updated": "2026-11-12"
     },
     {
       "key": "machines4u-1022670",
@@ -776,59 +796,32 @@
       "why": "New with warranty and implements inside budget; bottom of the hp band and the seller's location is not stated.",
       "status": "live",
       "first_seen": "2026-11-11",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "photo": "img/finds/machines4u-1022670.jpg",
       "photo_url": "https://media.machines4u.com.au/machinery/70/1022670/LOVOL-90HP-4WD-A-C-Cabin-Tractor-with-4-in-1-Bucket-Combo-Deal-5-Years-Warranty_82082238.i.jpg"
     },
     {
-      "key": "fb-1336993044818018",
+      "key": "auctionsplus-129205-1478848",
       "want": "tractor",
-      "title": "2010 McCormick T-Max 100 92hp 4WD with loader and 4-in-1 bucket, 1,375 hours",
-      "price_aud": 72600,
-      "price_note": "private listing; GST not mentioned",
-      "location": "Canberra, ACT",
-      "distance_km": 410,
-      "detail": [
-        "92hp Perkins engine, 1,375 hours, 4WD with rear diff lock",
-        "36x12 transmission (3-speed powershift)",
-        "front-end loader with 4-in-1 bucket; loader make not stated",
-        "PTO 540E/550/1000",
-        "photo shows an enclosed cab, which the text does not mention",
-        "still listed 18 Oct at the same price, 10 weeks on; service history and AdBlue not stated; 410 km is just past the 400 km radius"
-      ],
-      "source": "Facebook Marketplace",
-      "url": "https://www.facebook.com/marketplace/item/1336993044818018/",
-      "verdict": "decent",
-      "why": "Clears every must at 92hp and 1,375 hrs with a cab and a 4-in-1 loader, and it is $7,400 under the ceiling. It is 410 km away and has sat for 10 weeks, so there is room to offer.",
-      "status": "sold",
-      "first_seen": "2026-10-15",
-      "updated": "2026-11-04",
-      "photo": "img/finds/fb-1336993044818018.jpg"
-    },
-    {
-      "key": "auctionsplus-129297-1470171",
-      "want": "tractor",
-      "title": "Massey Ferguson 7614 with front-end loader and bucket",
+      "title": "2019 Massey Ferguson 7614 with front-end loader",
       "price_aud": null,
-      "price_note": "no bid shown before the sale; clearing sale 12 Nov 8:30am AEDT",
-      "location": "Little Billabong (Holbrook), NSW",
-      "distance_km": 300,
+      "price_note": "no current bid shown; plus 2% buyer premium",
+      "location": "Dubbo, NSW",
+      "distance_km": 400,
       "detail": [
-        "1,103 hours",
-        "140hp",
-        "FEL with bucket",
-        "year not stated"
+        "850 hours",
+        "FEL, PTO, 3PL",
+        "hp not stated",
+        "property sold, AWN Lord agent"
       ],
-      "source": "AuctionsPlus (Nutrien Holbrook)",
-      "url": "https://auctionsplus.com.au/auctions/machinery/p-n-rogers-investments-pl-clearing-sale-yarra/massey-ferguson-mf7614-w-front-end-loader-bu/listing/129297-1470171/browse",
+      "source": "AuctionsPlus",
+      "url": "https://auctionsplus.com.au/auctions/machinery/auctionsplus-multi-vendor-machinery-auction/fel-tractor/listing/129205-1478848/browse",
       "verdict": "decent",
-      "why": "One owner, serviced and low hours, so it clears every must on paper, but it sits at the 140hp top of the band and may sell above $80k.",
+      "why": "850-hour 2019 MF with loader is the lowest-hour used tractor on the list; detail is thin and Dubbo is at the 400km limit.",
       "status": "live",
       "ends": "2026-11-12",
-      "first_seen": "2026-10-25",
-      "updated": "2026-11-11",
-      "photo": "img/finds/auctionsplus-129297-1470171.jpg",
-      "photo_url": "https://auctionsplusblob.blob.core.windows.net/apmediaprod/Photos/1639285652916943282_86d8b40a-f56b-4e31-84d1-42e0709cd749.webp"
+      "first_seen": "2026-11-12",
+      "updated": "2026-11-12"
     }
   ]
 }
