@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-11-13",
+    "ticker": "NVDA",
+    "headline": "HSBC downgrades Nvidia to Hold after Huang exit",
+    "summary": "HSBC cut its target to $170 from $365, saying investor confidence is shaken. The stock fell again Friday, extending Thursday's 4% drop.",
+    "source": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-13",
+    "ticker": "OPENAI",
+    "headline": "OpenAI reportedly raising $15B at $1.25T valuation",
+    "summary": "Half the $30B initially sought and below a $1.4T target, per CNBC sources. About 47% above the March round's $852B post-money.",
+    "source": "https://techfundingnews.com/openai-reportedly-raises-15b-at-1-25t-valuation-as-anthropic-ipo-approaches/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-11-13",
+    "ticker": "META",
+    "headline": "Meta rises about 2% against falling Nasdaq",
+    "summary": "Meta traded higher midday Friday on light volume while chips dragged the index lower.",
+    "source": "https://marketbeat.com/instant-alerts/options-meta-platforms-inc-nasdaq-meta-sees-large-increase-in-short-interest-2026-11-13",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-13",
+    "ticker": "MACRO",
+    "headline": "10y yield hits 5.17%, Fed hike bets build",
+    "summary": "October PPI rose 0.3% vs 0.4% expected, but yields stayed above 5.1% and December hike odds rose.",
+    "source": "https://www.koreatimes.co.kr/world/20261114/stocks-sway-as-wall-street-heads-for-winning-week-after-several-turbulent-days",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-12",
+    "ticker": "HOOD",
+    "headline": "Robinhood among six brokers selling Anthropic IPO shares to retail",
+    "summary": "Robinhood joins Schwab, Fidelity, SoFi, E*TRADE and others in the retail allocation; HOOD rose 4% on Nov 12.",
+    "source": "https://financefeeds.com/robinhood-hood-stock-84-58-thursday-anthropic-ipo-retail-allocation-targets-100-135/",
+    "impact": "positive"
+  },
+  {
     "date": "2026-11-12",
     "ticker": "NVDA",
     "headline": "Nvidia closes down 4.3% after Huang resigns; Kress interim CEO",
@@ -598,45 +638,5 @@
     "summary": "10th month of expansion; production 59.0, highest since Nov 2021; prices paid down 2.7 to 75.2.",
     "source": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-55-5-october-2026-ism-manufacturing-pmi-report-302925617.html",
     "impact": "positive"
-  },
-  {
-    "date": "2026-11-02",
-    "ticker": "SKHY",
-    "headline": "SK hynix +4.5% in Seoul as Kospi rebounds 2.2%",
-    "summary": "Korean October chip exports reported +259% y/y; Samsung +2%. Kioxia -16% in Tokyo on a weak outlook.",
-    "source": "https://tradingkey.com/analysis/stocks/more/262263510-japan-korea-stocks-skhy-kospi-nikkei-samsung-kioxia-ai-softbank-fomc-ai-tradingkey",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-11-02",
-    "ticker": "MACRO",
-    "headline": "Oil falls ~7% on Iran ceasefire hopes, stocks rebound",
-    "summary": "S&P +0.6%, Nasdaq +0.8% at 11:30am ET; 10-yr 4.94%; Oracle -6% on a $20B raise; Amazon +4%.",
-    "source": "https://www.fool.com/coverage/stock-market-today/2026/11/02/stock-market-midday-nov-2-stocks-rally-as-oil-prices-tumble-on-diplomatic-hopes/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-11-01",
-    "ticker": "1211.HK",
-    "headline": "BYD October sales 490,168, up 11% y/y; exports up 103%",
-    "summary": "BYD sold 490,168 NEVs in October, up 10.97% year on year. Overseas sales were 170,194, up 102.84% year on year but down 5.81% from September.",
-    "source": "https://cnevpost.com/2026/11/01/byd-oct-2026-sales/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-10-31",
-    "ticker": "MACRO",
-    "headline": "China October factory PMI 49.3, back in contraction",
-    "summary": "Down from 50.1 in September and below the 50.0 consensus; services also contracted.",
-    "source": "https://tradingeconomics.com/china/business-confidence",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-30",
-    "ticker": "MRVL",
-    "headline": "Marvell slides again on reported all-stock Lumentum deal",
-    "summary": "Bloomberg reports an all-stock deal for Lumentum could be announced as soon as next week, at a small premium. Marvell fell 13% Thursday and about 10% Friday on dilution fears.",
-    "source": "https://www.fxleaders.com/news/2026/10/30/mrvl-stock-slips-below-200-as-lumentum-deal-talks-weigh-on-marvell/",
-    "impact": "negative"
   }
 ]

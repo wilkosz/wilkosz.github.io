@@ -1,139 +1,138 @@
 {
-  "as_of": "2026-11-13T06:45",
-  "market_summary": "US stocks slipped Thu Nov 12: S&P 500 -0.35% to 7,592, Nasdaq -0.39%, Russell 2000 -1.7%, VIX up 7% to 18.7. Nvidia fell 4.3% after Jensen Huang resigned as CEO (CFO Colette Kress interim), while AMD (+5.9%) and Broadcom (+5.5%) rallied, so the chip trade is splitting rather than breaking. The 10-year Treasury yield closed near 5.10% (+10bp) after hot October CPI (+0.4% m/m), keeping a further Fed hike on the table; PPI today and FOMC minutes Nov 18 are the next tests. Oil rose 2.6% to $88.75 on US-Iran and Hormuz uncertainty, which is another inflation headwind. AI capex signals stayed firm: Applied Materials posted record $10.4B revenue and Cisco raised its FY27 outlook, and Nvidia (Nov 17) and Alibaba (Nov 19) are the next reads, with Alibaba covering China.",
+  "as_of": "2026-11-13T18:45",
+  "market_summary": "Chips led a broad sell-off on Fri Nov 13 as the market priced Nvidia without Jensen Huang: AMD fell about 10%, Broadcom about 6%, Intel about 5%, Nvidia about 4%. Yahoo had the S&P 500 -0.9% and Nasdaq -1.6% late in the session, Dow -0.2%. October PPI rose 0.3% m/m against 0.4% expected, but is up 6.5% y/y, the most since Nov 2022, so a December Fed hike stays the base case. The 10-yr hit 5.17% intraday, its highest since October; WTI was flat near $88.5 after Thursday's spike. Next week hinges on Nvidia's Tue print under interim CEO Kress, the Anthropic IPO and FOMC minutes; China's open models depend on chips the Nvidia shake-up could put at risk.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "Up 0.5% on a down day; Anthropic stake gets a public mark when ANT lists week of Nov 16.",
-      "price_usd": 267.44,
+      "reason": "Down 0.7%, holding up better than chips in the yield-driven tech selloff; no new company news.",
+      "price_usd": 265.68,
       "updated": "2026-11-13",
-      "pe_forward": 27.05,
+      "pe_forward": 26.87,
       "source": "https://stockanalysis.com/stocks/amzn/statistics/"
     },
     "AXOS": {
       "take": "hold",
-      "reason": "Down 0.5% with no news; forward P/E about 9.",
-      "price_usd": 91.29,
+      "reason": "Down 0.7% as the 10y tops 5.1%; cheap on forward earnings, no company news.",
+      "price_usd": 90.67,
       "updated": "2026-11-13",
-      "pe_forward": 9.06,
+      "pe_forward": 9.03,
       "source": "https://stockanalysis.com/stocks/ax/statistics/"
     },
     "BABA": {
-      "take": "watch",
-      "reason": "Fell 7% on China AI chip supply worries after the Nvidia shake-up; results Nov 19 are the next read.",
-      "price_usd": 94.36,
+      "take": "hold",
+      "reason": "Down 0.4% ahead of Nov 19 results; wait for the print before acting.",
+      "price_usd": 94.01,
       "updated": "2026-11-13",
       "pe_forward": 11.85,
       "source": "https://stockanalysis.com/stocks/baba/statistics/"
     },
     "ENPH": {
       "take": "watch",
-      "reason": "Down 5.4% as the 10-year topped 5.1%; rate-sensitive solar keeps falling with no company news.",
-      "price_usd": 26.78,
+      "reason": "Down 3.8% as higher yields weigh on rate-sensitive solar; no company-specific news.",
+      "price_usd": 25.76,
       "updated": "2026-11-13",
-      "pe_forward": 26.2,
+      "pe_forward": 25.24,
       "source": "https://stockanalysis.com/stocks/enph/statistics/"
     },
     "FIGR": {
       "take": "hold",
-      "reason": "Up 6.1% more after Q3 volume +135%; post-earnings run continues despite softer Q4 margin guide.",
-      "price_usd": 25.67,
+      "reason": "Flat (+0.1%) in a weak tape; no new company news.",
+      "price_usd": 25.69,
       "updated": "2026-11-13",
-      "pe_forward": 20.21,
+      "pe_forward": 17.56,
       "source": "https://stockanalysis.com/stocks/figr/statistics/"
     },
     "GOOGL": {
       "take": "hold",
-      "reason": "Up 1.8% while the Nasdaq fell 0.4%; Anthropic stake and $10B IPO commitment in focus.",
-      "price_usd": 298.7,
+      "reason": "Down 1%, in line with Nasdaq; no material news since Nov 12.",
+      "price_usd": 295.56,
       "updated": "2026-11-13",
-      "pe_forward": 21.67,
+      "pe_forward": 21.43,
       "source": "https://stockanalysis.com/stocks/googl/statistics/"
     },
     "LDI": {
       "take": "trim",
-      "reason": "Down 4.8% more as 10-year yield jumps 13bp; delisting risk building, no catalyst.",
-      "price_usd": 0.4494,
+      "reason": "Up 0.9%, but a 10y above 5.1% and Fed-hike odds keep pressure on; delisting risk unchanged.",
+      "price_usd": 0.4533,
       "updated": "2026-11-13",
       "source": "https://stockanalysis.com/stocks/ldi/statistics/"
     },
     "META": {
       "take": "hold",
-      "reason": "Down 0.8%, in line with the market; no material news, forward P/E about 19.",
-      "price_usd": 623.61,
+      "reason": "Up 2% against a falling Nasdaq, a rare green holding today; no new catalyst.",
+      "price_usd": 636.53,
       "updated": "2026-11-13",
-      "pe_forward": 18.93,
+      "pe_forward": 19.33,
       "source": "https://stockanalysis.com/stocks/meta/statistics/"
     },
     "MRVL": {
-      "take": "hold",
-      "reason": "Down 2.6% in the chip sell-off after the Nvidia CEO exit; no company news.",
-      "price_usd": 164.45,
+      "take": "watch",
+      "reason": "Down 6% more on Lumentum all-stock deal dilution fears plus chip selloff; BofA cut to Neutral, target $225.",
+      "price_usd": 154.51,
       "updated": "2026-11-13",
-      "pe_forward": 29.15,
+      "pe_forward": 27.43,
       "source": "https://stockanalysis.com/stocks/mrvl/statistics/"
     },
     "MU": {
       "take": "hold",
-      "reason": "Down 1.6% with chips; forward P/E about 4.5 and Nvidia's Nov 17 results drive HBM sentiment.",
-      "price_usd": 798.44,
+      "reason": "Down 4.4% with the memory/chip selloff; forward P/E near 4 still prices in a cycle peak.",
+      "price_usd": 763.23,
       "updated": "2026-11-13",
-      "pe_forward": 4.52,
+      "pe_forward": 4.32,
       "source": "https://stockanalysis.com/stocks/mu/statistics/"
     },
     "NFLX": {
       "take": "hold",
-      "reason": "Down 2.9% with no company news; forward P/E about 17.",
-      "price_usd": 62.69,
+      "reason": "Down 0.7%; no material news since Nov 12.",
+      "price_usd": 62.28,
       "updated": "2026-11-13",
-      "pe_forward": 17.46,
+      "pe_forward": 17.35,
       "source": "https://stockanalysis.com/stocks/nflx/statistics/"
     },
     "NVDA": {
-      "take": "hold",
-      "reason": "Closed -4.3% after Huang quit, off a -14% intraday low; down 11% since Nov 6. Nov 17 results are the test.",
-      "price_usd": 166.19,
+      "take": "watch",
+      "reason": "Down 3% after Thursday's slide on Huang exit; HSBC cut to Hold, target $170. Wait for Nov 17 results and CEO search clarity.",
+      "price_usd": 161.04,
       "updated": "2026-11-13",
-      "pe_forward": 13.73,
+      "pe_forward": 13.29,
       "source": "https://stockanalysis.com/stocks/nvda/statistics/"
     },
     "RKT": {
-      "take": "watch",
-      "reason": "Down 5.1% as the 10-year jumped 13bp past 5.1%; mortgage volumes hurt by a December hike priced in.",
-      "price_usd": 13.71,
+      "take": "hold",
+      "reason": "Up 1.6% despite the 10y above 5.1%; watch the hit to refinance demand.",
+      "price_usd": 13.93,
       "updated": "2026-11-13",
-      "pe_forward": 23.27,
+      "pe_forward": 23.63,
       "source": "https://stockanalysis.com/stocks/rkt/statistics/"
     },
     "TSM": {
       "take": "hold",
-      "reason": "Down 1.9% on Nvidia leadership worries; demand story unchanged, forward P/E about 19.",
-      "price_usd": 405.49,
+      "reason": "Down 2.3% in the chip selloff, less than peers; demand story intact ahead of NVDA results.",
+      "price_usd": 396.0,
       "updated": "2026-11-13",
-      "pe_forward": 19.38,
+      "pe_forward": 18.96,
       "source": "https://stockanalysis.com/stocks/tsm/statistics/"
     },
     "STRIPE": {
       "take": "hold",
-      "reason": "No new mark reported; private, held at last mark.",
+      "reason": "No new round or tender reported; $159B Feb 2026 tender still the latest mark.",
       "price_usd": null,
       "updated": "2026-11-13",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "No new mark reported; Anthropic's listing week of Nov 16 will set a public comp.",
+      "reason": "Reported $15B raise at $1.25T pre-money, consistent with the current 7.96x mark; no change.",
       "price_usd": null,
       "updated": "2026-11-13",
       "mark_multiple": 7.96
     }
   },
   "headlines": [
-    "Nvidia closed -4.3% after Huang resigned, off a -14% low; Kress interim CEO. Results Tue Nov 17 = Wed 9am AEDT.",
-    "AMD +5.9% and Broadcom +5.5% as buyers rotate from Nvidia; the chip trade is splitting, not breaking.",
-    "10-year yield about 5.1% after hot CPI; December Fed hike priced. RKT -5%, ENPH -5%.",
-    "Alibaba -7% ahead of Nov 19 results; Figure +6%.",
-    "Anthropic IPO: $70-78 range, about $61B raise, lists as ANT around Nov 19 (Thu Nov 20 AEDT).",
-    "B200 rents up 17% in a week; Marvell results moved to Dec 1."
+    "Chip rout deepens Fri: AMD -10%, Broadcom -5%, MRVL -6%, MU -4%, NVDA -3% as HSBC cuts Nvidia to Hold.",
+    "10y touched 5.17%, highest since October; PPI +6.5% y/y keeps a December Fed hike in play.",
+    "META +2% against a Nasdaq down about 1.5%; the only holding clearly green.",
+    "OpenAI reportedly raising $15B at $1.25T; SPV mark unchanged at 7.96x.",
+    "Next: Nvidia results Tue Nov 17 = Wed morning AEDT; Anthropic IPO prices around Nov 18."
   ]
 }

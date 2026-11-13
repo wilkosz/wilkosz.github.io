@@ -72,13 +72,43 @@
       "link": "https://www.bls.gov/schedule/news_release/ppi.htm"
     },
     {
+      "key": "2026-11-16-china-activity",
+      "date": "2026-11-16",
+      "time": "10:00am Beijing (Mon 1:00pm AEDT; Sun 9:00pm ET)",
+      "ticker": "MACRO",
+      "title": "China October industrial output, retail sales, investment",
+      "type": "macro",
+      "why": "China demand read; BABA, iron ore.",
+      "link": "https://www.newsquawk.com/headlines/week-in-focus--16-20th-november-2026-highlights-include-us-retail-sales-fomc-minutes-chinese-activity-data-pboc-lpr-rba-minutes-uk-inflation-and-uk-jobs"
+    },
+    {
+      "key": "2026-11-16-empire",
+      "date": "2026-11-16",
+      "time": "8:30am ET (Tue 12:30am AEDT)",
+      "ticker": "MACRO",
+      "title": "NY Empire State manufacturing, November",
+      "type": "macro",
+      "why": "First November activity read.",
+      "link": "https://investrade.com/weekly-event-calendar-11-16-2026-11-20-2026/"
+    },
+    {
+      "key": "2026-11-17-hd-q3",
+      "date": "2026-11-17",
+      "time": "Before open (Tue ~10:00pm AEDT)",
+      "ticker": "HD",
+      "title": "Home Depot Q3 results",
+      "type": "earnings",
+      "why": "Housing and consumer at 5% yields.",
+      "link": "https://investrade.com/weekly-event-calendar-11-16-2026-11-20-2026/"
+    },
+    {
       "key": "2026-11-17-us-retail-sales",
       "date": "2026-11-17",
-      "time": "8:30am ET (Wed 12:30am AEDT)",
+      "time": "8:30am ET (Wed 12:30am AEDT) (confirmed)",
       "ticker": "MACRO",
-      "title": "US advance retail sales, October",
+      "title": "US advance retail sales, October; industrial production 9:15am",
       "type": "macro",
-      "why": "Consumer strength into holidays; AMZN, MELI read.",
+      "why": "Consensus +0.2% m/m, control +0.4%.",
       "link": "https://www.census.gov/retail/index.html"
     },
     {
@@ -90,6 +120,16 @@
       "type": "macro",
       "why": "Tariff and oil pass-through.",
       "link": "https://www.bls.gov/schedule/news_release/ximpim.htm"
+    },
+    {
+      "key": "2026-11-17-fed-hammack",
+      "date": "2026-11-17",
+      "time": "Tue ET, time TBC (Wed AEDT)",
+      "ticker": "MACRO",
+      "title": "Fed's Hammack speaks",
+      "type": "central_bank",
+      "why": "Hawk; December hike size.",
+      "link": "https://www.newsquawk.com/headlines/newsquawk-weekly-economic-release-16th---20th-november-2026"
     },
     {
       "key": "2026-11-17-nvda-q3-fy27",
@@ -132,6 +172,26 @@
       "link": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
     },
     {
+      "key": "2026-11-18-fed-williams",
+      "date": "2026-11-18",
+      "time": "Wed ET, time TBC (Thu AEDT)",
+      "ticker": "MACRO",
+      "title": "NY Fed's Williams speaks",
+      "type": "central_bank",
+      "why": "Leadership view on December hike.",
+      "link": "https://www.newsquawk.com/headlines/newsquawk-weekly-economic-release-16th---20th-november-2026"
+    },
+    {
+      "key": "2026-11-18-tgt-panw",
+      "date": "2026-11-18",
+      "time": "TGT before open; PANW after close (Thu 8:00am AEDT)",
+      "ticker": "PANW",
+      "title": "Target and Palo Alto Networks results",
+      "type": "earnings",
+      "why": "Consumer; security spend.",
+      "link": "https://investrade.com/weekly-event-calendar-11-16-2026-11-20-2026/"
+    },
+    {
       "key": "2026-11-19-anthropic-ant-trading",
       "date": "2026-11-19",
       "time": "Nasdaq open 9:30am ET (Fri 1:30am AEDT) - expected",
@@ -152,6 +212,36 @@
       "link": "https://www.alibabagroup.com/news-press-releases"
     },
     {
+      "key": "2026-11-19-intu-q1",
+      "date": "2026-11-19",
+      "time": "After close (Fri 8:00am AEDT)",
+      "ticker": "INTU",
+      "title": "Intuit fiscal Q1 results",
+      "type": "earnings",
+      "why": "AI pressure on software.",
+      "link": "https://investrade.com/weekly-event-calendar-11-16-2026-11-20-2026/"
+    },
+    {
+      "key": "2026-11-19-philly-fed",
+      "date": "2026-11-19",
+      "time": "8:30am ET (Fri 12:30am AEDT)",
+      "ticker": "MACRO",
+      "title": "Jobless claims and Philly Fed, November",
+      "type": "macro",
+      "why": "Labour and factory read before PCE.",
+      "link": "https://investrade.com/weekly-event-calendar-11-16-2026-11-20-2026/"
+    },
+    {
+      "key": "2026-11-19-wmt-q3",
+      "date": "2026-11-19",
+      "time": "Before open (Thu ~10:00pm AEDT)",
+      "ticker": "WMT",
+      "title": "Walmart Q3 results",
+      "type": "earnings",
+      "why": "US consumer into holidays.",
+      "link": "https://investrade.com/weekly-event-calendar-11-16-2026-11-20-2026/"
+    },
+    {
       "key": "2026-11-20-umich-final",
       "date": "2026-11-20",
       "time": "10:00am ET (Sat 2:00am AEDT)",
@@ -160,6 +250,26 @@
       "type": "macro",
       "why": "Inflation expectations.",
       "link": "https://www.sca.isr.umich.edu/"
+    },
+    {
+      "key": "2026-11-20-pboc-lpr",
+      "date": "2026-11-20",
+      "time": "9:00am Beijing (Fri 12:00pm AEDT)",
+      "ticker": "MACRO",
+      "title": "China loan prime rates",
+      "type": "central_bank",
+      "why": "China easing stance.",
+      "link": "https://www.newsquawk.com/headlines/week-in-focus--16-20th-november-2026-highlights-include-us-retail-sales-fomc-minutes-chinese-activity-data-pboc-lpr-rba-minutes-uk-inflation-and-uk-jobs"
+    },
+    {
+      "key": "2026-11-20-fed-waller-cook",
+      "date": "2026-11-20",
+      "time": "Fri ET, time TBC (Sat AEDT)",
+      "ticker": "MACRO",
+      "title": "Fed's Waller and Cook speak",
+      "type": "central_bank",
+      "why": "Governors on December hike.",
+      "link": "https://nexusresearchreports.substack.com/p/nexus-retail-morning-note-376"
     },
     {
       "key": "2026-11-21-keyence-split",
