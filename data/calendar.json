@@ -1,16 +1,6 @@
 {
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "events": [
-    {
-      "key": "2026-11-11-veterans-day",
-      "date": "2026-11-11",
-      "time": "All day",
-      "ticker": "MACRO",
-      "title": "Veterans Day: stocks open, bond market closed",
-      "type": "other",
-      "why": "No Treasury trading.",
-      "link": "https://www.sifma.org/resources/general/holiday-schedule/"
-    },
     {
       "key": "2026-11-12-amat-q4",
       "date": "2026-11-12",
@@ -104,12 +94,12 @@
     {
       "key": "2026-11-17-nvda-q3-fy27",
       "date": "2026-11-17",
-      "time": "After close ~4:20pm ET; call 5:00pm ET (Wed 9:00am AEDT) (confirmed)",
+      "time": "After close; call 5:00pm ET (Wed 9:00am AEDT) (confirmed)",
       "ticker": "NVDA",
       "title": "Nvidia Q3 fiscal 2027 results and call, first under interim CEO Kress",
       "type": "earnings",
-      "why": "Date reaffirmed in the CEO-transition release. Watch guidance, any leadership comment and whether hyperscaler orders hold.",
-      "link": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
+      "why": "Holding and AI bellwether. Stock fell 4.3% Nov 12 on Huang's exit; guidance and leadership answers set the tone for all AI names.",
+      "link": "https://www.stocktitan.net/articles/stock-market-today-live-november-12-2026"
     },
     {
       "key": "2026-11-17-rba-minutes",
@@ -232,14 +222,14 @@
       "link": "https://www.nyse.com/markets/hours-calendars"
     },
     {
-      "key": "2026-11-26-mrvl-q3-fy27",
-      "date": "2026-11-26",
-      "time": "After close - TBC (aggregator says confirmed; Nov 26 is US Thanksgiving, verify on IR)",
+      "key": "2026-12-01-mrvl-q3-fy27",
+      "date": "2026-12-01",
+      "time": "After close; call 1:30pm PT (Wed 8:30am AEDT) (confirmed)",
       "ticker": "MRVL",
-      "title": "Marvell fiscal Q3 2027 results",
+      "title": "Marvell fiscal Q3 2027 results and call",
       "type": "earnings",
-      "why": "Holding. Custom AI silicon and optics growth; date unverified on company page.",
-      "link": "https://www.tipranks.com/stocks/ch:mrvl/earnings"
+      "why": "Holding. Custom AI silicon and optics read, first print since the all-stock Lumentum deal. Moved from the Nov 26 aggregator date.",
+      "link": "https://investor.marvell.com/news-events/press-releases/detail/1041/marvell-technology-inc-announces-conference-call-to-review-third-quarter-of-fiscal-year-2027-financial-results"
     }
   ]
 }

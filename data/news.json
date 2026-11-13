@@ -2,6 +2,38 @@
   {
     "date": "2026-11-12",
     "ticker": "NVDA",
+    "headline": "Nvidia closes down 4.3% after Huang resigns; Kress interim CEO",
+    "summary": "Fell as much as 14% intraday before paring. CFO Colette Kress is interim CEO; Harvey Jones becomes first board chair. Bernstein halved its target. Q3 results still due Nov 17.",
+    "source": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-12",
+    "ticker": "NVDA",
+    "headline": "Nvidia down 11% since Nov 6 and 31% below its Oct 6 record",
+    "summary": "Market value finished about $4.0T. Index funds fell about 0.35%; small caps (IWM) fell 1.6%.",
+    "source": "https://www.stocktitan.net/articles/stock-market-today-live-november-12-2026",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-12",
+    "ticker": "MACRO",
+    "headline": "10-year yield jumps 13bp to 5.125%; December Fed hike fully priced",
+    "summary": "2-year up 15bp to 4.879%. Goldman added a March hike. WTI +2% to $88.74, Brent +3% to $95.82 after Trump said no Iran deal needed.",
+    "source": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-12",
+    "ticker": "HOOD",
+    "headline": "Robinhood October: $383B platform assets, 28.9M funded customers",
+    "summary": "Monthly operating data released; shares fell 3.8% on the day.",
+    "source": "https://stockanalysis.com/stocks/hood/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-11-12",
+    "ticker": "NVDA",
     "headline": "Jensen Huang resigns; CFO Colette Kress named interim CEO",
     "summary": "Huang left as CEO and director effective immediately. Harvey Jones becomes first board chair and the board is searching inside and outside for a permanent CEO.",
     "source": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
@@ -126,6 +158,22 @@
     "summary": "Nikkei +1.3%. Samsung +3.4%, Kioxia +5.6%. Lower oil and Iran talk hopes helped.",
     "source": "https://www.tradingkey.com/analysis/stocks/more/262300120-japan-korea-stocks-skhy-kospi-nikkei-samsung-skhynix-softbank-kioxia-nvda-hbm-tradingkey",
     "impact": "positive"
+  },
+  {
+    "date": "2026-11-10",
+    "ticker": "ANTHROPIC",
+    "headline": "Anthropic sets terms: 825M shares at $70-78, about $61B raise",
+    "summary": "About $1.2T fully diluted value at midpoint. Nasdaq ticker ANT; expected to price and trade week of Nov 16 (Nov 19 listing is Thu morning AEST Nov 20).",
+    "source": "https://www.renaissancecapital.com/IPO-Center/News/122657/anthropic-sets-terms-for-61-billion-ipo-targeting-a-1.2-trillion-market-cap",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-10",
+    "ticker": "HOOD",
+    "headline": "Robinhood listed among retail brokers for the Anthropic IPO",
+    "summary": "CFO says it is 'making sure the companies know retail is here'. Separately, the stock fell 8% on Oct 28 after a Q3 EPS miss.",
+    "source": "https://www.tikr.com/blog/robinhood-cfo-on-anthropics-ipo-were-making-sure-the-companies-know-retail-is-here-after-an-8-drop",
+    "impact": "neutral"
   },
   {
     "date": "2026-11-10",
@@ -590,53 +638,5 @@
     "summary": "Bloomberg reports an all-stock deal for Lumentum could be announced as soon as next week, at a small premium. Marvell fell 13% Thursday and about 10% Friday on dilution fears.",
     "source": "https://www.fxleaders.com/news/2026/10/30/mrvl-stock-slips-below-200-as-lumentum-deal-talks-weigh-on-marvell/",
     "impact": "negative"
-  },
-  {
-    "date": "2026-10-30",
-    "ticker": "GOOGL",
-    "headline": "Alphabet extends losses after worst day since 2004",
-    "summary": "Q3 EPS of $2.12 missed $3.01 and free cash flow worsened to -$9.06B on capex; shares fell about 13% Thursday and 1% Friday. Cloud grew 103%.",
-    "source": "https://finance.yahoo.com/technology/article/google-stock-plunges-more-than-12-on-q3-earnings-miss-135322453.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-30",
-    "ticker": "MARKET",
-    "headline": "Nasdaq -2.9%, chip index -7.2% as Intel drops 28.6%",
-    "summary": "S&P 500 fell 1.8%, the worst day since June, and the Nasdaq had its worst month since March 2025. Doubts about AI spending returns drove the selloff.",
-    "source": "https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-30",
-    "ticker": "MACRO",
-    "headline": "Nasdaq -2.9%, S&P -1.8% as Intel's guide drags chips",
-    "summary": "S&P 500 7,580 (-1.8%), Nasdaq 25,437 (-2.9%), Dow 51,770 (-1.1%). Intel fell 28.6% after a Q4 guide of $15-16B vs $17.1B expected. VIX +12.9% to 19.4; 10-yr about 4.93%; WTI $102.95.",
-    "source": "https://tapeboard.com/blog/market-pulse-2026-10-30",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-30",
-    "ticker": "ALAB",
-    "headline": "Astera Labs -10.9% to $258.70 ahead of Nov 3 results",
-    "summary": "Worst of the watchlist on the day; flat on the week (+0.6%).",
-    "source": "https://stockanalysis.com/stocks/alab/history/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-30",
-    "ticker": "NET",
-    "headline": "Cloudflare -9.5%, -13.8% on the week",
-    "summary": "No company news found for the drop; Q3 results Nov 5 after US close.",
-    "source": "https://stockanalysis.com/stocks/net/history/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-10-30",
-    "ticker": "GEV",
-    "headline": "HSBC upgrades GE Vernova to Buy",
-    "summary": "Mizuho lifted its target to $959. Shares -3.4% Friday but +5.3% on the week after the Q3 beat and Trench deal.",
-    "source": "https://stockanalysis.com/stocks/gev/",
-    "impact": "positive"
   }
 ]
