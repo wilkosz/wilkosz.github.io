@@ -1,11 +1,11 @@
 {
-  "as_of": "2026-11-13T00:30",
-  "summary": "Quiet day. The Grays Case IH Maxxum 140 passed in at 81 bids with the reserve not met, so the tractor list is down to the McCormick, the new Lovol and the JD 6125R. Every other live find was re-checked on its listing and is still up at the same price. No new discs, ripper, cabin or fuel-tank listing beat what is already on the list.",
+  "as_of": "2026-11-13T12:07",
+  "summary": "Best new lead is a 2011 John Deere 6830 with loader at Coleambally, 50km away, in an AuctionsPlus online auction closing 19 November. Every existing find is still listed at the same price. Slattery and Grays have nothing within 400km this week. Their nearest lots are at Dandenong, Hexham and Sydney. Overseas single-tyne rippers run US$150-1,000 plus freight, no better than the local used ones at $250-600.",
   "headlines": [
-    "Grays Case IH Maxxum 140 passed in: 81 bids, reserve not met, now referred to vendor.",
-    "New: 2015 Kubota M9540, Griffith, 60km, $30,000 + GST, no loader, hours in photos only.",
-    "All 21 other live finds re-checked: still listed, no price changes.",
-    "Slattery: only in-range tractor is an ex-council MF 5713SL at Hexham, about 700km, out of range."
+    "New: 2011 John Deere 6830, JD683 loader, 1,823 hours, 140hp, Coleambally 50km, auction closes 19 Nov.",
+    "New: 2014 Valtra N103 with loader, 3,593 hours, 110hp, $55,000 + GST, Tourello VIC, 470km.",
+    "All 25 existing finds still listed; no price changes, nothing sold.",
+    "Slattery and Grays: nothing in range this week."
   ],
   "finds": [
     {
@@ -773,6 +773,34 @@
       "updated": "2026-11-12"
     },
     {
+      "key": "auctionsplus-129206-1480974",
+      "want": "tractor",
+      "title": "2011 John Deere 6830 with JD683 loader, 1,823 hours",
+      "price_aud": null,
+      "price_note": "online auction, no bid shown yet; plus 2.0% buyer premium",
+      "location": "Coleambally, NSW",
+      "distance_km": 50,
+      "detail": [
+        "1,823 hours",
+        "140hp (stated)",
+        "JD683 loader, euro hitch, 3rd function",
+        "cab with air con",
+        "PowrQuad transmission",
+        "2200mm GP bucket and hay forks included",
+        "regularly serviced"
+      ],
+      "source": "AuctionsPlus",
+      "url": "https://auctionsplus.com.au/auctions/machinery/auctionsplus-multi-vendor-machinery-auction/fwa-tractor-wfel/listing/129206-1480974/browse",
+      "verdict": "strong",
+      "why": "Deere with factory loader, cab and 1,823 hours, 50km away; clears every must if it sells under 80k.",
+      "status": "live",
+      "ends": "2026-11-19",
+      "first_seen": "2026-11-13",
+      "updated": "2026-11-13",
+      "photo": "img/finds/auctionsplus-129206-1480974.jpg",
+      "photo_url": "https://auctionsplusblob.blob.core.windows.net/apmediaprod/Thumbnails/1639301639683384483_0237f7dc-3dae-4995-923f-549360cfc6da.webp"
+    },
+    {
       "key": "machines4u-1022670",
       "want": "tractor",
       "title": "New Lovol 90hp 4WD cab tractor with FEL and 4-in-1 bucket (combo)",
@@ -795,6 +823,29 @@
       "updated": "2026-11-13",
       "photo": "img/finds/machines4u-1022670.jpg",
       "photo_url": "https://media.machines4u.com.au/machinery/70/1022670/LOVOL-90HP-4WD-A-C-Cabin-Tractor-with-4-in-1-Bucket-Combo-Deal-5-Years-Warranty_82082238.i.jpg"
+    },
+    {
+      "key": "fb-1754214325648301",
+      "want": "tractor",
+      "title": "2014 Valtra N103 H5 with loader, 3,593 hours",
+      "price_aud": 55000,
+      "price_note": "plus GST",
+      "location": "Tourello, VIC",
+      "distance_km": 470,
+      "detail": [
+        "3,593 hours",
+        "110hp",
+        "loader with soft ride and 3rd function",
+        "cab"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1754214325648301/",
+      "verdict": "decent",
+      "why": "Clears the must list on hours, hp and loader, but 470km away, past the 400km limit.",
+      "status": "live",
+      "first_seen": "2026-11-13",
+      "updated": "2026-11-13",
+      "photo": "img/finds/fb-1754214325648301.jpg"
     },
     {
       "key": "auctionsplus-129205-1478848",
