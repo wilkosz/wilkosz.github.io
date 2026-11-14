@@ -42,6 +42,16 @@
       "link": "https://investrade.com/weekly-event-calendar-11-16-2026-11-20-2026/"
     },
     {
+      "key": "2026-11-16-fed-warsh-speaks",
+      "date": "2026-11-16",
+      "time": "12:00 ET",
+      "ticker": "MACRO",
+      "title": "Fed Chair Warsh speaks; China Oct retail sales and industrial output earlier",
+      "type": "central_bank",
+      "why": "First Warsh remarks before the Dec decision, with hike odds near 77%",
+      "link": "https://thriveinmarkets.com/calendar/2026-11-16/"
+    },
+    {
       "key": "2026-11-17-hd-q3",
       "date": "2026-11-17",
       "time": "Before open (Tue ~10:00pm AEDT)",
@@ -54,12 +64,12 @@
     {
       "key": "2026-11-17-us-retail-sales",
       "date": "2026-11-17",
-      "time": "8:30am ET (Wed 12:30am AEDT) (confirmed)",
+      "time": "8:30 ET",
       "ticker": "MACRO",
-      "title": "US advance retail sales, October; industrial production 9:15am",
+      "title": "US October retail sales",
       "type": "macro",
-      "why": "Consensus +0.2% m/m, control +0.4%.",
-      "link": "https://www.census.gov/retail/index.html"
+      "why": "Consumer strength feeds December hike odds",
+      "link": "https://fedratecalc.com/us-economic-calendar/november-2026/"
     },
     {
       "key": "2026-11-17-us-import-prices",
@@ -82,6 +92,16 @@
       "link": "https://www.newsquawk.com/headlines/newsquawk-weekly-economic-release-16th---20th-november-2026"
     },
     {
+      "key": "2026-11-17-rba-minutes",
+      "date": "2026-11-17",
+      "time": "11:30 AEDT",
+      "ticker": "MACRO",
+      "title": "RBA minutes of the November board meeting",
+      "type": "central_bank",
+      "why": "Shows how close the board is to another move",
+      "link": "https://www.rba.gov.au/schedules-events/calendar/"
+    },
+    {
       "key": "2026-11-17-nvda-q3-fy27",
       "date": "2026-11-17",
       "time": "After close; call 5:00pm ET (Wed 9:00am AEDT) (confirmed)",
@@ -92,14 +112,14 @@
       "link": "https://www.marketpulse.com/markets/nvidia-nvda-q3-earnings-preview-ai-spending-risks-and-governance-concerns-threaten-major-uptrend/"
     },
     {
-      "key": "2026-11-17-rba-minutes",
+      "key": "2026-11-17-nvda-earnings",
       "date": "2026-11-17",
-      "time": "11:30am AEDT (Mon 7:30pm ET) - TBC",
-      "ticker": "RBA",
-      "title": "RBA minutes, Nov 2-3 meeting",
-      "type": "central_bank",
-      "why": "RBA publishes two weeks after meeting; rate path for AUD.",
-      "link": "https://www.rba.gov.au/monetary-policy/rba-board-minutes/"
+      "time": "after US close",
+      "ticker": "NVDA",
+      "title": "Nvidia Q3 FY27 earnings (date per calendar, not yet confirmed by Nvidia; some sites say Nov 18)",
+      "type": "earnings",
+      "why": "First report under the interim CEO; sets the tone for AI chips the day before Anthropic prices",
+      "link": "https://thriveinmarkets.com/calendar/2026-11-16/"
     },
     {
       "key": "2026-11-18-anthropic-ipo-pricing",
@@ -114,12 +134,12 @@
     {
       "key": "2026-11-18-fomc-minutes",
       "date": "2026-11-18",
-      "time": "2:00pm ET (Thu 6:00am AEDT)",
+      "time": "14:00 ET",
       "ticker": "MACRO",
       "title": "FOMC minutes, Oct 27-28 meeting",
       "type": "central_bank",
-      "why": "How many members back further hikes.",
-      "link": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+      "why": "How many members lean toward a December hike",
+      "link": "https://fedratecalc.com/us-economic-calendar/november-2026/"
     },
     {
       "key": "2026-11-18-fed-williams",
@@ -160,6 +180,16 @@
       "type": "earnings",
       "why": "Cloud growth, AI capex, quick-commerce losses.",
       "link": "https://www.panabee.com/news/alibaba-earnings-q3-2026"
+    },
+    {
+      "key": "2026-11-19-baba-earnings",
+      "date": "2026-11-19",
+      "time": "before US open, call 7:00 ET",
+      "ticker": "BABA",
+      "title": "Alibaba September-quarter results",
+      "type": "earnings",
+      "why": "Cloud and AI capex after a roughly 14% weekly drop on chip-access worries",
+      "link": "https://news.ifyouspent.com/en/news/china-tech-earnings-preview-alibaba-tencent-jd-baidu-november-2026"
     },
     {
       "key": "2026-11-19-intu-q1",
@@ -264,12 +294,12 @@
     {
       "key": "2026-11-25-us-gdp-pce",
       "date": "2026-11-25",
-      "time": "8:30am ET (Thu 12:30am AEDT)",
+      "time": "8:30 ET",
       "ticker": "MACRO",
-      "title": "US Q3 GDP second estimate and October PCE",
+      "title": "US Q3 GDP second estimate and October PCE inflation",
       "type": "macro",
-      "why": "Fed's preferred inflation gauge before Dec 8-9 meeting.",
-      "link": "https://www.bea.gov/news/schedule"
+      "why": "The last big inflation read before the December FOMC",
+      "link": "https://fedratecalc.com/us-economic-calendar/november-2026/"
     },
     {
       "key": "2026-11-26-us-thanksgiving",

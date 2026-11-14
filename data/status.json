@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-11-14T06:30",
-  "market_summary": "Friday Nov 13 closed mixed: S&P 500 -0.40%, Nasdaq -0.91%, Dow +0.10%, though all three still rose 2-2.5% on the week. Chips led the drop: Nvidia about -12% on the week (now under $4T after Huang's resignation and an HSBC downgrade to Hold), with AMD -9%, Broadcom -6% and SK Hynix -6%. October PPI rose 0.3% m/m (below 0.4% forecast) but 6.5% y/y, the highest since Nov 2022; the 10-year hit 5.17% intraday, its highest since October, and markets price a likely Fed hike in December. WTI crude was little changed near $88.6 after a spike earlier in the week. Next week hinges on Nvidia (Tue), Anthropic's IPO (prices Wed, trades Thu) and Alibaba (Thu), with Alibaba's open-model lead flagged as a China angle on any US chip supply squeeze.",
+  "as_of": "2026-11-14T18:10",
+  "market_summary": "Weekend, markets shut since Friday's close: S&P -0.4%, Nasdaq -0.9% Friday, both up 2%+ on the week. Chips were the weak spot, with NVDA down about 12% on the week. The 10-year touched 5.17% and the last FedWatch reading had a December hike near 77%. Next week is busy: Warsh speaks Mon, then Nvidia earnings, US retail sales and RBA minutes Tue, FOMC minutes Wed, Alibaba Thu, and GDP plus PCE Nov 25.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "Down 0.3% Friday in a soft tech tape; no new company news.",
+      "reason": "Weekend, no new company news. Down 0.3% Friday in a soft tech tape; no new company news.",
       "price_usd": 266.66,
       "updated": "2026-11-14",
       "pe_forward": 26.97,
@@ -12,7 +12,7 @@
     },
     "AXOS": {
       "take": "hold",
-      "reason": "Flat, down 0.1%; cheap at 9x forward earnings, no news.",
+      "reason": "Weekend, no new company news. Flat, down 0.1%; cheap at 9x forward earnings, no news.",
       "price_usd": 91.17,
       "updated": "2026-11-14",
       "pe_forward": 9.05,
@@ -20,7 +20,7 @@
     },
     "BABA": {
       "take": "hold",
-      "reason": "Flat Friday; 12x forward earnings, no new catalyst.",
+      "reason": "Weekend, no new company news. Flat Friday; 12x forward earnings, no new catalyst.",
       "price_usd": 94.38,
       "updated": "2026-11-14",
       "pe_forward": 11.85,
@@ -28,7 +28,7 @@
     },
     "ENPH": {
       "take": "watch",
-      "reason": "Down 2.7% Friday; residential solar demand still weak, no fresh news.",
+      "reason": "Weekend, no new company news. Down 2.7% Friday; residential solar demand still weak, no fresh news.",
       "price_usd": 26.07,
       "updated": "2026-11-14",
       "pe_forward": 25.5,
@@ -36,7 +36,7 @@
     },
     "FIGR": {
       "take": "hold",
-      "reason": "Down 1.8% with risk-off tech tape; no company news.",
+      "reason": "Weekend, no new company news. Down 1.8% with risk-off tech tape; no company news.",
       "price_usd": 25.22,
       "updated": "2026-11-14",
       "pe_forward": 17.37,
@@ -44,7 +44,7 @@
     },
     "GOOGL": {
       "take": "hold",
-      "reason": "Down 1% as Nasdaq slipped; no new company news.",
+      "reason": "Weekend, no new company news. Down 1% as Nasdaq slipped; no new company news.",
       "price_usd": 295.77,
       "updated": "2026-11-14",
       "pe_forward": 21.45,
@@ -52,14 +52,14 @@
     },
     "LDI": {
       "take": "trim",
-      "reason": "Penny-stock range, up 0.3%; no forward earnings estimate, thesis unchanged.",
+      "reason": "Weekend, no new company news. Penny-stock range, up 0.3%; no forward earnings estimate, thesis unchanged.",
       "price_usd": 0.4506,
       "updated": "2026-11-14",
       "source": "https://stockanalysis.com/stocks/ldi/statistics/"
     },
     "META": {
       "take": "hold",
-      "reason": "Up 2.9% Friday against a falling Nasdaq; 19x forward earnings.",
+      "reason": "Weekend, no new company news. Up 2.9% Friday against a falling Nasdaq; 19x forward earnings.",
       "price_usd": 641.69,
       "updated": "2026-11-14",
       "pe_forward": 19.48,
@@ -67,7 +67,7 @@
     },
     "MRVL": {
       "take": "watch",
-      "reason": "Down 4.7% Friday after BofA cut; AI chip selloff continues.",
+      "reason": "Weekend, no new company news. Down 4.7% Friday after BofA cut; AI chip selloff continues.",
       "price_usd": 156.76,
       "updated": "2026-11-14",
       "pe_forward": 27.79,
@@ -75,7 +75,7 @@
     },
     "MU": {
       "take": "hold",
-      "reason": "Down 2.5% with chips; forward P/E 4.4 reflects peak memory pricing.",
+      "reason": "Weekend, no new company news. Down 2.5% with chips; forward P/E 4.4 reflects peak memory pricing.",
       "price_usd": 778.31,
       "updated": "2026-11-14",
       "pe_forward": 4.41,
@@ -83,7 +83,7 @@
     },
     "NFLX": {
       "take": "hold",
-      "reason": "Down 0.9% Friday; no new company news.",
+      "reason": "Weekend, no new company news. Down 0.9% Friday; no new company news.",
       "price_usd": 62.15,
       "updated": "2026-11-14",
       "pe_forward": 17.31,
@@ -91,7 +91,7 @@
     },
     "NVDA": {
       "take": "watch",
-      "reason": "Down 2% Friday, 12.75% for the week after CEO exit; earnings Tuesday.",
+      "reason": "Weekend, no new company news. Down 2% Friday, 12.75% for the week after CEO exit; earnings Tuesday.",
       "price_usd": 162.85,
       "updated": "2026-11-14",
       "pe_forward": 13.46,
@@ -99,7 +99,7 @@
     },
     "RKT": {
       "take": "hold",
-      "reason": "Flat Friday (0.0%); rates backdrop firmer as yields rise.",
+      "reason": "Weekend, no new company news. Flat Friday (0.0%); rates backdrop firmer as yields rise.",
       "price_usd": 13.71,
       "updated": "2026-11-14",
       "pe_forward": 23.27,
@@ -107,7 +107,7 @@
     },
     "TSM": {
       "take": "hold",
-      "reason": "Down 1.7% in chip selloff; demand outlook unchanged.",
+      "reason": "Weekend, no new company news. Down 1.7% in chip selloff; demand outlook unchanged.",
       "price_usd": 398.73,
       "updated": "2026-11-14",
       "pe_forward": 19.04,
@@ -129,9 +129,9 @@
     }
   },
   "headlines": [
-    "Chips closed the week lower: NVDA about -12% on the week, AMD -9%, MRVL -4.7%; META +2.9%.",
-    "S&P -0.4%, Nasdaq -0.9% Fri, but both up 2%+ on the week; 10y touched 5.17%.",
-    "H100 rent $3.10/hr, up 10% in 7 days; compute still supply-constrained.",
-    "Next: Nvidia Tue Nov 17 = Wed 9am AEDT; Anthropic prices Wed, trades Thu = Fri AEDT; BABA Thu."
+    "Quiet weekend, no new material news on holdings or loves.",
+    "Nvidia reports Tue Nov 17 after US close = Wed morning AEDT; date not yet confirmed by Nvidia.",
+    "FOMC minutes Wed, Alibaba results Thu before US open = Thu night AEDT.",
+    "RBA minutes Tue 11:30 AEDT; US GDP and PCE Wed Nov 25 = Thu morning AEDT."
   ]
 }
