@@ -2,6 +2,14 @@
   {
     "date": "2026-11-13",
     "ticker": "NVDA",
+    "headline": "Nvidia ends week down 12.75% ahead of Tuesday earnings",
+    "summary": "Nvidia fell about 2% Friday, 12.75% for the week; Tuesday's report is the first read on demand since the CEO change.",
+    "source": "https://eurasiabusinessnews.com/2026/11/14/stock-market-today-november-13-2026-tech-stocks-fall-as-nvidia-earnings-and-anthropic-ipo-loom/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-13",
+    "ticker": "NVDA",
     "headline": "HSBC downgrades Nvidia to Hold after Huang exit",
     "summary": "HSBC cut its target to $170 from $365, saying investor confidence is shaken. The stock fell again Friday, extending Thursday's 4% drop.",
     "source": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
@@ -630,13 +638,5 @@
     "summary": "Both stocks fell through the session after the deal news. Indexes were up 0.3-0.9% as oil fell over 7%.",
     "source": "https://stocktitan.net/articles/stock-market-today-live-november-2-2026",
     "impact": "negative"
-  },
-  {
-    "date": "2026-11-02",
-    "ticker": "MACRO",
-    "headline": "ISM manufacturing 55.5 in October, beats ~54.6",
-    "summary": "10th month of expansion; production 59.0, highest since Nov 2021; prices paid down 2.7 to 75.2.",
-    "source": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-55-5-october-2026-ism-manufacturing-pmi-report-302925617.html",
-    "impact": "positive"
   }
 ]

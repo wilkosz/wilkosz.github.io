@@ -1,56 +1,6 @@
 {
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "events": [
-    {
-      "key": "2026-11-12-amat-q4",
-      "date": "2026-11-12",
-      "time": "After close; call 4:30pm ET (Fri 8:30am AEDT)",
-      "ticker": "AMAT",
-      "title": "Applied Materials fiscal Q4 results and call (confirmed)",
-      "type": "earnings",
-      "why": "Wafer-fab spend and China share; capex read for semis.",
-      "link": "https://ir.appliedmaterials.com/events/event-details/q4-2026-applied-materials-earnings-conference-call"
-    },
-    {
-      "key": "2026-11-12-csco-q1-fy27",
-      "date": "2026-11-12",
-      "time": "After close; call 4:30pm ET (Fri 8:30am AEDT)",
-      "ticker": "CSCO",
-      "title": "Cisco fiscal Q1 2027 results and call (confirmed)",
-      "type": "earnings",
-      "why": "AI networking orders from hyperscalers.",
-      "link": "https://investor.cisco.com/"
-    },
-    {
-      "key": "2026-11-12-figr-q3",
-      "date": "2026-11-12",
-      "time": "Before open; call 8:30am ET (Fri 12:30am AEDT)",
-      "ticker": "FIGR",
-      "title": "Figure Technology Q3 results and call",
-      "type": "earnings",
-      "why": "Holding; HELOC volumes as rates rise.",
-      "link": "https://investors.figure.com/"
-    },
-    {
-      "key": "2026-11-12-fed-speakers",
-      "date": "2026-11-12",
-      "time": "From 9:00am ET (Fri 1:00am AEDT)",
-      "ticker": "MACRO",
-      "title": "Fed speakers: Hammack, Barr, Bowman, Goolsbee, Daly, Jefferson",
-      "type": "central_bank",
-      "why": "Size of December hike after hot CPI.",
-      "link": "https://www.federalreserve.gov/newsevents/calendar.htm"
-    },
-    {
-      "key": "2026-11-12-nvda-board",
-      "date": "2026-11-12",
-      "time": "Announced Thu Nov 12 ET (Fri AEDT)",
-      "ticker": "NVDA",
-      "title": "Jensen Huang resigns as Nvidia CEO; CFO Colette Kress interim CEO",
-      "type": "other",
-      "why": "Huang left as CEO and director effective immediately; board searching inside and outside. Harvey Jones named first Chair. No reason given. Stock fell up to 13% intraday.",
-      "link": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
-    },
     {
       "key": "2026-11-13-aapl-homeview",
       "date": "2026-11-13",
@@ -138,8 +88,8 @@
       "ticker": "NVDA",
       "title": "Nvidia Q3 fiscal 2027 results and call, first under interim CEO Kress",
       "type": "earnings",
-      "why": "Holding and AI bellwether. Stock fell 4.3% Nov 12 on Huang's exit; guidance and leadership answers set the tone for all AI names.",
-      "link": "https://www.stocktitan.net/articles/stock-market-today-live-november-12-2026"
+      "why": "Biggest AI print of the quarter, first under interim CEO Kress after Huang resigned; stock fell ~12% last week, options price a ~10.6% move. Q4 guide matters more than the quarter.",
+      "link": "https://www.marketpulse.com/markets/nvidia-nvda-q3-earnings-preview-ai-spending-risks-and-governance-concerns-threaten-major-uptrend/"
     },
     {
       "key": "2026-11-17-rba-minutes",
@@ -158,8 +108,8 @@
       "ticker": "ANT",
       "title": "Anthropic IPO pricing, range $70-78",
       "type": "other",
-      "why": "825m shares, up to $64.4B raised, ~$1.4T valuation at top.",
-      "link": "https://www.anthropic.com/news/roadshow-launch"
+      "why": "825m shares at $70-78 range (plus 123.75m greenshoe) on Nasdaq as ANT; pressing ahead despite the AI chip selloff. Pricing vs range is the read on AI risk appetite.",
+      "link": "https://www.rttnews.com/3712632/anthropic-sets-ipo-price-range-at-70-78-per-share-launches-roadshow.aspx"
     },
     {
       "key": "2026-11-18-fomc-minutes",
@@ -199,7 +149,7 @@
       "title": "Anthropic starts trading on Nasdaq as ANT",
       "type": "other",
       "why": "Largest AI listing; sets a mark for AI valuations.",
-      "link": "https://fortune.com/2026/11/10/anthropic-ipo-price-range-ai-stock-sell-off/"
+      "link": "https://fourweekmba.com/ai-anthropics-ipo-day-by-day-pricing-18-nov-trading-19-nov/"
     },
     {
       "key": "2026-11-19-baba-q2-fy27",
@@ -209,7 +159,7 @@
       "title": "Alibaba September quarter results and call (date confirmed)",
       "type": "earnings",
       "why": "Cloud growth, AI capex, quick-commerce losses.",
-      "link": "https://www.alibabagroup.com/news-press-releases"
+      "link": "https://www.panabee.com/news/alibaba-earnings-q3-2026"
     },
     {
       "key": "2026-11-19-intu-q1",

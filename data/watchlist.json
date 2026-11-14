@@ -7,12 +7,12 @@
     "status": "watch",
     "conviction": "medium",
     "thesis": "PCIe/CXL retimers and switches ride AI rack scale-out; Scorpio X seen above $1B run rate by end-2026; BMO Outperform, $375.",
-    "risks": "-3.2% Nov 13 in chip sell-off; several targets cut after Q3.",
-    "price_usd": 220.48,
+    "risks": "-2.6% Nov 13 close in chip sell-off; several targets cut after Q3.",
+    "price_usd": 221.83,
     "catalyst": "Q4 guide $730-750M; Scorpio X ramp.",
-    "source": "https://stockanalysis.com/stocks/alab/",
+    "source": "https://stockanalysis.com/stocks/alab/history/",
     "added": "2026-08-24",
-    "updated": "2026-11-13"
+    "updated": "2026-11-14"
   },
   {
     "ticker": "AMD",
@@ -22,12 +22,12 @@
     "status": "watch",
     "conviction": "medium",
     "thesis": "Instinct GPUs gaining as second source; Huang exit from Nvidia may open share.",
-    "risks": "-10.6% Nov 13, giving back the Nvidia-rotation rally; inflation data hit chips.",
-    "price_usd": 523.42,
+    "risks": "-8.75% Nov 13 close, giving back the Nvidia-rotation rally; inflation data hit chips.",
+    "price_usd": 534.06,
     "catalyst": "Nvidia Q3 Nov 17; Anthropic IPO Nov 19.",
-    "source": "https://stockanalysis.com/stocks/amd/",
+    "source": "https://stockanalysis.com/stocks/amd/history/",
     "added": "2026-11-04",
-    "updated": "2026-11-13"
+    "updated": "2026-11-14"
   },
   {
     "ticker": "AVGO",
@@ -38,11 +38,11 @@
     "conviction": "medium",
     "thesis": "Custom AI accelerators (Google TPU, Anthropic) plus networking.",
     "risks": "Redburn cut to Neutral Nov 13 (target $398 from $595) on AI-financing exposure; -5% on the day.",
-    "price_usd": 345.32,
+    "price_usd": 347.01,
     "catalyst": "Anthropic IPO; Dec quarter earnings.",
-    "source": "https://stockanalysis.com/stocks/avgo/",
+    "source": "https://stockanalysis.com/stocks/avgo/history/",
     "added": "2026-08-24",
-    "updated": "2026-11-13"
+    "updated": "2026-11-14"
   },
   {
     "ticker": "CLS",
@@ -52,12 +52,12 @@
     "status": "accumulate",
     "conviction": "high",
     "thesis": "Builds racks and switches for custom-ASIC hyperscalers; Bernstein still Outperform.",
-    "risks": "-7.1% Nov 13 with custom-chip names; Bernstein target cut to $340; low margins.",
-    "price_usd": 235.9,
+    "risks": "-5.4% Nov 13 close with custom-chip names; Bernstein target cut to $340; low margins.",
+    "price_usd": 240.34,
     "catalyst": "Hyperscaler capex guides; 800G/1.6T switch ramp.",
-    "source": "https://stockanalysis.com/stocks/cls/",
+    "source": "https://stockanalysis.com/stocks/cls/history/",
     "added": "2026-10-10",
-    "updated": "2026-11-13"
+    "updated": "2026-11-14"
   },
   {
     "ticker": "SKHY",
@@ -72,7 +72,7 @@
     "catalyst": "HBM4 volume with Nvidia/AMD; Q4 pricing.",
     "source": "https://stockanalysis.com/quote/krx/000660/",
     "added": "2026-08-24",
-    "updated": "2026-11-13"
+    "updated": "2026-11-14"
   },
   {
     "ticker": "VRT",
@@ -82,12 +82,12 @@
     "status": "accumulate",
     "conviction": "medium",
     "thesis": "Liquid cooling and power for AI racks; raised its regular dividend Nov 13.",
-    "risks": "-4.5% Nov 13; JPM Neutral, $240 target; capex-cycle sensitivity.",
-    "price_usd": 200.18,
+    "risks": "-3.6% Nov 13 close; JPM Neutral, $240 target; capex-cycle sensitivity.",
+    "price_usd": 202.07,
     "catalyst": "PowerStation 3100 remote power panel launched Nov 13; liquid-cooling orders.",
-    "source": "https://stockanalysis.com/stocks/vrt/",
+    "source": "https://stockanalysis.com/stocks/vrt/history/",
     "added": "2026-09-29",
-    "updated": "2026-11-13"
+    "updated": "2026-11-14"
   },
   {
     "ticker": "BE",
@@ -97,12 +97,12 @@
     "status": "accumulate",
     "conviction": "medium",
     "thesis": "On-site fuel-cell power for data centers; NTT DATA 900 MW deal; HSBC and Barclays positive.",
-    "risks": "-5.4% Nov 13; very volatile; depends on data-center sentiment.",
-    "price_usd": 191.1,
+    "risks": "-4.9% Nov 13 close; very volatile; depends on data-center sentiment.",
+    "price_usd": 191.99,
     "catalyst": "New hyperscaler/utility supply deals.",
-    "source": "https://stockanalysis.com/stocks/be/",
+    "source": "https://stockanalysis.com/stocks/be/history/",
     "added": "2026-08-24",
-    "updated": "2026-11-13"
+    "updated": "2026-11-14"
   },
   {
     "ticker": "GEV",
@@ -112,12 +112,12 @@
     "status": "accumulate",
     "conviction": "high",
     "thesis": "Gas turbine backlog sold out for years; JPM says it can weather an AI capex slowdown.",
-    "risks": "-3.0% Nov 13; SoftBank data-center plan change; JPM target trimmed to $1,000.",
-    "price_usd": 794.3,
+    "risks": "-1.9% Nov 13 close; SoftBank data-center plan change; JPM target trimmed to $1,000.",
+    "price_usd": 803.13,
     "catalyst": "Turbine slot reservations; Dec investor update.",
-    "source": "https://stockanalysis.com/stocks/gev/",
+    "source": "https://stockanalysis.com/stocks/gev/history/",
     "added": "2026-08-24",
-    "updated": "2026-11-13"
+    "updated": "2026-11-14"
   },
   {
     "ticker": "HOOD",
@@ -127,12 +127,12 @@
     "status": "watch",
     "conviction": "medium",
     "thesis": "Platform assets $383B, 28.9M funded customers; adding prediction markets, wealth and RIAs.",
-    "risks": "Goldman cut target to $115 from $128 (still Buy); -3.9% Nov 13; crypto slump.",
-    "price_usd": 78.17,
+    "risks": "Goldman cut target to $115 from $128 (still Buy); -4.3% Nov 13 close; crypto slump.",
+    "price_usd": 77.86,
     "catalyst": "Monthly operating metrics; international launches.",
-    "source": "https://stockanalysis.com/stocks/hood/",
+    "source": "https://stockanalysis.com/stocks/hood/history/",
     "added": "2026-08-24",
-    "updated": "2026-11-13"
+    "updated": "2026-11-14"
   },
   {
     "ticker": "MELI",
@@ -143,11 +143,11 @@
     "conviction": "medium",
     "thesis": "LatAm e-commerce plus fintech; Q3 revenue $10.75B, +45% y/y; held up +1.2% on a weak tech day.",
     "risks": "Brazil political risk; JPM and UBS cut targets; logistics spend squeezes profit.",
-    "price_usd": 1492.0,
+    "price_usd": 1491.49,
     "catalyst": "Holiday GMV; credit book quality.",
-    "source": "https://stockanalysis.com/stocks/meli/",
+    "source": "https://stockanalysis.com/stocks/meli/history/",
     "added": "2026-08-24",
-    "updated": "2026-11-13"
+    "updated": "2026-11-14"
   },
   {
     "ticker": "NET",
@@ -157,12 +157,12 @@
     "status": "accumulate",
     "conviction": "high",
     "thesis": "Q3 revenue +39% y/y; named Leader in 2026 Gartner MQ for Edge Distribution Nov 13; SGLang consortium member.",
-    "risks": "Rich valuation; -3.6% Nov 13; Guggenheim Sell.",
-    "price_usd": 307.14,
+    "risks": "Rich valuation; -4.0% Nov 13 close; Guggenheim Sell.",
+    "price_usd": 305.81,
     "catalyst": "Large-deal momentum; Workers AI adoption.",
-    "source": "https://stockanalysis.com/stocks/net/",
+    "source": "https://stockanalysis.com/stocks/net/history/",
     "added": "2026-08-24",
-    "updated": "2026-11-13"
+    "updated": "2026-11-14"
   },
   {
     "ticker": "SE",
@@ -173,11 +173,11 @@
     "conviction": "low",
     "thesis": "Shopee, Monee and Garena in SE Asia; Q3 revenue $8.6B beat; $1B buyback.",
     "risks": "Q3 EPS miss; JPMorgan joined target cuts Nov 13 ($132 from $149, still Overweight).",
-    "price_usd": 74.7,
+    "price_usd": 75.36,
     "catalyst": "Q4 margin path; buyback execution.",
-    "source": "https://stockanalysis.com/stocks/se/",
+    "source": "https://stockanalysis.com/stocks/se/history/",
     "added": "2026-08-24",
-    "updated": "2026-11-13"
+    "updated": "2026-11-14"
   },
   {
     "ticker": "6861",
@@ -192,7 +192,7 @@
     "catalyst": "Manufacturing PMI recovery; next results late Jan.",
     "source": "https://stockanalysis.com/quote/tyo/6861/",
     "added": "2026-08-24",
-    "updated": "2026-11-13"
+    "updated": "2026-11-14"
   },
   {
     "ticker": "ASML",
@@ -203,11 +203,11 @@
     "conviction": "high",
     "thesis": "EUV monopoly; raised 2026 guidance on AI capacity build; buyback running.",
     "risks": "About 20% off the month's high; China export limits; -1.2% Nov 13, milder than chip peers.",
-    "price_usd": 1479.53,
+    "price_usd": 1495.16,
     "catalyst": "2027 order intake; High-NA adoption.",
-    "source": "https://stockanalysis.com/stocks/asml/",
+    "source": "https://stockanalysis.com/stocks/asml/history/",
     "added": "2026-08-24",
-    "updated": "2026-11-13"
+    "updated": "2026-11-14"
   },
   {
     "ticker": "TER",
@@ -217,11 +217,11 @@
     "status": "accumulate",
     "conviction": "medium",
     "thesis": "Moving to AI chip test; Jefferies Buy ($284) sees a $2B Nvidia opportunity.",
-    "risks": "-5.8% Nov 13 gave back much of the Jefferies jump; robotics unit weak.",
-    "price_usd": 248.53,
+    "risks": "-5.4% Nov 13 close gave back much of the Jefferies jump; robotics unit weak.",
+    "price_usd": 249.55,
     "catalyst": "AI compute test share gains; Omnyx Edge launch.",
-    "source": "https://stockanalysis.com/stocks/ter/",
+    "source": "https://stockanalysis.com/stocks/ter/history/",
     "added": "2026-08-24",
-    "updated": "2026-11-13"
+    "updated": "2026-11-14"
   }
 ]
