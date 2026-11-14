@@ -1,10 +1,11 @@
 {
-  "as_of": "2026-11-14T00:07",
-  "summary": "Quiet market. Every live find was still listed at the same price. One new tractor qualifies: a 2021 Kubota M108 with loader at Dubbo, but at $79,990 it is near the top of the budget. Auction yards had nothing within range: Slattery's tractors are at Hexham and Grays' agriculture lots are unsuited.",
+  "as_of": "2026-11-14T12:40",
+  "summary": "Quiet market. All 28 live finds are still listed and only one price moved. Nothing new in the sweep clears the must list: the cheap local tractors have no loader or are over 4,500 hours, and the auction yards have no fitting tractor within 400km.",
   "headlines": [
-    "New: 2021 Kubota M108, 105hp, loader and 4-in-1, $79,990 at Dubbo, 400km; hours not stated.",
-    "All 25 existing finds re-checked: none sold, no price changes.",
-    "Slattery, Grays, Pickles and AuctionsPlus: no qualifying loader tractor within 400km."
+    "No new finds today; all 28 live listings still up.",
+    "Fuel trailer on Farm Tender down $70 to $700, 1,000 L with 12V pump.",
+    "2015 Kubota M9540 in Griffith, $30,000 + GST, but no loader, so not listed.",
+    "Slattery tractors are all at Hexham, about 800km away; nothing at Wagga or Griffith."
   ],
   "finds": [
     {
@@ -205,7 +206,7 @@
       "key": "farmtender-131044",
       "want": "diesel-storage",
       "title": "Mobile fuel trailer, 1000 L, 12V pump",
-      "price_aud": 770,
+      "price_aud": 700,
       "price_note": "$700 + GST",
       "location": "Warburn, NSW",
       "distance_km": 30,
