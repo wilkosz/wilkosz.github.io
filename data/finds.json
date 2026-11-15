@@ -1,12 +1,11 @@
 {
-  "as_of": "2026-11-15T00:07",
-  "summary": "Tractors with a loader inside budget and under 4,500 hours are still scarce; most of the 90-140hp stock within 400km is either over 5,000 hours or over $80k. Expanding container cabins with ensuites keep turning up new at $17k-$25k. Discs, rippers and fuel tanks are steady, with nothing better than what is already listed.",
+  "as_of": "2026-11-15T12:07",
+  "summary": "Quiet day apart from one tractor. A 2013 John Deere 5093E with a JD loader and 1,748 hours was listed in Culcairn three hours before this run at $79,000 ONO. Everything already on the list is still live. Loader tractors under 4,500 hours inside 400km still sit at $55,000-90,000; cheaper ones are either loaderless or over 6,000 hours.",
   "headlines": [
-    "New: 2016 Kubota M100GX with loader, 621 hours, $77,000 incl GST, Geelong (about 560km).",
-    "New: Valtra N134 with loader, 135hp, 1,815 hours, $84,000, Little Billabong (about 250km). Passed in, still for sale.",
-    "New: unused expandable cabin with ensuite, $24,000, Yass (about 330km).",
-    "Gone: the 6m x 3m portable building with bathroom ($15,000) and the pair of MF single-tyne rippers ($270).",
-    "Off the tractor list on the 6-find cap: Valtra N103 (470km, past limit) and JD 6125R (price not stated). JD 6830 on AuctionsPlus closes Thu 19 Nov."
+    "New: 2013 JD 5093E, H240 loader, 1,748 hours, $79,000 ONO, Culcairn 260km. Listed today.",
+    "North Yalgogrin single-tyne ripper down to $250 (was $350).",
+    "2019 MF 7614 with loader, 850 hours, back on AuctionsPlus in Dubbo at $89,000 bid - over budget.",
+    "Every live find re-checked: none sold. Nothing new for cabins, discs or fuel tanks."
   ],
   "finds": [
     {
@@ -774,6 +773,30 @@
       "photo": "img/finds/fb-1027921470152750.jpg"
     },
     {
+      "key": "fb-1450344739854512",
+      "want": "tractor",
+      "title": "2013 John Deere 5093E with H240 loader, 1,748 hours",
+      "price_aud": 79000,
+      "price_note": "ONO, private seller",
+      "location": "Culcairn, NSW",
+      "distance_km": 260,
+      "detail": [
+        "1,748 hours",
+        "93hp",
+        "John Deere H240 front-end loader and bucket",
+        "enclosed cab with air con",
+        "rear PTO, 3PL, rear remotes"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1450344739854512/",
+      "verdict": "strong",
+      "why": "Clears every must at the top of the band: JD loader tractor under 2,000 hours, 260km away, and the price is ONO.",
+      "status": "live",
+      "first_seen": "2026-11-15",
+      "updated": "2026-11-15",
+      "photo": "img/finds/fb-1450344739854512.jpg"
+    },
+    {
       "key": "auctionsplus-129205-1471114",
       "want": "tractor",
       "title": "2017 John Deere 6110M 4WD cab with 623R loader",
@@ -894,32 +917,6 @@
       "first_seen": "2026-11-14",
       "updated": "2026-11-15",
       "photo": "img/finds/fb-2546032742490934.jpg"
-    },
-    {
-      "key": "auctionsplus-129297-1470172",
-      "want": "tractor",
-      "title": "Valtra N134 Active with front-end loader and bucket, 1,815 hours",
-      "price_aud": 84000,
-      "price_note": "on market after clearing sale, 0% buyer premium, GST applies",
-      "location": "Little Billabong, NSW",
-      "distance_km": 250,
-      "detail": [
-        "1,815 hours",
-        "135hp",
-        "front-end loader and bucket",
-        "cab and front axle suspension",
-        "Topcon X35 autosteer",
-        "uses AdBlue",
-        "year not stated"
-      ],
-      "source": "AuctionsPlus",
-      "url": "https://auctionsplus.com.au/auctions/machinery/p-n-rogers-investments-pl-clearing-sale-yarra/valtra-n134-active-tractor-front-end-loader-b/listing/129297-1470172/browse",
-      "verdict": "decent",
-      "why": "Clears hours, hp and loader at 250km; $4,000 over budget, and an offer may land it.",
-      "status": "live",
-      "first_seen": "2026-11-15",
-      "updated": "2026-11-15",
-      "photo": "img/finds/auctionsplus-129297-1470172.jpg"
     },
     {
       "key": "auctionsplus-129205-1478848",
