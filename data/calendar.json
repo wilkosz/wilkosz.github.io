@@ -92,16 +92,6 @@
       "link": "https://www.marketpulse.com/markets/nvidia-nvda-q3-earnings-preview-ai-spending-risks-and-governance-concerns-threaten-major-uptrend/"
     },
     {
-      "key": "2026-11-17-nvda-earnings",
-      "date": "2026-11-17",
-      "time": "after US close",
-      "ticker": "NVDA",
-      "title": "Nvidia Q3 FY27 earnings (date per calendar, not yet confirmed by Nvidia; some sites say Nov 18)",
-      "type": "earnings",
-      "why": "First report under the interim CEO; sets the tone for AI chips the day before Anthropic prices",
-      "link": "https://thriveinmarkets.com/calendar/2026-11-16/"
-    },
-    {
       "key": "2026-11-18-anthropic-ipo-pricing",
       "date": "2026-11-18",
       "time": "After close ET (Thu morning AEDT) - expected",
