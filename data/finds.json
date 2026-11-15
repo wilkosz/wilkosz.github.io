@@ -1,11 +1,12 @@
 {
-  "as_of": "2026-11-14T12:40",
-  "summary": "Quiet market. All 28 live finds are still listed and only one price moved. Nothing new in the sweep clears the must list: the cheap local tractors have no loader or are over 4,500 hours, and the auction yards have no fitting tractor within 400km.",
+  "as_of": "2026-11-15T00:07",
+  "summary": "Tractors with a loader inside budget and under 4,500 hours are still scarce; most of the 90-140hp stock within 400km is either over 5,000 hours or over $80k. Expanding container cabins with ensuites keep turning up new at $17k-$25k. Discs, rippers and fuel tanks are steady, with nothing better than what is already listed.",
   "headlines": [
-    "No new finds today; all 28 live listings still up.",
-    "Fuel trailer on Farm Tender down $70 to $700, 1,000 L with 12V pump.",
-    "2015 Kubota M9540 in Griffith, $30,000 + GST, but no loader, so not listed.",
-    "Slattery tractors are all at Hexham, about 800km away; nothing at Wagga or Griffith."
+    "New: 2016 Kubota M100GX with loader, 621 hours, $77,000 incl GST, Geelong (about 560km).",
+    "New: Valtra N134 with loader, 135hp, 1,815 hours, $84,000, Little Billabong (about 250km). Passed in, still for sale.",
+    "New: unused expandable cabin with ensuite, $24,000, Yass (about 330km).",
+    "Gone: the 6m x 3m portable building with bathroom ($15,000) and the pair of MF single-tyne rippers ($270).",
+    "Off the tractor list on the 6-find cap: Valtra N103 (470km, past limit) and JD 6125R (price not stated). JD 6830 on AuctionsPlus closes Thu 19 Nov."
   ],
   "finds": [
     {
@@ -31,7 +32,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-02",
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "photo": "img/finds/fb-1529309308826340.jpg"
     },
     {
@@ -53,10 +54,10 @@
       "url": "https://www.facebook.com/marketplace/item/1166415099041888/",
       "verdict": "decent",
       "why": "The heavy-frame unit is the pick at $270, but it has frame damage and is 390 km away; price unchanged on 18 Oct.",
-      "status": "live",
+      "status": "gone",
       "ends": null,
       "first_seen": "2026-10-08",
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "photo": "img/finds/fb-1166415099041888.jpg"
     },
     {
@@ -81,7 +82,7 @@
       "why": "Undamaged MF single tine at $350 firm, but no hp or depth stated; unchanged after 16 weeks.",
       "status": "live",
       "first_seen": "2026-10-10",
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "photo": "img/finds/fb-1794651221505734.jpg"
     },
     {
@@ -102,7 +103,7 @@
       "why": "Cheap heavy single tyne; confirm 3PL category and point condition before the drive.",
       "status": "live",
       "first_seen": "2026-11-12",
-      "updated": "2026-11-14"
+      "updated": "2026-11-15"
     },
     {
       "key": "fb-1376645941299287",
@@ -125,7 +126,7 @@
       "why": "A proper single-tyne build from a known Australian maker at under half the new price, still $600; no hp rating and about 380 km away.",
       "status": "live",
       "first_seen": "2026-10-14",
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "photo": "img/finds/fb-1376645941299287.jpg"
     },
     {
@@ -150,7 +151,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-29",
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "photo": "img/finds/tradefarm-855857.jpg",
       "photo_url": "https://assets.primecreative.com.au/imagegen/max/cr/93/70/s3/digital-cougar-assets/momoads/2021/08/10/091255/60hp-ripper.JPG"
     },
@@ -199,7 +200,7 @@
       "why": "The tank-and-stand option for $500: gravity feeds a tractor with no pump, but it's rusty, so check inside for scale and leaks.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "photo": "img/finds/fb-2603503066789216.jpg"
     },
     {
@@ -223,7 +224,7 @@
       "why": "1000 L towable cart with a 12V pump, 30km away, at under half the price of the Coleambally cart; listed in June, so ring to check it's still there.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "photo": "img/finds/farmtender-131044.jpg",
       "photo_url": "https://media.farmtender.com.au/listings/6a1e4a4435776/large/f868ee7c47b91b576f64d7284c0e5140.jpg"
     },
@@ -248,7 +249,7 @@
       "why": "Tidy tandem 1000 L cart with pump, 40km away; listed 9 weeks, so there may be room on price.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "photo": "img/finds/fb-913292798511535.jpg"
     },
     {
@@ -295,7 +296,7 @@
       "why": "Cheapest working diesel tank found, in use until last month, but rusty, bare and 190km away.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "photo": "img/finds/fb-1680015046874285.jpg"
     },
     {
@@ -317,7 +318,7 @@
       "why": "In the capacity band, cheap and 160km away; hand pump and surface rust.",
       "status": "live",
       "first_seen": "2026-11-11",
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "photo": "img/finds/fb-1311950427723345.jpg"
     },
     {
@@ -340,7 +341,7 @@
       "why": "Clean-looking 1000 L tank 40km away, but bare: budget for a pump or a stand.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "photo": "img/finds/fb-1663698828091004.jpg"
     },
     {
@@ -362,7 +363,7 @@
       "why": "A third of the price of the next-cheapest disc; budget a lift ram and check width is under 3.5 m.",
       "status": "live",
       "first_seen": "2026-11-08",
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "photo": "img/finds/fb-1605224174739541.jpg"
     },
     {
@@ -388,7 +389,7 @@
       "why": "A proper heavy Brazilian 28-plate at a third of new, but it sits at the top of the hp range and needs about $3,800 in plates to bite like new.",
       "status": "live",
       "first_seen": "2026-10-13",
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "photo": "img/finds/fb-1730861284788002.jpg"
     },
     {
@@ -414,7 +415,7 @@
       "why": "Closest used 28-plate, with the bearing work done. Measure the width and check plate wear in person.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "ends": null,
       "photo": "img/finds/fb-1096043223368086.jpg"
     },
@@ -443,7 +444,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "photo": "img/finds/fb-1054966007434070.jpg"
     },
     {
@@ -467,7 +468,7 @@
       "why": "Brand new for the price of a used set, but it is a light Chinese build rated to 100hp and needs assembling.",
       "status": "live",
       "first_seen": "2026-10-12",
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "photo": "img/finds/fb-1576107450589526.jpg"
     },
     {
@@ -491,7 +492,7 @@
       "why": "A hardly-used 28-plate for $9,000 about 200 km away, but the listing is three lines long: get the width and hp before driving.",
       "status": "live",
       "first_seen": "2026-10-14",
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "photo": "img/finds/fb-1005183285292089.jpg"
     },
     {
@@ -517,7 +518,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "photo": "img/finds/fb-1117657974131225.jpg"
     },
     {
@@ -543,7 +544,7 @@
       "why": "Premium model from the same Cobram dealer with the kitchen fitted; it clears every must and every prefer at 180km.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "price_note": "up from $22,990",
       "ends": null,
       "photo": "img/finds/fb-1729183591520678.jpg"
@@ -593,7 +594,7 @@
       "why": "Cheapest new 2-bed with bathroom in range, but the dealer's other ads are priced higher, so check the price first.",
       "status": "live",
       "first_seen": "2026-10-14",
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "photo": "img/finds/gumtree-1344906821.jpg",
       "photo_url": "https://images.gumtree.com.au/image/private/t_$_s-l800/gumtree/dbe4a93e-46bd-4f5a-87ed-a1f924190a89.jpg"
     },
@@ -619,7 +620,7 @@
       "why": "Clears the bathroom and two-room bar for $19k inside 250km, but it is homemade and the listing is thin, so inspect it.",
       "status": "live",
       "first_seen": "2026-10-27",
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "photo": "img/finds/fb-4498847773713057.jpg"
     },
     {
@@ -643,8 +644,31 @@
       "why": "2 bedrooms and an ensuite for $23,500, cut by $5,000, but it is right at the 400km limit.",
       "status": "live",
       "first_seen": "2026-11-12",
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "photo": "img/finds/fb-1416522520374898.jpg"
+    },
+    {
+      "key": "fb-1612100457131659",
+      "want": "portable-home",
+      "title": "Unused expandable container house with ensuite",
+      "price_aud": 24000,
+      "location": "Yass, NSW",
+      "distance_km": 330,
+      "detail": [
+        "new, unused",
+        "19ft x 20ft opened out",
+        "ensuite with shower, toilet, sink",
+        "8 lockable sliding windows",
+        "folded, ready for transport"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1612100457131659/",
+      "verdict": "decent",
+      "why": "Main room plus ensuite inside budget, closer than the Victorian units; no kitchen fitted.",
+      "status": "live",
+      "first_seen": "2026-11-15",
+      "updated": "2026-11-15",
+      "photo": "img/finds/fb-1612100457131659.jpg"
     },
     {
       "key": "fb-1595486731869298",
@@ -664,10 +688,10 @@
       "url": "https://www.facebook.com/marketplace/item/1595486731869298/",
       "verdict": "stretch",
       "why": "Solid 6m hut with a bathroom and delivery on offer, but the ad does not say it has two rooms.",
-      "status": "live",
+      "status": "gone",
       "ends": null,
       "first_seen": "2026-11-02",
-      "updated": "2026-11-14"
+      "updated": "2026-11-15"
     },
     {
       "key": "slattery-148669",
@@ -746,7 +770,7 @@
       "why": "Still the best value on the list: a 2022 cab tractor with a 4-in-1 loader at 251 hrs, 190 km away. It is $18,000 under the ceiling and has sat 10 weeks, so there is room to offer.",
       "status": "live",
       "first_seen": "2026-10-14",
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "photo": "img/finds/fb-1027921470152750.jpg"
     },
     {
@@ -796,7 +820,7 @@
       "status": "live",
       "ends": "2026-11-19",
       "first_seen": "2026-11-13",
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "photo": "img/finds/auctionsplus-129206-1480974.jpg",
       "photo_url": "https://auctionsplusblob.blob.core.windows.net/apmediaprod/Thumbnails/1639301639683384483_0237f7dc-3dae-4995-923f-549360cfc6da.webp"
     },
@@ -820,32 +844,34 @@
       "why": "New with warranty and implements inside budget; bottom of the hp band and the seller's location is not stated.",
       "status": "live",
       "first_seen": "2026-11-11",
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "photo": "img/finds/machines4u-1022670.jpg",
       "photo_url": "https://media.machines4u.com.au/machinery/70/1022670/LOVOL-90HP-4WD-A-C-Cabin-Tractor-with-4-in-1-Bucket-Combo-Deal-5-Years-Warranty_82082238.i.jpg"
     },
     {
-      "key": "fb-1754214325648301",
+      "key": "fb-1121534220613925",
       "want": "tractor",
-      "title": "2014 Valtra N103 H5 with loader, 3,593 hours",
-      "price_aud": 55000,
-      "price_note": "plus GST",
-      "location": "Tourello, VIC",
-      "distance_km": 470,
+      "title": "2016 Kubota M100GX with Kubota loader, 621 hours",
+      "price_aud": 77000,
+      "price_note": "$70,000 + GST",
+      "location": "Barrabool (Geelong), VIC",
+      "distance_km": 560,
       "detail": [
-        "3,593 hours",
-        "110hp",
-        "loader with soft ride and 3rd function",
-        "cab"
+        "621 hours",
+        "100hp",
+        "4WD, cab",
+        "Kubota loader, bucket and forks",
+        "slasher and counterweight included",
+        "stored undercover"
       ],
       "source": "Facebook Marketplace",
-      "url": "https://www.facebook.com/marketplace/item/1754214325648301/",
+      "url": "https://www.facebook.com/marketplace/item/1121534220613925/",
       "verdict": "decent",
-      "why": "Clears the must list on hours, hp and loader, but 470km away, past the 400km limit.",
+      "why": "Lowest hours of any loader tractor on the list and inside budget, but 160km past the 400km limit.",
       "status": "live",
-      "first_seen": "2026-11-13",
-      "updated": "2026-11-14",
-      "photo": "img/finds/fb-1754214325648301.jpg"
+      "first_seen": "2026-11-15",
+      "updated": "2026-11-15",
+      "photo": "img/finds/fb-1121534220613925.jpg"
     },
     {
       "key": "fb-2546032742490934",
@@ -866,8 +892,34 @@
       "why": "Clears every must on a 2021 cab tractor, but sits at the top of the budget, right at 400km, and hours need confirming.",
       "status": "live",
       "first_seen": "2026-11-14",
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "photo": "img/finds/fb-2546032742490934.jpg"
+    },
+    {
+      "key": "auctionsplus-129297-1470172",
+      "want": "tractor",
+      "title": "Valtra N134 Active with front-end loader and bucket, 1,815 hours",
+      "price_aud": 84000,
+      "price_note": "on market after clearing sale, 0% buyer premium, GST applies",
+      "location": "Little Billabong, NSW",
+      "distance_km": 250,
+      "detail": [
+        "1,815 hours",
+        "135hp",
+        "front-end loader and bucket",
+        "cab and front axle suspension",
+        "Topcon X35 autosteer",
+        "uses AdBlue",
+        "year not stated"
+      ],
+      "source": "AuctionsPlus",
+      "url": "https://auctionsplus.com.au/auctions/machinery/p-n-rogers-investments-pl-clearing-sale-yarra/valtra-n134-active-tractor-front-end-loader-b/listing/129297-1470172/browse",
+      "verdict": "decent",
+      "why": "Clears hours, hp and loader at 250km; $4,000 over budget, and an offer may land it.",
+      "status": "live",
+      "first_seen": "2026-11-15",
+      "updated": "2026-11-15",
+      "photo": "img/finds/auctionsplus-129297-1470172.jpg"
     },
     {
       "key": "auctionsplus-129205-1478848",
@@ -891,31 +943,6 @@
       "ends": "2026-11-12",
       "first_seen": "2026-11-12",
       "updated": "2026-11-12"
-    },
-    {
-      "key": "fb-4588282108096628",
-      "want": "tractor",
-      "title": "2014 John Deere 6125R Premium with H340 loader, 3,098 hours",
-      "price_aud": null,
-      "price_note": "price not stated (listed at a $123 placeholder)",
-      "location": "Zeerust (Wunghnu), VIC",
-      "distance_km": 300,
-      "detail": [
-        "3,098 hours",
-        "125hp class",
-        "JD H340 loader, bucket and pallet forks",
-        "3rd-function hydraulics",
-        "AutoQuad, 2 rear remotes, premium cab",
-        "listed by a machinery broker"
-      ],
-      "source": "Facebook Marketplace",
-      "url": "https://www.facebook.com/marketplace/item/4588282108096628/",
-      "verdict": "decent",
-      "why": "Clears every must: Deere, 125hp, factory loader, 3,098 hours. Price is hidden, so the call decides it.",
-      "status": "live",
-      "first_seen": "2026-11-12",
-      "updated": "2026-11-14",
-      "photo": "img/finds/fb-4588282108096628.jpg"
     },
     {
       "key": "grays-0006-23502890",
