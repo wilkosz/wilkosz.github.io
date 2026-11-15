@@ -1,26 +1,6 @@
 {
-  "as_of": "2026-11-14",
+  "as_of": "2026-11-15",
   "events": [
-    {
-      "key": "2026-11-13-aapl-homeview",
-      "date": "2026-11-13",
-      "time": "Availability",
-      "ticker": "AAPL",
-      "title": "Apple HomeView and Apple TV 4K ship",
-      "type": "product",
-      "why": "Home push; early demand read.",
-      "link": "https://www.apple.com/newsroom/"
-    },
-    {
-      "key": "2026-11-13-us-ppi",
-      "date": "2026-11-13",
-      "time": "8:30am ET (Sat 12:30am AEDT)",
-      "ticker": "MACRO",
-      "title": "US PPI, October (confirmed)",
-      "type": "macro",
-      "why": "Second inflation read after hot CPI; 50bp hike odds.",
-      "link": "https://www.bls.gov/schedule/news_release/ppi.htm"
-    },
     {
       "key": "2026-11-16-china-activity",
       "date": "2026-11-16",

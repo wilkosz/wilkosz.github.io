@@ -1,115 +1,115 @@
 {
-  "as_of": "2026-11-14T18:10",
+  "as_of": "2026-11-15T06:10",
   "market_summary": "Weekend, markets shut since Friday's close: S&P -0.4%, Nasdaq -0.9% Friday, both up 2%+ on the week. Chips were the weak spot, with NVDA down about 12% on the week. The 10-year touched 5.17% and the last FedWatch reading had a December hike near 77%. Next week is busy: Warsh speaks Mon, then Nvidia earnings, US retail sales and RBA minutes Tue, FOMC minutes Wed, Alibaba Thu, and GDP plus PCE Nov 25.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "Weekend, no new company news. Down 0.3% Friday in a soft tech tape; no new company news.",
+      "reason": "Sunday, markets shut; unchanged since Friday close. Down 0.3% Friday in a soft tech tape; no new company news.",
       "price_usd": 266.66,
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "pe_forward": 26.97,
       "source": "https://stockanalysis.com/stocks/amzn/statistics/"
     },
     "AXOS": {
       "take": "hold",
-      "reason": "Weekend, no new company news. Flat, down 0.1%; cheap at 9x forward earnings, no news.",
+      "reason": "Sunday, markets shut; unchanged since Friday close. Flat, down 0.1%; cheap at 9x forward earnings, no news.",
       "price_usd": 91.17,
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "pe_forward": 9.05,
       "source": "https://stockanalysis.com/stocks/ax/statistics/"
     },
     "BABA": {
       "take": "hold",
-      "reason": "Weekend, no new company news. Flat Friday; 12x forward earnings, no new catalyst.",
+      "reason": "Sunday, markets shut; unchanged since Friday close. Flat Friday; 12x forward earnings, no new catalyst.",
       "price_usd": 94.38,
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "pe_forward": 11.85,
       "source": "https://stockanalysis.com/stocks/baba/statistics/"
     },
     "ENPH": {
       "take": "watch",
-      "reason": "Weekend, no new company news. Down 2.7% Friday; residential solar demand still weak, no fresh news.",
+      "reason": "Sunday, markets shut; unchanged since Friday close. Down 2.7% Friday; residential solar demand still weak, no fresh news.",
       "price_usd": 26.07,
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "pe_forward": 25.5,
       "source": "https://stockanalysis.com/stocks/enph/statistics/"
     },
     "FIGR": {
       "take": "hold",
-      "reason": "Weekend, no new company news. Down 1.8% with risk-off tech tape; no company news.",
+      "reason": "Sunday, markets shut; unchanged since Friday close. Down 1.8% with risk-off tech tape; no company news.",
       "price_usd": 25.22,
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "pe_forward": 17.37,
       "source": "https://stockanalysis.com/stocks/figr/statistics/"
     },
     "GOOGL": {
       "take": "hold",
-      "reason": "Weekend, no new company news. Down 1% as Nasdaq slipped; no new company news.",
+      "reason": "Sunday, markets shut; unchanged since Friday close. Down 1% as Nasdaq slipped; no new company news.",
       "price_usd": 295.77,
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "pe_forward": 21.45,
       "source": "https://stockanalysis.com/stocks/googl/statistics/"
     },
     "LDI": {
       "take": "trim",
-      "reason": "Weekend, no new company news. Penny-stock range, up 0.3%; no forward earnings estimate, thesis unchanged.",
+      "reason": "Sunday, markets shut; unchanged since Friday close. Penny-stock range, up 0.3%; no forward earnings estimate, thesis unchanged.",
       "price_usd": 0.4506,
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "source": "https://stockanalysis.com/stocks/ldi/statistics/"
     },
     "META": {
       "take": "hold",
-      "reason": "Weekend, no new company news. Up 2.9% Friday against a falling Nasdaq; 19x forward earnings.",
+      "reason": "Sunday, markets shut; unchanged since Friday close. Up 2.9% Friday against a falling Nasdaq; 19x forward earnings.",
       "price_usd": 641.69,
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "pe_forward": 19.48,
       "source": "https://stockanalysis.com/stocks/meta/statistics/"
     },
     "MRVL": {
       "take": "watch",
-      "reason": "Weekend, no new company news. Down 4.7% Friday after BofA cut; AI chip selloff continues.",
+      "reason": "Sunday, markets shut; unchanged since Friday close. Down 4.7% Friday after BofA cut; AI chip selloff continues.",
       "price_usd": 156.76,
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "pe_forward": 27.79,
       "source": "https://stockanalysis.com/stocks/mrvl/statistics/"
     },
     "MU": {
       "take": "hold",
-      "reason": "Weekend, no new company news. Down 2.5% with chips; forward P/E 4.4 reflects peak memory pricing.",
+      "reason": "Sunday, markets shut; unchanged since Friday close. Down 2.5% with chips; forward P/E 4.4 reflects peak memory pricing.",
       "price_usd": 778.31,
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "pe_forward": 4.41,
       "source": "https://stockanalysis.com/stocks/mu/statistics/"
     },
     "NFLX": {
       "take": "hold",
-      "reason": "Weekend, no new company news. Down 0.9% Friday; no new company news.",
+      "reason": "Sunday, markets shut; unchanged since Friday close. Down 0.9% Friday; no new company news.",
       "price_usd": 62.15,
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "pe_forward": 17.31,
       "source": "https://stockanalysis.com/stocks/nflx/statistics/"
     },
     "NVDA": {
       "take": "watch",
-      "reason": "Weekend, no new company news. Down 2% Friday, 12.75% for the week after CEO exit; earnings Tuesday.",
+      "reason": "Sunday, markets shut; unchanged since Friday close. Down 2% Friday, 12.75% for the week after CEO exit; earnings Tuesday.",
       "price_usd": 162.85,
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "pe_forward": 13.46,
       "source": "https://stockanalysis.com/stocks/nvda/statistics/"
     },
     "RKT": {
       "take": "hold",
-      "reason": "Weekend, no new company news. Flat Friday (0.0%); rates backdrop firmer as yields rise.",
+      "reason": "Sunday, markets shut; unchanged since Friday close. Flat Friday (0.0%); rates backdrop firmer as yields rise.",
       "price_usd": 13.71,
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "pe_forward": 23.27,
       "source": "https://stockanalysis.com/stocks/rkt/statistics/"
     },
     "TSM": {
       "take": "hold",
-      "reason": "Weekend, no new company news. Down 1.7% in chip selloff; demand outlook unchanged.",
+      "reason": "Sunday, markets shut; unchanged since Friday close. Down 1.7% in chip selloff; demand outlook unchanged.",
       "price_usd": 398.73,
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "pe_forward": 19.04,
       "source": "https://stockanalysis.com/stocks/tsm/statistics/"
     },
@@ -117,21 +117,21 @@
       "take": "hold",
       "reason": "Private; no new mark reported.",
       "price_usd": null,
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
       "reason": "Private; no new mark beyond the round already covered.",
       "price_usd": null,
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "mark_multiple": 7.96
     }
   },
   "headlines": [
-    "Quiet weekend, no new material news on holdings or loves.",
-    "Nvidia reports Tue Nov 17 after US close = Wed morning AEDT; date not yet confirmed by Nvidia.",
-    "FOMC minutes Wed, Alibaba results Thu before US open = Thu night AEDT.",
-    "RBA minutes Tue 11:30 AEDT; US GDP and PCE Wed Nov 25 = Thu morning AEDT."
+    "Quiet Sunday, markets shut; no material news on holdings or loves since last run.",
+    "Nvidia date still unconfirmed: most sources say Wed Nov 18 after US close = Thu morning AEDT.",
+    "Anthropic IPO range unchanged at $70-78; trading reported for Thu Nov 19, final price not set.",
+    "Mon: Warsh speaks; Tue: US retail sales and RBA minutes; Wed: FOMC minutes."
   ]
 }
