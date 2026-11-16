@@ -84,22 +84,22 @@
     {
       "key": "2026-11-17-nvda-q3-fy27",
       "date": "2026-11-17",
-      "time": "After close; call 5:00pm ET (Wed 9:00am AEDT) (confirmed)",
+      "time": "After close; call 5:00pm ET (Wed 9:00am AEDT)",
       "ticker": "NVDA",
-      "title": "Nvidia Q3 fiscal 2027 results and call, first under interim CEO Kress",
+      "title": "Nvidia Q3 FY27 results, first under interim CEO Kress",
       "type": "earnings",
-      "why": "Biggest AI print of the quarter, first under interim CEO Kress after Huang resigned; stock fell ~12% last week, options price a ~10.6% move. Q4 guide matters more than the quarter.",
-      "link": "https://www.marketpulse.com/markets/nvidia-nvda-q3-earnings-preview-ai-spending-risks-and-governance-concerns-threaten-major-uptrend/"
+      "why": "AI capex bellwether; chips sold off 4-7% into the print",
+      "link": "https://investor.nvidia.com"
     },
     {
       "key": "2026-11-18-anthropic-ipo-pricing",
       "date": "2026-11-18",
       "time": "After close ET (Thu morning AEDT) - expected",
       "ticker": "ANT",
-      "title": "Anthropic IPO pricing, range $70-78",
+      "title": "Anthropic IPO pricing, amended range $70-78 (earlier $70-80 range withdrawn)",
       "type": "other",
-      "why": "825m shares at $70-78 range (plus 123.75m greenshoe) on Nasdaq as ANT; pressing ahead despite the AI chip selloff. Pricing vs range is the read on AI risk appetite.",
-      "link": "https://www.rttnews.com/3712632/anthropic-sets-ipo-price-range-at-70-78-per-share-launches-roadshow.aspx"
+      "why": "Loved company; ~825m shares, ~$1.3-1.4T valuation",
+      "link": "https://thenextweb.com/news/anthropic-ipo-terms-1-4-trillion-valuation"
     },
     {
       "key": "2026-11-18-fomc-minutes",
@@ -134,11 +134,11 @@
     {
       "key": "2026-11-19-anthropic-ant-trading",
       "date": "2026-11-19",
-      "time": "Nasdaq open 9:30am ET (Fri 1:30am AEDT) - expected",
+      "time": "Nasdaq open 9:30am ET (Fri 1:30am AEDT) - expected, subject to SEC clearance",
       "ticker": "ANT",
-      "title": "Anthropic starts trading on Nasdaq as ANT",
+      "title": "Anthropic expected to start trading on Nasdaq as ANT",
       "type": "other",
-      "why": "Largest AI listing; sets a mark for AI valuations.",
+      "why": "Largest AI listing; may draw funds out of other AI names",
       "link": "https://fourweekmba.com/ai-anthropics-ipo-day-by-day-pricing-18-nov-trading-19-nov/"
     },
     {
@@ -150,16 +150,6 @@
       "type": "earnings",
       "why": "Cloud growth, AI capex, quick-commerce losses.",
       "link": "https://www.panabee.com/news/alibaba-earnings-q3-2026"
-    },
-    {
-      "key": "2026-11-19-baba-earnings",
-      "date": "2026-11-19",
-      "time": "before US open, call 7:00 ET",
-      "ticker": "BABA",
-      "title": "Alibaba September-quarter results",
-      "type": "earnings",
-      "why": "Cloud and AI capex after a roughly 14% weekly drop on chip-access worries",
-      "link": "https://news.ifyouspent.com/en/news/china-tech-earnings-preview-alibaba-tencent-jd-baidu-november-2026"
     },
     {
       "key": "2026-11-19-intu-q1",

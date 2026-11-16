@@ -1,6 +1,54 @@
 [
   {
     "date": "2026-11-16",
+    "ticker": "NVDA",
+    "headline": "Chip stocks slide as traders unwind Nvidia-rival bets before earnings",
+    "summary": "Marvell fell about 7% and Micron about 7%; Bessent gave Nvidia's board 10 days to answer on export-control compliance.",
+    "source": "https://uk.investing.com/news/stock-market-news/us-chip-stocks-slide-as-traders-unwind-nvidia-rival-bets-before-earnings-4985539",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-16",
+    "ticker": "NVDA",
+    "headline": "Board not considering Huang's return, CNBC source says",
+    "summary": "A person familiar told CNBC the board is focused on a national security probe into Huang and is not in talks to reinstate him; some investors want options kept open.",
+    "source": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-16",
+    "ticker": "TSM",
+    "headline": "US interim rule curbs remote access to advanced chips via third countries",
+    "summary": "Commerce rule targets offshore data-centre workarounds; interim CEO Kress leads Nvidia's Tue call. Anthropic debut eyed Nov 19.",
+    "source": "https://marketspeaker.com/us-stocks-chip-selloff-nvidia-earnings-november-16-2026/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-16",
+    "ticker": "NVDA",
+    "headline": "Nvidia crisis drags chips; board not bringing back Huang",
+    "summary": "Huang exit tied to national security probe; export curbs widened to five more countries. NVDA -4%, chip names -4 to -7%.",
+    "source": "https://stockanalysis.com/stocks/nvda/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-16",
+    "ticker": "SKHY",
+    "headline": "SK Hynix ADR -5.8% on Nvidia turmoil and DRAM price-fixing suit",
+    "summary": "Lawsuit adds legal risk to memory leader.",
+    "source": "https://stockanalysis.com/stocks/skhy/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-16",
+    "ticker": "BE",
+    "headline": "Law firm opens investigation into Bloom Energy officers",
+    "summary": "BE -7.6%; moved to watch.",
+    "source": "https://stockanalysis.com/stocks/be/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-16",
     "ticker": "MARKET",
     "headline": "Asia mostly lower Monday after weak Japan and China data; Kospi -2.8%, Nikkei -1.6%",
     "summary": "Japan's preliminary Q3 GDP showed a surprise 0.1% annualised contraction and China's October industrial output and retail sales disappointed. Tech led losses in Tokyo and Seoul. The Hang Seng rose 0.9% on consumer and EV names.",
@@ -170,6 +218,14 @@
   {
     "date": "2026-11-11",
     "ticker": "NVDA",
+    "headline": "Options price about 10.6% Nvidia earnings move",
+    "summary": "Consensus Q3 revenue about $109B, up 91%; Q4 guide expected to drive the reaction amid governance probe.",
+    "source": "https://www.marketpulse.com/markets/nvidia-nvda-q3-earnings-preview-ai-spending-risks-and-governance-concerns-threaten-major-uptrend/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-11-11",
+    "ticker": "NVDA",
     "headline": "WSJ: Nvidia board preparing to oust Huang",
     "summary": "Board could meet Wednesday night; no successor or board chair. NYT also reported a second relationship, with an executive. Shares down over 7% after hours. No decision reported yet.",
     "source": "https://fortune.com/2026/11/11/nvidia-oust-jensen-huang-spy-affairs/",
@@ -214,6 +270,14 @@
     "summary": "Nikkei +1.3%. Samsung +3.4%, Kioxia +5.6%. Lower oil and Iran talk hopes helped.",
     "source": "https://www.tradingkey.com/analysis/stocks/more/262300120-japan-korea-stocks-skhy-kospi-nikkei-samsung-skhynix-softbank-kioxia-nvda-hbm-tradingkey",
     "impact": "positive"
+  },
+  {
+    "date": "2026-11-10",
+    "ticker": "MACRO",
+    "headline": "Anthropic pulled its first IPO range as inaccurate; amended filing shows $70-78",
+    "summary": "A $70-80 range for ~867m shares was retracted. The amended filing shows ~825m shares at $70-78, with pricing expected 18 Nov and trading 19 Nov.",
+    "source": "https://investinglive.com/stocks/anthropic-retracts-ipo-pricing-details-sent-to-bankers-says-figures-were-inaccurate/",
+    "impact": "neutral"
   },
   {
     "date": "2026-11-10",
@@ -574,69 +638,5 @@
     "summary": "Target $350; results Thursday Nov 5.",
     "source": "https://247wallst.com/investing/2026/11/03/buy-sell-or-hold-tuesdays-top-upgrades-and-downgrades-aon-bloom-energy-chevron-cloudflare-marvell-technologies-lumentum-holdings-merck-co-roku-x-energy-and-more/",
     "impact": "positive"
-  },
-  {
-    "date": "2026-11-03",
-    "ticker": "SKHY",
-    "headline": "SK hynix about -5% as KOSPI drops over 3%",
-    "summary": "Korea memory names fell early Tuesday after Monday's 3.4% SOX slide.",
-    "source": "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---us-mid-term-elections-today-the-focus---3-november-2026-03112026",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-03",
-    "ticker": "RBA",
-    "headline": "RBA hikes to 4.85% in a 6-3 vote",
-    "summary": "Second hike in two meetings; inflation seen above band until late 2027.",
-    "source": "https://www.rba.gov.au/media-releases/2026/mr-26-30.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-02",
-    "ticker": "ENPH",
-    "headline": "Oil slips as Iran-Qatar talks continue for a third day",
-    "summary": "Brent was down 1.4%. Iran's foreign minister called the talks 'ongoing and progressing'. Oil later fell more than 8% overnight into Nov 5 on expectations of pressure to end the war.",
-    "source": "https://www.nst.com.my/amp/business/economy/2026/11/1568718/oil-slips-more-1-cent-talks-continue-ending-iran-war",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-11-02",
-    "ticker": "MRVL",
-    "headline": "Marvell falls 13% and Lumentum 19% on the all-stock megadeal",
-    "summary": "Investors questioned the 115B all-stock purchase. Because Lumentum holders get a fixed 4.5 Marvell shares each, Lumentum fell with Marvell.",
-    "source": "https://finance.yahoo.com/technology/ai/articles/marvells-115-billion-lumentum-acquisition-133000048.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-02",
-    "ticker": "MU",
-    "headline": "Chips sold off Monday: MU -5.8%, NVDA -1.3%, AMZN +2.2%",
-    "summary": "Money rotated out of tech, and the Nasdaq fell 1.1% while the Dow rose. Apple fell 1.8% in the regular session ahead of its results.",
-    "source": "https://cappnotes.substack.com/p/closing-look-monday-november-2-2026",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-02",
-    "ticker": "AAPL",
-    "headline": "Apple beats on revenue, guides margin 45-46% on memory costs",
-    "summary": "Revenue $114.5B, iPhone +17%; Greater China missed; shares lower Tuesday.",
-    "source": "https://www.macrumors.com/2026/11/02/apple-4q-2026-earnings/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-11-02",
-    "ticker": "PLTR",
-    "headline": "Palantir revenue +96% to $2.313B, FY guide raised",
-    "summary": "Q4 guide $2.649-2.653B; US commercial +148%.",
-    "source": "https://www.sec.gov/Archives/edgar/data/0001321655/000132165526000045/a2026q3ex991pressrelease.htm",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-11-02",
-    "ticker": "MRVL",
-    "headline": "Marvell signs all-stock deal to buy Lumentum",
-    "summary": "Fixed 4.5 Marvell shares per Lumentum share, about a 24% premium to the Oct 28 close. Marvell holders keep about 67%, the deal is expected to close in 1H 2028, and Q3 revenue guidance holds with the range narrowed to plus or minus 2%.",
-    "source": "https://www.sec.gov/Archives/edgar/data/0001633978/000119312526442758/d163169dex991.htm",
-    "impact": "negative"
   }
 ]
