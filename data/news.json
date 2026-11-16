@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-11-16",
+    "ticker": "MARKET",
+    "headline": "Asia mostly lower Monday after weak Japan and China data; Kospi -2.8%, Nikkei -1.6%",
+    "summary": "Japan's preliminary Q3 GDP showed a surprise 0.1% annualised contraction and China's October industrial output and retail sales disappointed. Tech led losses in Tokyo and Seoul. The Hang Seng rose 0.9% on consumer and EV names.",
+    "source": "https://newsquawk.com/headlines/market-analysis-asia-pac-stocks-are-mostly-lower-to-start-the-week-after-disappointing-data-from-japan-and-china-while-participants-also-await-key-events-this-week-including-nvidia-earnings-and-teh-trump-xi-putin-trilateral-meeting",
+    "impact": "negative"
+  },
+  {
     "date": "2026-11-13",
     "ticker": "NVDA",
     "headline": "Nvidia ends week down 12.75% ahead of Tuesday earnings",
@@ -629,14 +637,6 @@
     "headline": "Marvell signs all-stock deal to buy Lumentum",
     "summary": "Fixed 4.5 Marvell shares per Lumentum share, about a 24% premium to the Oct 28 close. Marvell holders keep about 67%, the deal is expected to close in 1H 2028, and Q3 revenue guidance holds with the range narrowed to plus or minus 2%.",
     "source": "https://www.sec.gov/Archives/edgar/data/0001633978/000119312526442758/d163169dex991.htm",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-02",
-    "ticker": "MRVL",
-    "headline": "Marvell down 9.5%, Lumentum down 15% by 1pm ET",
-    "summary": "Both stocks fell through the session after the deal news. Indexes were up 0.3-0.9% as oil fell over 7%.",
-    "source": "https://stocktitan.net/articles/stock-market-today-live-november-2-2026",
     "impact": "negative"
   }
 ]

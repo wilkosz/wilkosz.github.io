@@ -1,12 +1,12 @@
 {
-  "as_of": "2026-11-15T18:07",
-  "market_summary": "Weekend, markets shut since Friday's close: S&P -0.4%, Nasdaq -0.9% Friday, both up 2%+ on the week. Chips were the weak spot, with NVDA down about 12% on the week. The 10-year touched 5.17% and the last FedWatch reading had a December hike near 77%. Next week is busy: Warsh speaks Mon, then Nvidia earnings Tue after close (confirmed by Nvidia IR), US retail sales and RBA minutes Tue, FOMC minutes Wed, Alibaba Thu, and GDP plus PCE Nov 25.",
+  "as_of": "2026-11-16T06:10",
+  "market_summary": "US markets reopen Tue 1:30am AEDT after a weekend with little company news. Asia was mostly lower Monday: Kospi -2.8%, Nikkei -1.6%, Hang Seng +0.9%, ASX flat; Japan Q3 GDP shrank 0.1% annualised and China's October activity data disappointed. US futures dipped. The 10-year near 5.17% and a likely December hike remain the backdrop into Nvidia earnings Tue after US close (Wed morning AEDT), FOMC minutes Wed and the Anthropic IPO later in the week.",
   "takes": {
     "AMZN": {
       "take": "hold",
       "reason": "Markets shut until Tue 1:30am AEDT; unchanged since Friday close. Down 0.3% Friday in a soft tech tape; no new company news.",
       "price_usd": 266.66,
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "pe_forward": 26.97,
       "source": "https://stockanalysis.com/stocks/amzn/statistics/"
     },
@@ -14,7 +14,7 @@
       "take": "hold",
       "reason": "Markets shut until Tue 1:30am AEDT; unchanged since Friday close. Flat, down 0.1%; cheap at 9x forward earnings, no news.",
       "price_usd": 91.17,
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "pe_forward": 9.05,
       "source": "https://stockanalysis.com/stocks/ax/statistics/"
     },
@@ -22,7 +22,7 @@
       "take": "hold",
       "reason": "Markets shut until Tue 1:30am AEDT; unchanged since Friday close. Flat Friday; 12x forward earnings, no new catalyst.",
       "price_usd": 94.38,
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "pe_forward": 11.85,
       "source": "https://stockanalysis.com/stocks/baba/statistics/"
     },
@@ -30,7 +30,7 @@
       "take": "watch",
       "reason": "Markets shut until Tue 1:30am AEDT; unchanged since Friday close. Down 2.7% Friday; residential solar demand still weak, no fresh news.",
       "price_usd": 26.07,
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "pe_forward": 25.5,
       "source": "https://stockanalysis.com/stocks/enph/statistics/"
     },
@@ -38,7 +38,7 @@
       "take": "hold",
       "reason": "Markets shut until Tue 1:30am AEDT; unchanged since Friday close. Down 1.8% with risk-off tech tape; no company news.",
       "price_usd": 25.22,
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "pe_forward": 17.37,
       "source": "https://stockanalysis.com/stocks/figr/statistics/"
     },
@@ -46,7 +46,7 @@
       "take": "hold",
       "reason": "Markets shut until Tue 1:30am AEDT; unchanged since Friday close. Down 1% as Nasdaq slipped; no new company news.",
       "price_usd": 295.77,
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "pe_forward": 21.45,
       "source": "https://stockanalysis.com/stocks/googl/statistics/"
     },
@@ -54,14 +54,14 @@
       "take": "trim",
       "reason": "Markets shut until Tue 1:30am AEDT; unchanged since Friday close. Penny-stock range, up 0.3%; no forward earnings estimate, thesis unchanged.",
       "price_usd": 0.4506,
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "source": "https://stockanalysis.com/stocks/ldi/statistics/"
     },
     "META": {
       "take": "hold",
       "reason": "Markets shut until Tue 1:30am AEDT; unchanged since Friday close. Up 2.9% Friday against a falling Nasdaq; 19x forward earnings.",
       "price_usd": 641.69,
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "pe_forward": 19.48,
       "source": "https://stockanalysis.com/stocks/meta/statistics/"
     },
@@ -69,7 +69,7 @@
       "take": "watch",
       "reason": "Markets shut until Tue 1:30am AEDT; unchanged since Friday close. Down 4.7% Friday after BofA cut; AI chip selloff continues.",
       "price_usd": 156.76,
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "pe_forward": 27.79,
       "source": "https://stockanalysis.com/stocks/mrvl/statistics/"
     },
@@ -77,7 +77,7 @@
       "take": "hold",
       "reason": "Markets shut until Tue 1:30am AEDT; unchanged since Friday close. Down 2.5% with chips; forward P/E 4.4 reflects peak memory pricing.",
       "price_usd": 778.31,
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "pe_forward": 4.41,
       "source": "https://stockanalysis.com/stocks/mu/statistics/"
     },
@@ -85,15 +85,15 @@
       "take": "hold",
       "reason": "Markets shut until Tue 1:30am AEDT; unchanged since Friday close. Down 0.9% Friday; no new company news.",
       "price_usd": 62.15,
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "pe_forward": 17.31,
       "source": "https://stockanalysis.com/stocks/nflx/statistics/"
     },
     "NVDA": {
       "take": "watch",
-      "reason": "Markets shut; unchanged since Friday. Down 12.75% last week after CEO exit; earnings Tue after US close = Wed morning AEDT.",
+      "reason": "Markets shut until Tue 1:30am AEDT. Down 12.75% last week after CEO exit; unconfirmed weekend reports of a push to reinstate Huang. Earnings Wed morning AEDT.",
       "price_usd": 162.85,
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "pe_forward": 13.46,
       "source": "https://stockanalysis.com/stocks/nvda/statistics/"
     },
@@ -101,7 +101,7 @@
       "take": "hold",
       "reason": "Markets shut until Tue 1:30am AEDT; unchanged since Friday close. Flat Friday (0.0%); rates backdrop firmer as yields rise.",
       "price_usd": 13.71,
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "pe_forward": 23.27,
       "source": "https://stockanalysis.com/stocks/rkt/statistics/"
     },
@@ -109,7 +109,7 @@
       "take": "hold",
       "reason": "Markets shut until Tue 1:30am AEDT; unchanged since Friday close. Down 1.7% in chip selloff; demand outlook unchanged.",
       "price_usd": 398.73,
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "pe_forward": 19.04,
       "source": "https://stockanalysis.com/stocks/tsm/statistics/"
     },
@@ -117,21 +117,21 @@
       "take": "hold",
       "reason": "Private; no new mark reported.",
       "price_usd": null,
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
       "reason": "Private; no new mark beyond the round already covered.",
       "price_usd": null,
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "mark_multiple": 7.96
     }
   },
   "headlines": [
-    "Still weekend, markets shut; no material news on holdings or loves since last run.",
-    "Nvidia confirmed: Q3 results Tue Nov 17 after US close = Wed morning AEDT.",
-    "Anthropic IPO range unchanged at $70-78; trading expected Thu Nov 19 = Fri morning AEDT.",
-    "Mon: Warsh speaks; Tue: US retail sales and RBA minutes; Wed: FOMC minutes."
+    "Quiet weekend: no material news on holdings, loves or watchlist; US reopens Tue 1:30am AEDT.",
+    "Asia lower Monday: Kospi -2.8%, Nikkei -1.6%; China October activity data disappointed, US futures dipped.",
+    "Unconfirmed reports Huang's allies want him reinstated as Nvidia CEO; earnings Tue after US close = Wed morning AEDT.",
+    "Anthropic IPO range unchanged at $70-78; pricing expected Wed, trading Thu = Fri morning AEDT."
   ]
 }

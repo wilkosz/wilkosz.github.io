@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-15",
+  "as_of": "2026-11-16",
   "events": [
     {
       "key": "2026-11-16-china-activity",
@@ -180,6 +180,16 @@
       "type": "macro",
       "why": "Labour and factory read before PCE.",
       "link": "https://investrade.com/weekly-event-calendar-11-16-2026-11-20-2026/"
+    },
+    {
+      "key": "2026-11-19-trump-xi-putin-apec",
+      "date": "2026-11-19",
+      "time": "TBC",
+      "ticker": "MARKET",
+      "title": "Trump-Xi-Putin meeting at APEC, Shenzhen",
+      "type": "macro",
+      "why": "Could move tariffs, chip export rules and China tech names (BABA, TSM, NVDA)",
+      "link": "https://newsquawk.com/headlines/market-analysis-asia-pac-stocks-are-mostly-lower-to-start-the-week-after-disappointing-data-from-japan-and-china-while-participants-also-await-key-events-this-week-including-nvidia-earnings-and-teh-trump-xi-putin-trilateral-meeting"
     },
     {
       "key": "2026-11-19-wmt-q3",
