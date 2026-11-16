@@ -1,11 +1,13 @@
 {
-  "as_of": "2026-11-16T00:45",
-  "summary": "Quiet run. Every live find re-checked and still listed at the same price. No new loader tractor inside 400km, under 4,500 hours and under $80k turned up across Facebook, Gumtree, Pickles, Ritchie Bros, AuctionsPlus, Slattery/Grays or the dealer sites. Cabins, discs, rippers and fuel tanks: nothing better than what is already listed.",
+  "as_of": "2026-11-16T12:07",
+  "summary": "Quiet day for local tractors: the only new loader tractor within range is an older JD 6420 at Leeton with no hours listed. A Melbourne caravan-park clearance at Slattery has nine 1-bed ensuite cabins with low early bids. Discs and fuel storage remain well supplied at a few thousand dollars, and the existing finds mostly held their prices.",
   "headlines": [
-    "No new finds worth a call today; all 29 live listings still up at unchanged prices.",
-    "2019 MF 7614 with loader, 850 hours, relisted in Dubbo at $89,000: $9k over budget, left off a full tractor list.",
-    "Near misses: JD 5095 loader at Yass $58,500 + GST but 8,044 hours; MF 5610 loader $59,500 + GST, 5,810 hours.",
-    "Slattery/Grays tractors this week are all in Hexham or Dandenong, 550-700km away."
+    "New: Shearer 300 24-plate offset discs, 2.4 m, $5,500 ONO, Echuca (280km).",
+    "Kubota M100GX (621 hrs, loader) dropped $7,000 to $70,000, Barrabool VIC.",
+    "New: JD 6420 with loader, $52,000 neg, Leeton (50km), hours not stated.",
+    "Slattery: 2018 MF 5713SL 130hp with loader at $21,500 bid, closes 18 Nov, but it's in Hexham (700km).",
+    "Slattery Melbourne: 1-bed ensuite cabins at $200 bid, close 22 Nov, 520km plus transport.",
+    "Jarrett 28-plate discs listing is gone."
   ],
   "finds": [
     {
@@ -319,6 +321,31 @@
       "photo": "img/finds/fb-1663698828091004.jpg"
     },
     {
+      "key": "gumtree-1344159827",
+      "want": "offset-discs",
+      "title": "Shearer 300 offset disc, 24 plate, 2.4 m",
+      "price_aud": 5500,
+      "price_note": "ONO",
+      "location": "Echuca, VIC",
+      "distance_km": 280,
+      "detail": [
+        "24 plates",
+        "2.4 m working width",
+        "new 22in scalloped front discs",
+        "new front gang bolt",
+        "bearing condition not stated"
+      ],
+      "source": "Gumtree",
+      "url": "https://www.gumtree.com.au/web/listing/farming-equipment/1344159827",
+      "verdict": "strong",
+      "why": "Cheapest used set that clears all three musts, narrow enough to cart, with new front discs.",
+      "status": "live",
+      "first_seen": "2026-11-16",
+      "updated": "2026-11-16",
+      "photo": "img/finds/gumtree-1344159827.jpg",
+      "photo_url": "https://images.gumtree.com.au/image/private/t_$_s-l800/gumtree/ff0aafda-8553-4816-9aa4-732e3743a256.jpg"
+    },
+    {
       "key": "fb-1605224174739541",
       "want": "offset-discs",
       "title": "26-plate trailing offset discs, no ram",
@@ -464,7 +491,7 @@
       "url": "https://www.facebook.com/marketplace/item/1005183285292089/",
       "verdict": "decent",
       "why": "A hardly-used 28-plate for $9,000 about 200 km away, but the listing is three lines long: get the width and hp before driving.",
-      "status": "live",
+      "status": "gone",
       "first_seen": "2026-10-14",
       "updated": "2026-11-16",
       "photo": "img/finds/fb-1005183285292089.jpg"
@@ -850,7 +877,7 @@
       "key": "fb-1121534220613925",
       "want": "tractor",
       "title": "2016 Kubota M100GX with Kubota loader, 621 hours",
-      "price_aud": 77000,
+      "price_aud": 70000,
       "price_note": "$70,000 + GST",
       "location": "Barrabool (Geelong), VIC",
       "distance_km": 560,
