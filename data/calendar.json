@@ -144,12 +144,12 @@
     {
       "key": "2026-11-19-baba-q2-fy27",
       "date": "2026-11-19",
-      "time": "Before open; call TBC (likely 7:30am ET, 11:30pm AEDT)",
+      "time": "Before US open; call 7:00am ET (Thu 11:00pm AEDT)",
       "ticker": "BABA",
-      "title": "Alibaba September quarter results and call (date confirmed)",
+      "title": "Alibaba September quarter results and call (confirmed)",
       "type": "earnings",
-      "why": "Cloud growth, AI capex, quick-commerce losses.",
-      "link": "https://www.panabee.com/news/alibaba-earnings-q3-2026"
+      "why": "Holding; cloud/AI growth and capex read",
+      "link": "https://investingnews.com/alibaba-group-will-announce-september-quarter-2026-results-on-november-19-2026/"
     },
     {
       "key": "2026-11-19-intu-q1",
@@ -280,6 +280,16 @@
       "type": "other",
       "why": "Thin trading around holiday.",
       "link": "https://www.nyse.com/markets/hours-calendars"
+    },
+    {
+      "key": "2026-12-01-ism-manufacturing",
+      "date": "2026-12-01",
+      "time": "10:00am ET (Wed 2:00am AEDT) - TBC, first business day",
+      "ticker": "MACRO",
+      "title": "ISM manufacturing PMI, November",
+      "type": "macro",
+      "why": "October was 55.5, 10th month of expansion",
+      "link": "https://www.ismworld.org/supply-management-news-and-reports/news-publications/inside-supply-management-magazine/blog/2026/2026-11/ism-pmi-reports-roundup-october-2026-manufacturing/"
     },
     {
       "key": "2026-12-01-mrvl-q3-fy27",

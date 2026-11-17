@@ -1,138 +1,138 @@
 {
-  "as_of": "2026-11-17T06:40",
-  "market_summary": "Mon 16 Nov close: S&P 500 -1.9%, Nasdaq -2.5% (in correction), SOX -5.3%. The 10-year Treasury sits at 5.12% (Nov 16), just off last week's highs, and a weak 10-year auction at 5.02% kept financing costs for data-centre builds elevated. AI stocks sold off on Nov 16 as a fresh US move to curb China's remote access to AI chips weighed, yet GPU rents held near records (H100 $3.08/hr, B200 $6.94/hr). DRAM spot is flat at highs, so memory has stopped accelerating but not rolled over. Nvidia's Q3 (Tue after US close = Wed morning AEDT) and Anthropic's IPO later this week are the next tests of AI capex appetite; power scarcity still supports energy and cooling names.",
+  "as_of": "2026-11-17T18:40",
+  "market_summary": "US stocks slipped about 1% intraday Nov 17 (SPY -1.1%, QQQ -1.1%) ahead of Nvidia's Q3 FY27 print after the close, with consensus at $109.3B revenue and $101.8B data-centre. The 10-yr Treasury sat at 5.12% on Nov 16, still above 5% and keeping AI build financing costly. AI capex signals stay firm on the ground: H100 rents at $3.08/hr and B200 at $6.94/hr near highs, while DDR5 spot is flat at highs. China risk rose with US moves to curb remote access to AI chips; oil is range-bound near its 200-day average, and gas-turbine deliveries for data-centre power continue.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "-3.3% in broad tech selloff; no company-specific news.",
-      "price_usd": 257.75,
+      "reason": "Flat today; $5B data-centre stake sale to Blackstone frees capex cash. Leo lost 40 satellites in Vulcan failure.",
+      "price_usd": 257.6,
       "updated": "2026-11-17",
-      "pe_forward": 26.06,
+      "pe_forward": 26.04,
       "source": "https://stockanalysis.com/stocks/amzn/statistics/"
     },
     "AXOS": {
       "take": "hold",
-      "reason": "-1.7% with market; no new company news.",
-      "price_usd": 89.65,
+      "reason": "Down 0.9%; no news. 8.8x forward with 4.64% margin is cheap.",
+      "price_usd": 88.81,
       "updated": "2026-11-17",
-      "pe_forward": 8.9,
+      "pe_forward": 8.82,
       "source": "https://stockanalysis.com/stocks/ax/statistics/"
     },
     "BABA": {
-      "take": "hold",
-      "reason": "-4.0% as China AI chip curbs hit sentiment; no company news.",
-      "price_usd": 90.62,
+      "take": "watch",
+      "reason": "Down 3.9%, lowest since Jan 2025, on US chip loophole closure; results due Nov 19.",
+      "price_usd": 87.11,
       "updated": "2026-11-17",
       "pe_forward": 11.36,
       "source": "https://stockanalysis.com/stocks/baba/statistics/"
     },
     "ENPH": {
       "take": "watch",
-      "reason": "-4.3% in risk-off session; no new company news.",
-      "price_usd": 24.95,
+      "reason": "Down 4.9% with no company news; solar remains weakest holding.",
+      "price_usd": 23.73,
       "updated": "2026-11-17",
-      "pe_forward": 24.27,
+      "pe_forward": 23.09,
       "source": "https://stockanalysis.com/stocks/enph/statistics/"
     },
     "FIGR": {
       "take": "hold",
-      "reason": "+0.6% on a -1.9% S&P day; quiet.",
-      "price_usd": 25.36,
+      "reason": "Down 1.1%; BofA raised target, Mizuho cut but kept Outperform on Kiavi deal.",
+      "price_usd": 25.08,
       "updated": "2026-11-17",
-      "pe_forward": 17.58,
+      "pe_forward": 17.37,
       "source": "https://stockanalysis.com/stocks/figr/statistics/"
     },
     "GOOGL": {
       "take": "hold",
-      "reason": "-4.1% with megacap tech; no company-specific news.",
-      "price_usd": 283.72,
+      "reason": "Down 0.6%; UBS cut to Neutral on TPU demand worries; Gemini class action deadline Dec 1.",
+      "price_usd": 281.91,
       "updated": "2026-11-17",
-      "pe_forward": 20.52,
+      "pe_forward": 20.45,
       "source": "https://stockanalysis.com/stocks/googl/statistics/"
     },
     "LDI": {
-      "take": "watch",
-      "reason": "-5.7%; no news, sub-dollar listing risk persists.",
-      "price_usd": 0.425,
+      "take": "trim",
+      "reason": "Down 1.9%; no forward earnings and two brokers halved targets last week.",
+      "price_usd": 0.4169,
       "updated": "2026-11-17",
       "source": "https://stockanalysis.com/stocks/ldi/statistics/"
     },
     "META": {
       "take": "hold",
-      "reason": "-2.4%, milder than Nasdaq -2.5%; no company news.",
-      "price_usd": 626.41,
+      "reason": "Down 1% after 2.4% Monday drop on debt worries; UBS still Buy. 18.8x forward is reasonable.",
+      "price_usd": 619.87,
       "updated": "2026-11-17",
-      "pe_forward": 19.01,
+      "pe_forward": 18.81,
       "source": "https://stockanalysis.com/stocks/meta/statistics/"
     },
     "MRVL": {
-      "take": "watch",
-      "reason": "-7.3% as SOX fell 5.3%; results due late Nov.",
-      "price_usd": 145.36,
+      "take": "hold",
+      "reason": "Flat today despite chip selloff; Penguin Solutions AI memory tie-up. Nvidia print is the next catalyst.",
+      "price_usd": 145.35,
       "updated": "2026-11-17",
       "pe_forward": 25.77,
       "source": "https://stockanalysis.com/stocks/mrvl/statistics/"
     },
     "MU": {
-      "take": "hold",
-      "reason": "-7.6% in chip rout; forward P/E near 4 already prices a downturn.",
-      "price_usd": 719.02,
+      "take": "watch",
+      "reason": "Down 3% as GF Securities cut NAND price forecasts; oversupply fears return. Forward P/E under 4x.",
+      "price_usd": 697.16,
       "updated": "2026-11-17",
-      "pe_forward": 4.07,
+      "pe_forward": 3.94,
       "source": "https://stockanalysis.com/stocks/mu/statistics/"
     },
     "NFLX": {
       "take": "hold",
-      "reason": "-2.3% with market; no new company news.",
-      "price_usd": 60.75,
+      "reason": "Down 2%; more games-unit layoffs. Pershing Square added to its stake in Q3.",
+      "price_usd": 59.53,
       "updated": "2026-11-17",
-      "pe_forward": 16.92,
+      "pe_forward": 16.58,
       "source": "https://stockanalysis.com/stocks/nflx/statistics/"
     },
     "NVDA": {
-      "take": "watch",
-      "reason": "-4.1% to a 52-week low in the chip rout; results Tue after US close decide the next move.",
-      "price_usd": 156.14,
+      "take": "hold",
+      "reason": "Q3 results due after close today; leadership void since Huang exit is the key risk. Down 1.4% today.",
+      "price_usd": 153.95,
       "updated": "2026-11-17",
-      "pe_forward": 12.91,
+      "pe_forward": 12.71,
       "source": "https://stockanalysis.com/stocks/nvda/statistics/"
     },
     "RKT": {
       "take": "hold",
-      "reason": "+0.3% on a down day; no news.",
-      "price_usd": 13.75,
+      "reason": "Down 1.5%; no material news beyond F1 Las Vegas sponsorship.",
+      "price_usd": 13.54,
       "updated": "2026-11-17",
-      "pe_forward": 23.56,
+      "pe_forward": 23.22,
       "source": "https://stockanalysis.com/stocks/rkt/statistics/"
     },
     "TSM": {
       "take": "watch",
-      "reason": "-6.3% as SOX fell 5.3% on new AI chip export licensing; Nvidia results Tue key.",
-      "price_usd": 373.45,
+      "reason": "Down 3.5% on new US China chip curbs; TAIEX down about 8% in two sessions.",
+      "price_usd": 360.42,
       "updated": "2026-11-17",
-      "pe_forward": 17.93,
+      "pe_forward": 17.24,
       "source": "https://stockanalysis.com/stocks/tsm/statistics/"
     },
     "STRIPE": {
       "take": "hold",
-      "reason": "No new tender or round reported since Nov 10.",
+      "reason": "No new round or tender reported since Nov 13.",
       "price_usd": null,
       "updated": "2026-11-17",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "No new valuation since Nov 10; last mark stays.",
+      "reason": "No new round or tender reported since Nov 13; Anthropic IPO will reset AI comps.",
       "price_usd": null,
       "updated": "2026-11-17",
       "mark_multiple": 7.96
     }
   },
   "headlines": [
-    "Chip rout Monday: SOX -5.3%, Nasdaq -2.5% into correction; Micron -7.6%, Marvell -7.3%, TSMC -6.3%.",
-    "Nvidia -4.1% to a 52-week low; results Tue after US close = Wed morning AEDT.",
-    "GPU rents hold near records despite the selloff: H100 $3.08/hr, B200 $6.94/hr.",
-    "10-yr Treasury 5.12%; new US curbs on China remote access to AI chips weigh on semis.",
-    "Anthropic IPO still expected to price Wed after US close, trade Fri 1:30am AEDT."
+    "Chips slide again on new China curbs: TSMC -3.5%, Micron -3%, Alibaba -3.9%; S&P and Nasdaq ETFs about -1%.",
+    "Nvidia Q3 tonight after US close = Wed morning AEDT; first print under interim CEO Kress.",
+    "Street wants about $109B revenue, $102B data-centre from Nvidia; GPU rents still near highs at $3.08/hr.",
+    "Anthropic IPO prices Wed after US close (Thu morning AEDT); book reported about 6x covered.",
+    "LDI moved to trim: no forward earnings, two brokers halved targets last week."
   ]
 }

@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-11-17",
+    "ticker": "TSM",
+    "headline": "US tightens China AI chip access; TSMC down 3.5%",
+    "summary": "Asian chipmakers fell again after a new US curb; TAIEX fell 1.7% after a roughly 6% drop Monday.",
+    "source": "https://stockanalysis.com/stocks/tsm/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-17",
+    "ticker": "MU",
+    "headline": "Micron slips 3% as GF Securities cuts NAND price forecasts",
+    "summary": "The cut revives fears of NAND oversupply next year, following a 7.5% intraday drop Monday.",
+    "source": "https://stockanalysis.com/stocks/mu/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-17",
+    "ticker": "AMZN",
+    "headline": "Blackstone buys majority of Amazon data-centre portfolio for about $5B",
+    "summary": "Separately, a ULA Vulcan failure destroyed 40 Amazon Leo satellites, and Zoox robotaxis went live on Uber in Las Vegas.",
+    "source": "https://stockanalysis.com/stocks/amzn/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-17",
+    "ticker": "GOOGL",
+    "headline": "UBS cuts Alphabet to Neutral on TPU demand concerns",
+    "summary": "Target cut 16%. Separately, a Gemini 3.5 Pro class action has a lead-plaintiff deadline of Dec 1.",
+    "source": "https://stockanalysis.com/stocks/googl/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-17",
+    "ticker": "NFLX",
+    "headline": "Netflix cuts more games staff; Pershing Square raises stake",
+    "summary": "Second round of games-unit layoffs. Ackman's fund lifted its holding in Q3. Stock down 2%.",
+    "source": "https://stockanalysis.com/stocks/nflx/",
+    "impact": "neutral"
+  },
+  {
     "date": "2026-11-16",
     "ticker": "MU",
     "headline": "Chip rout: SOX -5.3%, Nasdaq in correction",
@@ -598,45 +638,5 @@
     "summary": "Stock opened at $855.25 against a $918.20 prior close and fell about 10% intraday with AI-power names.",
     "source": "https://www.marketbeat.com/instant-alerts/price-ge-vernova-nyse-gev-shares-gap-down-on-analyst-downgrade-2026-11-04/",
     "impact": "negative"
-  },
-  {
-    "date": "2026-11-03",
-    "ticker": "ALAB",
-    "headline": "Astera Labs Q3 revenue $584.9M, guides Q4 to $730-750M",
-    "summary": "Revenue +154% y/y and above the $540-560M guide; non-GAAP EPS $1.32. Q4 guide implies about +26% q/q. Shares still fell about 6% Nov 4 with AI infrastructure.",
-    "source": "https://www.sec.gov/Archives/edgar/data/0001736297/000173629726000044/q326exhibit991.htm",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-11-03",
-    "ticker": "AMD",
-    "headline": "AMD data-centre revenue +97%; guides Q4 to about $17B",
-    "summary": "Q3 revenue $13.4B, data centre $8.5B, non-GAAP EPS $2.09 vs $1.95 expected. Q4 guide about +66% y/y with 55% gross margin; RBC says 2-4% above consensus.",
-    "source": "https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-11-03",
-    "ticker": "NVDA",
-    "headline": "Nvidia reportedly tells cloud partners to cap Chinese customers at 49%",
-    "summary": "FT report: new contracts must sell at least 51% of services to non-Chinese firms; existing deals not affected. Nvidia did not confirm. Nvidia was about 1% lower Nov 4.",
-    "source": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-tells-data-center-operators-to-limit-business-from-chinese-customers-with-new-global-restrictions-report-claims-allegedly-restricted-to-49-percent-of-the-total-ensuring-51-percent-are-non-chinese-outfits",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-11-03",
-    "ticker": "AAPL",
-    "headline": "Apple beats on Q4 but guides margins lower on memory costs",
-    "summary": "Revenue rose 12% and iPhone revenue rose 17.5%. Gross margin guidance of 45-46% for December was below the 46.3% analysts expected, and shares fell about 3% after hours.",
-    "source": "https://www.euronews.com/2026/11/03/apple-earnings-beat-expectations-but-rising-chip-costs-worry-investors",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-03",
-    "ticker": "BE",
-    "headline": "Bloom up about 11% on Barclays upgrade and 1 GW MOU",
-    "summary": "Barclays to Overweight, $289 target; non-binding MOU with California Resources for at least 1 GW of fuel cells with carbon capture.",
-    "source": "https://invezz.com/news/2026/11/03/why-is-bloom-energy-stock-rising-10-today/",
-    "impact": "positive"
   }
 ]
