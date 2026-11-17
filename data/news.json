@@ -1,6 +1,14 @@
 [
   {
     "date": "2026-11-16",
+    "ticker": "MU",
+    "headline": "Chip rout: SOX -5.3%, Nasdaq in correction",
+    "summary": "New US licensing for AI chip shipments to five countries plus Nvidia leadership doubts hit semis: Micron -7.6%, Marvell -7.3%, TSMC ADR -6.3%. Nasdaq is now more than 10% below its Oct 6 record.",
+    "source": "https://finance.biggo.com/news/0187317c-ad48-45c6-8187-8e02297c156b",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-16",
     "ticker": "NVDA",
     "headline": "Chip stocks slide as traders unwind Nvidia-rival bets before earnings",
     "summary": "Marvell fell about 7% and Micron about 7%; Bessent gave Nvidia's board 10 days to answer on export-control compliance.",
@@ -629,14 +637,6 @@
     "headline": "Bloom up about 11% on Barclays upgrade and 1 GW MOU",
     "summary": "Barclays to Overweight, $289 target; non-binding MOU with California Resources for at least 1 GW of fuel cells with carbon capture.",
     "source": "https://invezz.com/news/2026/11/03/why-is-bloom-energy-stock-rising-10-today/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-11-03",
-    "ticker": "NET",
-    "headline": "JPMorgan upgrades Cloudflare to Overweight",
-    "summary": "Target $350; results Thursday Nov 5.",
-    "source": "https://247wallst.com/investing/2026/11/03/buy-sell-or-hold-tuesdays-top-upgrades-and-downgrades-aon-bloom-energy-chevron-cloudflare-marvell-technologies-lumentum-holdings-merck-co-roku-x-energy-and-more/",
     "impact": "positive"
   }
 ]
