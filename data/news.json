@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-11-18",
+    "ticker": "NVDA",
+    "headline": "Nvidia falls about 2% despite beat as board rules out Huang return",
+    "summary": "Shares reversed an early gain after board chair Harvey Jones said Huang will not be reinstated; Colette Kress stays interim CEO and the outlook assumes no China data center revenue.",
+    "source": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
+    "impact": "negative"
+  },
+  {
     "date": "2026-11-17",
     "ticker": "NVDA",
     "headline": "Nvidia Q3 FY27 revenue $115.8B, up 103%; guides Q4 to $130B",
@@ -629,14 +637,6 @@
     "headline": "Memory names lead the losses: Micron -13%, SanDisk -20% midday",
     "summary": "AI infrastructure names fell across the board: CoreWeave -12%, Corning -13%, Lumentum -14%, Astera Labs -15%.",
     "source": "https://www.cnbc.com/2026/11/05/stocks-making-the-biggest-moves-midday-mu-tsla-trip-app-nvda.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-05",
-    "ticker": "META",
-    "headline": "Investors question how hyperscalers are funding AI capex",
-    "summary": "Barclays cites concern about how long the AI infrastructure supercycle can last. SOXX is down more than 23% in a month, while the Dow is up 4.1%. Goldman says a Democratic Congress could make data-centre builds slower and costlier.",
-    "source": "https://www.cnbc.com/2026/11/05/the-rotation-out-of-tech-is-becoming-a-risk-for-the-broader-market.html",
     "impact": "negative"
   }
 ]

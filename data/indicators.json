@@ -5,36 +5,36 @@
     {
       "key": "h100_rental",
       "name": "H100 rental price, $/GPU-hour (Silicon Data SDH100RT)",
-      "value": "$3.08/hr Nov 16 (last read), +8.8% 7d",
+      "value": "$3.07/hr Nov 17, +8.1% 7d",
       "trend": "up",
       "signal": "bullish",
       "why": "Rents near highs: compute still scarce despite AI selloff.",
       "watch": "Reaction after Nvidia print; below $2.00 flips call.",
-      "note": "Silicon Data page returned HTTP 500 on Nov 18; value not refreshed.",
+      "note": "Page FAQ still says $2.53 (stale text); table value used.",
       "source": "https://www.silicondata.com/products/silicon-index/h100",
       "updated": "2026-11-18"
     },
     {
       "key": "b200_rental",
       "name": "B200 rental price, $/GPU-hour (Silicon Data) and B200/H100 ratio",
-      "value": "$6.94/hr (last read), ratio 2.25x",
+      "value": "$7.10/hr, +15.6% 7d; ratio 2.31x",
       "trend": "up",
       "signal": "bullish",
-      "why": "Blackwell demand still firm.",
+      "why": "Blackwell rents rising faster than Hopper.",
       "watch": "Ratio vs H100.",
-      "note": "Not refreshed: source down (HTTP 500).",
+      "note": "Page shows no date for B200 figure.",
       "source": "https://www.silicondata.com/products/silicon-index/h100",
       "updated": "2026-11-18"
     },
     {
       "key": "hopper_residual",
       "name": "Hopper residual value: A100 floor, H200 rents",
-      "value": "A100 $1.64, H200 $3.57 (last read)",
+      "value": "A100 $1.64 (+7.9% 7d), H200 $3.55 (+2.9% 7d)",
       "trend": "up",
       "signal": "bullish",
       "why": "Old GPUs still earn; supports depreciation assumptions.",
       "watch": "H200 stalling.",
-      "note": "Not refreshed: source down (HTTP 500).",
+      "note": "Page shows no date for these figures.",
       "source": "https://www.silicondata.com/products/silicon-index/h100",
       "updated": "2026-11-18"
     },
@@ -101,13 +101,13 @@
     {
       "key": "nvidia_dc",
       "name": "Nvidia data-centre momentum",
-      "value": "Q3 DC $107.6B, +110% YoY, +21% QoQ vs ~$101.8B consensus; NVDA +4.8% after hours",
+      "value": "Q3 DC $107.6B, +110% YoY; NVDA -2.7% intraday Nov 18 after +5.5% after hours",
       "trend": "up",
       "signal": "bullish",
-      "why": "DC beat by ~$6B and Q4 guide raised despite CEO exit.",
-      "watch": "Gross margin slipping to 71-72%; CEO search; China curbs.",
-      "note": "Q3 gross margin 74.9% non-GAAP. Stock -0.4% in regular session before print.",
-      "source": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+      "why": "Numbers strong; stock faded on leadership and China worries.",
+      "watch": "Gross margin 71-72% guide; CEO search; China curbs.",
+      "note": "Nvidia stopped licensed Hopper shipments to China ($2.4B last quarter). Huang to testify to Senate Banking.",
+      "source": "https://stockanalysis.com/stocks/nvda/",
       "updated": "2026-11-18"
     }
   ]

@@ -212,6 +212,16 @@
       "link": "https://www.mtsinsights.com/events/4745/"
     },
     {
+      "key": "2026-11-23-zm-q3",
+      "date": "2026-11-23",
+      "time": "After close; webinar 5:00pm ET (Tue 9:00am AEDT)",
+      "ticker": "ZM",
+      "title": "Zoom fiscal Q3 results",
+      "type": "earnings",
+      "why": "Read on AI add-on demand in seat software.",
+      "link": "https://news.ifyouspent.com/en/news/thanksgiving-week-earnings-dell-workday-zoom-hp-deere-november-2026"
+    },
+    {
       "key": "2026-11-24-dell-q3",
       "date": "2026-11-24",
       "time": "After close; call 3:30pm CT (Wed 8:30am AEDT)",
@@ -220,6 +230,16 @@
       "type": "earnings",
       "why": "AI server backlog and orders; read-through for NVDA, MU, MRVL",
       "link": "https://investors.delltechnologies.com/"
+    },
+    {
+      "key": "2026-11-24-hpq-q4",
+      "date": "2026-11-24",
+      "time": "After close; call 5:00pm ET (Wed 9:00am AEDT)",
+      "ticker": "HPQ",
+      "title": "HP Inc fiscal Q4 results",
+      "type": "earnings",
+      "why": "Memory cost squeeze on PCs; AI PC demand.",
+      "link": "https://news.ifyouspent.com/en/news/thanksgiving-week-earnings-dell-workday-zoom-hp-deere-november-2026"
     },
     {
       "key": "2026-11-24-wday-q3",
@@ -272,6 +292,16 @@
       "link": "https://www.nyse.com/markets/hours-calendars"
     },
     {
+      "key": "2026-12-01-crwd-q3",
+      "date": "2026-12-01",
+      "time": "After close - expected, not company-confirmed (Wed morning AEDT)",
+      "ticker": "CRWD",
+      "title": "CrowdStrike fiscal Q3 results (expected)",
+      "type": "earnings",
+      "why": "ARR growth and net new ARR vs AI-security competition.",
+      "link": "https://unusualwhales.com/stock/CRWD/earnings"
+    },
+    {
       "key": "2026-12-01-ism-manufacturing",
       "date": "2026-12-01",
       "time": "10:00am ET (Wed 2:00am AEDT) - TBC, first business day",
@@ -290,6 +320,16 @@
       "type": "earnings",
       "why": "Holding. Custom AI silicon and optics read, first print since the all-stock Lumentum deal. Moved from the Nov 26 aggregator date.",
       "link": "https://investor.marvell.com/news-events/press-releases/detail/1041/marvell-technology-inc-announces-conference-call-to-review-third-quarter-of-fiscal-year-2027-financial-results"
+    },
+    {
+      "key": "2026-12-02-crm-q3",
+      "date": "2026-12-02",
+      "time": "After close; call 5:00pm ET (Thu 9:00am AEDT)",
+      "ticker": "CRM",
+      "title": "Salesforce fiscal Q3 results",
+      "type": "earnings",
+      "why": "Agentforce monetisation; read for WDAY, SNOW, enterprise AI spend.",
+      "link": "https://techintelpro.com/news/AI/Enterprise-AI/salesforce-to-announce-q3-fiscal-2027-results-on-december-2"
     }
   ]
 }
