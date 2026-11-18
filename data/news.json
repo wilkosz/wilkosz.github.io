@@ -1,6 +1,62 @@
 [
   {
     "date": "2026-11-17",
+    "ticker": "NVDA",
+    "headline": "Nvidia Q3 FY27 revenue $115.8B, up 103%; guides Q4 to $130B",
+    "summary": "Data centre revenue $107.6B (+110% y/y), non-GAAP gross margin 74.9%. Q4 outlook $130B ±3% assumes no China data centre compute.",
+    "source": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-17",
+    "ticker": "NVDA",
+    "headline": "Nvidia adds $150B to buyback, returned $28.1B in Q3",
+    "summary": "About $227.3B remains under the authorization; quarterly dividend held at $0.25. Shares rose about 4.8% after hours.",
+    "source": "https://stockanalysis.com/stocks/nvda/statistics/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-17",
+    "ticker": "NVDA",
+    "headline": "Nvidia board forms national security and export control oversight committee",
+    "summary": "Announced alongside results and expanded supply-chain partner commitments, the first quarter under interim CEO Colette Kress.",
+    "source": "https://nvidianews.nvidia.com/news",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-11-17",
+    "ticker": "MU",
+    "headline": "Chip suppliers jump after hours on Nvidia beat",
+    "summary": "Micron +4.7%, TSMC +4.6% and Marvell +5.7% after hours, reversing session losses for Micron and TSMC.",
+    "source": "https://stockanalysis.com/stocks/mu/statistics/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-17",
+    "ticker": "BABA",
+    "headline": "Alibaba slips 4.4% ahead of Nov 19 results",
+    "summary": "Pressure from a pending US rule barring Chinese AI firms from advanced chips in offshore data centres, plus its Megaspeed links. Results due Nov 19.",
+    "source": "https://www.tikr.com/blog/alibaba-sinks-7-as-u-s-readies-curbs-on-chinas-remote-ai-chip-access",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-17",
+    "ticker": "ENPH",
+    "headline": "Enphase falls 7.6%, extending slide since weak Q4 guide",
+    "summary": "No new company news found; shares continue lower after late-October Q3 miss and soft Q4 guidance.",
+    "source": "https://stockanalysis.com/stocks/enph/statistics/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-17",
+    "ticker": "TSM",
+    "headline": "TSMC down 3.7% in session before Nvidia rebound",
+    "summary": "Fell with the semiconductor group into the print, then regained 4.6% after hours.",
+    "source": "https://stockanalysis.com/stocks/tsm/statistics/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-11-17",
     "ticker": "TSM",
     "headline": "US tightens China AI chip access; TSMC down 3.5%",
     "summary": "Asian chipmakers fell again after a new US curb; TAIEX fell 1.7% after a roughly 6% drop Monday.",
@@ -581,62 +637,6 @@
     "headline": "Investors question how hyperscalers are funding AI capex",
     "summary": "Barclays cites concern about how long the AI infrastructure supercycle can last. SOXX is down more than 23% in a month, while the Dow is up 4.1%. Goldman says a Democratic Congress could make data-centre builds slower and costlier.",
     "source": "https://www.cnbc.com/2026/11/05/the-rotation-out-of-tech-is-becoming-a-risk-for-the-broader-market.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-05",
-    "ticker": "RKT",
-    "headline": "10-year yield falls to 4.83%, 2-year down 10bp",
-    "summary": "Investors moved into Treasuries during the tech selloff. October payrolls are due Friday, with a 59k gain expected. Jobless claims came in at 189k.",
-    "source": "https://www.cnbc.com/2026/11/05/treasury-yields-bonds-interest-rates.html",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-11-05",
-    "ticker": "LDI",
-    "headline": "Barkin expects further gradual rate hikes",
-    "summary": "Richmond Fed President Barkin named inflation as the top risk, said AI is adding to price pressures, and flagged more than $500bn of hyperscaler debt as worth watching. He is not a voter until 2027.",
-    "source": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-05",
-    "ticker": "MELI",
-    "headline": "MercadoLibre Q3: revenue +45%, operating income -6%",
-    "summary": "Revenue $10.75B; margin 6.3%; EPS $8.83; TPV +53%; credit book +62%. Stock about -13% intraday.",
-    "source": "https://www.sec.gov/Archives/edgar/data/0001099590/000109959026000027/meli-20260930xex991.htm",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-05",
-    "ticker": "AMD",
-    "headline": "AI chips sell off on midterm data-centre fears",
-    "summary": "S&P about -3.5% and Nasdaq -4.7% midday; AMD -14.6%, NVDA -7.5%, CoreWeave -12.1%; Kospi -5.3%. 10-yr yield 4.83%.",
-    "source": "https://spectrumlocalnews.com/us/snplus/business/2026/11/05/stock-market-ai-chip-selloff",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-04",
-    "ticker": "MARKET",
-    "headline": "Democrats win Congress; stocks rally, oil falls over 8%",
-    "summary": "Dow up about 2.9%, S&P 500 up 1.8%, Nasdaq up 1.9% intraday. 10-year yield down a few bps near 4.9%. Crude down more than 8% on pressure to end the Iran war.",
-    "source": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-11-04",
-    "ticker": "VRT",
-    "headline": "AI power stocks slide after Democrats win Congress and Texas governor",
-    "summary": "Vertiv fell about 14% intraday, GE Vernova about 10%, Bloom Energy about 8%. Gina Hinojosa won Texas on a data-centre moratorium pledge; Texas holds about 25-30% of planned US data-centre GW. Bernstein calls the risk overstated.",
-    "source": "https://www.tikr.com/blog/vertiv-sinks-9-ge-vernova-down-8-as-democrats-win-congress-reviving-data-center-fears",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-04",
-    "ticker": "GEV",
-    "headline": "Argus cuts GE Vernova target to $1,100 from $1,300, keeps Buy",
-    "summary": "Stock opened at $855.25 against a $918.20 prior close and fell about 10% intraday with AI-power names.",
-    "source": "https://www.marketbeat.com/instant-alerts/price-ge-vernova-nyse-gev-shares-gap-down-on-analyst-downgrade-2026-11-04/",
     "impact": "negative"
   }
 ]

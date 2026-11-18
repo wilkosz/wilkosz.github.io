@@ -1,36 +1,6 @@
 {
-  "as_of": "2026-11-17",
+  "as_of": "2026-11-18",
   "events": [
-    {
-      "key": "2026-11-16-china-activity",
-      "date": "2026-11-16",
-      "time": "10:00am Beijing (Mon 1:00pm AEDT; Sun 9:00pm ET)",
-      "ticker": "MACRO",
-      "title": "China October industrial output, retail sales, investment",
-      "type": "macro",
-      "why": "China demand read; BABA, iron ore.",
-      "link": "https://www.newsquawk.com/headlines/week-in-focus--16-20th-november-2026-highlights-include-us-retail-sales-fomc-minutes-chinese-activity-data-pboc-lpr-rba-minutes-uk-inflation-and-uk-jobs"
-    },
-    {
-      "key": "2026-11-16-empire",
-      "date": "2026-11-16",
-      "time": "8:30am ET (Tue 12:30am AEDT)",
-      "ticker": "MACRO",
-      "title": "NY Empire State manufacturing, November",
-      "type": "macro",
-      "why": "First November activity read.",
-      "link": "https://investrade.com/weekly-event-calendar-11-16-2026-11-20-2026/"
-    },
-    {
-      "key": "2026-11-16-fed-warsh-speaks",
-      "date": "2026-11-16",
-      "time": "12:00 ET",
-      "ticker": "MACRO",
-      "title": "Fed Chair Warsh speaks; China Oct retail sales and industrial output earlier",
-      "type": "central_bank",
-      "why": "First Warsh remarks before the Dec decision, with hike odds near 77%",
-      "link": "https://thriveinmarkets.com/calendar/2026-11-16/"
-    },
     {
       "key": "2026-11-17-hd-q3",
       "date": "2026-11-17",
@@ -244,22 +214,42 @@
     {
       "key": "2026-11-24-dell-q3",
       "date": "2026-11-24",
-      "time": "After close - TBC",
+      "time": "After close; call 3:30pm CT (Wed 8:30am AEDT)",
       "ticker": "DELL",
-      "title": "Dell fiscal Q3 results (date projected)",
+      "title": "Dell fiscal Q3 2027 results",
       "type": "earnings",
-      "why": "AI server backlog and margins read across to NVDA, MU, VRT, CLS.",
-      "link": "https://chartrow.com/quote/dell/earnings"
+      "why": "AI server backlog and orders; read-through for NVDA, MU, MRVL",
+      "link": "https://investors.delltechnologies.com/"
     },
     {
-      "key": "2026-11-24-wday-zs-q3",
+      "key": "2026-11-24-wday-q3",
       "date": "2026-11-24",
-      "time": "After close - TBC",
+      "time": "After close; call 4:30pm ET (Wed 8:30am AEDT)",
       "ticker": "WDAY",
-      "title": "Workday and Zscaler quarterly results (dates projected)",
+      "title": "Workday fiscal Q3 results",
+      "why": "Software sold off Nov 17; test of AI-disruption fears",
       "type": "earnings",
-      "why": "Software demand and AI agent pricing check; both reported same Tuesday last year.",
-      "link": "https://www.digrin.com/stocks/earnings_calendar/2026-11-24"
+      "link": "https://investor.workday.com/"
+    },
+    {
+      "key": "2026-11-24-zs-q1",
+      "date": "2026-11-24",
+      "time": "After close - TBC (date unconfirmed)",
+      "ticker": "ZS",
+      "title": "Zscaler fiscal Q1 results (date projected)",
+      "why": "Security software demand; peer read for NET",
+      "type": "earnings",
+      "link": "https://ir.zscaler.com/"
+    },
+    {
+      "key": "2026-11-25-de-q4",
+      "date": "2026-11-25",
+      "time": "Before open; call 9:00am CT (Thu 2:00am AEDT)",
+      "ticker": "DE",
+      "title": "Deere fiscal Q4 results and FY27 outlook",
+      "why": "Machinery bellwether; farm demand and tariff costs",
+      "type": "earnings",
+      "link": "https://investor.deere.com/"
     },
     {
       "key": "2026-11-25-us-gdp-pce",
