@@ -1,11 +1,12 @@
 {
-  "as_of": "2026-11-19T00:07",
-  "summary": "Quiet market. Every live find was re-opened and is still listed at the same price. The only new tractor that clears the musts is a 2014 MF 5430 loader tractor at Pickles Dubbo, auction from 7 Dec. Dealer stock near Griffith and Cowra is all over 5,000 hours or has no loader.",
+  "as_of": "2026-11-19T12:07",
+  "summary": "Quiet market. All 28 live finds re-checked: two diesel tanks sold, everything else still listed at the same price. Used 90-140hp loader tractors within 400km under 4,500 hours remain scarce; dealer stock (Hutcheon & Pearce) sits at 143k+, and most private loader tractors on Gumtree are over 7,000 hours.",
   "headlines": [
-    "New: 2014 MF 5430 Dyna-4 loader tractor, 2,559 hrs, Pickles Dubbo (~390km), bidding opens 7 Dec.",
-    "AuctionsPlus JD 6830 (1,823 hrs) and Deutz M600 (2,531 hrs) close today 4pm AEDT.",
-    "Berrigan 700L fuel tank ($500) now marked pending on Marketplace.",
-    "No new discs, rippers, fuel tanks or cabins cleared the musts; all other finds unchanged."
+    "New Lovol 110hp cab tractor with 4-in-1 loader, $67,990 inc GST, 5-year warranty, delivered nationally.",
+    "Sold: 1000 L fuel cart, Coleambally, $1,800.",
+    "Sold: 700 L ground fuel tank, Berrigan, $500.",
+    "No price moves on any live tractor, cabin, disc or ripper.",
+    "Grays and Slattery had nothing in range: Grays ag has 2 lots, Slattery lots are QLD/WA and VIC 1-bed cabins."
   ],
   "finds": [
     {
@@ -268,7 +269,7 @@
       "url": "https://www.facebook.com/marketplace/item/913292798511535/",
       "verdict": "strong",
       "why": "Tidy tandem 1000 L cart with pump, 40km away; listed 9 weeks, so there may be room on price.",
-      "status": "live",
+      "status": "sold",
       "first_seen": "2026-10-22",
       "updated": "2026-11-19",
       "photo": "img/finds/fb-913292798511535.jpg"
@@ -312,7 +313,7 @@
       "url": "https://www.facebook.com/marketplace/item/1311950427723345/",
       "verdict": "decent",
       "why": "In the capacity band, cheap and 160km away; hand pump and surface rust.",
-      "status": "live",
+      "status": "sold",
       "first_seen": "2026-11-11",
       "updated": "2026-11-19",
       "photo": "img/finds/fb-1311950427723345.jpg",
@@ -771,6 +772,31 @@
       "photo_url": "https://auctionsplusblob.blob.core.windows.net/apmediaprod/Thumbnails/1639301639683384483_0237f7dc-3dae-4995-923f-549360cfc6da.webp"
     },
     {
+      "key": "m4u-1022255",
+      "want": "tractor",
+      "title": "New Lovol 110hp powershift 4WD cab tractor with 4-in-1 loader",
+      "price_aud": 67990,
+      "price_note": "inc GST ($61,809 ex GST); dealer delivers nationally, freight not stated",
+      "location": "Nicola's Machinery (delivers nationally)",
+      "distance_km": null,
+      "detail": [
+        "new, 0 hours",
+        "110hp",
+        "cab with A/C",
+        "4-in-1 bucket loader",
+        "5-year parts and labour warranty"
+      ],
+      "source": "Machines4u",
+      "url": "https://www.machines4u.com.au/view/advert/LOVOL-110HP-POWERSHIFT-4WD-A-C-CABIN-TRACTOR-WITH-4IN1-BUCKET-COMBO-DEAL-5-YEARS-WARRANTY/1022255/",
+      "verdict": "decent",
+      "why": "New-price benchmark for a 110hp Lovol with loader and warranty, under the 80k ceiling; same brand as the loaner P5130.",
+      "status": "live",
+      "first_seen": "2026-11-19",
+      "updated": "2026-11-19",
+      "photo": "img/finds/m4u-1022255.jpg",
+      "photo_url": "https://media.machines4u.com.au/machinery/55/1022255/LOVOL-110HP-POWERSHIFT-4WD-A-C-CABIN-TRACTOR-WITH-4IN1-BUCKET-COMBO-DEAL-5-YEARS-WARRANTY_72855555.h.jpg"
+    },
+    {
       "key": "fb-1121534220613925",
       "want": "tractor",
       "title": "2016 Kubota M100GX with Kubota loader, 621 hours",
@@ -819,32 +845,6 @@
       "ends": "2026-11-19",
       "first_seen": "2026-11-18",
       "updated": "2026-11-19"
-    },
-    {
-      "key": "fb-4588282108096628",
-      "want": "tractor",
-      "title": "2014 John Deere 6125R Premium with H340 loader, 3,098 hours",
-      "price_aud": null,
-      "price_note": "price not stated (listed as $123 placeholder)",
-      "location": "Wunghnu (Zeerust), VIC",
-      "distance_km": 260,
-      "detail": [
-        "3,098 hours",
-        "125hp model (hp not stated in ad)",
-        "John Deere H340 loader, bucket and pallet forks",
-        "third-function hydraulics",
-        "AutoQuad, premium cab, air seat",
-        "GreenStar 3, 2 rear remotes",
-        "seller is a machinery broker"
-      ],
-      "source": "Facebook Marketplace",
-      "url": "https://www.facebook.com/marketplace/item/4588282108096628/",
-      "verdict": "decent",
-      "why": "Clears every must with a factory Deere loader and cab under 3,100 hours; price unknown, likely near or over 80k.",
-      "status": "live",
-      "first_seen": "2026-11-18",
-      "updated": "2026-11-19",
-      "photo": "img/finds/fb-4588282108096628.jpg"
     },
     {
       "key": "grays-0006-23502890",
