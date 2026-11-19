@@ -232,6 +232,16 @@
       "link": "https://www.nyse.com/markets/hours-calendars"
     },
     {
+      "key": "2026-11-30-aws-reinvent",
+      "date": "2026-11-30",
+      "time": "Nov 30 - Dec 4, Las Vegas; Garman keynote Tue Dec 1 8:30am PT (Wed 3:30am AEDT)",
+      "ticker": "AMZN",
+      "title": "AWS re:Invent 2026",
+      "type": "conference",
+      "why": "AI capex, Trainium and custom-silicon news; read-through for MRVL, ALAB, AVGO.",
+      "link": "https://aws.amazon.com/blogs/apn/know-before-you-go-an-aws-partners-guide-to-reinvent-2026/"
+    },
+    {
       "key": "2026-12-01-jolts",
       "date": "2026-12-01",
       "time": "10:00am ET (Wed 2:00am AEDT) - per secondary calendar",
@@ -280,6 +290,26 @@
       "type": "earnings",
       "why": "Agentforce monetisation; read for WDAY, SNOW, enterprise AI spend.",
       "link": "https://techintelpro.com/news/AI/Enterprise-AI/salesforce-to-announce-q3-fiscal-2027-results-on-december-2"
+    },
+    {
+      "key": "2026-12-03-hpe-q4",
+      "date": "2026-12-03",
+      "time": "After close - TBC, not company-confirmed (Fri morning AEDT)",
+      "ticker": "HPE",
+      "title": "HPE fiscal Q4 2026 results (expected)",
+      "type": "earnings",
+      "why": "AI server orders and Juniper networking; peer read to DELL.",
+      "link": "https://investors.hpe.com/"
+    },
+    {
+      "key": "2026-12-04-us-jobs-nov",
+      "date": "2026-12-04",
+      "time": "8:30am ET (Sat 12:30am AEDT)",
+      "ticker": "MACRO",
+      "title": "US jobs report, November",
+      "type": "macro",
+      "why": "Last payrolls print before the December FOMC, where a quarter-point hike is ~92% priced.",
+      "link": "https://www.bls.gov/schedule/2026/12_sched_list.htm"
     }
   ]
 }
