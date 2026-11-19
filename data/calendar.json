@@ -1,66 +1,6 @@
 {
-  "as_of": "2026-11-18",
+  "as_of": "2026-11-19",
   "events": [
-    {
-      "key": "2026-11-17-hd-q3",
-      "date": "2026-11-17",
-      "time": "Before open (Tue ~10:00pm AEDT)",
-      "ticker": "HD",
-      "title": "Home Depot Q3 results",
-      "type": "earnings",
-      "why": "Housing and consumer at 5% yields.",
-      "link": "https://investrade.com/weekly-event-calendar-11-16-2026-11-20-2026/"
-    },
-    {
-      "key": "2026-11-17-us-retail-sales",
-      "date": "2026-11-17",
-      "time": "8:30 ET",
-      "ticker": "MACRO",
-      "title": "US October retail sales",
-      "type": "macro",
-      "why": "Consumer strength feeds December hike odds",
-      "link": "https://fedratecalc.com/us-economic-calendar/november-2026/"
-    },
-    {
-      "key": "2026-11-17-us-import-prices",
-      "date": "2026-11-17",
-      "time": "8:30am ET (Wed 12:30am AEDT)",
-      "ticker": "MACRO",
-      "title": "US import and export prices, October (confirmed)",
-      "type": "macro",
-      "why": "Tariff and oil pass-through.",
-      "link": "https://www.bls.gov/schedule/news_release/ximpim.htm"
-    },
-    {
-      "key": "2026-11-17-fed-hammack",
-      "date": "2026-11-17",
-      "time": "Tue ET, time TBC (Wed AEDT)",
-      "ticker": "MACRO",
-      "title": "Fed's Hammack speaks",
-      "type": "central_bank",
-      "why": "Hawk; December hike size.",
-      "link": "https://www.newsquawk.com/headlines/newsquawk-weekly-economic-release-16th---20th-november-2026"
-    },
-    {
-      "key": "2026-11-17-rba-minutes",
-      "date": "2026-11-17",
-      "time": "11:30 AEDT",
-      "ticker": "MACRO",
-      "title": "RBA minutes of the November board meeting",
-      "type": "central_bank",
-      "why": "Shows how close the board is to another move",
-      "link": "https://www.rba.gov.au/schedules-events/calendar/"
-    },
-    {
-      "key": "2026-11-17-nvda-q3-fy27",
-      "date": "2026-11-17",
-      "time": "After close; call 5:00pm ET (Wed 9:00am AEDT)",
-      "ticker": "NVDA",
-      "title": "Nvidia Q3 FY27 results, first under interim CEO Kress",
-      "type": "earnings",
-      "why": "AI capex bellwether; chips sold off 4-7% into the print",
-      "link": "https://investor.nvidia.com"
-    },
     {
       "key": "2026-11-18-anthropic-ipo-pricing",
       "date": "2026-11-18",
@@ -102,6 +42,16 @@
       "link": "https://investrade.com/weekly-event-calendar-11-16-2026-11-20-2026/"
     },
     {
+      "key": "2026-11-19-trump-xi-putin-apec",
+      "date": "2026-11-19",
+      "time": "APEC Shenzhen, Nov 18-19 (Thu AEDT); outcome not yet reported",
+      "ticker": "",
+      "title": "Trump-Xi meeting at APEC, Shenzhen",
+      "type": "other",
+      "why": "Third Trump-Xi meeting this year; truce extension expected, bigger deals may wait for G20. Read for BABA, TSM, NVDA China sales.",
+      "link": "https://www.scmp.com/economy/china-economy/article/3373904/xi-and-trumps-apec-meeting-whats-hold-and-whats-table"
+    },
+    {
       "key": "2026-11-19-anthropic-ant-trading",
       "date": "2026-11-19",
       "time": "Nasdaq open 9:30am ET (Fri 1:30am AEDT) - expected, subject to SEC clearance",
@@ -140,16 +90,6 @@
       "type": "macro",
       "why": "Labour and factory read before PCE.",
       "link": "https://investrade.com/weekly-event-calendar-11-16-2026-11-20-2026/"
-    },
-    {
-      "key": "2026-11-19-trump-xi-putin-apec",
-      "date": "2026-11-19",
-      "time": "TBC",
-      "ticker": "MARKET",
-      "title": "Trump-Xi-Putin meeting at APEC, Shenzhen",
-      "type": "macro",
-      "why": "Could move tariffs, chip export rules and China tech names (BABA, TSM, NVDA)",
-      "link": "https://newsquawk.com/headlines/market-analysis-asia-pac-stocks-are-mostly-lower-to-start-the-week-after-disappointing-data-from-japan-and-china-while-participants-also-await-key-events-this-week-including-nvidia-earnings-and-teh-trump-xi-putin-trilateral-meeting"
     },
     {
       "key": "2026-11-19-wmt-q3",
@@ -262,6 +202,16 @@
       "link": "https://ir.zscaler.com/"
     },
     {
+      "key": "2026-11-25-us-gdp-pce",
+      "date": "2026-11-25",
+      "time": "8:30am ET (Thu 12:30am AEDT)",
+      "ticker": "",
+      "title": "US Q3 GDP second estimate and October PCE inflation",
+      "type": "macro",
+      "why": "Last inflation print before the December FOMC; minutes show nearly all officials expect more hikes.",
+      "link": "https://fedratecalc.com/pce-inflation-release-date/"
+    },
+    {
       "key": "2026-11-25-de-q4",
       "date": "2026-11-25",
       "time": "Before open; call 9:00am CT (Thu 2:00am AEDT)",
@@ -272,16 +222,6 @@
       "link": "https://investor.deere.com/"
     },
     {
-      "key": "2026-11-25-us-gdp-pce",
-      "date": "2026-11-25",
-      "time": "8:30 ET",
-      "ticker": "MACRO",
-      "title": "US Q3 GDP second estimate and October PCE inflation",
-      "type": "macro",
-      "why": "The last big inflation read before the December FOMC",
-      "link": "https://fedratecalc.com/us-economic-calendar/november-2026/"
-    },
-    {
       "key": "2026-11-26-us-thanksgiving",
       "date": "2026-11-26",
       "time": "All day",
@@ -290,6 +230,16 @@
       "type": "other",
       "why": "Thin trading around holiday.",
       "link": "https://www.nyse.com/markets/hours-calendars"
+    },
+    {
+      "key": "2026-12-01-jolts",
+      "date": "2026-12-01",
+      "time": "10:00am ET (Wed 2:00am AEDT) - per secondary calendar",
+      "ticker": "",
+      "title": "JOLTS job openings, October",
+      "type": "macro",
+      "why": "Labour demand read before the December Fed decision, where a hike is now priced.",
+      "link": "https://fedratecalc.com/us-economic-calendar/december-2026/"
     },
     {
       "key": "2026-12-01-crwd-q3",

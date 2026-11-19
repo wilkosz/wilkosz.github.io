@@ -1,138 +1,139 @@
 {
-  "as_of": "2026-11-18T18:40",
-  "market_summary": "Intraday Nov 18 (not the final close): S&P 500 -0.2% near 7,327, Dow -0.9% near 50,306, Nasdaq +0.3%, Russell 2000 +1.1%. The 10-year yield sat near 5.06%, down slightly after closing about 5.10% on Nov 17, with traders pricing a December Fed hike; October FOMC minutes were due at 2pm ET and the Fed held at 3.75-4.00% in October with two members favouring a hike. Nvidia turned lower despite record revenue as uncertainty over its leadership after Jensen Huang's exit weighed. WTI crude fell about 2% to near $83 after a larger-than-expected US stock build. Xi called for removing trade barriers ahead of meeting Trump and Putin in China.",
+  "as_of": "2026-11-19T06:40",
+  "market_summary": "US stocks were mixed on Nov 18: the S&P 500 fell 0.2% for a fifth straight loss and the Dow fell 1.1%, while the Nasdaq rose 0.4% as Nvidia gave back early post-earnings gains. Minutes of the October FOMC showed nearly all officials expect further rate hikes, some backed a 25bp hike in October, and Governor Waller argued for tougher action; markets now price roughly a 90% chance of a December hike. Long-dated Treasuries still rallied for a third day, with the 10-year near 5.07-5.11% and the 30-year about 5.41%, helped by WTI crude dropping over 4% intraday to about $82, its lowest since August, on a US inventory build. The dollar index hit about 103.8, near its year high, and gold fell to its lowest since September 2025. Trump and Xi meet at the APEC summit in Shenzhen (Nov 18-19), where an extension of the trade truce is expected but outcomes are not yet reported.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "Up about 3% midday Nov 18 after Nvidia beat; AWS demand intact, rebound from Nov 16 selloff.",
-      "price_usd": 266.38,
-      "updated": "2026-11-18",
-      "pe_forward": 26.92,
+      "reason": "Up 3.8% Nov 18, no single reported driver; AWS demand intact and Anthropic stake gets a public mark this week.",
+      "price_usd": 267.74,
+      "updated": "2026-11-19",
+      "pe_forward": 27.07,
       "source": "https://stockanalysis.com/stocks/amzn/statistics/"
     },
     "AXOS": {
       "take": "hold",
-      "reason": "Up under 1% midday; steady bank at under 9x forward earnings, no news.",
-      "price_usd": 88.73,
-      "updated": "2026-11-18",
-      "pe_forward": 8.81,
+      "reason": "Flat Nov 18, no news. Cheapest name held at ~9x forward earnings.",
+      "price_usd": 88.2,
+      "updated": "2026-11-19",
+      "pe_forward": 8.76,
       "source": "https://stockanalysis.com/stocks/ax/statistics/"
     },
     "BABA": {
       "take": "watch",
-      "reason": "Down about 1% into Nov 19 pre-open results; US remote-compute curbs on Chinese firms are the overhang.",
-      "price_usd": 86.06,
-      "updated": "2026-11-18",
-      "pe_forward": 10.87,
+      "reason": "Fell 2.6% Nov 18 ahead of Sept-quarter results due before US open Nov 19; cloud growth is the number to watch.",
+      "price_usd": 84.37,
+      "updated": "2026-11-19",
+      "pe_forward": 10.59,
       "source": "https://stockanalysis.com/stocks/baba/statistics/"
     },
     "ENPH": {
-      "take": "watch",
-      "reason": "Down about 4% midday; continues to lag, no catalyst.",
-      "price_usd": 22.21,
-      "updated": "2026-11-18",
-      "pe_forward": 22.43,
+      "take": "hold",
+      "reason": "Down 1.7% Nov 18, no company news.",
+      "price_usd": 22.66,
+      "updated": "2026-11-19",
+      "pe_forward": 22.04,
       "source": "https://stockanalysis.com/stocks/enph/statistics/"
     },
     "FIGR": {
       "take": "hold",
-      "reason": "Up about 4% midday on broad fintech bounce; no company news.",
-      "price_usd": 25.79,
-      "updated": "2026-11-18",
-      "pe_forward": 17.91,
+      "reason": "Up 5.4% Nov 18 on no specific news; volatile.",
+      "price_usd": 26.06,
+      "updated": "2026-11-19",
+      "pe_forward": 18.07,
       "source": "https://stockanalysis.com/stocks/figr/statistics/"
     },
     "GOOGL": {
       "take": "hold",
-      "reason": "Flat to up 0.3% midday after 4% drop Nov 16; TPU and cloud story unchanged.",
-      "price_usd": 280.99,
-      "updated": "2026-11-18",
-      "pe_forward": 20.4,
+      "reason": "Up 0.8% Nov 18, no material news.",
+      "price_usd": 282.44,
+      "updated": "2026-11-19",
+      "pe_forward": 20.51,
       "source": "https://stockanalysis.com/stocks/googl/statistics/"
     },
     "LDI": {
       "take": "watch",
-      "reason": "Up about 10% midday but still a sub-dollar penny stock; speculative, size small.",
-      "price_usd": 0.4744,
-      "updated": "2026-11-18",
+      "reason": "Up 6.5% Nov 18 on no news; no forward earnings and highly rate-sensitive with 10-yr near 5%.",
+      "price_usd": 0.4575,
+      "updated": "2026-11-19",
       "source": "https://stockanalysis.com/stocks/ldi/statistics/"
     },
     "META": {
       "take": "hold",
-      "reason": "Down 0.5% midday; capex-heavy spender barely moved on Nvidia beat.",
-      "price_usd": 615.8,
-      "updated": "2026-11-18",
-      "pe_forward": 18.69,
+      "reason": "Down 0.4% Nov 18, no material news.",
+      "price_usd": 616.38,
+      "updated": "2026-11-19",
+      "pe_forward": 18.71,
       "source": "https://stockanalysis.com/stocks/meta/statistics/"
     },
     "MRVL": {
       "take": "hold",
-      "reason": "Gave up 4% premarket gain, down about 3% midday; Lumentum deal dilution worries persist.",
-      "price_usd": 143.97,
-      "updated": "2026-11-18",
-      "pe_forward": 25.56,
+      "reason": "Down 2.2% Nov 18 with chip names after Nvidia faded.",
+      "price_usd": 145.54,
+      "updated": "2026-11-19",
+      "pe_forward": 25.8,
       "source": "https://stockanalysis.com/stocks/mrvl/statistics/"
     },
     "MU": {
       "take": "hold",
-      "reason": "Up 3.5% pre-open then down about 2% midday as Nvidia reversed; memory pricing still strong.",
-      "price_usd": 699.36,
-      "updated": "2026-11-18",
-      "pe_forward": 3.96,
+      "reason": "Down 1.0% Nov 18; forward PE ~4 reflects peak-cycle memory earnings.",
+      "price_usd": 705.27,
+      "updated": "2026-11-19",
+      "pe_forward": 4.0,
       "source": "https://stockanalysis.com/stocks/mu/statistics/"
     },
     "NFLX": {
       "take": "hold",
-      "reason": "Up about 1% midday; no news, stays out of AI chip volatility.",
-      "price_usd": 60.25,
-      "updated": "2026-11-18",
-      "pe_forward": 16.79,
+      "reason": "Flat Nov 18, no material news.",
+      "price_usd": 59.82,
+      "updated": "2026-11-19",
+      "pe_forward": 16.66,
       "source": "https://stockanalysis.com/stocks/nflx/statistics/"
     },
     "NVDA": {
       "take": "hold",
-      "reason": "Beat and raised (Q4 guide $130B) yet down about 2-3% Nov 18; board won't reinstate Huang, China excluded from guide.",
-      "price_usd": 151.53,
-      "updated": "2026-11-18",
-      "pe_forward": 10.59,
+      "reason": "Q3 beat and $130B Q4 guide, yet shares fell 2.9% Nov 18; CEO search and SEC probe weigh. Forward PE ~10.",
+      "price_usd": 150.96,
+      "updated": "2026-11-19",
+      "pe_forward": 10.41,
       "source": "https://stockanalysis.com/stocks/nvda/statistics/"
     },
     "RKT": {
       "take": "hold",
-      "reason": "Up about 3% midday with mortgage names; no company news.",
-      "price_usd": 13.71,
-      "updated": "2026-11-18",
-      "pe_forward": 23.31,
+      "reason": "Up 1.7% Nov 18, no company news.",
+      "price_usd": 13.49,
+      "updated": "2026-11-19",
+      "pe_forward": 23.12,
       "source": "https://stockanalysis.com/stocks/rkt/statistics/"
     },
     "TSM": {
       "take": "hold",
-      "reason": "Up 4% premarket but flat by midday as Nvidia faded; demand outlook from $130B guide supportive.",
-      "price_usd": 360.03,
-      "updated": "2026-11-18",
-      "pe_forward": 17.28,
+      "reason": "Up 0.8% Nov 18; Nvidia's $130B guide supports foundry demand.",
+      "price_usd": 362.62,
+      "updated": "2026-11-19",
+      "pe_forward": 17.4,
       "source": "https://stockanalysis.com/stocks/tsm/statistics/"
     },
     "STRIPE": {
       "take": "hold",
-      "reason": "No new round or tender reported; mark unchanged at 2.27x Nov 2024.",
+      "reason": "No new round or tender; Feb 2026 tender at $159B still the latest mark.",
       "price_usd": null,
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "No new round or tender reported this session; mark unchanged at 7.96x. Anthropic IPO is the new comp.",
+      "reason": "No new mark since Nov 6 reported raise at $1.25T; mark unchanged.",
       "price_usd": null,
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "mark_multiple": 7.96
     }
   },
   "headlines": [
-    "Nvidia beat with Q4 guide of $130B, then fell about 2-3% Nov 18; board rules out Huang return.",
-    "Chip rally faded: MU and MRVL down 2-3% midday after premarket gains; TSM flat.",
-    "Anthropic prices IPO tonight at $70-78 range; ANT trades Thu US time (Fri morning AEDT).",
-    "Alibaba reports Thu before US open (Thu 11pm AEDT) under new US compute curbs.",
-    "10-yr yield near 5.06%; traders pricing a December Fed hike."
+    "Anthropic priced its IPO at $83, above the $70-78 range; ANT trades Thu US time (Fri morning AEDT).",
+    "Nvidia fell 2.9%, fifth straight drop, despite $130B guide; Moody's cut outlook to Stable on CEO exit.",
+    "Fed minutes: almost all officials see more hikes; markets price about 90% odds of a December hike.",
+    "Alibaba reports before US open tonight (about 10:30pm AEDT); cloud growth is the number.",
+    "Neocloud credit spreads widening; CoreWeave fell 4.1% Nov 18.",
+    "Other chips rallied: AMD +5.3%, NET +5.7%; LDI +6.5%, FIGR +5.4%."
   ]
 }

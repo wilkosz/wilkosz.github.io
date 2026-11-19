@@ -1,11 +1,59 @@
 [
   {
+    "date": "2026-11-19",
+    "ticker": "6861",
+    "headline": "Keyence 1:5 split takes effect Nov 21",
+    "summary": "Shares quoted split-adjusted at JPY 14,600; interim dividend raised to JPY 325.",
+    "source": "https://stockanalysis.com/quote/tyo/6861/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-11-18",
+    "ticker": "ANT",
+    "headline": "Anthropic prices IPO above range",
+    "summary": "Anthropic priced its Nasdaq IPO at $83 a share, above the $70-78 range; trading as ANT expected to start Nov 19. Final share count and proceeds pending the prospectus.",
+    "source": "https://www.stocktitan.net/articles/anthropic-ipo-live-ant-first-trading-day-2026",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-18",
+    "ticker": "MARKET",
+    "headline": "Dow down 1.1%, Nasdaq up 0.4% on Nov 18",
+    "summary": "S&P 500 -0.2%, Dow -1.1%, Nasdaq +0.4%, Russell 2000 +0.5%.",
+    "source": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-wednesday-11182026-nid18112026/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-11-18",
+    "ticker": "CRWV",
+    "headline": "Neocloud CDS spreads widen; CoreWeave -4.1%",
+    "summary": "CNBC: debt worries push neocloud CDS higher; short-credit ETFs may list.",
+    "source": "https://stockanalysis.com/stocks/crwv/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-18",
+    "ticker": "GEV",
+    "headline": "Erste cuts GE Vernova to Hold",
+    "summary": "Cites slower pace of new customer orders despite strong backlog. GEV -1.0%.",
+    "source": "https://stockanalysis.com/stocks/gev/",
+    "impact": "negative"
+  },
+  {
     "date": "2026-11-18",
     "ticker": "NVDA",
     "headline": "Nvidia falls about 2% despite beat as board rules out Huang return",
     "summary": "Shares reversed an early gain after board chair Harvey Jones said Huang will not be reinstated; Colette Kress stays interim CEO and the outlook assumes no China data center revenue.",
     "source": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
     "impact": "negative"
+  },
+  {
+    "date": "2026-11-17",
+    "ticker": "NVDA",
+    "headline": "Nvidia beats in first report without Huang, guides Q4 to $130B",
+    "summary": "Q3 revenue $115.8B (+103%), data center $107.6B; Q4 guide $130B vs $124.9B consensus; interim CEO Kress lifted FY28 growth outlook to 75%. Shares still fell 2.9% on Nov 18.",
+    "source": "https://pro.thestreet.com/stock-market-today/nvidia-shares-rise-as-kress-raises-growth-outlook",
+    "impact": "neutral"
   },
   {
     "date": "2026-11-17",
@@ -589,54 +637,6 @@
     "headline": "Nasdaq enters correction as AI trade unwinds",
     "summary": "Nasdaq -5.5%, S&P 500 -4.4%, Dow -3.4%. Worry that new Democratic lawmakers will slow data center approvals. Goldman puts about 45% of planned US capacity in states likely to tighten rules.",
     "source": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-05",
-    "ticker": "MRVL",
-    "headline": "Marvell falls 16.4% in chip selloff",
-    "summary": "Marvell closed down 16.4% and TSMC down 10.8% as chip and AI infrastructure names were sold.",
-    "source": "https://www.theglobeandmail.com/investing/markets/stocks/MU/pressreleases/8679739/lam-research-monolithic-power-systems-marvell-technology-micron-and-onsemi-shares-are-falling-what-you-need-to-know/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-05",
-    "ticker": "NET",
-    "headline": "Cloudflare Q3 revenue up 39%, guide raised; shares up 15% after hours",
-    "summary": "Q3 revenue $782.5M, up 39%. Q4 guide $845-846M; full-year raised to about $2.96B. Shares fell 8.3% in the session, then rose 14.7% after hours.",
-    "source": "https://www.cloudflare.net/news/news-details/2026/Cloudflare-Announces-Third-Quarter-2026-Financial-Results/default.aspx",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-11-05",
-    "ticker": "MRVL",
-    "headline": "Lumentum beats and guides next quarter up about 27%",
-    "summary": "Revenue $1.26B, inside guidance. Next-quarter guide $1.575-1.625B. Positive read-across for optical AI networking. Lumentum fell 18.7% in the session, up 3.1% after hours.",
-    "source": "https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-First-Quarter-of-Fiscal-Year-2027-Financial-Results/default.aspx",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-11-05",
-    "ticker": "LDI",
-    "headline": "loanDepot falls 7.9% ahead of Nov 9 results",
-    "summary": "No Q3 report yet; results due Nov 9. Shares fell another 4% after hours.",
-    "source": "https://stockanalysis.com/stocks/ldi/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-05",
-    "ticker": "NVDA",
-    "headline": "Chip stocks have worst day since March 2020; Nasdaq enters correction",
-    "summary": "SOXX fell about 11%. Nasdaq -5.2%, S&P 500 -3.9%, Dow down about 1,600 points. Traders fear a slower data-centre build-out after the Democratic midterm sweep. Nvidia and Broadcom were down about 9%, AMD and Micron about 15%.",
-    "source": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-05",
-    "ticker": "MU",
-    "headline": "Memory names lead the losses: Micron -13%, SanDisk -20% midday",
-    "summary": "AI infrastructure names fell across the board: CoreWeave -12%, Corning -13%, Lumentum -14%, Astera Labs -15%.",
-    "source": "https://www.cnbc.com/2026/11/05/stocks-making-the-biggest-moves-midday-mu-tsla-trip-app-nvda.html",
     "impact": "negative"
   }
 ]
