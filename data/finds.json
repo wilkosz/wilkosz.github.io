@@ -1,12 +1,11 @@
 {
-  "as_of": "2026-11-18T12:07",
-  "summary": "Tractors are the busy want: three new loader tractors surfaced, and two AuctionsPlus lots close tomorrow (19 Nov, 4pm). Implements, tanks and cabins are steady, with the same local listings still up and no price moves except one tank sale pending. Slattery and Grays had nothing usable within 400km this run.",
+  "as_of": "2026-11-19T00:07",
+  "summary": "Quiet market. Every live find was re-opened and is still listed at the same price. The only new tractor that clears the musts is a 2014 MF 5430 loader tractor at Pickles Dubbo, auction from 7 Dec. Dealer stock near Griffith and Cowra is all over 5,000 hours or has no loader.",
   "headlines": [
-    "2014 John Deere 6125R with H340 loader, 3,098 hours, Wunghnu VIC, about 260km. Price not stated, call for it.",
-    "Tomorrow 4pm AuctionsPlus: JD 6830 with loader, 1,823h, Coleambally (50km), and 2016 Deutz-Fahr M600 with loader, 2,531h, Adelong (240km).",
-    "Pickles Shepparton: unused 1,000 L diesel tank, 12V pump, hose and nozzle, bid $1, closes 19 Nov.",
-    "Berrigan 700 L fuel tank now marked pending on Facebook.",
-    "Dropped the two new Lovol dealer combos (53,990 and 67,990) to make room; they stay in stock at machines4u."
+    "New: 2014 MF 5430 Dyna-4 loader tractor, 2,559 hrs, Pickles Dubbo (~390km), bidding opens 7 Dec.",
+    "AuctionsPlus JD 6830 (1,823 hrs) and Deutz M600 (2,531 hrs) close today 4pm AEDT.",
+    "Berrigan 700L fuel tank ($500) now marked pending on Marketplace.",
+    "No new discs, rippers, fuel tanks or cabins cleared the musts; all other finds unchanged."
   ],
   "finds": [
     {
@@ -27,7 +26,7 @@
       "why": "Cheapest single-tyne on the list; pair it with a trip to Young.",
       "status": "live",
       "first_seen": "2026-11-18",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "photo": "img/finds/gumtree-1325743618.jpg",
       "photo_url": "https://images.gumtree.com.au/image/private/t_$_s-l800/gumtree/b82c8503-83fc-44b0-a0fe-e0b325ddbcbf.jpg"
     },
@@ -54,7 +53,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-02",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "photo": "img/finds/fb-1529309308826340.jpg"
     },
     {
@@ -104,7 +103,7 @@
       "why": "Undamaged MF single tine at $350 firm, but no hp or depth stated; unchanged after 16 weeks.",
       "status": "live",
       "first_seen": "2026-10-10",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "photo": "img/finds/fb-1794651221505734.jpg"
     },
     {
@@ -125,7 +124,7 @@
       "why": "Cheap heavy single tyne; confirm 3PL category and point condition before the drive.",
       "status": "live",
       "first_seen": "2026-11-12",
-      "updated": "2026-11-18"
+      "updated": "2026-11-19"
     },
     {
       "key": "fb-1376645941299287",
@@ -148,7 +147,7 @@
       "why": "A proper single-tyne build from a known Australian maker at under half the new price, still $600; no hp rating and about 380 km away.",
       "status": "live",
       "first_seen": "2026-10-14",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "photo": "img/finds/fb-1376645941299287.jpg"
     },
     {
@@ -173,34 +172,9 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-29",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "photo": "img/finds/tradefarm-855857.jpg",
       "photo_url": "https://assets.primecreative.com.au/imagegen/max/cr/93/70/s3/digital-cougar-assets/momoads/2021/08/10/091255/60hp-ripper.JPG"
-    },
-    {
-      "key": "pipeliner-495937",
-      "want": "deep-ripper",
-      "title": "Farm-Aid FA106 heavy duty single-tine ripper (new)",
-      "price_aud": 1145,
-      "price_note": "page no longer reachable (403)",
-      "location": "Coopers Plains, QLD (delivers AU-wide)",
-      "distance_km": null,
-      "detail": [
-        "150 x 50 billet shank",
-        "700 mm working depth",
-        "Cat 2, suits 60+ hp",
-        "reversible point 225x75x16",
-        "takes FA100 or Berends 0022 pipelayer"
-      ],
-      "source": "Pipeliner (Farm Supplies)",
-      "url": "https://www.pipeliner.com.au/detail/farmaid-single-tine-ripper-(heavy-duty)--suits-over-60hp--fa106-495937",
-      "verdict": "decent",
-      "why": "Heavy shank, 700 mm rip and a reversible point, but no shear-bolt or spring release listed and it comes by freight from Brisbane.",
-      "status": "gone",
-      "first_seen": "2026-10-10",
-      "updated": "2026-11-11",
-      "photo": "img/finds/pipeliner-495937.jpg",
-      "photo_url": "https://assets.primecreative.com.au/imagegen/p/1280/960/s3/digital-cougar-assets/momoads/2019/04/30/115536/5191236_FA106_1.jpg"
     },
     {
       "key": "pickles-62478729",
@@ -223,7 +197,7 @@
       "status": "live",
       "ends": "2026-11-19",
       "first_seen": "2026-11-18",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "photo": "img/finds/pickles-62478729.jpg",
       "photo_url": "https://www.pickles.com.au/images/transform/w_detail/48bf89d6-09cf-44f8-ba5e-606d97d32c64/ef3bc7fd-324d-41cc-8345-df76ca6f577d.jpeg"
     },
@@ -247,7 +221,7 @@
       "why": "The tank-and-stand option for $500: gravity feeds a tractor with no pump, but it's rusty, so check inside for scale and leaks.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "photo": "img/finds/fb-2603503066789216.jpg"
     },
     {
@@ -271,7 +245,7 @@
       "why": "1000 L towable cart with a 12V pump, 30km away, at under half the price of the Coleambally cart; listed in June, so ring to check it's still there.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "photo": "img/finds/farmtender-131044.jpg",
       "photo_url": "https://media.farmtender.com.au/listings/6a1e4a4435776/large/f868ee7c47b91b576f64d7284c0e5140.jpg"
     },
@@ -296,7 +270,7 @@
       "why": "Tidy tandem 1000 L cart with pump, 40km away; listed 9 weeks, so there may be room on price.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "photo": "img/finds/fb-913292798511535.jpg"
     },
     {
@@ -318,7 +292,7 @@
       "why": "Cheapest working diesel tank found, in use until last month, but rusty, bare and 190km away.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "photo": "img/finds/fb-1680015046874285.jpg"
     },
     {
@@ -340,9 +314,9 @@
       "why": "In the capacity band, cheap and 160km away; hand pump and surface rust.",
       "status": "live",
       "first_seen": "2026-11-11",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "photo": "img/finds/fb-1311950427723345.jpg",
-      "price_note": "sale pending on Facebook"
+      "price_note": "marked pending on Marketplace 19 Nov"
     },
     {
       "key": "gumtree-1344159827",
@@ -365,7 +339,7 @@
       "why": "Cheapest used set that clears all three musts, narrow enough to cart, with new front discs.",
       "status": "live",
       "first_seen": "2026-11-16",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "photo": "img/finds/gumtree-1344159827.jpg",
       "photo_url": "https://images.gumtree.com.au/image/private/t_$_s-l800/gumtree/ff0aafda-8553-4816-9aa4-732e3743a256.jpg"
     },
@@ -388,7 +362,7 @@
       "why": "A third of the price of the next-cheapest disc; budget a lift ram and check width is under 3.5 m.",
       "status": "live",
       "first_seen": "2026-11-08",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "photo": "img/finds/fb-1605224174739541.jpg"
     },
     {
@@ -414,7 +388,7 @@
       "why": "A proper heavy Brazilian 28-plate at a third of new, but it sits at the top of the hp range and needs about $3,800 in plates to bite like new.",
       "status": "live",
       "first_seen": "2026-10-13",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "photo": "img/finds/fb-1730861284788002.jpg"
     },
     {
@@ -440,7 +414,7 @@
       "why": "Closest used 28-plate, with the bearing work done. Measure the width and check plate wear in person.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "ends": null,
       "photo": "img/finds/fb-1096043223368086.jpg"
     },
@@ -469,7 +443,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "photo": "img/finds/fb-1054966007434070.jpg"
     },
     {
@@ -493,7 +467,7 @@
       "why": "Brand new for the price of a used set, but it is a light Chinese build rated to 100hp and needs assembling.",
       "status": "live",
       "first_seen": "2026-10-12",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "photo": "img/finds/fb-1576107450589526.jpg"
     },
     {
@@ -519,7 +493,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "photo": "img/finds/fb-1117657974131225.jpg"
     },
     {
@@ -545,7 +519,7 @@
       "why": "Premium model from the same Cobram dealer with the kitchen fitted; it clears every must and every prefer at 180km.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "price_note": "up from $22,990",
       "ends": null,
       "photo": "img/finds/fb-1729183591520678.jpg"
@@ -570,7 +544,7 @@
       "why": "Cheapest new 2-bed with bathroom in range, but the dealer's other ads are priced higher, so check the price first.",
       "status": "live",
       "first_seen": "2026-10-14",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "photo": "img/finds/gumtree-1344906821.jpg",
       "photo_url": "https://images.gumtree.com.au/image/private/t_$_s-l800/gumtree/dbe4a93e-46bd-4f5a-87ed-a1f924190a89.jpg"
     },
@@ -596,7 +570,7 @@
       "why": "Clears the bathroom and two-room bar for $19k inside 250km, but it is homemade and the listing is thin, so inspect it.",
       "status": "live",
       "first_seen": "2026-10-27",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "photo": "img/finds/fb-4498847773713057.jpg"
     },
     {
@@ -620,7 +594,7 @@
       "why": "2 bedrooms and an ensuite for $23,500, cut by $5,000, but it is right at the 400km limit.",
       "status": "live",
       "first_seen": "2026-11-12",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "photo": "img/finds/fb-1416522520374898.jpg"
     },
     {
@@ -643,7 +617,7 @@
       "why": "Main room plus ensuite inside budget, closer than the Victorian units; no kitchen fitted.",
       "status": "live",
       "first_seen": "2026-11-15",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "photo": "img/finds/fb-1612100457131659.jpg"
     },
     {
@@ -718,7 +692,7 @@
       "why": "Still the best value on the list: a 2022 cab tractor with a 4-in-1 loader at 251 hrs, 190 km away. It is $18,000 under the ceiling and has sat 10 weeks, so there is room to offer.",
       "status": "live",
       "first_seen": "2026-10-14",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "photo": "img/finds/fb-1027921470152750.jpg"
     },
     {
@@ -742,7 +716,7 @@
       "why": "Clears every must at the top of the band: JD loader tractor under 2,000 hours, 260km away, and the price is ONO.",
       "status": "live",
       "first_seen": "2026-11-15",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "photo": "img/finds/fb-1450344739854512.jpg"
     },
     {
@@ -792,7 +766,7 @@
       "status": "live",
       "ends": "2026-11-19",
       "first_seen": "2026-11-13",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "photo": "img/finds/auctionsplus-129206-1480974.jpg",
       "photo_url": "https://auctionsplusblob.blob.core.windows.net/apmediaprod/Thumbnails/1639301639683384483_0237f7dc-3dae-4995-923f-549360cfc6da.webp"
     },
@@ -818,7 +792,7 @@
       "why": "Lowest hours of any loader tractor on the list and inside budget, but 160km past the 400km limit.",
       "status": "live",
       "first_seen": "2026-11-15",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "photo": "img/finds/fb-1121534220613925.jpg"
     },
     {
@@ -844,7 +818,7 @@
       "status": "live",
       "ends": "2026-11-19",
       "first_seen": "2026-11-18",
-      "updated": "2026-11-18"
+      "updated": "2026-11-19"
     },
     {
       "key": "fb-4588282108096628",
@@ -869,7 +843,7 @@
       "why": "Clears every must with a factory Deere loader and cab under 3,100 hours; price unknown, likely near or over 80k.",
       "status": "live",
       "first_seen": "2026-11-18",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "photo": "img/finds/fb-4588282108096628.jpg"
     },
     {
