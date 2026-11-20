@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-11-20",
+    "ticker": "6861",
+    "headline": "Keyence -5.1% in Tokyo day before 1:5 split",
+    "summary": "JPY 13,945 Nov 20 close (split-adjusted) from 14,690; no company news found.",
+    "source": "https://stockanalysis.com/quote/tyo/6861/history/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-11-19",
+    "ticker": "NVDA",
+    "headline": "Nvidia falls 3.3% despite record Q3",
+    "summary": "Q3 revenue up 103% to $115.8B and Q4 guide of about $130B beat, but CEO transition and a US block on remote Chinese access to its chips weighed. Early 4.7% gain erased.",
+    "source": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-nvidia-slides-as-investors-weigh-ceo-transition-fallout-despite-strong-q3-results/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-19",
+    "ticker": "ANT",
+    "headline": "Anthropic closes up 17% on Nasdaq debut",
+    "summary": "Priced at $83, opened at $111.50, up as much as 27% intraday, closed +17%, slipped about 2% after hours. Largest IPO on record.",
+    "source": "https://www.cnbc.com/2026/11/19/stocks-moving-the-most-today-live-updates.html",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-19",
+    "ticker": "GOOGL",
+    "headline": "Alphabet down 3.5% as Anthropic listing values its stake",
+    "summary": "The debut put a public price on Google's Anthropic stake, but Alphabet sold off with other AI names in the afternoon.",
+    "source": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-stock-market-today-nov-19-alphabet-shares-fall-as-anthropic-nasdaq-debut-puts-fresh-value-on-google-s-stake/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-19",
+    "ticker": "MU",
+    "headline": "Micron was an Anthropic IPO anchor buyer",
+    "summary": "Micron is one of seven companies that bought Anthropic shares at the IPO price and supplies it memory. Stock rose early, closed -2.1%.",
+    "source": "https://www.fool.com/investing/2026/11/19/why-micron-stock-is-up-today/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-11-19",
+    "ticker": "MRVL",
+    "headline": "Marvell cut to Hold/Neutral by TD Cowen and BofA",
+    "summary": "Both cite mid-single-digit EPS dilution from the all-stock Lumentum deal; options price an ~11% move on upcoming Q3 results. Closed -4.9%.",
+    "source": "https://www.tradingkey.com/news/market-movers/262313884-market-movers-mrvl-20261119",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-19",
+    "ticker": "AMD",
+    "headline": "AMD closes -7.7% at $489.19 after short-seller report",
+    "summary": "Chip selloff broadened: VRT -4.9%, MELI -4.8%, NVDA -3.3%, CRWV -6.1%; 10-yr eased to 5.04%.",
+    "source": "https://stockanalysis.com/stocks/amd/history/",
+    "impact": "negative"
+  },
+  {
     "date": "2026-11-19",
     "ticker": "BABA",
     "headline": "Alibaba AI cloud revenue up 53%, earnings miss",
@@ -582,61 +638,5 @@
     "summary": "B. Riley cut target to $250, Cantor to $225 (neutral). Lumentum all-stock deal remains the overhang.",
     "source": "https://www.marketbeat.com/instant-alerts/price-marvell-technology-nasdaq-mrvl-stock-jumps-95-heres-why-2026-11-09/",
     "impact": "neutral"
-  },
-  {
-    "date": "2026-11-09",
-    "ticker": "BABA",
-    "headline": "Alibaba -3.8% on no news",
-    "summary": "Fell against the rally. September-quarter results due Nov 19.",
-    "source": "https://www.marketbeat.com/instant-alerts/price-alibaba-group-nyse-baba-shares-down-38-heres-why-2026-11-09/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-09",
-    "ticker": "ANTHROPIC",
-    "headline": "Anthropic to set IPO range this week, trading next week",
-    "summary": "WSJ via TechCrunch: some investors want below the $1.5T discussed last week, down from $2T floated months ago.",
-    "source": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-11-09",
-    "ticker": "AAPL",
-    "headline": "Apple closes at record high",
-    "summary": "Up about 2.4% on Monday.",
-    "source": "https://macdailynews.com/2026/11/09/apple-shares-hit-new-all-time-closing-high-261109/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-11-06",
-    "ticker": "OPENAI",
-    "headline": "OpenAI closes first $11B of round at $1.25T",
-    "summary": "The round could reach $20B, well below the original $30B target at a higher valuation. Later reports put the total at $15B.",
-    "source": "https://gvwire.com/2026/11/06/openai-secures-11-billion-funding-at-1-25-trillion-valuation-bloomberg-news-reports/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-11-06",
-    "ticker": "MARKET",
-    "headline": "October payrolls rise 165,000, unemployment falls to 4.1%",
-    "summary": "BLS: payrolls +165k against a 12-month average of 48k; hourly earnings +0.4% m/m, +3.1% y/y; August and September revised up a combined 84k.",
-    "source": "https://www.bls.gov/news.release/empsit.nr0.htm",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-11-06",
-    "ticker": "MARKET",
-    "headline": "Reuters: traders hope tech storm blows out; Fed hike odds above 80%",
-    "summary": "Thursday's 5.5% Nasdaq drop erased about $2.5 trillion on midterm AI-regulation and data-centre backlash fears. CPI Tuesday and PPI Friday next; Fed meets Dec 8-9.",
-    "source": "https://www.investing.com/news/economy-news/take-five-tech-wreck-and-roll-5006749",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-06",
-    "ticker": "NVDA",
-    "headline": "Chips lead partial rebound after record-scale selloff",
-    "summary": "Tech was the best sector, +1.45%; NVDA +2.8%, MU +5.1%, MRVL +5.7% as the Nasdaq-100 rose 1.35%, while the S&P 500 still lost 2.7% on the week.",
-    "source": "https://cappnotes.substack.com/p/closing-look-friday-november-6-2026",
-    "impact": "positive"
   }
 ]

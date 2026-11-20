@@ -1,65 +1,25 @@
 {
-  "as_of": "2026-11-19",
+  "as_of": "2026-11-20",
   "events": [
-    {
-      "key": "2026-11-18-anthropic-ipo-pricing",
-      "date": "2026-11-18",
-      "time": "After close ET (Thu morning AEDT) - expected",
-      "ticker": "ANT",
-      "title": "Anthropic IPO pricing, amended range $70-78 (earlier $70-80 range withdrawn)",
-      "type": "other",
-      "why": "Loved company; ~825m shares, ~$1.3-1.4T valuation",
-      "link": "https://thenextweb.com/news/anthropic-ipo-terms-1-4-trillion-valuation"
-    },
-    {
-      "key": "2026-11-18-fomc-minutes",
-      "date": "2026-11-18",
-      "time": "14:00 ET",
-      "ticker": "MACRO",
-      "title": "FOMC minutes, Oct 27-28 meeting",
-      "type": "central_bank",
-      "why": "How many members lean toward a December hike",
-      "link": "https://fedratecalc.com/us-economic-calendar/november-2026/"
-    },
-    {
-      "key": "2026-11-18-fed-williams",
-      "date": "2026-11-18",
-      "time": "Wed ET, time TBC (Thu AEDT)",
-      "ticker": "MACRO",
-      "title": "NY Fed's Williams speaks",
-      "type": "central_bank",
-      "why": "Leadership view on December hike.",
-      "link": "https://www.newsquawk.com/headlines/newsquawk-weekly-economic-release-16th---20th-november-2026"
-    },
-    {
-      "key": "2026-11-18-tgt-panw",
-      "date": "2026-11-18",
-      "time": "TGT before open; PANW after close (Thu 8:00am AEDT)",
-      "ticker": "PANW",
-      "title": "Target and Palo Alto Networks results",
-      "type": "earnings",
-      "why": "Consumer; security spend.",
-      "link": "https://investrade.com/weekly-event-calendar-11-16-2026-11-20-2026/"
-    },
     {
       "key": "2026-11-19-trump-xi-putin-apec",
       "date": "2026-11-19",
-      "time": "APEC Shenzhen, Nov 18-19 (Thu AEDT); outcome not yet reported",
+      "time": "APEC Shenzhen, Nov 18-19",
       "ticker": "",
-      "title": "Trump-Xi meeting at APEC, Shenzhen",
+      "title": "Trump-Xi at APEC: no truce extension, 'strategic stability' action plan",
       "type": "other",
-      "why": "Third Trump-Xi meeting this year; truce extension expected, bigger deals may wait for G20. Read for BABA, TSM, NVDA China sales.",
-      "link": "https://www.scmp.com/economy/china-economy/article/3373904/xi-and-trumps-apec-meeting-whats-hold-and-whats-table"
+      "why": "Truce still expires Jan 10, 2027; chips and rare earths not addressed. Read for BABA, TSM, NVDA.",
+      "link": "https://asia.nikkei.com/politics/international-relations/apec/apec-live-how-events-in-shenzhen-unfolded"
     },
     {
       "key": "2026-11-19-anthropic-ant-trading",
       "date": "2026-11-19",
-      "time": "Nasdaq open 9:30am ET (Fri 1:30am AEDT) - expected, subject to SEC clearance",
+      "time": "Traded from Nasdaq open Thu ET (Fri AEDT)",
       "ticker": "ANT",
-      "title": "Anthropic expected to start trading on Nasdaq as ANT",
+      "title": "Anthropic debuts on Nasdaq as ANT, about +17% day one",
       "type": "other",
-      "why": "Largest AI listing; may draw funds out of other AI names",
-      "link": "https://fourweekmba.com/ai-anthropics-ipo-day-by-day-pricing-18-nov-trading-19-nov/"
+      "why": "Loved company. Early lift to AI names faded; Nasdaq closed -2.25%.",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-nvidia-slides-as-investors-weigh-ceo-transition-fallout-despite-strong-q3-results/"
     },
     {
       "key": "2026-11-19-baba-q2-fy27",
@@ -124,12 +84,12 @@
     {
       "key": "2026-11-20-fed-waller-cook",
       "date": "2026-11-20",
-      "time": "Fri ET, time TBC (Sat AEDT)",
+      "time": "Waller 8:25am ET (Sat 12:25am AEDT); Cook 12:15pm ET (Sat 4:15am AEDT)",
       "ticker": "MACRO",
-      "title": "Fed's Waller and Cook speak",
+      "title": "Fed's Waller (welcome remarks, College Fed Challenge) and Cook speech, 'The U.S. Economy in Global Context', Santiago",
       "type": "central_bank",
-      "why": "Governors on December hike.",
-      "link": "https://nexusresearchreports.substack.com/p/nexus-retail-morning-note-376"
+      "why": "Confirmed on Fed calendar. Cook is the one to read for December hike.",
+      "link": "https://www.federalreserve.gov/newsevents/2026-november.htm"
     },
     {
       "key": "2026-11-21-keyence-split",
@@ -222,6 +182,26 @@
       "link": "https://investor.deere.com/"
     },
     {
+      "key": "2026-11-25-au-cpi-oct",
+      "date": "2026-11-25",
+      "time": "11:30am AEDT",
+      "ticker": "MACRO",
+      "title": "Australia monthly CPI, October",
+      "type": "macro",
+      "why": "Last CPI before RBA Dec 8 decision, after five hikes.",
+      "link": "https://www.abs.gov.au/release-calendar/future-releases/202611"
+    },
+    {
+      "key": "2026-11-25-beige-book",
+      "date": "2026-11-25",
+      "time": "2:00pm ET (Thu 6:00am AEDT)",
+      "ticker": "MACRO",
+      "title": "Fed Beige Book",
+      "type": "central_bank",
+      "why": "Regional prices and hiring before December FOMC.",
+      "link": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+    },
+    {
       "key": "2026-11-26-us-thanksgiving",
       "date": "2026-11-26",
       "time": "All day",
@@ -254,12 +234,12 @@
     {
       "key": "2026-12-01-crwd-q3",
       "date": "2026-12-01",
-      "time": "After close - expected, not company-confirmed (Wed morning AEDT)",
+      "time": "After close; call 2:00pm PT (Wed 9:00am AEDT) (confirmed)",
       "ticker": "CRWD",
-      "title": "CrowdStrike fiscal Q3 results (expected)",
+      "title": "CrowdStrike fiscal Q3 2027 results",
       "type": "earnings",
-      "why": "ARR growth and net new ARR vs AI-security competition.",
-      "link": "https://unusualwhales.com/stock/CRWD/earnings"
+      "why": "ARR growth vs AI-security competition; peer read for NET.",
+      "link": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-announces-date-fiscal-third-quarter-2027-financial"
     },
     {
       "key": "2026-12-01-ism-manufacturing",
@@ -270,6 +250,16 @@
       "type": "macro",
       "why": "October was 55.5, 10th month of expansion",
       "link": "https://www.ismworld.org/supply-management-news-and-reports/news-publications/inside-supply-management-magazine/blog/2026/2026-11/ism-pmi-reports-roundup-october-2026-manufacturing/"
+    },
+    {
+      "key": "2026-12-01-rba-bullock",
+      "date": "2026-12-01",
+      "time": "7:15pm AEDT",
+      "ticker": "MACRO",
+      "title": "RBA Governor Bullock fireside chat, ABE annual dinner",
+      "type": "central_bank",
+      "why": "Signal a week before the Dec 7-8 board meeting (decision Tue Dec 8 2:30pm AEDT).",
+      "link": "https://www.rba.gov.au/schedules-events/calendar/"
     },
     {
       "key": "2026-12-01-mrvl-q3-fy27",
