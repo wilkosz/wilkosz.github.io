@@ -1,12 +1,13 @@
 {
-  "as_of": "2026-11-19T12:07",
-  "summary": "Quiet market. All 28 live finds re-checked: two diesel tanks sold, everything else still listed at the same price. Used 90-140hp loader tractors within 400km under 4,500 hours remain scarce; dealer stock (Hutcheon & Pearce) sits at 143k+, and most private loader tractors on Gumtree are over 7,000 hours.",
+  "as_of": "2026-11-20T00:07",
+  "summary": "Quiet week for loader tractors in the 90-140hp band near Darlington Point: most dealer stock is either over 4,500 hours, has no loader, or is over budget. Two NSW dealer Kubotas with loaders came up on FarmMachinerySales, both low hours and in band. Discs, rippers and container cabins are steady; two prices dropped. The AuctionsPlus multi-vendor sale closed on 19 Nov and Pickles' 1,000 L tank sale has ended.",
   "headlines": [
-    "New Lovol 110hp cab tractor with 4-in-1 loader, $67,990 inc GST, 5-year warranty, delivered nationally.",
-    "Sold: 1000 L fuel cart, Coleambally, $1,800.",
-    "Sold: 700 L ground fuel tank, Berrigan, $500.",
-    "No price moves on any live tractor, cabin, disc or ripper.",
-    "Grays and Slattery had nothing in range: Grays ag has 2 lots, Slattery lots are QLD/WA and VIC 1-bed cabins."
+    "New: 2022 Kubota M9540DH, 95hp, Kubota loader and 4-in-1, 1,886 hours, $52,800, NSW dealer (town not shown).",
+    "New: 2021 Kubota M108S, 105hp, loader, 1,440 hours, $79,990, NSW dealer (town not shown).",
+    "Discs: new DiscX 24-plate, 2.6m, $22,600 at Wodonga; not listed, six cheaper used units already cover it.",
+    "Price drop: John Deere 5093E at Culcairn is now $75,000, down from $79,000.",
+    "Price drop: 2010 container accommodation at Young is now $15,000, down from $19,000.",
+    "Closed: AuctionsPlus JD 6830 (bid $90,000) and Deutz M600 (bid $67,000), 19 Nov. Pickles 1,000 L tank sale ended."
   ],
   "finds": [
     {
@@ -27,7 +28,7 @@
       "why": "Cheapest single-tyne on the list; pair it with a trip to Young.",
       "status": "live",
       "first_seen": "2026-11-18",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "photo": "img/finds/gumtree-1325743618.jpg",
       "photo_url": "https://images.gumtree.com.au/image/private/t_$_s-l800/gumtree/b82c8503-83fc-44b0-a0fe-e0b325ddbcbf.jpg"
     },
@@ -54,7 +55,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-02",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "photo": "img/finds/fb-1529309308826340.jpg"
     },
     {
@@ -104,7 +105,7 @@
       "why": "Undamaged MF single tine at $350 firm, but no hp or depth stated; unchanged after 16 weeks.",
       "status": "live",
       "first_seen": "2026-10-10",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "photo": "img/finds/fb-1794651221505734.jpg"
     },
     {
@@ -125,7 +126,7 @@
       "why": "Cheap heavy single tyne; confirm 3PL category and point condition before the drive.",
       "status": "live",
       "first_seen": "2026-11-12",
-      "updated": "2026-11-19"
+      "updated": "2026-11-20"
     },
     {
       "key": "fb-1376645941299287",
@@ -148,7 +149,7 @@
       "why": "A proper single-tyne build from a known Australian maker at under half the new price, still $600; no hp rating and about 380 km away.",
       "status": "live",
       "first_seen": "2026-10-14",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "photo": "img/finds/fb-1376645941299287.jpg"
     },
     {
@@ -173,7 +174,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-10-29",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "photo": "img/finds/tradefarm-855857.jpg",
       "photo_url": "https://assets.primecreative.com.au/imagegen/max/cr/93/70/s3/digital-cougar-assets/momoads/2021/08/10/091255/60hp-ripper.JPG"
     },
@@ -182,7 +183,7 @@
       "want": "diesel-storage",
       "title": "Unused 1,000 L fuel tank, 12V pump, hose and nozzle",
       "price_aud": 1,
-      "price_note": "current bid, 1 bid; plus Pickles buyer premium + GST",
+      "price_note": "Pickles auction ended, outcome pending",
       "location": "Shepparton, VIC",
       "distance_km": 290,
       "detail": [
@@ -195,10 +196,10 @@
       "url": "https://www.pickles.com.au/used/details/general-goods/unused-1000-litre-fuel-tank/62478729",
       "verdict": "strong",
       "why": "New tank with pump and nozzle, top of the capacity band; worth a bid if it stays well under new retail.",
-      "status": "live",
+      "status": "sold",
       "ends": "2026-11-19",
       "first_seen": "2026-11-18",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "photo": "img/finds/pickles-62478729.jpg",
       "photo_url": "https://www.pickles.com.au/images/transform/w_detail/48bf89d6-09cf-44f8-ba5e-606d97d32c64/ef3bc7fd-324d-41cc-8345-df76ca6f577d.jpeg"
     },
@@ -222,7 +223,7 @@
       "why": "The tank-and-stand option for $500: gravity feeds a tractor with no pump, but it's rusty, so check inside for scale and leaks.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "photo": "img/finds/fb-2603503066789216.jpg"
     },
     {
@@ -246,7 +247,7 @@
       "why": "1000 L towable cart with a 12V pump, 30km away, at under half the price of the Coleambally cart; listed in June, so ring to check it's still there.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "photo": "img/finds/farmtender-131044.jpg",
       "photo_url": "https://media.farmtender.com.au/listings/6a1e4a4435776/large/f868ee7c47b91b576f64d7284c0e5140.jpg"
     },
@@ -293,7 +294,7 @@
       "why": "Cheapest working diesel tank found, in use until last month, but rusty, bare and 190km away.",
       "status": "live",
       "first_seen": "2026-10-22",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "photo": "img/finds/fb-1680015046874285.jpg"
     },
     {
@@ -320,6 +321,31 @@
       "price_note": "marked pending on Marketplace 19 Nov"
     },
     {
+      "key": "pickles-62486586",
+      "want": "diesel-storage",
+      "title": "Fuelcube 1,000 L self-bunded steel diesel tank (2016)",
+      "price_aud": null,
+      "price_note": "online auction opens 24 Nov 2026; Pickles buyer fees apply",
+      "location": "Pickles VIC/TAS national sale (yard not stated)",
+      "distance_km": null,
+      "detail": [
+        "1,000 L",
+        "self-bunded steel",
+        "made 12/2016",
+        "pump and hose not mentioned"
+      ],
+      "source": "Pickles",
+      "url": "https://www.pickles.com.au/used/details/general-goods/fuelcube-1000l-self-bunded-diesel-tank/62486586",
+      "verdict": "decent",
+      "why": "Self-bunded 1,000 L is the right spec; no price yet and the yard location needs checking.",
+      "status": "live",
+      "ends": "2026-11-24",
+      "first_seen": "2026-11-20",
+      "updated": "2026-11-20",
+      "photo": "img/finds/pickles-62486586.jpg",
+      "photo_url": "https://www.pickles.com.au/images/transform/w_detail/4434d759-adf7-4388-b121-3a611cba3e69/8c3c07fb-d071-4031-b26a-7219f941a00f.jpeg"
+    },
+    {
       "key": "gumtree-1344159827",
       "want": "offset-discs",
       "title": "Shearer 300 offset disc, 24 plate, 2.4 m",
@@ -340,7 +366,7 @@
       "why": "Cheapest used set that clears all three musts, narrow enough to cart, with new front discs.",
       "status": "live",
       "first_seen": "2026-11-16",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "photo": "img/finds/gumtree-1344159827.jpg",
       "photo_url": "https://images.gumtree.com.au/image/private/t_$_s-l800/gumtree/ff0aafda-8553-4816-9aa4-732e3743a256.jpg"
     },
@@ -363,7 +389,7 @@
       "why": "A third of the price of the next-cheapest disc; budget a lift ram and check width is under 3.5 m.",
       "status": "live",
       "first_seen": "2026-11-08",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "photo": "img/finds/fb-1605224174739541.jpg"
     },
     {
@@ -389,7 +415,7 @@
       "why": "A proper heavy Brazilian 28-plate at a third of new, but it sits at the top of the hp range and needs about $3,800 in plates to bite like new.",
       "status": "live",
       "first_seen": "2026-10-13",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "photo": "img/finds/fb-1730861284788002.jpg"
     },
     {
@@ -415,7 +441,7 @@
       "why": "Closest used 28-plate, with the bearing work done. Measure the width and check plate wear in person.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "ends": null,
       "photo": "img/finds/fb-1096043223368086.jpg"
     },
@@ -444,7 +470,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "photo": "img/finds/fb-1054966007434070.jpg"
     },
     {
@@ -468,7 +494,7 @@
       "why": "Brand new for the price of a used set, but it is a light Chinese build rated to 100hp and needs assembling.",
       "status": "live",
       "first_seen": "2026-10-12",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "photo": "img/finds/fb-1576107450589526.jpg"
     },
     {
@@ -494,7 +520,7 @@
       "status": "live",
       "ends": null,
       "first_seen": "2026-09-30",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "photo": "img/finds/fb-1117657974131225.jpg"
     },
     {
@@ -520,10 +546,35 @@
       "why": "Premium model from the same Cobram dealer with the kitchen fitted; it clears every must and every prefer at 180km.",
       "status": "live",
       "first_seen": "2026-09-28",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "price_note": "up from $22,990",
       "ends": null,
       "photo": "img/finds/fb-1729183591520678.jpg"
+    },
+    {
+      "key": "fb-4498847773713057",
+      "want": "portable-home",
+      "title": "2010 homemade container home, bunk room, kitchenette, lounge, toilet and shower",
+      "price_aud": 15000,
+      "price_note": "transport not included",
+      "location": "Young, NSW",
+      "distance_km": 250,
+      "detail": [
+        "2010 build, homemade",
+        "bunk bed room",
+        "kitchenette with lounge and dining",
+        "toilet and shower",
+        "sold as transportable",
+        "size not stated"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/4498847773713057/",
+      "verdict": "decent",
+      "why": "Clears the bathroom and two-room bar for $19k inside 250km, but it is homemade and the listing is thin, so inspect it.",
+      "status": "live",
+      "first_seen": "2026-10-27",
+      "updated": "2026-11-20",
+      "photo": "img/finds/fb-4498847773713057.jpg"
     },
     {
       "key": "gumtree-1344906821",
@@ -545,34 +596,9 @@
       "why": "Cheapest new 2-bed with bathroom in range, but the dealer's other ads are priced higher, so check the price first.",
       "status": "live",
       "first_seen": "2026-10-14",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "photo": "img/finds/gumtree-1344906821.jpg",
       "photo_url": "https://images.gumtree.com.au/image/private/t_$_s-l800/gumtree/dbe4a93e-46bd-4f5a-87ed-a1f924190a89.jpg"
-    },
-    {
-      "key": "fb-4498847773713057",
-      "want": "portable-home",
-      "title": "2010 homemade container home, bunk room, kitchenette, lounge, toilet and shower",
-      "price_aud": 19000,
-      "price_note": "transport not included",
-      "location": "Young, NSW",
-      "distance_km": 250,
-      "detail": [
-        "2010 build, homemade",
-        "bunk bed room",
-        "kitchenette with lounge and dining",
-        "toilet and shower",
-        "sold as transportable",
-        "size not stated"
-      ],
-      "source": "Facebook Marketplace",
-      "url": "https://www.facebook.com/marketplace/item/4498847773713057/",
-      "verdict": "decent",
-      "why": "Clears the bathroom and two-room bar for $19k inside 250km, but it is homemade and the listing is thin, so inspect it.",
-      "status": "live",
-      "first_seen": "2026-10-27",
-      "updated": "2026-11-19",
-      "photo": "img/finds/fb-4498847773713057.jpg"
     },
     {
       "key": "fb-1416522520374898",
@@ -595,7 +621,7 @@
       "why": "2 bedrooms and an ensuite for $23,500, cut by $5,000, but it is right at the 400km limit.",
       "status": "live",
       "first_seen": "2026-11-12",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "photo": "img/finds/fb-1416522520374898.jpg"
     },
     {
@@ -618,7 +644,7 @@
       "why": "Main room plus ensuite inside budget, closer than the Victorian units; no kitchen fitted.",
       "status": "live",
       "first_seen": "2026-11-15",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "photo": "img/finds/fb-1612100457131659.jpg"
     },
     {
@@ -645,32 +671,6 @@
       "updated": "2026-11-15"
     },
     {
-      "key": "slattery-148669",
-      "want": "tractor",
-      "title": "2014 Deutz-Fahr 5130 TTV with ALO X56P loader",
-      "price_aud": 36900,
-      "price_note": "current bid; plus buyer premium",
-      "location": "Wagga Wagga, NSW",
-      "distance_km": 140,
-      "detail": [
-        "2,149 hours showing",
-        "2014",
-        "ALO X56P loader, Euro hitch, 3rd service",
-        "TTV (CVT) transmission, 4x4",
-        "hp not stated on lot page",
-        "torn operator seat; no log book"
-      ],
-      "source": "Slattery Auctions",
-      "url": "https://slatteryauctions.com.au/assets/148669?auctionId=12542",
-      "verdict": "strong",
-      "why": "Slattery auction ended 12 Nov 7:12pm; result not shown.",
-      "status": "gone",
-      "ends": "2026-11-12",
-      "first_seen": "2026-11-11",
-      "updated": "2026-11-12",
-      "photo": "img/finds/slattery-148669.jpg"
-    },
-    {
       "key": "fb-1027921470152750",
       "want": "tractor",
       "title": "2022 McCormick S-Max 90hp 4WD cab tractor with loader and 4-in-1 bucket, 251 hours",
@@ -693,14 +693,14 @@
       "why": "Still the best value on the list: a 2022 cab tractor with a 4-in-1 loader at 251 hrs, 190 km away. It is $18,000 under the ceiling and has sat 10 weeks, so there is room to offer.",
       "status": "live",
       "first_seen": "2026-10-14",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "photo": "img/finds/fb-1027921470152750.jpg"
     },
     {
       "key": "fb-1450344739854512",
       "want": "tractor",
       "title": "2013 John Deere 5093E with H240 loader, 1,748 hours",
-      "price_aud": 79000,
+      "price_aud": 75000,
       "price_note": "ONO, private seller",
       "location": "Culcairn, NSW",
       "distance_km": 260,
@@ -717,38 +717,15 @@
       "why": "Clears every must at the top of the band: JD loader tractor under 2,000 hours, 260km away, and the price is ONO.",
       "status": "live",
       "first_seen": "2026-11-15",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "photo": "img/finds/fb-1450344739854512.jpg"
-    },
-    {
-      "key": "auctionsplus-129205-1471114",
-      "want": "tractor",
-      "title": "2017 John Deere 6110M 4WD cab with 623R loader",
-      "price_aud": 90000,
-      "price_note": "final bid, reserve met (On Market) when the AuctionsPlus sale closed 12 Nov",
-      "location": "Gerogery, NSW",
-      "distance_km": 300,
-      "detail": [
-        "1,937 hours",
-        "110hp",
-        "cab",
-        "623R loader per listing title - confirm on inspection"
-      ],
-      "source": "AuctionsPlus",
-      "url": "https://auctionsplus.com.au/auctions/machinery/auctionsplus-multi-vendor-machinery-auction/john-deere-610m/listing/129205-1471114/browse",
-      "verdict": "strong",
-      "why": "Sold over budget at $90,000 plus 2% premium; a guide for clean 6110M loader tractors.",
-      "status": "sold",
-      "ends": "2026-11-12",
-      "first_seen": "2026-11-08",
-      "updated": "2026-11-12"
     },
     {
       "key": "auctionsplus-129206-1480974",
       "want": "tractor",
       "title": "2011 John Deere 6830 with JD683 loader, 1,823 hours",
       "price_aud": null,
-      "price_note": "online auction, no bid shown yet; plus 2.0% buyer premium",
+      "price_note": "Auction closed 19 Nov 2026 with bid at $90,000; result not published",
       "location": "Coleambally, NSW",
       "distance_km": 50,
       "detail": [
@@ -764,12 +741,63 @@
       "url": "https://auctionsplus.com.au/auctions/machinery/auctionsplus-multi-vendor-machinery-auction/fwa-tractor-wfel/listing/129206-1480974/browse",
       "verdict": "strong",
       "why": "Deere with factory loader, cab and 1,823 hours, 50km away; clears every must if it sells under 80k.",
-      "status": "live",
+      "status": "gone",
       "ends": "2026-11-19",
       "first_seen": "2026-11-13",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "photo": "img/finds/auctionsplus-129206-1480974.jpg",
       "photo_url": "https://auctionsplusblob.blob.core.windows.net/apmediaprod/Thumbnails/1639301639683384483_0237f7dc-3dae-4995-923f-549360cfc6da.webp"
+    },
+    {
+      "key": "fms-oag-ad-26498383",
+      "want": "tractor",
+      "title": "2022 Kubota M9540DH with Kubota loader and 4-in-1 bucket",
+      "price_aud": 52800,
+      "price_note": "excl. govt charges, dealer",
+      "location": "NSW (dealer town not shown on listing)",
+      "distance_km": null,
+      "detail": [
+        "1,886 hours",
+        "95hp",
+        "Kubota FEL with 4-in-1 bucket",
+        "hydraulic shuttle, rear diff lock",
+        "one owner",
+        "listing condition: fair"
+      ],
+      "source": "FarmMachinerySales",
+      "url": "https://www.farmmachinerysales.com.au/items/details/2022-kubota-m9540dh-95hp-tractor-front-end-loader-bucket/OAG-AD-26498383/",
+      "verdict": "decent",
+      "why": "Clears every must at the cheapest price on the list; ring to find which NSW town it is in and why the condition is rated fair.",
+      "status": "live",
+      "first_seen": "2026-11-20",
+      "updated": "2026-11-20",
+      "photo": "img/finds/fms-oag-ad-26498383.jpg",
+      "photo_url": "https://farmmachinerysales.pxcrush.net/farmmachinerysales/cars/dealer/93p1gljsytwfk9jwg0hav3oq.jpg"
+    },
+    {
+      "key": "auctionsplus-129206-1468742",
+      "want": "tractor",
+      "title": "2016 Deutz-Fahr M600 with Agro-Lift 4020 loader, 2,531 hours",
+      "price_aud": 67000,
+      "price_note": "Auction closed 19 Nov 2026 with bid at $67,000; result not published",
+      "location": "Adelong, NSW",
+      "distance_km": 240,
+      "detail": [
+        "2,531 hours",
+        "hp not stated",
+        "4020 Agro-Lift loader, bucket and Kerfab hay forks",
+        "axle and cab suspension",
+        "near-new tyres plus 2 spares",
+        "minor bonnet damage"
+      ],
+      "source": "AuctionsPlus",
+      "url": "https://auctionsplus.com.au/auctions/machinery/auctionsplus-multi-vendor-machinery-auction/2016-deutz-fahr-m600-50k/listing/129206-1468742/browse",
+      "verdict": "decent",
+      "why": "Loader tractor with low hours and suspension, selling tomorrow; Deutz is outside the named brands and hp is not stated.",
+      "status": "gone",
+      "ends": "2026-11-19",
+      "first_seen": "2026-11-18",
+      "updated": "2026-11-20"
     },
     {
       "key": "m4u-1022255",
@@ -792,7 +820,7 @@
       "why": "New-price benchmark for a 110hp Lovol with loader and warranty, under the 80k ceiling; same brand as the loaner P5130.",
       "status": "live",
       "first_seen": "2026-11-19",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "photo": "img/finds/m4u-1022255.jpg",
       "photo_url": "https://media.machines4u.com.au/machinery/55/1022255/LOVOL-110HP-POWERSHIFT-4WD-A-C-CABIN-TRACTOR-WITH-4IN1-BUCKET-COMBO-DEAL-5-YEARS-WARRANTY_72855555.h.jpg"
     },
@@ -818,33 +846,33 @@
       "why": "Lowest hours of any loader tractor on the list and inside budget, but 160km past the 400km limit.",
       "status": "live",
       "first_seen": "2026-11-15",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "photo": "img/finds/fb-1121534220613925.jpg"
     },
     {
-      "key": "auctionsplus-129206-1468742",
+      "key": "fms-oag-ad-26332484",
       "want": "tractor",
-      "title": "2016 Deutz-Fahr M600 with Agro-Lift 4020 loader, 2,531 hours",
-      "price_aud": null,
-      "price_note": "online auction, no bid shown; plus 2.0% buyer premium",
-      "location": "Adelong, NSW",
-      "distance_km": 240,
+      "title": "2021 Kubota M108S with front-end loader",
+      "price_aud": 79990,
+      "price_note": "excl. govt charges, dealer",
+      "location": "NSW (dealer town not shown on listing)",
+      "distance_km": null,
       "detail": [
-        "2,531 hours",
-        "hp not stated",
-        "4020 Agro-Lift loader, bucket and Kerfab hay forks",
-        "axle and cab suspension",
-        "near-new tyres plus 2 spares",
-        "minor bonnet damage"
+        "1,440 hours",
+        "105hp",
+        "FEL fitted",
+        "synchro 4x2 with swing shift splitter",
+        "listing condition: fair"
       ],
-      "source": "AuctionsPlus",
-      "url": "https://auctionsplus.com.au/auctions/machinery/auctionsplus-multi-vendor-machinery-auction/2016-deutz-fahr-m600-50k/listing/129206-1468742/browse",
+      "source": "FarmMachinerySales",
+      "url": "https://www.farmmachinerysales.com.au/items/details/2021-kubota-m108s-105hp-4wd-tractor-with-front-end-loader/OAG-AD-26332484/",
       "verdict": "decent",
-      "why": "Loader tractor with low hours and suspension, selling tomorrow; Deutz is outside the named brands and hp is not stated.",
+      "why": "Low hours, 105hp and a loader, but right at the top of the budget and the town is not stated.",
       "status": "live",
-      "ends": "2026-11-19",
-      "first_seen": "2026-11-18",
-      "updated": "2026-11-19"
+      "first_seen": "2026-11-20",
+      "updated": "2026-11-20",
+      "photo": "img/finds/fms-oag-ad-26332484.jpg",
+      "photo_url": "https://farmmachinerysales.pxcrush.net/farmmachinerysales/cars/dealer/69iqb8npoxxmrm1z9j5skblkr.jpg"
     },
     {
       "key": "grays-0006-23502890",
