@@ -1,13 +1,11 @@
 {
-  "as_of": "2026-11-20T00:07",
-  "summary": "Quiet week for loader tractors in the 90-140hp band near Darlington Point: most dealer stock is either over 4,500 hours, has no loader, or is over budget. Two NSW dealer Kubotas with loaders came up on FarmMachinerySales, both low hours and in band. Discs, rippers and container cabins are steady; two prices dropped. The AuctionsPlus multi-vendor sale closed on 19 Nov and Pickles' 1,000 L tank sale has ended.",
+  "as_of": "2026-11-20T12:07",
+  "summary": "Quiet market. Loader tractors in the 90-140hp band under 4,500 hours and 80k remain scarce within 400km; most new stock is either over hours (5,000+) or Sydney/QLD/WA. Container cabins and offset discs are steady with no price moves. Factory-direct 24-plate offsets list around US$3,000 before freight.",
   "headlines": [
-    "New: 2022 Kubota M9540DH, 95hp, Kubota loader and 4-in-1, 1,886 hours, $52,800, NSW dealer (town not shown).",
-    "New: 2021 Kubota M108S, 105hp, loader, 1,440 hours, $79,990, NSW dealer (town not shown).",
-    "Discs: new DiscX 24-plate, 2.6m, $22,600 at Wodonga; not listed, six cheaper used units already cover it.",
-    "Price drop: John Deere 5093E at Culcairn is now $75,000, down from $79,000.",
-    "Price drop: 2010 container accommodation at Young is now $15,000, down from $19,000.",
-    "Closed: AuctionsPlus JD 6830 (bid $90,000) and Deutz M600 (bid $67,000), 19 Nov. Pickles 1,000 L tank sale ended."
+    "New: 2014 MF 5430 Dyna-4 with loader, 2,559 hours, Pickles Dubbo (390km), bidding opens 7 Dec.",
+    "New stretch: 2020 Farmlead 120hp loader tractor, 254 hours, $40,000, Murrumburrah (240km).",
+    "Gone: 2016 Kubota M100GX (621 hours, $70,000, Geelong) - listing removed.",
+    "No price changes on any other live find; nothing new for discs, ripper, cabin or fuel tank."
   ],
   "finds": [
     {
@@ -844,7 +842,7 @@
       "url": "https://www.facebook.com/marketplace/item/1121534220613925/",
       "verdict": "decent",
       "why": "Lowest hours of any loader tractor on the list and inside budget, but 160km past the 400km limit.",
-      "status": "live",
+      "status": "gone",
       "first_seen": "2026-11-15",
       "updated": "2026-11-20",
       "photo": "img/finds/fb-1121534220613925.jpg"
@@ -873,6 +871,32 @@
       "updated": "2026-11-20",
       "photo": "img/finds/fms-oag-ad-26332484.jpg",
       "photo_url": "https://farmmachinerysales.pxcrush.net/farmmachinerysales/cars/dealer/69iqb8npoxxmrm1z9j5skblkr.jpg"
+    },
+    {
+      "key": "pickles-62469452",
+      "want": "tractor",
+      "title": "2014 Massey Ferguson 5430 Dyna-4 with loader, 2,559 hours",
+      "price_aud": null,
+      "price_note": "Online auction, bidding opens 7 Dec 2026 9am; Pickles buyer fees apply",
+      "location": "Dubbo, NSW",
+      "distance_km": 390,
+      "detail": [
+        "2,559 hours",
+        "hp not stated on listing (model rated about 100hp)",
+        "loader fitted",
+        "Dyna-4 transmission",
+        "partial service history"
+      ],
+      "source": "Pickles",
+      "url": "https://www.pickles.com.au/used/details/machinery/2014-massey-ferguson-5430-dyna-4/62469452",
+      "verdict": "decent",
+      "why": "Named brand, loader and 2,559 hours; no price until bidding opens and it sits right on the 400km limit.",
+      "status": "live",
+      "ends": "2026-12-07",
+      "first_seen": "2026-11-20",
+      "updated": "2026-11-20",
+      "photo": "img/finds/pickles-62469452.jpg",
+      "photo_url": "https://www.pickles.com.au/images/transform/b3392bdb-b03c-49a0-959a-14fe575c7cc8/0de2736c-fc6e-4de2-86f1-5021ce255e7e.jpeg"
     },
     {
       "key": "grays-0006-23502890",
