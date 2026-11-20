@@ -102,14 +102,34 @@
       "link": "https://www.keyence.com/"
     },
     {
+      "key": "2026-11-23-fed-williams",
+      "date": "2026-11-23",
+      "time": "4:00pm ET (Tue 8:00am AEDT)",
+      "ticker": "FED",
+      "title": "NY Fed's Williams speaks",
+      "type": "central_bank",
+      "why": "Last major Fed voice before blackout (Nov 28 - Dec 10); 25 vs 50bp hike.",
+      "link": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
+    },
+    {
+      "key": "2026-11-23-hpe-q4",
+      "date": "2026-11-23",
+      "time": "After close; call 5:00pm ET (Tue 9:00am AEDT)",
+      "ticker": "HPE",
+      "title": "HPE fiscal Q4 2026 results",
+      "type": "earnings",
+      "why": "AI server demand check after the chip rout; Q4 guide $13.9-14.8B revenue.",
+      "link": "https://www.hpe.com/us/en/newsroom/press-release/2026/11/hpe-to-present-live-audio-webcast-of-fiscal-2026-fourth-quarter-earnings-conference-call.html"
+    },
+    {
       "key": "2026-11-23-flash-pmi",
       "date": "2026-11-23",
-      "time": "9:45am ET (Tue 1:45am AEDT) - secondary source",
+      "time": "9:45am ET (Tue 1:45am AEDT)",
       "ticker": "MACRO",
       "title": "S&P Global US flash PMIs, November",
       "type": "macro",
-      "why": "First November activity and price read before Dec Fed.",
-      "link": "https://www.mtsinsights.com/events/4745/"
+      "why": "First November activity and price read; date confirmed on Newsquawk/Kiplinger week-ahead.",
+      "link": "https://www.newsquawk.com/headlines/newsquawk-weekly-economic-calendar---23rd-27th-november-2026"
     },
     {
       "key": "2026-11-23-zm-q3",
@@ -150,16 +170,6 @@
       "why": "Software sold off Nov 17; test of AI-disruption fears",
       "type": "earnings",
       "link": "https://investor.workday.com/"
-    },
-    {
-      "key": "2026-11-24-zs-q1",
-      "date": "2026-11-24",
-      "time": "After close - TBC (date unconfirmed)",
-      "ticker": "ZS",
-      "title": "Zscaler fiscal Q1 results (date projected)",
-      "why": "Security software demand; peer read for NET",
-      "type": "earnings",
-      "link": "https://ir.zscaler.com/"
     },
     {
       "key": "2026-11-25-us-gdp-pce",
@@ -212,6 +222,16 @@
       "link": "https://www.nyse.com/markets/hours-calendars"
     },
     {
+      "key": "2026-11-28-fed-blackout",
+      "date": "2026-11-28",
+      "time": "Through Dec 10",
+      "ticker": "FED",
+      "title": "Fed blackout before Dec 9 FOMC",
+      "type": "central_bank",
+      "why": "No Fed speeches; markets price ~90% 25bp hike, ~10% 50bp.",
+      "link": "https://admiralmarkets.com/analytics/traders-blog/fed-rate-decision-december-2026-preview"
+    },
+    {
       "key": "2026-11-30-aws-reinvent",
       "date": "2026-11-30",
       "time": "Nov 30 - Dec 4, Las Vegas; Garman keynote Tue Dec 1 8:30am PT (Wed 3:30am AEDT)",
@@ -220,16 +240,6 @@
       "type": "conference",
       "why": "AI capex, Trainium and custom-silicon news; read-through for MRVL, ALAB, AVGO.",
       "link": "https://aws.amazon.com/blogs/apn/know-before-you-go-an-aws-partners-guide-to-reinvent-2026/"
-    },
-    {
-      "key": "2026-12-01-jolts",
-      "date": "2026-12-01",
-      "time": "10:00am ET (Wed 2:00am AEDT) - per secondary calendar",
-      "ticker": "",
-      "title": "JOLTS job openings, October",
-      "type": "macro",
-      "why": "Labour demand read before the December Fed decision, where a hike is now priced.",
-      "link": "https://fedratecalc.com/us-economic-calendar/december-2026/"
     },
     {
       "key": "2026-12-01-crwd-q3",
@@ -242,14 +252,24 @@
       "link": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-announces-date-fiscal-third-quarter-2027-financial"
     },
     {
+      "key": "2026-12-01-jolts",
+      "date": "2026-12-01",
+      "time": "10:00am ET (Wed 2:00am AEDT) - BLS confirmed",
+      "ticker": "MACRO",
+      "title": "JOLTS job openings, October",
+      "type": "macro",
+      "why": "Labour read ahead of the Dec 9 Fed meeting.",
+      "link": "https://www.bls.gov/schedule/2026/12_sched_list.htm"
+    },
+    {
       "key": "2026-12-01-ism-manufacturing",
       "date": "2026-12-01",
-      "time": "10:00am ET (Wed 2:00am AEDT) - TBC, first business day",
+      "time": "10:00am ET (Wed 2:00am AEDT) - ISM calendar",
       "ticker": "MACRO",
       "title": "ISM manufacturing PMI, November",
       "type": "macro",
-      "why": "October was 55.5, 10th month of expansion",
-      "link": "https://www.ismworld.org/supply-management-news-and-reports/news-publications/inside-supply-management-magazine/blog/2026/2026-11/ism-pmi-reports-roundup-october-2026-manufacturing/"
+      "why": "Factory demand and prices paid; ISM services follows Dec 3.",
+      "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
     },
     {
       "key": "2026-12-01-rba-bullock",
@@ -282,14 +302,24 @@
       "link": "https://techintelpro.com/news/AI/Enterprise-AI/salesforce-to-announce-q3-fiscal-2027-results-on-december-2"
     },
     {
-      "key": "2026-12-03-hpe-q4",
-      "date": "2026-12-03",
-      "time": "After close - TBC, not company-confirmed (Fri morning AEDT)",
-      "ticker": "HPE",
-      "title": "HPE fiscal Q4 2026 results (expected)",
+      "key": "2026-12-02-zs-q1",
+      "date": "2026-12-02",
+      "time": "After close; call 1:30pm PT (Thu 8:30am AEDT)",
+      "ticker": "ZS",
+      "title": "Zscaler fiscal Q1 2027 results",
       "type": "earnings",
-      "why": "AI server orders and Juniper networking; peer read to DELL.",
-      "link": "https://investors.hpe.com/"
+      "why": "Security spend read; guide was $935-939M revenue, ~19% growth.",
+      "link": "https://www.globenewswire.com/news-release/2026/11/05/3396397/0/en/zscaler-to-host-first-quarter-fiscal-year-2027-earnings-conference-call.html"
+    },
+    {
+      "key": "2026-12-03-ism-services",
+      "date": "2026-12-03",
+      "time": "10:00am ET (Fri 2:00am AEDT)",
+      "ticker": "MACRO",
+      "title": "ISM services PMI, November",
+      "type": "macro",
+      "why": "Services prices feed the hike-size debate.",
+      "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
     },
     {
       "key": "2026-12-04-us-jobs-nov",

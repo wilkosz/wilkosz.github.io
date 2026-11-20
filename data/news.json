@@ -1,10 +1,82 @@
 [
   {
     "date": "2026-11-20",
+    "ticker": "MARKET",
+    "headline": "S&P 500 and Dow enter correction; Nasdaq erases 2026 gain",
+    "summary": "Tech fell more than 5% intraday on AI repricing, Huang's exit and Fed December hike fears; VIX passed 30 and investors rotated to staples.",
+    "source": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-20",
+    "ticker": "MU",
+    "headline": "Micron drops 13%, down about 22% in five sessions",
+    "summary": "Memory led the chip rout; SK Hynix also fell more than 3%.",
+    "source": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-20",
+    "ticker": "MRVL",
+    "headline": "Marvell down 10% as chip selloff extends",
+    "summary": "Adds to losses after this week's downgrade, at about -10% intraday.",
+    "source": "https://stockanalysis.com/stocks/mrvl/statistics/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-20",
+    "ticker": "ANTHROPIC",
+    "headline": "Anthropic falls ~12% on day two, still above $83 IPO price",
+    "summary": "Profit-taking after a 17% debut; Seaport started at neutral. Underwriters took the full over-allotment, lifting the raise to about $93.5B.",
+    "source": "https://stockanalysis.com/stocks/ant/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-20",
+    "ticker": "AMD",
+    "headline": "Chip rout deepens: AMD -11%, AVGO -12%, NVDA -7%",
+    "summary": "Chips fell for a second day as Anthropic slipped on day two and AI-spend doubts spread; VIX near 31, Nikkei/Kospi/Taiex down 5%+.",
+    "source": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-20",
+    "ticker": "CLS",
+    "headline": "Celestica -15%, ALAB -12%, BE -13% in AI infra selloff",
+    "summary": "Rack and power names fell hardest on the watchlist; MELI the only gainer (+1.3%).",
+    "source": "https://stockanalysis.com/stocks/cls/history/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-20",
+    "ticker": "MARKET",
+    "headline": "Chips crushed, Nasdaq enters correction",
+    "summary": "SOX about -7%; AMD -10.8%, AVGO -9.8%, MU -9.4%, MRVL -8.3%. Nvidia slipped below Alphabet in market cap; GOOGL +2.8%.",
+    "source": "https://www.everhint.com/stock-market-news-november-20-2026-morning-update-last-12-hours-pacific-time/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-20",
+    "ticker": "FED",
+    "headline": "Waller floats 50bp December hike; odds of a half-point move rise to 10%",
+    "summary": "Waller said inflation is 'moving in the wrong direction and broadening'. FedWatch: 25bp 90%, 50bp 10%.",
+    "source": "https://en.sedaily.com/economy/2026/11/20/feds-waller-signals-possible-half-point-hike-lifting",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-20",
     "ticker": "6861",
     "headline": "Keyence -5.1% in Tokyo day before 1:5 split",
     "summary": "JPY 13,945 Nov 20 close (split-adjusted) from 14,690; no company news found.",
     "source": "https://stockanalysis.com/quote/tyo/6861/history/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-11-19",
+    "ticker": "ANT",
+    "headline": "Anthropic raises $81.3B in largest IPO, closes +17%",
+    "summary": "Opened $111.50 vs $83 IPO, closed $97.17; discloses ~$901B compute commitments to 2045; did not lift chips.",
+    "source": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
     "impact": "neutral"
   },
   {
@@ -566,77 +638,5 @@
     "summary": "Core came in at 0.3%. Logan backs at least two more 25bp hikes. Futures price a December hike as near certain.",
     "source": "https://www.fxstreet.com/analysis/cpi-hotter-fed-threatens-50-bps-crwv-crushed-it-and-ai-comes-roaring-back-202611111223",
     "impact": "negative"
-  },
-  {
-    "date": "2026-11-10",
-    "ticker": "ANTHROPIC",
-    "headline": "Anthropic sets IPO range $70-78, up to $1.4T valuation",
-    "summary": "825M shares on Nasdaq as ANT. Pricing expected Nov 18, trading Nov 19. Valuation below earlier $2T talk; book reportedly covered.",
-    "source": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-11-10",
-    "ticker": "NVDA",
-    "headline": "Nasdaq-100 +3.4% while Nvidia lost about $200B",
-    "summary": "CNBC: Nasdaq-100 was as oversold as at the March 30 low; SOX needs another 9% to clear its 20-day average.",
-    "source": "https://www.cnbc.com/2026/11/10/chip-stocks-rally-nvidia-scandal.html",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-11-10",
-    "ticker": "TSM",
-    "headline": "TSMC October revenue +59.7% y/y",
-    "summary": "NT$586.9B, up 14.7% on September. Year to date up 43.3%.",
-    "source": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000796/tsm-revenue20261110.htm",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-11-09",
-    "ticker": "ANTHROPIC",
-    "headline": "Anthropic aims for Nasdaq debut as ANT next week",
-    "summary": "WSJ says trading targets Thursday or Friday, Nov 19-20, with Goldman and Morgan Stanley setting the range. Nvidia and Alphabet pledged $10B each at the IPO price.",
-    "source": "https://investinglive.com/stock-market-update/wsj-anthropic-targets-nasdaq-debut-next-week-under-ticker-ant-despite-tech-selloff/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-11-09",
-    "ticker": "MARKET",
-    "headline": "S&P 500 +2.35%, Nasdaq +2.74%, chip index +6.85%",
-    "summary": "Best S&P day since April 8 after the worst week since April 2025. Dow +1,104. Brent -5.85% to $92.57. October CPI due Wednesday.",
-    "source": "https://noctaaa.substack.com/p/daily-brief-tuesday-10-november-2026",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-11-09",
-    "ticker": "NVDA",
-    "headline": "Nvidia -4.3% as board probes CEO; chips rally without it",
-    "summary": "Board opened an investigation into Jensen Huang's relationship with an alleged Chinese spy. Stock fell up to 8% intraday, lowest close since April 7.",
-    "source": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-09",
-    "ticker": "LDI",
-    "headline": "loanDepot Q3: loss widens to $29M, volume down 12%",
-    "summary": "Revenue $307M (-9% q/q). Margin up 54bp to 399bp. Q4 volume guide $4.5-6.5B vs $7.05B in Q3. Seeking refinancing of debt maturities. Stock -17%.",
-    "source": "https://www.sec.gov/Archives/edgar/data/0001831631/000183163126000113/a2026q3earningsreleaseex991.htm",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-09",
-    "ticker": "META",
-    "headline": "JPMorgan adds Meta to focus list; Meta +5%, Amazon +3%",
-    "summary": "Meta and Amazon are JPMorgan's preferred internet picks; Alphabet removed but stays overweight. Meta Q3 ad revenue +26%.",
-    "source": "https://finance.yahoo.com/markets/stocks/articles/meta-amazon-rise-5-jpmorgan-144819847.html",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-11-09",
-    "ticker": "MRVL",
-    "headline": "Marvell +9.5% with chips, no company news",
-    "summary": "B. Riley cut target to $250, Cantor to $225 (neutral). Lumentum all-stock deal remains the overhang.",
-    "source": "https://www.marketbeat.com/instant-alerts/price-marvell-technology-nasdaq-mrvl-stock-jumps-95-heres-why-2026-11-09/",
-    "impact": "neutral"
   }
 ]
