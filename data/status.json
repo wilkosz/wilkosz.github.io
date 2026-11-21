@@ -1,139 +1,138 @@
 {
-  "as_of": "2026-11-20T18:40",
-  "market_summary": "US stocks sold off hard on Fri Nov 20: Nasdaq down about 3-3.6% and into correction, the chip index down about 7%, with AMD, Broadcom, Micron and Marvell all down 8-11%. Triggers were an Anthropic IPO 'sell the news' reversal, a report that Google cut 2027 Broadcom TPU orders for MediaTek, and TSMC tightening AI chip curbs for some Chinese designers. Treasuries rallied as a haven, the 10-year back near 4.95-4.98% from 5.17% earlier in the week. The Fed is priced for a hike, not a cut, on Dec 9: about 90% for 25bp and 10% for 50bp after Waller said policy 'may have to shock people'; Waller's Nov 20 welcome remarks gave no new guidance and Cook's Santiago speech coverage was not found. Asia was hit too (Taiwan -6.6%, Nikkei -4.8%); the UMich final reading was not confirmed (prelim 51.0, 1-yr inflation expectations 4.3%).",
+  "as_of": "2026-11-21T06:30",
+  "market_summary": "Weekend; no new trading since the Fri Nov 20 rout. Final closes confirmed a deep chip selloff: NVDA -14%, MU -14%, MRVL -12%, TSM -9.5%, ENPH -11%, while megacaps fell 3-6% and RKT rose 4%. GPU rents stayed firm through it, so the damage is in equity pricing, not compute demand. The Fed is still priced for a Dec 9 hike; final UMich and fresh FedWatch odds were not verified this run.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "Down ~3% with megacaps; no company news, AWS thesis intact.",
-      "price_usd": 249.99,
-      "updated": "2026-11-20",
-      "pe_forward": 25.28,
+      "reason": "Closed Fri down 4.1% with megacaps; no company news, AWS thesis intact.",
+      "price_usd": 246.82,
+      "updated": "2026-11-21",
+      "pe_forward": 24.96,
       "source": "https://stockanalysis.com/stocks/amzn/statistics/"
     },
     "AXOS": {
       "take": "hold",
-      "reason": "Down under 1%; forward PE ~8.6, little AI exposure.",
-      "price_usd": 85.88,
-      "updated": "2026-11-20",
-      "pe_forward": 8.55,
+      "reason": "Down 2.2% Fri; forward PE ~8.4, little AI exposure.",
+      "price_usd": 84.46,
+      "updated": "2026-11-21",
+      "pe_forward": 8.39,
       "source": "https://stockanalysis.com/stocks/ax/statistics/"
     },
     "BABA": {
       "take": "hold",
-      "reason": "Down ~1%; low forward PE ~10, cloud thesis unchanged.",
-      "price_usd": 82.55,
-      "updated": "2026-11-20",
-      "pe_forward": 9.84,
+      "reason": "Down 2.7% Fri; forward PE ~9.6, cloud growth thesis unchanged.",
+      "price_usd": 81.08,
+      "updated": "2026-11-21",
+      "pe_forward": 9.57,
       "source": "https://stockanalysis.com/stocks/baba/statistics/"
     },
     "ENPH": {
       "take": "watch",
-      "reason": "Down ~8% with no specific news found; rate-hike pricing hurts residential solar.",
-      "price_usd": 20.12,
-      "updated": "2026-11-20",
-      "pe_forward": 21.38,
+      "reason": "Down 10.7% Fri with no company news; hike pricing weighs on residential solar.",
+      "price_usd": 19.63,
+      "updated": "2026-11-21",
+      "pe_forward": 19.1,
       "source": "https://stockanalysis.com/stocks/enph/statistics/"
     },
     "FIGR": {
       "take": "watch",
-      "reason": "Down ~8% alongside crypto as Bitcoin broke below $60k.",
-      "price_usd": 23.81,
-      "updated": "2026-11-20",
-      "pe_forward": 16.49,
+      "reason": "Down 7.7% Fri alongside crypto weakness; wait for stabilisation.",
+      "price_usd": 23.84,
+      "updated": "2026-11-21",
+      "pe_forward": 16.53,
       "source": "https://stockanalysis.com/stocks/figr/statistics/"
     },
     "GOOGL": {
       "take": "hold",
-      "reason": "Flat in a 3.6% Nasdaq drop; Anthropic stake now marked to market, cheapest megacap holding.",
-      "price_usd": 272.63,
-      "updated": "2026-11-20",
-      "pe_forward": 19.8,
+      "reason": "Down 2.7% Fri, far less than chips; cheapest megacap held, Anthropic stake marked to market.",
+      "price_usd": 265.29,
+      "updated": "2026-11-21",
+      "pe_forward": 19.29,
       "source": "https://stockanalysis.com/stocks/googl/statistics/"
     },
     "LDI": {
       "take": "trim",
-      "reason": "Down ~7%, listing-compliance risk and no forward earnings; weakest position.",
-      "price_usd": 0.3955,
-      "updated": "2026-11-20",
+      "reason": "Down 17% Fri, listing-compliance risk and no forward earnings; weakest position.",
+      "price_usd": 0.35,
+      "updated": "2026-11-21",
       "source": "https://stockanalysis.com/stocks/ldi/statistics/"
     },
     "META": {
       "take": "hold",
-      "reason": "Down ~5% on AI capex fears; no company-specific news.",
-      "price_usd": 568.41,
-      "updated": "2026-11-20",
-      "pe_forward": 17.26,
+      "reason": "Down 5.9% Fri on AI capex fears; no company-specific news.",
+      "price_usd": 560.84,
+      "updated": "2026-11-21",
+      "pe_forward": 17.02,
       "source": "https://stockanalysis.com/stocks/meta/statistics/"
     },
     "MRVL": {
       "take": "watch",
-      "reason": "Down 10% after this week's downgrade; weakest chip name held, wait for stabilisation.",
-      "price_usd": 124.4,
-      "updated": "2026-11-20",
-      "pe_forward": 22.06,
+      "reason": "Down 11.7% Fri after this week's downgrade; earnings Dec 1 US time are the next test.",
+      "price_usd": 122.28,
+      "updated": "2026-11-21",
+      "pe_forward": 21.68,
       "source": "https://stockanalysis.com/stocks/mrvl/statistics/"
     },
     "MU": {
       "take": "hold",
-      "reason": "Fell 13%, about 22% over five sessions; memory cycle intact, forward PE ~3.4. Don't sell into panic.",
-      "price_usd": 600.61,
-      "updated": "2026-11-20",
-      "pe_forward": 3.4,
+      "reason": "Down 13.9% Fri, about 22% over the week; forward PE ~3.4. Don't sell into panic.",
+      "price_usd": 594.51,
+      "updated": "2026-11-21",
+      "pe_forward": 3.37,
       "source": "https://stockanalysis.com/stocks/mu/statistics/"
     },
     "NFLX": {
       "take": "hold",
-      "reason": "Down ~2%, little AI exposure; acts as relative ballast.",
-      "price_usd": 57.43,
-      "updated": "2026-11-20",
-      "pe_forward": 16.01,
+      "reason": "Down 3% Fri, little AI exposure; relative ballast.",
+      "price_usd": 56.73,
+      "updated": "2026-11-21",
+      "pe_forward": 15.8,
       "source": "https://stockanalysis.com/stocks/nflx/statistics/"
     },
     "NVDA": {
       "take": "hold",
-      "reason": "Down 7% to a 52-week low on CEO exit and a China-export subpoena; forward PE ~9 already prices fear.",
-      "price_usd": 135.2,
-      "updated": "2026-11-20",
-      "pe_forward": 9.32,
+      "reason": "Down 14% Fri to a 52-week low on CEO exit and export subpoena; forward PE ~8.7 prices a lot of fear.",
+      "price_usd": 125.53,
+      "updated": "2026-11-21",
+      "pe_forward": 8.65,
       "source": "https://stockanalysis.com/stocks/nvda/statistics/"
     },
     "RKT": {
       "take": "hold",
-      "reason": "Up ~3% as 10yr yield dipped under 5%; a rare green holding.",
-      "price_usd": 13.53,
-      "updated": "2026-11-20",
-      "pe_forward": 23.14,
+      "reason": "Up 4.3% Fri as the 10yr eased under 5%; rare green holding.",
+      "price_usd": 13.75,
+      "updated": "2026-11-21",
+      "pe_forward": 23.56,
       "source": "https://stockanalysis.com/stocks/rkt/statistics/"
     },
     "TSM": {
       "take": "hold",
-      "reason": "Down 8.5% as Taiex lost ~15% this week; foundry monopoly unchanged.",
-      "price_usd": 322.27,
-      "updated": "2026-11-20",
-      "pe_forward": 15.44,
+      "reason": "Down 9.5% Fri as Taiwan sold off; foundry position unchanged.",
+      "price_usd": 318.71,
+      "updated": "2026-11-21",
+      "pe_forward": 15.26,
       "source": "https://stockanalysis.com/stocks/tsm/statistics/"
     },
     "STRIPE": {
       "take": "hold",
       "reason": "No new round or tender reported; mark unchanged.",
       "price_usd": null,
-      "updated": "2026-11-20",
+      "updated": "2026-11-21",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "No new round found; last tender Aug at $852B. Anthropic's 12% day-two drop is a public comp to watch.",
+      "reason": "No new round found; last tender Aug at $852B. Anthropic's post-IPO slide is the public comp to watch.",
       "price_usd": null,
-      "updated": "2026-11-20",
+      "updated": "2026-11-21",
       "mark_multiple": 7.96
     }
   },
   "headlines": [
-    "S&P 500 fell about 2.2% Fri, seventh straight loss; S&P and Dow now in correction, Nasdaq negative for 2026.",
-    "Chip rout deepened: MU -13%, MRVL -10%, TSM -8.5%, NVDA -7% to a 52-week low.",
-    "Fed now priced for a December hike, about 90% odds of 25bp; 10yr eased under 5%.",
-    "Anthropic gave back about 12% on day two but stayed above its $83 IPO price.",
-    "GPU rental rates held flat while AI stocks fell: H100 $3.11/hr, B200 $6.94/hr.",
-    "Next: HPE earnings Mon after close (Tue 9am AEDT); US GDP and PCE Thu 12:30am AEDT."
+    "Fri closes confirmed: NVDA -14%, MU -14%, MRVL -12%, ENPH -11%, TSM -9.5%; RKT +4%.",
+    "No material holding news over the weekend; takes unchanged.",
+    "H100 rent $3.08/hr Nov 20, roughly flat; B200 $7.10/hr. Compute demand not cracking.",
+    "Broadcom reports Dec 9 US time (Thu Dec 10 morning AEDT), after Fed decision day.",
+    "Next: HPE Mon after close (Tue 9am AEDT); US GDP and PCE Thu 12:30am AEDT."
   ]
 }

@@ -1,66 +1,6 @@
 {
-  "as_of": "2026-11-20",
+  "as_of": "2026-11-21",
   "events": [
-    {
-      "key": "2026-11-19-trump-xi-putin-apec",
-      "date": "2026-11-19",
-      "time": "APEC Shenzhen, Nov 18-19",
-      "ticker": "",
-      "title": "Trump-Xi at APEC: no truce extension, 'strategic stability' action plan",
-      "type": "other",
-      "why": "Truce still expires Jan 10, 2027; chips and rare earths not addressed. Read for BABA, TSM, NVDA.",
-      "link": "https://asia.nikkei.com/politics/international-relations/apec/apec-live-how-events-in-shenzhen-unfolded"
-    },
-    {
-      "key": "2026-11-19-anthropic-ant-trading",
-      "date": "2026-11-19",
-      "time": "Traded from Nasdaq open Thu ET (Fri AEDT)",
-      "ticker": "ANT",
-      "title": "Anthropic debuts on Nasdaq as ANT, about +17% day one",
-      "type": "other",
-      "why": "Loved company. Early lift to AI names faded; Nasdaq closed -2.25%.",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-nvidia-slides-as-investors-weigh-ceo-transition-fallout-despite-strong-q3-results/"
-    },
-    {
-      "key": "2026-11-19-baba-q2-fy27",
-      "date": "2026-11-19",
-      "time": "Before US open; call 7:00am ET (Thu 11:00pm AEDT)",
-      "ticker": "BABA",
-      "title": "Alibaba September quarter results and call (confirmed)",
-      "type": "earnings",
-      "why": "Holding; cloud/AI growth and capex read",
-      "link": "https://investingnews.com/alibaba-group-will-announce-september-quarter-2026-results-on-november-19-2026/"
-    },
-    {
-      "key": "2026-11-19-intu-q1",
-      "date": "2026-11-19",
-      "time": "After close (Fri 8:00am AEDT)",
-      "ticker": "INTU",
-      "title": "Intuit fiscal Q1 results",
-      "type": "earnings",
-      "why": "AI pressure on software.",
-      "link": "https://investrade.com/weekly-event-calendar-11-16-2026-11-20-2026/"
-    },
-    {
-      "key": "2026-11-19-philly-fed",
-      "date": "2026-11-19",
-      "time": "8:30am ET (Fri 12:30am AEDT)",
-      "ticker": "MACRO",
-      "title": "Jobless claims and Philly Fed, November",
-      "type": "macro",
-      "why": "Labour and factory read before PCE.",
-      "link": "https://investrade.com/weekly-event-calendar-11-16-2026-11-20-2026/"
-    },
-    {
-      "key": "2026-11-19-wmt-q3",
-      "date": "2026-11-19",
-      "time": "Before open (Thu ~10:00pm AEDT)",
-      "ticker": "WMT",
-      "title": "Walmart Q3 results",
-      "type": "earnings",
-      "why": "US consumer into holidays.",
-      "link": "https://investrade.com/weekly-event-calendar-11-16-2026-11-20-2026/"
-    },
     {
       "key": "2026-11-20-umich-final",
       "date": "2026-11-20",
@@ -330,6 +270,16 @@
       "type": "macro",
       "why": "Last payrolls print before the December FOMC, where a quarter-point hike is ~92% priced.",
       "link": "https://www.bls.gov/schedule/2026/12_sched_list.htm"
+    },
+    {
+      "key": "2026-12-09-avgo-q4",
+      "date": "2026-12-09",
+      "time": "after close (call 5pm ET)",
+      "ticker": "AVGO",
+      "title": "Broadcom Q4 FY26 earnings",
+      "type": "earnings",
+      "why": "Custom AI silicon and networking read after the chip rout; guide was about $34.8B revenue",
+      "link": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announce-fourth-quarter-and-fiscal-year-2026"
     }
   ]
 }
