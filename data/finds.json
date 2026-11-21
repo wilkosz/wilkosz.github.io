@@ -1,12 +1,11 @@
 {
-  "as_of": "2026-11-21T00:30",
-  "summary": "Quiet market. All 25 live finds re-opened and still listed at the same prices. No new tractor under 4,500 hours with a loader in range: the tractors that did turn up were 6,000 to 13,600 hours or over budget.",
+  "as_of": "2026-11-21T12:07",
+  "summary": "Quiet week. All 24 live finds were re-opened and are still listed at the same prices. Grays had only three ag lots and Slattery nothing in range; Pickles tractors are WA/SA or high-hour with no loader, opening 7 Dec. The 2013 JD 5093E at Culcairn ($75k) and 2022 Kubota M9540DH ($52.8k, 1,886 hours) are still the tractors to call.",
   "headlines": [
-    "Quiet run: nothing new worth a call.",
-    "All 25 live finds still listed, no price changes.",
-    "Best tractor still the 2022 Kubota M9540DH, 95hp, 1,886 hours, $52,800.",
-    "Grays MF 8110 at Jamberoo passed over: 6,290 hours, no loader.",
-    "Pickles 2014 MF 5430 with loader goes to auction 7 Dec; Fuelcube tank 24 Nov."
+    "Nothing new worth a call today; all 24 live finds still listed, no price moves.",
+    "New: 400 L steel diesel tank in a quad trailer, $200, Newbridge, about 390km.",
+    "Pickles 2014 MF 5430 with loader (2,559 hours, Dubbo) opens for bids 7 Dec.",
+    "Grays and Slattery: no tractors, discs or cabins within 400km this run."
   ],
   "finds": [
     {
@@ -273,6 +272,29 @@
       "first_seen": "2026-10-22",
       "updated": "2026-11-19",
       "photo": "img/finds/fb-913292798511535.jpg"
+    },
+    {
+      "key": "gumtree-1345556315",
+      "want": "diesel-storage",
+      "title": "400 L steel diesel tank in a small trailer",
+      "price_aud": 200,
+      "location": "Newbridge, NSW",
+      "distance_km": 390,
+      "detail": [
+        "400 L, 3mm mine-spec steel",
+        "in a trailer, towed with a quad; no lights or rego",
+        "just drained of diesel, removable top for cleaning",
+        "no pump or hose mentioned"
+      ],
+      "source": "Gumtree",
+      "url": "https://www.gumtree.com.au/web/listing/other-farming-vehicles-equipment/1345556315",
+      "verdict": "decent",
+      "why": "Cheapest clean diesel-only tank this week and towable, but near the 400km limit and you'd add a pump.",
+      "status": "live",
+      "first_seen": "2026-11-21",
+      "updated": "2026-11-21",
+      "photo": "img/finds/gumtree-1345556315.jpg",
+      "photo_url": "https://images.gumtree.com.au/image/private/t_$_58/gumtree/bbb6e096-b6db-4020-abe4-763393c9b389.jpg"
     },
     {
       "key": "fb-1680015046874285",
