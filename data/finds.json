@@ -1,11 +1,11 @@
 {
-  "as_of": "2026-11-22T00:07",
-  "summary": "Quiet market. Every live find is still listed and only one price moved. No new tractor with a loader, 90-140hp and under 4,500 hours turned up within 400km and $80k; the closest miss was a 2018 MF 5610 at Moss Vale, 3,999 hours, $87,890 inc GST, about 530km away.",
+  "as_of": "2026-11-22T12:07",
+  "summary": "Quiet market. None of the 26 live finds sold or changed price. The only new listing that clears the tractor brief is a 2024 Kioti PX1053 with loader in Bendigo. Nothing new within 400km for offset discs, rippers, portable homes or diesel storage.",
   "headlines": [
-    "Shearer 24-plate offset disc at Echuca down $1,000 to $4,500 ONO.",
-    "Pickles 2014 MF 5430 Dyna-4 with loader, 2,559 hours, opens for bids 7 Dec.",
-    "No new tractor cleared the list: MF 5610 at Moss Vale, 3,999 hours, $87,890 inc GST, 530km.",
-    "Every other live find unchanged; nothing sold since the last run."
+    "New: 2024 Kioti PX1053 with loader and 4-in-1 bucket, 969 hours, $69,500 inc GST, Bendigo, about 300km.",
+    "All 26 live finds still listed at the same price; nothing sold.",
+    "Pickles fuel tank (Fuelcube 1,000 L) auction opens 24 Nov; MF 5430 opens 7 Dec.",
+    "No new offset discs, rippers, cabins or diesel tanks within 400km worth listing."
   ],
   "finds": [
     {
@@ -718,6 +718,31 @@
       "photo": "img/finds/fb-1027921470152750.jpg"
     },
     {
+      "key": "fb-1220528560481037",
+      "want": "tractor",
+      "title": "2024 Kioti PX1053 4WD cab tractor with loader and 4-in-1 bucket, 969 hours",
+      "price_aud": 69500,
+      "price_note": "inc GST, private seller",
+      "location": "Bendigo, VIC",
+      "distance_km": 300,
+      "detail": [
+        "969 hours",
+        "about 105hp Perkins engine",
+        "loader with 4-in-1 bucket",
+        "power shuttle, 4WD",
+        "A/C cab, air seat",
+        "no service history stated"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1220528560481037/",
+      "verdict": "strong",
+      "why": "Two-year-old cab tractor with loader under 1,000 hours, $10,500 under budget and about 300km away.",
+      "status": "live",
+      "first_seen": "2026-11-22",
+      "updated": "2026-11-22",
+      "photo": "img/finds/fb-1220528560481037.jpg"
+    },
+    {
       "key": "fb-1450344739854512",
       "want": "tractor",
       "title": "2013 John Deere 5093E with H240 loader, 1,748 hours",
@@ -894,32 +919,6 @@
       "updated": "2026-11-22",
       "photo": "img/finds/fms-oag-ad-26332484.jpg",
       "photo_url": "https://farmmachinerysales.pxcrush.net/farmmachinerysales/cars/dealer/69iqb8npoxxmrm1z9j5skblkr.jpg"
-    },
-    {
-      "key": "pickles-62469452",
-      "want": "tractor",
-      "title": "2014 Massey Ferguson 5430 Dyna-4 with loader, 2,559 hours",
-      "price_aud": null,
-      "price_note": "auction opens 7 Dec 2026, buyer premium applies",
-      "location": "Dubbo, NSW",
-      "distance_km": 390,
-      "detail": [
-        "2,559 hours",
-        "hp not stated on listing (model rated about 100hp)",
-        "loader fitted",
-        "Dyna-4 transmission",
-        "partial service history"
-      ],
-      "source": "Pickles",
-      "url": "https://www.pickles.com.au/used/details/machinery/2014-massey-ferguson-5430-dyna-4/62469452",
-      "verdict": "decent",
-      "why": "Named brand, loader and 2,559 hours; no price until bidding opens and it sits right on the 400km limit.",
-      "status": "live",
-      "ends": "2026-12-07",
-      "first_seen": "2026-11-20",
-      "updated": "2026-11-22",
-      "photo": "img/finds/pickles-62469452.jpg",
-      "photo_url": "https://www.pickles.com.au/images/transform/b3392bdb-b03c-49a0-959a-14fe575c7cc8/0de2736c-fc6e-4de2-86f1-5021ce255e7e.jpeg"
     }
   ]
 }
