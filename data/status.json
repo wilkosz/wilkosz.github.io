@@ -1,12 +1,12 @@
 {
-  "as_of": "2026-11-21T18:07",
-  "market_summary": "Weekend; markets shut since the Fri Nov 20 close. No new holding news found since the last run. The chip selloff (NVDA -14%, MU -14%, MRVL -12% Fri) stands; GPU rents were firm into the weekend. Fed still priced for a Dec 9 hike.",
+  "as_of": "2026-11-22T06:07",
+  "market_summary": "Sunday; US markets shut since the Fri Nov 20 close and no new holding news found this run. Chips carry last week's selloff into Monday. Thanksgiving-shortened week: GDP and PCE Wed US time, then the Fed blackout from Nov 28 ahead of the Dec 9 decision.",
   "takes": {
     "AMZN": {
       "take": "hold",
       "reason": "Closed Fri down 4.1% with megacaps; no company news, AWS thesis intact.",
       "price_usd": 246.82,
-      "updated": "2026-11-21",
+      "updated": "2026-11-22",
       "pe_forward": 24.96,
       "source": "https://stockanalysis.com/stocks/amzn/statistics/"
     },
@@ -14,7 +14,7 @@
       "take": "hold",
       "reason": "Down 2.2% Fri; forward PE ~8.4, little AI exposure.",
       "price_usd": 84.46,
-      "updated": "2026-11-21",
+      "updated": "2026-11-22",
       "pe_forward": 8.39,
       "source": "https://stockanalysis.com/stocks/ax/statistics/"
     },
@@ -22,7 +22,7 @@
       "take": "hold",
       "reason": "Down 2.7% Fri; forward PE ~9.6, cloud growth thesis unchanged.",
       "price_usd": 81.08,
-      "updated": "2026-11-21",
+      "updated": "2026-11-22",
       "pe_forward": 9.57,
       "source": "https://stockanalysis.com/stocks/baba/statistics/"
     },
@@ -30,7 +30,7 @@
       "take": "watch",
       "reason": "Down 10.7% Fri with no company news; hike pricing weighs on residential solar.",
       "price_usd": 19.63,
-      "updated": "2026-11-21",
+      "updated": "2026-11-22",
       "pe_forward": 19.1,
       "source": "https://stockanalysis.com/stocks/enph/statistics/"
     },
@@ -38,7 +38,7 @@
       "take": "watch",
       "reason": "Down 7.7% Fri alongside crypto weakness; wait for stabilisation.",
       "price_usd": 23.84,
-      "updated": "2026-11-21",
+      "updated": "2026-11-22",
       "pe_forward": 16.53,
       "source": "https://stockanalysis.com/stocks/figr/statistics/"
     },
@@ -46,7 +46,7 @@
       "take": "hold",
       "reason": "Down 2.7% Fri, far less than chips; cheapest megacap held, Anthropic stake marked to market.",
       "price_usd": 265.29,
-      "updated": "2026-11-21",
+      "updated": "2026-11-22",
       "pe_forward": 19.29,
       "source": "https://stockanalysis.com/stocks/googl/statistics/"
     },
@@ -54,14 +54,14 @@
       "take": "trim",
       "reason": "Down 17% Fri, listing-compliance risk and no forward earnings; weakest position.",
       "price_usd": 0.35,
-      "updated": "2026-11-21",
+      "updated": "2026-11-22",
       "source": "https://stockanalysis.com/stocks/ldi/statistics/"
     },
     "META": {
       "take": "hold",
       "reason": "Down 5.9% Fri on AI capex fears; no company-specific news.",
       "price_usd": 560.84,
-      "updated": "2026-11-21",
+      "updated": "2026-11-22",
       "pe_forward": 17.02,
       "source": "https://stockanalysis.com/stocks/meta/statistics/"
     },
@@ -69,7 +69,7 @@
       "take": "watch",
       "reason": "Down 11.7% Fri after this week's downgrade; earnings Dec 1 US time are the next test.",
       "price_usd": 122.28,
-      "updated": "2026-11-21",
+      "updated": "2026-11-22",
       "pe_forward": 21.68,
       "source": "https://stockanalysis.com/stocks/mrvl/statistics/"
     },
@@ -77,7 +77,7 @@
       "take": "hold",
       "reason": "Down 13.9% Fri, about 22% over the week; forward PE ~3.4. Don't sell into panic.",
       "price_usd": 594.51,
-      "updated": "2026-11-21",
+      "updated": "2026-11-22",
       "pe_forward": 3.37,
       "source": "https://stockanalysis.com/stocks/mu/statistics/"
     },
@@ -85,7 +85,7 @@
       "take": "hold",
       "reason": "Down 3% Fri, little AI exposure; relative ballast.",
       "price_usd": 56.73,
-      "updated": "2026-11-21",
+      "updated": "2026-11-22",
       "pe_forward": 15.8,
       "source": "https://stockanalysis.com/stocks/nflx/statistics/"
     },
@@ -93,7 +93,7 @@
       "take": "hold",
       "reason": "Down 14% Fri to a 52-week low on CEO exit and export subpoena; forward PE ~8.7 prices a lot of fear.",
       "price_usd": 125.53,
-      "updated": "2026-11-21",
+      "updated": "2026-11-22",
       "pe_forward": 8.65,
       "source": "https://stockanalysis.com/stocks/nvda/statistics/"
     },
@@ -101,7 +101,7 @@
       "take": "hold",
       "reason": "Up 4.3% Fri as the 10yr eased under 5%; rare green holding.",
       "price_usd": 13.75,
-      "updated": "2026-11-21",
+      "updated": "2026-11-22",
       "pe_forward": 23.56,
       "source": "https://stockanalysis.com/stocks/rkt/statistics/"
     },
@@ -109,7 +109,7 @@
       "take": "hold",
       "reason": "Down 9.5% Fri as Taiwan sold off; foundry position unchanged.",
       "price_usd": 318.71,
-      "updated": "2026-11-21",
+      "updated": "2026-11-22",
       "pe_forward": 15.26,
       "source": "https://stockanalysis.com/stocks/tsm/statistics/"
     },
@@ -117,20 +117,21 @@
       "take": "hold",
       "reason": "No new round or tender reported; mark unchanged.",
       "price_usd": null,
-      "updated": "2026-11-21",
+      "updated": "2026-11-22",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
       "reason": "No new round found; last tender Aug at $852B. Anthropic's post-IPO slide is the public comp to watch.",
       "price_usd": null,
-      "updated": "2026-11-21",
+      "updated": "2026-11-22",
       "mark_multiple": 7.96
     }
   },
   "headlines": [
-    "Weekend: no new trading or holding news since the last run; takes unchanged.",
+    "Weekend: no new holding news since the last run; all takes unchanged.",
     "Fri closes stand: NVDA -14%, MU -14%, MRVL -12%, ENPH -11%, TSM -9.5%; RKT +4%.",
-    "Next: HPE Mon after US close (Tue morning AEDT); US GDP and PCE Wed US time."
+    "Next: HPE and flash PMI Mon US time = Tue morning AEDT.",
+    "US GDP and PCE Wed 8:30am ET = Thu 12:30am AEDT; US closed Thu for Thanksgiving."
   ]
 }

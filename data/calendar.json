@@ -1,36 +1,6 @@
 {
-  "as_of": "2026-11-21",
+  "as_of": "2026-11-22",
   "events": [
-    {
-      "key": "2026-11-20-umich-final",
-      "date": "2026-11-20",
-      "time": "10:00am ET (Sat 2:00am AEDT)",
-      "ticker": "MACRO",
-      "title": "Michigan consumer sentiment, November final",
-      "type": "macro",
-      "why": "Inflation expectations.",
-      "link": "https://www.sca.isr.umich.edu/"
-    },
-    {
-      "key": "2026-11-20-pboc-lpr",
-      "date": "2026-11-20",
-      "time": "9:00am Beijing (Fri 12:00pm AEDT)",
-      "ticker": "MACRO",
-      "title": "China loan prime rates",
-      "type": "central_bank",
-      "why": "China easing stance.",
-      "link": "https://www.newsquawk.com/headlines/week-in-focus--16-20th-november-2026-highlights-include-us-retail-sales-fomc-minutes-chinese-activity-data-pboc-lpr-rba-minutes-uk-inflation-and-uk-jobs"
-    },
-    {
-      "key": "2026-11-20-fed-waller-cook",
-      "date": "2026-11-20",
-      "time": "Waller 8:25am ET (Sat 12:25am AEDT); Cook 12:15pm ET (Sat 4:15am AEDT)",
-      "ticker": "MACRO",
-      "title": "Fed's Waller (welcome remarks, College Fed Challenge) and Cook speech, 'The U.S. Economy in Global Context', Santiago",
-      "type": "central_bank",
-      "why": "Confirmed on Fed calendar. Cook is the one to read for December hike.",
-      "link": "https://www.federalreserve.gov/newsevents/2026-november.htm"
-    },
     {
       "key": "2026-11-21-keyence-split",
       "date": "2026-11-21",
