@@ -1,6 +1,6 @@
 {
-  "as_of": "2026-11-22T06:07",
-  "market_summary": "Sunday; US markets shut since the Fri Nov 20 close and no new holding news found this run. Chips carry last week's selloff into Monday. Thanksgiving-shortened week: GDP and PCE Wed US time, then the Fed blackout from Nov 28 ahead of the Dec 9 decision.",
+  "as_of": "2026-11-22T18:07",
+  "market_summary": "Still the weekend: US markets shut since the Fri Nov 20 close; no new holding news found. Futures reopen Sun 6pm ET = Mon 10am AEDT. Thanksgiving-shortened week with GDP and PCE Wed US time, then the Fed blackout from Nov 28 ahead of the Dec 9 decision.",
   "takes": {
     "AMZN": {
       "take": "hold",
@@ -129,9 +129,9 @@
     }
   },
   "headlines": [
-    "Weekend: no new holding news since the last run; all takes unchanged.",
+    "No new holding news since the last run; takes unchanged.",
     "Fri closes stand: NVDA -14%, MU -14%, MRVL -12%, ENPH -11%, TSM -9.5%; RKT +4%.",
-    "Next: HPE and flash PMI Mon US time = Tue morning AEDT.",
+    "US futures reopen Mon 10am AEDT; watch whether the chip selloff extends.",
     "US GDP and PCE Wed 8:30am ET = Thu 12:30am AEDT; US closed Thu for Thanksgiving."
   ]
 }
