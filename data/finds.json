@@ -1,11 +1,11 @@
 {
-  "as_of": "2026-11-23T00:07",
-  "summary": "Quiet run. Every live find was re-opened and all but one are still listed at the same price. Nothing new cleared the must list within 400km: the tractors that turned up were either over 4,500 hours, under 90hp, or in Queensland.",
+  "as_of": "2026-11-23T12:07",
+  "summary": "Quiet market. Tractor listings within 400km with a loader under 4,500 hours are still scarce; most auction tractors this week are in QLD or have no loader. Offset discs and diesel tanks keep turning over on Facebook at steady prices.",
   "headlines": [
-    "Nothing new worth a call today.",
-    "Shearer 24-plate offset disc (Echuca, $4,500) is no longer listed.",
-    "Grays has three Case and Kubota tractors in the 95-125hp range, all in Queensland and none with a loader bucket.",
-    "H&P Hanwood has a 2015 NH T6050 with loader at $60,500, but 8,615 hours."
+    "2013 John Deere 5093E with loader, Culcairn, now $70,000, down from $75,000.",
+    "New: John Shearer 24-plate offset disc, hydraulic lift, $9,500, Undera VIC, about 280km.",
+    "Sold: unused expandable container house with ensuite, Yass, $24,000.",
+    "Grays and Slattery: no tractors, cabins or tanks within 400km this run."
   ],
   "finds": [
     {
@@ -494,6 +494,27 @@
       "photo": "img/finds/fb-1576107450589526.jpg"
     },
     {
+      "key": "fb-1736086710766636",
+      "want": "offset-discs",
+      "title": "John Shearer 24-plate offset disc, hydraulic lift",
+      "price_aud": 9500,
+      "location": "Undera, VIC",
+      "distance_km": 280,
+      "detail": [
+        "24 plates",
+        "hydraulic lift",
+        "greased every use, seller says like new",
+        "working width not stated"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1736086710766636/",
+      "verdict": "decent",
+      "why": "Known Australian brand at 24 plates with a lift ram; confirm cut width before calling it a fit.",
+      "status": "live",
+      "first_seen": "2026-11-23",
+      "updated": "2026-11-23"
+    },
+    {
       "key": "fb-1117657974131225",
       "want": "portable-home",
       "title": "Expanding container cabin, 2 bed, full bathroom, base unit (new)",
@@ -638,7 +659,7 @@
       "url": "https://www.facebook.com/marketplace/item/1612100457131659/",
       "verdict": "decent",
       "why": "Main room plus ensuite inside budget, closer than the Victorian units; no kitchen fitted.",
-      "status": "live",
+      "status": "sold",
       "first_seen": "2026-11-15",
       "updated": "2026-11-23",
       "photo": "img/finds/fb-1612100457131659.jpg"
@@ -698,7 +719,7 @@
       "key": "fb-1450344739854512",
       "want": "tractor",
       "title": "2013 John Deere 5093E with H240 loader, 1,748 hours",
-      "price_aud": 75000,
+      "price_aud": 70000,
       "price_note": "ONO, private seller",
       "location": "Culcairn, NSW",
       "distance_km": 260,
