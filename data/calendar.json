@@ -192,6 +192,16 @@
       "link": "https://investor.marvell.com/news-events/press-releases/detail/1041/marvell-technology-inc-announces-conference-call-to-review-third-quarter-of-fiscal-year-2027-financial-results"
     },
     {
+      "key": "2026-12-01-nvda-huang-house",
+      "date": "2026-12-01",
+      "time": "TBC (closed door)",
+      "ticker": "NVDA",
+      "title": "Huang closed-door interview with three House committees",
+      "type": "other",
+      "why": "First testimony since his return as CEO; only a released transcript would be public. Watch for leaks on the Megaspeed/China chip probe.",
+      "link": "https://axios.com/2026/11/17/nvidia-jensen-huang-congress-testify-dates"
+    },
+    {
       "key": "2026-12-02-crm-q3",
       "date": "2026-12-02",
       "time": "After close; call 5:00pm ET (Thu 9:00am AEDT)",
@@ -212,6 +222,16 @@
       "link": "https://www.abs.gov.au/release-calendar/future-releases/202612"
     },
     {
+      "key": "2026-12-02-nvda-teter-house",
+      "date": "2026-12-02",
+      "time": "TBC (closed door)",
+      "ticker": "NVDA",
+      "title": "Nvidia general counsel Tim Teter, closed-door House interview",
+      "type": "other",
+      "why": "Second leg of the House chip-smuggling inquiry.",
+      "link": "https://axios.com/2026/11/17/nvidia-jensen-huang-congress-testify-dates"
+    },
+    {
       "key": "2026-12-02-zs-q1",
       "date": "2026-12-02",
       "time": "After close; call 1:30pm PT (Thu 8:30am AEDT)",
@@ -230,6 +250,16 @@
       "type": "macro",
       "why": "Services prices feed the hike-size debate.",
       "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
+    },
+    {
+      "key": "2026-12-03-nvda-senate-hearing",
+      "date": "2026-12-03",
+      "time": "TBC; date requested, not final",
+      "ticker": "NVDA",
+      "title": "Senate Banking public hearing requested with Huang; Commerce's Kessler asked to testify to House",
+      "type": "other",
+      "why": "Only public session in the probe. Sen. Tim Scott has floated a subpoena if Huang declines. Headline risk for NVDA and export rules.",
+      "link": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate"
     },
     {
       "key": "2026-12-04-us-jobs-nov",

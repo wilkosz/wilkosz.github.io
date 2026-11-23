@@ -1,139 +1,139 @@
 {
-  "as_of": "2026-11-23T06:07",
-  "market_summary": "US stocks had their worst week in more than 18 months: the S&P 500 and Dow are in correction, and the Nasdaq-100 is down about 10.5% on the week, near bear territory. Futures bounced Sunday night, with the S&P +2% and the Nasdaq-100 +2.8%. Rates are a headwind: markets still lean towards a Fed hike in December, and the 10-year yield rose about 4bp overnight. Doubts about returns on AI capex and the Nvidia probes drove the selloff, yet AI server prices are up as much as 45%, so demand has not broken. Brent fell 0.8% while European gas rose as much as 8.6%. China cut its margin requirement to 80% to prop up stocks.",
+  "as_of": "2026-11-23T18:40",
+  "market_summary": "Nvidia's board reinstated Jensen Huang as CEO before Monday's open, 12 days after he resigned. NVDA traded about 31% higher; the Nasdaq was up about 6.7% and the S&P 500 about 4.8% mid-afternoon, ending a seven-day losing streak, with the VIX down 22%. Chips and power names led. Rates are still a headwind: the 10-year is near 4.94% and markets price about a 92% chance of a Fed hike on Dec 9. WTI fell about 2.8%, and China and Hong Kong closed lower before the US rebound. Figures are intraday, not closes.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "FT says Amazon is in advanced talks to buy Decart for about $7.5B (AI chip-switching software). Fwd PE about 25.",
-      "price_usd": 246.82,
+      "reason": "Up ~5% in broad rebound; reported ~$7.5B Decart deal targets Trainium software, possible re:Invent reveal Nov 30.",
+      "price_usd": 258.68,
       "updated": "2026-11-23",
-      "pe_forward": 24.96,
+      "pe_forward": 26.16,
       "source": "https://stockanalysis.com/stocks/amzn/statistics/"
     },
     "AXOS": {
       "take": "hold",
-      "reason": "No company news. Fwd PE about 8.4.",
-      "price_usd": 84.46,
+      "reason": "Up ~2% with the market; no company news. Forward PE under 9 stays cheap.",
+      "price_usd": 86.07,
       "updated": "2026-11-23",
-      "pe_forward": 8.39,
+      "pe_forward": 8.58,
       "source": "https://stockanalysis.com/stocks/ax/statistics/"
     },
     "BABA": {
       "take": "hold",
-      "reason": "Hang Seng opened -1.1% Monday. China cuts the minimum margin requirement from 100% to 80% from Nov 30. Fwd PE under 10.",
-      "price_usd": 81.08,
+      "reason": "Up ~7% in risk-on rebound; no company-specific news found.",
+      "price_usd": 86.71,
       "updated": "2026-11-23",
-      "pe_forward": 9.57,
+      "pe_forward": 9.52,
       "source": "https://stockanalysis.com/stocks/baba/statistics/"
     },
     "ENPH": {
       "take": "watch",
-      "reason": "No company news. Brent -0.8%, European gas up as much as 8.6%. Fwd PE about 19.",
-      "price_usd": 19.63,
+      "reason": "Up ~7% on the bounce but still well off highs; no new company news.",
+      "price_usd": 20.93,
       "updated": "2026-11-23",
-      "pe_forward": 19.1,
+      "pe_forward": 20.04,
       "source": "https://stockanalysis.com/stocks/enph/statistics/"
     },
     "FIGR": {
       "take": "hold",
-      "reason": "No company news. Bitcoin fell 5% to a 14-month low, then bounced. Fwd PE about 17.",
-      "price_usd": 23.84,
+      "reason": "Up ~9% with fintech and crypto rebound; bitcoin back above 63k, still down 18% for November.",
+      "price_usd": 25.97,
       "updated": "2026-11-23",
-      "pe_forward": 16.53,
+      "pe_forward": 17.98,
       "source": "https://stockanalysis.com/stocks/figr/statistics/"
     },
     "GOOGL": {
       "take": "hold",
-      "reason": "No company news; fell with the Nasdaq (-5.3% Fri). Fwd PE about 19.",
-      "price_usd": 265.29,
+      "reason": "Up ~6-7% as AI names rebound on Huang's return; no company-specific news.",
+      "price_usd": 284.0,
       "updated": "2026-11-23",
-      "pe_forward": 19.29,
+      "pe_forward": 20.65,
       "source": "https://stockanalysis.com/stocks/googl/statistics/"
     },
     "LDI": {
       "take": "watch",
-      "reason": "No company news. Penny stock with no forward PE; rate-hike risk weighs on mortgage lenders.",
-      "price_usd": 0.35,
+      "reason": "Up ~9% on the rebound but a sub-dollar penny stock with no forward earnings; rate-hike odds near 91% weigh on mortgages.",
+      "price_usd": 0.3805,
       "updated": "2026-11-23",
       "source": "https://stockanalysis.com/stocks/ldi/statistics/"
     },
     "META": {
       "take": "hold",
-      "reason": "No company news; doubts over AI capex returns drove the selloff. Fwd PE about 17.",
-      "price_usd": 560.84,
+      "reason": "Up ~6% in AI rebound; no company-specific news.",
+      "price_usd": 596.44,
       "updated": "2026-11-23",
-      "pe_forward": 17.02,
+      "pe_forward": 18.11,
       "source": "https://stockanalysis.com/stocks/meta/statistics/"
     },
     "MRVL": {
       "take": "hold",
-      "reason": "-12% Fri on the chip rout, no Marvell-specific news. Up about 3% after hours. Fwd PE about 22.",
-      "price_usd": 122.28,
+      "reason": "Up ~18% as AI chips rip on Nvidia leadership fix; follows a ~10% Nasdaq weekly drop.",
+      "price_usd": 144.31,
       "updated": "2026-11-23",
-      "pe_forward": 21.68,
+      "pe_forward": 25.62,
       "source": "https://stockanalysis.com/stocks/mrvl/statistics/"
     },
     "MU": {
       "take": "hold",
-      "reason": "-14% Fri, -24% on the week, caught in the Nvidia selloff. Fwd PE about 3.4 assumes the memory cycle peaks. Server prices up as much as 45% say demand is still there.",
-      "price_usd": 594.51,
+      "reason": "Up ~19% with memory names (SanDisk +14%); forward PE near 4 still low after the rebound.",
+      "price_usd": 705.68,
       "updated": "2026-11-23",
-      "pe_forward": 3.37,
+      "pe_forward": 4.0,
       "source": "https://stockanalysis.com/stocks/mu/statistics/"
     },
     "NFLX": {
       "take": "hold",
-      "reason": "No new news. Little AI exposure. Fwd PE about 16.",
-      "price_usd": 56.73,
+      "reason": "Up ~2%, lagging the tech rebound; no company news.",
+      "price_usd": 58.12,
       "updated": "2026-11-23",
-      "pe_forward": 15.8,
+      "pe_forward": 16.19,
       "source": "https://stockanalysis.com/stocks/nflx/statistics/"
     },
     "NVDA": {
       "take": "hold",
-      "reason": "-14% Fri, about -23% on the week after Reuters reported an SEC accounting probe. Fwd PE under 9. Nasdaq futures +2.8% Sunday night. No adding until the Dec 1 and Dec 3 hearings.",
-      "price_usd": 125.53,
+      "reason": "Up ~31% Monday after board reinstated Jensen Huang as CEO; SEC accounting probe and Dec 1 congressional appearance still open.",
+      "price_usd": 164.32,
       "updated": "2026-11-23",
-      "pe_forward": 8.65,
+      "pe_forward": 11.33,
       "source": "https://stockanalysis.com/stocks/nvda/statistics/"
     },
     "RKT": {
-      "take": "hold",
-      "reason": "No company news. 10-year yield up about 4bp overnight and a Fed hike is still on the table, which is bad for mortgage volume.",
-      "price_usd": 13.75,
+      "take": "watch",
+      "reason": "Up ~2%; ~91% odds of a December Fed hike and 10-yr near 4.9% pressure mortgage volumes.",
+      "price_usd": 13.98,
       "updated": "2026-11-23",
-      "pe_forward": 23.56,
+      "pe_forward": 23.72,
       "source": "https://stockanalysis.com/stocks/rkt/statistics/"
     },
     "TSM": {
       "take": "hold",
-      "reason": "Up 2.3% in Taipei Monday as the Taiex bounced. Fwd PE about 15. Still the safest name in semis.",
-      "price_usd": 318.71,
+      "reason": "Up ~15% as AI supply chain rebounds on Huang's reinstatement; no company news.",
+      "price_usd": 366.66,
       "updated": "2026-11-23",
-      "pe_forward": 15.27,
+      "pe_forward": 17.53,
       "source": "https://stockanalysis.com/stocks/tsm/statistics/"
     },
     "STRIPE": {
       "take": "hold",
-      "reason": "No new round reported.",
+      "reason": "No new round or tender reported.",
       "price_usd": null,
       "updated": "2026-11-23",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "No new round since the Nov 6 first close at $1.25T.",
+      "reason": "No new valuation round; Oracle says its OpenAI infrastructure contract is now fully funded.",
       "price_usd": null,
       "updated": "2026-11-23",
       "mark_multiple": 7.96
     }
   },
   "headlines": [
-    "SEC is reportedly probing Nvidia's accounting, incl. Singapore revenue; NVDA fell about 23% last week.",
-    "US futures up 2-3% Mon after the worst week in 18 months; US opens Tue 1:30am AEDT.",
-    "TSMC +2.3% in Taipei Mon; Kospi -3.6%, Hang Seng -1.1%.",
-    "Amazon reportedly in advanced talks to buy Decart for about $7.5B.",
-    "Anthropic (ANT) fell about 9% in its second session Fri.",
+    "Huang reinstated as Nvidia CEO; NVDA about +31%, Nasdaq about +6.7% Monday intraday.",
+    "Chips lead the rebound: MU +19%, MRVL +18%, TSM +15%; watchlist ALAB +21%, SKHY +20%.",
+    "SEC probe still open: Huang's closed-door House interview Dec 1, Senate hearing requested Dec 3.",
+    "Fed hike on Dec 9 still about 92% priced; RKT and LDI moved to watch.",
+    "Amazon reportedly paying about $7.5B for Decart; may land at re:Invent from Nov 30.",
     "US GDP and PCE Wed 8:30am ET = Thu 12:30am AEDT; US closed Thu."
   ]
 }

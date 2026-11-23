@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-11-23",
+    "ticker": "NVDA",
+    "headline": "Nvidia board reinstates Jensen Huang as CEO; shares jump ~30%",
+    "summary": "Board named Huang president, CEO and chair effective immediately. Stock had fallen 40%+ over the prior month. SEC accounting probe, shareholder suits and a Dec 1 congressional appearance remain.",
+    "source": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-23",
+    "ticker": "MARKET",
+    "headline": "Nasdaq up ~6.7%, S&P 500 ~4.8% in sharp rebound",
+    "summary": "Rally broke a seven-day S&P losing streak. MU, TSM, MRVL up 15-19%; GOOGL, META, AMZN up 5-7%. Markets price ~91% odds of a December Fed hike.",
+    "source": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-23",
+    "ticker": "AMZN",
+    "headline": "Amazon reportedly agrees ~$7.5B deal for Decart's chip software",
+    "summary": "Bloomberg: deal targets software to run models on Trainium via Annapurna Labs; Decart's video models excluded. Not confirmed; reveal possible at re:Invent Nov 30.",
+    "source": "https://startupfortune.com/amazon-reportedly-agrees-to-pay-75-billion-for-decarts-technology/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-11-23",
+    "ticker": "NVDA",
+    "headline": "Nvidia reinstates Jensen Huang as CEO; stock +31%",
+    "summary": "Board unanimously reinstated Huang, citing US government input that he poses no national security risk. Nasdaq +6.8%, S&P +5.0% early; CRWV +24%, MU +19%.",
+    "source": "https://abcnews.com/Business/stock-market-rebounds-sharply-after-selloff/story?id=138373790",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-23",
+    "ticker": "MARKET",
+    "headline": "Nvidia reinstates Huang as CEO; Nasdaq up about 6.7% intraday",
+    "summary": "The board voted unanimously and said US government input left it confident Huang poses no national security risk. Kress returns to CFO, and the internal investigation continues. NVDA rose about 31%, and Fed hike odds for Dec 9 are still about 92%.",
+    "source": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm",
+    "impact": "positive"
+  },
+  {
     "date": "2026-11-22",
     "ticker": "NVDA",
     "headline": "DNI says China likely got top Nvidia chips; Bessent pushes to blacklist a Singapore firm",
@@ -597,46 +637,6 @@
     "headline": "Chips lead rebound: S&P tech sector up 2.7%",
     "summary": "Marvell up 9.3%, TSMC up 4.3%, Nvidia up 2.9% in session before the after-hours drop. S&P 500 up 1.3%, Nasdaq up 1.6%.",
     "source": "https://finance.yahoo.com/economy/policy/articles/bonds-reel-hot-inflation-fuels-020451336.html",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-11-11",
-    "ticker": "AAPL",
-    "headline": "Apple closes at record high, China Renaissance upgrades to Buy",
-    "summary": "Shares rose about 2% to about $355.63, an all-time closing high, for a market value of about $5.1T. China Renaissance upgraded to Buy with a $425 target.",
-    "source": "https://macdailynews.com/2026/11/11/apple-shares-hit-new-all-time-intraday-and-closing-highs-95",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-11-11",
-    "ticker": "NET",
-    "headline": "Cloudflare up 3% as analysts split",
-    "summary": "Closed at $315.00 (+3%). DZ Bank upgraded to Buy ($300 target); Guggenheim keeps Sell.",
-    "source": "https://stockanalysis.com/stocks/net/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-11-11",
-    "ticker": "SKHY",
-    "headline": "Kospi +2.6%, SK hynix +5.4%; Korea chip exports +331% Nov 1-10",
-    "summary": "Nikkei +1.3%. Samsung +3.4%, Kioxia +5.6%. Lower oil and Iran talk hopes helped.",
-    "source": "https://www.tradingkey.com/analysis/stocks/more/262300120-japan-korea-stocks-skhy-kospi-nikkei-samsung-skhynix-softbank-kioxia-nvda-hbm-tradingkey",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-11-10",
-    "ticker": "MACRO",
-    "headline": "Anthropic pulled its first IPO range as inaccurate; amended filing shows $70-78",
-    "summary": "A $70-80 range for ~867m shares was retracted. The amended filing shows ~825m shares at $70-78, with pricing expected 18 Nov and trading 19 Nov.",
-    "source": "https://investinglive.com/stocks/anthropic-retracts-ipo-pricing-details-sent-to-bankers-says-figures-were-inaccurate/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-11-10",
-    "ticker": "ANTHROPIC",
-    "headline": "Anthropic sets terms: 825M shares at $70-78, about $61B raise",
-    "summary": "About $1.2T fully diluted value at midpoint. Nasdaq ticker ANT; expected to price and trade week of Nov 16 (Nov 19 listing is Thu morning AEST Nov 20).",
-    "source": "https://www.renaissancecapital.com/IPO-Center/News/122657/anthropic-sets-terms-for-61-billion-ipo-targeting-a-1.2-trillion-market-cap",
     "impact": "positive"
   }
 ]
