@@ -1,137 +1,139 @@
 {
-  "as_of": "2026-11-22T18:07",
-  "market_summary": "Still the weekend: US markets shut since the Fri Nov 20 close; no new holding news found. Futures reopen Sun 6pm ET = Mon 10am AEDT. Thanksgiving-shortened week with GDP and PCE Wed US time, then the Fed blackout from Nov 28 ahead of the Dec 9 decision.",
+  "as_of": "2026-11-23T06:07",
+  "market_summary": "US stocks had their worst week in more than 18 months: the S&P 500 and Dow are in correction, and the Nasdaq-100 is down about 10.5% on the week, near bear territory. Futures bounced Sunday night, with the S&P +2% and the Nasdaq-100 +2.8%. Rates are a headwind: markets still lean towards a Fed hike in December, and the 10-year yield rose about 4bp overnight. Doubts about returns on AI capex and the Nvidia probes drove the selloff, yet AI server prices are up as much as 45%, so demand has not broken. Brent fell 0.8% while European gas rose as much as 8.6%. China cut its margin requirement to 80% to prop up stocks.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "Closed Fri down 4.1% with megacaps; no company news, AWS thesis intact.",
+      "reason": "FT says Amazon is in advanced talks to buy Decart for about $7.5B (AI chip-switching software). Fwd PE about 25.",
       "price_usd": 246.82,
-      "updated": "2026-11-22",
+      "updated": "2026-11-23",
       "pe_forward": 24.96,
       "source": "https://stockanalysis.com/stocks/amzn/statistics/"
     },
     "AXOS": {
       "take": "hold",
-      "reason": "Down 2.2% Fri; forward PE ~8.4, little AI exposure.",
+      "reason": "No company news. Fwd PE about 8.4.",
       "price_usd": 84.46,
-      "updated": "2026-11-22",
+      "updated": "2026-11-23",
       "pe_forward": 8.39,
       "source": "https://stockanalysis.com/stocks/ax/statistics/"
     },
     "BABA": {
       "take": "hold",
-      "reason": "Down 2.7% Fri; forward PE ~9.6, cloud growth thesis unchanged.",
+      "reason": "Hang Seng opened -1.1% Monday. China cuts the minimum margin requirement from 100% to 80% from Nov 30. Fwd PE under 10.",
       "price_usd": 81.08,
-      "updated": "2026-11-22",
+      "updated": "2026-11-23",
       "pe_forward": 9.57,
       "source": "https://stockanalysis.com/stocks/baba/statistics/"
     },
     "ENPH": {
       "take": "watch",
-      "reason": "Down 10.7% Fri with no company news; hike pricing weighs on residential solar.",
+      "reason": "No company news. Brent -0.8%, European gas up as much as 8.6%. Fwd PE about 19.",
       "price_usd": 19.63,
-      "updated": "2026-11-22",
+      "updated": "2026-11-23",
       "pe_forward": 19.1,
       "source": "https://stockanalysis.com/stocks/enph/statistics/"
     },
     "FIGR": {
-      "take": "watch",
-      "reason": "Down 7.7% Fri alongside crypto weakness; wait for stabilisation.",
+      "take": "hold",
+      "reason": "No company news. Bitcoin fell 5% to a 14-month low, then bounced. Fwd PE about 17.",
       "price_usd": 23.84,
-      "updated": "2026-11-22",
+      "updated": "2026-11-23",
       "pe_forward": 16.53,
       "source": "https://stockanalysis.com/stocks/figr/statistics/"
     },
     "GOOGL": {
       "take": "hold",
-      "reason": "Down 2.7% Fri, far less than chips; cheapest megacap held, Anthropic stake marked to market.",
+      "reason": "No company news; fell with the Nasdaq (-5.3% Fri). Fwd PE about 19.",
       "price_usd": 265.29,
-      "updated": "2026-11-22",
+      "updated": "2026-11-23",
       "pe_forward": 19.29,
       "source": "https://stockanalysis.com/stocks/googl/statistics/"
     },
     "LDI": {
-      "take": "trim",
-      "reason": "Down 17% Fri, listing-compliance risk and no forward earnings; weakest position.",
+      "take": "watch",
+      "reason": "No company news. Penny stock with no forward PE; rate-hike risk weighs on mortgage lenders.",
       "price_usd": 0.35,
-      "updated": "2026-11-22",
+      "updated": "2026-11-23",
       "source": "https://stockanalysis.com/stocks/ldi/statistics/"
     },
     "META": {
       "take": "hold",
-      "reason": "Down 5.9% Fri on AI capex fears; no company-specific news.",
+      "reason": "No company news; doubts over AI capex returns drove the selloff. Fwd PE about 17.",
       "price_usd": 560.84,
-      "updated": "2026-11-22",
+      "updated": "2026-11-23",
       "pe_forward": 17.02,
       "source": "https://stockanalysis.com/stocks/meta/statistics/"
     },
     "MRVL": {
-      "take": "watch",
-      "reason": "Down 11.7% Fri after this week's downgrade; earnings Dec 1 US time are the next test.",
+      "take": "hold",
+      "reason": "-12% Fri on the chip rout, no Marvell-specific news. Up about 3% after hours. Fwd PE about 22.",
       "price_usd": 122.28,
-      "updated": "2026-11-22",
+      "updated": "2026-11-23",
       "pe_forward": 21.68,
       "source": "https://stockanalysis.com/stocks/mrvl/statistics/"
     },
     "MU": {
       "take": "hold",
-      "reason": "Down 13.9% Fri, about 22% over the week; forward PE ~3.4. Don't sell into panic.",
+      "reason": "-14% Fri, -24% on the week, caught in the Nvidia selloff. Fwd PE about 3.4 assumes the memory cycle peaks. Server prices up as much as 45% say demand is still there.",
       "price_usd": 594.51,
-      "updated": "2026-11-22",
+      "updated": "2026-11-23",
       "pe_forward": 3.37,
       "source": "https://stockanalysis.com/stocks/mu/statistics/"
     },
     "NFLX": {
       "take": "hold",
-      "reason": "Down 3% Fri, little AI exposure; relative ballast.",
+      "reason": "No new news. Little AI exposure. Fwd PE about 16.",
       "price_usd": 56.73,
-      "updated": "2026-11-22",
+      "updated": "2026-11-23",
       "pe_forward": 15.8,
       "source": "https://stockanalysis.com/stocks/nflx/statistics/"
     },
     "NVDA": {
       "take": "hold",
-      "reason": "Down 14% Fri to a 52-week low on CEO exit and export subpoena; forward PE ~8.7 prices a lot of fear.",
+      "reason": "-14% Fri, about -23% on the week after Reuters reported an SEC accounting probe. Fwd PE under 9. Nasdaq futures +2.8% Sunday night. No adding until the Dec 1 and Dec 3 hearings.",
       "price_usd": 125.53,
-      "updated": "2026-11-22",
+      "updated": "2026-11-23",
       "pe_forward": 8.65,
       "source": "https://stockanalysis.com/stocks/nvda/statistics/"
     },
     "RKT": {
       "take": "hold",
-      "reason": "Up 4.3% Fri as the 10yr eased under 5%; rare green holding.",
+      "reason": "No company news. 10-year yield up about 4bp overnight and a Fed hike is still on the table, which is bad for mortgage volume.",
       "price_usd": 13.75,
-      "updated": "2026-11-22",
+      "updated": "2026-11-23",
       "pe_forward": 23.56,
       "source": "https://stockanalysis.com/stocks/rkt/statistics/"
     },
     "TSM": {
       "take": "hold",
-      "reason": "Down 9.5% Fri as Taiwan sold off; foundry position unchanged.",
+      "reason": "Up 2.3% in Taipei Monday as the Taiex bounced. Fwd PE about 15. Still the safest name in semis.",
       "price_usd": 318.71,
-      "updated": "2026-11-22",
-      "pe_forward": 15.26,
+      "updated": "2026-11-23",
+      "pe_forward": 15.27,
       "source": "https://stockanalysis.com/stocks/tsm/statistics/"
     },
     "STRIPE": {
       "take": "hold",
-      "reason": "No new round or tender reported; mark unchanged.",
+      "reason": "No new round reported.",
       "price_usd": null,
-      "updated": "2026-11-22",
+      "updated": "2026-11-23",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "No new round found; last tender Aug at $852B. Anthropic's post-IPO slide is the public comp to watch.",
+      "reason": "No new round since the Nov 6 first close at $1.25T.",
       "price_usd": null,
-      "updated": "2026-11-22",
+      "updated": "2026-11-23",
       "mark_multiple": 7.96
     }
   },
   "headlines": [
-    "No new holding news since the last run; takes unchanged.",
-    "Fri closes stand: NVDA -14%, MU -14%, MRVL -12%, ENPH -11%, TSM -9.5%; RKT +4%.",
-    "US futures reopen Mon 10am AEDT; watch whether the chip selloff extends.",
-    "US GDP and PCE Wed 8:30am ET = Thu 12:30am AEDT; US closed Thu for Thanksgiving."
+    "SEC is reportedly probing Nvidia's accounting, incl. Singapore revenue; NVDA fell about 23% last week.",
+    "US futures up 2-3% Mon after the worst week in 18 months; US opens Tue 1:30am AEDT.",
+    "TSMC +2.3% in Taipei Mon; Kospi -3.6%, Hang Seng -1.1%.",
+    "Amazon reportedly in advanced talks to buy Decart for about $7.5B.",
+    "Anthropic (ANT) fell about 9% in its second session Fri.",
+    "US GDP and PCE Wed 8:30am ET = Thu 12:30am AEDT; US closed Thu."
   ]
 }

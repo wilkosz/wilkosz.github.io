@@ -1,16 +1,6 @@
 {
-  "as_of": "2026-11-22",
+  "as_of": "2026-11-23",
   "events": [
-    {
-      "key": "2026-11-21-keyence-split",
-      "date": "2026-11-21",
-      "time": "Effective date",
-      "ticker": "Keyence",
-      "title": "Keyence 5-for-1 stock split takes effect",
-      "type": "other",
-      "why": "Lower unit price; no value change.",
-      "link": "https://www.keyence.com/"
-    },
     {
       "key": "2026-11-23-fed-williams",
       "date": "2026-11-23",
@@ -210,6 +200,16 @@
       "type": "earnings",
       "why": "Agentforce monetisation; read for WDAY, SNOW, enterprise AI spend.",
       "link": "https://techintelpro.com/news/AI/Enterprise-AI/salesforce-to-announce-q3-fiscal-2027-results-on-december-2"
+    },
+    {
+      "key": "2026-12-02-au-gdp-q3",
+      "date": "2026-12-02",
+      "time": "11:30am AEDT",
+      "ticker": "MACRO",
+      "title": "Australia Q3 GDP (National Accounts)",
+      "type": "macro",
+      "why": "Growth read six days before the RBA Dec 8 decision.",
+      "link": "https://www.abs.gov.au/release-calendar/future-releases/202612"
     },
     {
       "key": "2026-12-02-zs-q1",

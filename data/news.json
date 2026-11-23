@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-11-22",
+    "ticker": "NVDA",
+    "headline": "DNI says China likely got top Nvidia chips; Bessent pushes to blacklist a Singapore firm",
+    "summary": "Weekend pressure on export controls. The closed-door congressional interview is still set for Dec 1. Nvidia fell about 14% Fri; the S&P fell 3.7% and the Nasdaq 5.3%.",
+    "source": "https://www.foxnews.com/live-news/ai-news-markets-correction-11-22-26",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-22",
+    "ticker": "AMZN",
+    "headline": "Amazon in advanced talks to buy Decart for about $7.5B",
+    "summary": "FT report. Decart makes software for switching workloads between AI chips.",
+    "source": "https://sellthenews.org/live/timemachine/2026-11-22",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-11-21",
+    "ticker": "NVDA",
+    "headline": "SEC probe of Nvidia is looking at accounting",
+    "summary": "Reuters: SEC enforcement staff are examining possible accounting issues, including a change in how Singapore revenue is reported. The DOJ is also reviewing the $12.9B Hugging Face deal. Interim CEO Kress says Nvidia will be more selective about AI financing deals.",
+    "source": "https://www.koreatimes.co.kr/world/20261121/nvidias-accounting-is-focus-of-us-sec-investigation-sources-say",
+    "impact": "negative"
+  },
+  {
     "date": "2026-11-20",
     "ticker": "MARKET",
     "headline": "S&P 500 and Dow enter correction; Nasdaq erases 2026 gain",
@@ -614,29 +638,5 @@
     "summary": "About $1.2T fully diluted value at midpoint. Nasdaq ticker ANT; expected to price and trade week of Nov 16 (Nov 19 listing is Thu morning AEST Nov 20).",
     "source": "https://www.renaissancecapital.com/IPO-Center/News/122657/anthropic-sets-terms-for-61-billion-ipo-targeting-a-1.2-trillion-market-cap",
     "impact": "positive"
-  },
-  {
-    "date": "2026-11-10",
-    "ticker": "HOOD",
-    "headline": "Robinhood listed among retail brokers for the Anthropic IPO",
-    "summary": "CFO says it is 'making sure the companies know retail is here'. Separately, the stock fell 8% on Oct 28 after a Q3 EPS miss.",
-    "source": "https://www.tikr.com/blog/robinhood-cfo-on-anthropics-ipo-were-making-sure-the-companies-know-retail-is-here-after-an-8-drop",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-11-10",
-    "ticker": "MACRO",
-    "headline": "October CPI +0.4% m/m, core +0.3%, both above forecast",
-    "summary": "S&P 500 -0.4%, Nasdaq -0.7%, Dow -0.3%. No y/y figure (2025 shutdown gap). Shelter over 30% of the rise. Gold -2.6%.",
-    "source": "https://www.tradingkey.com/analysis/stocks/us-stocks/262299690-us-stocks-cpi-exceeds-expectations-nvda-drops-amd-broadcom-rises-tradingkey",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-10",
-    "ticker": "MACRO",
-    "headline": "Fed hike odds jump; Waller had flagged 50bp if core hit 0.3%",
-    "summary": "Core came in at 0.3%. Logan backs at least two more 25bp hikes. Futures price a December hike as near certain.",
-    "source": "https://www.fxstreet.com/analysis/cpi-hotter-fed-threatens-50-bps-crwv-crushed-it-and-ai-comes-roaring-back-202611111223",
-    "impact": "negative"
   }
 ]
