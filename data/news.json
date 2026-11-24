@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-11-24",
+    "ticker": "NVDA",
+    "headline": "Nasdaq's best day since April 2025; Asian chip stocks follow",
+    "summary": "Nasdaq closed up 6.5% and S&P 500 up 4.7% Monday as Nvidia rose 31% and added about $950B in value. Taiwan's index rose over 9% and Kospi over 7% Tuesday; US futures slightly higher. US also added Megaspeed and six other Southeast Asian firms to its trade blacklist over chip diversion.",
+    "source": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-24",
+    "ticker": "FED",
+    "headline": "Fed confirms Dec 8-9 meeting carries new projections",
+    "summary": "Decision 2pm ET Dec 9 (6am AEDT Thu Dec 10); minutes due about three weeks later. Futures price a hike as likely.",
+    "source": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "impact": "negative"
+  },
+  {
     "date": "2026-11-23",
     "ticker": "NVDA",
     "headline": "Nvidia board reinstates Jensen Huang as CEO; shares jump ~30%",
@@ -622,21 +638,5 @@
     "summary": "Board could meet Wednesday night; no successor or board chair. NYT also reported a second relationship, with an executive. Shares down over 7% after hours. No decision reported yet.",
     "source": "https://fortune.com/2026/11/11/nvidia-oust-jensen-huang-spy-affairs/",
     "impact": "negative"
-  },
-  {
-    "date": "2026-11-11",
-    "ticker": "MU",
-    "headline": "Micron up 11.9% on CoreWeave beat and Anthropic allocation",
-    "summary": "CoreWeave revenue up 168% with a $132.5B backlog revived the memory trade; amended Anthropic IPO filing names Micron for a $1B placement allocation.",
-    "source": "https://www.heygotrade.com/en/news/micron-mu-stock-news-november-12-2026/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-11-11",
-    "ticker": "MRVL",
-    "headline": "Chips lead rebound: S&P tech sector up 2.7%",
-    "summary": "Marvell up 9.3%, TSMC up 4.3%, Nvidia up 2.9% in session before the after-hours drop. S&P 500 up 1.3%, Nasdaq up 1.6%.",
-    "source": "https://finance.yahoo.com/economy/policy/articles/bonds-reel-hot-inflation-fuels-020451336.html",
-    "impact": "positive"
   }
 ]

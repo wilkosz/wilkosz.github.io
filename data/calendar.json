@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-23",
+  "as_of": "2026-11-24",
   "events": [
     {
       "key": "2026-11-23-fed-williams",
@@ -272,6 +272,16 @@
       "link": "https://www.bls.gov/schedule/2026/12_sched_list.htm"
     },
     {
+      "key": "2026-12-08-rba-decision",
+      "date": "2026-12-08",
+      "time": "2:30pm AEDT; Bullock presser 3:30pm AEDT",
+      "ticker": "RBA",
+      "title": "RBA cash rate decision (Dec 7-8), last of 2026",
+      "type": "central_bank",
+      "why": "Last RBA call of the year after Oct CPI (Nov 25) and Q3 GDP (Dec 2).",
+      "link": "https://www.rba.gov.au/schedules-events/calendar/"
+    },
+    {
       "key": "2026-12-09-avgo-q4",
       "date": "2026-12-09",
       "time": "after close (call 5pm ET)",
@@ -280,6 +290,16 @@
       "type": "earnings",
       "why": "Custom AI silicon and networking read after the chip rout; guide was about $34.8B revenue",
       "link": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announce-fourth-quarter-and-fiscal-year-2026"
+    },
+    {
+      "key": "2026-12-09-fomc",
+      "date": "2026-12-09",
+      "time": "2:00pm ET decision, 2:30pm presser (Thu 6:00am / 6:30am AEDT)",
+      "ticker": "FED",
+      "title": "FOMC decision (Dec 8-9) with new projections",
+      "type": "central_bank",
+      "why": "Hike to 4.00-4.25% widely priced after Oct's 10-2 hold; 25 vs 50bp and dot plot matter for rate-sensitive LDI, RKT, AXOS.",
+      "link": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
     }
   ]
 }

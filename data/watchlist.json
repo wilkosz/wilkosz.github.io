@@ -8,11 +8,11 @@
     "conviction": "medium",
     "thesis": "AI connectivity (PCIe/CXL retimers, Scorpio switches) riding rack-scale buildouts.",
     "risks": "Rich multiple; after-hours pop may fade.",
-    "price_usd": 217.79,
-    "catalyst": "+20.8% Nov 23 intraday ~$217.79 on Huang reinstatement rally; Nov 20 close $180.35; Q4 guide $730-750M.",
+    "price_usd": 222.12,
+    "catalyst": "+23.2% Nov 23 to $222.12, back above Nov 19 close; Q4 guide $730-750M.",
     "source": "https://stockanalysis.com/stocks/alab/history/",
     "added": "2026-08-24",
-    "updated": "2026-11-23"
+    "updated": "2026-11-24"
   },
   {
     "ticker": "AMD",
@@ -23,11 +23,11 @@
     "conviction": "medium",
     "thesis": "Second-source AI GPU supplier; OpenAI capacity via TensorWave 450MW deal.",
     "risks": "Hunterbrook short-seller China-ties report Nov 19; -18% in two days.",
-    "price_usd": 457.11,
-    "catalyst": "+7.7% Nov 23 intraday ~$457.11, lagged rally; Hunterbrook short report overhang; MI450 timing.",
+    "price_usd": 453.46,
+    "catalyst": "+6.9% Nov 23, lagged chip rally; still 7% below Nov 19; Hunterbrook overhang; MI450 timing.",
     "source": "https://stockanalysis.com/stocks/amd/history/",
     "added": "2026-11-04",
-    "updated": "2026-11-23"
+    "updated": "2026-11-24"
   },
   {
     "ticker": "AVGO",
@@ -38,11 +38,11 @@
     "conviction": "medium",
     "thesis": "Custom AI accelerators and networking for hyperscalers.",
     "risks": "Goldman and TD Cowen PT cuts; customer concentration.",
-    "price_usd": 309.8,
-    "catalyst": "+1.8% Nov 23 intraday ~$309.80, weakest rebound on list; Dec quarter results.",
+    "price_usd": 313.55,
+    "catalyst": "+3.0% Nov 23, weakest rebound on list, still 10% below Nov 19; Dec quarter results.",
     "source": "https://stockanalysis.com/stocks/avgo/history/",
     "added": "2026-08-24",
-    "updated": "2026-11-23"
+    "updated": "2026-11-24"
   },
   {
     "ticker": "CLS",
@@ -53,11 +53,11 @@
     "conviction": "high",
     "thesis": "Hyperscaler switch and server assembly; 800G/1.6T ramp.",
     "risks": "Customer concentration; -15% Nov 20, worst on list; Bernstein PT cut to $340.",
-    "price_usd": 219.22,
-    "catalyst": "+8.6% Nov 23 intraday ~$219.22 after -16.0% Nov 20; 800G/1.6T ramp.",
+    "price_usd": 213.31,
+    "catalyst": "+5.7% Nov 23 after -16.0% Nov 20; recovered about a third of the drop; 800G/1.6T ramp.",
     "source": "https://stockanalysis.com/stocks/cls/history/",
     "added": "2026-10-10",
-    "updated": "2026-11-23"
+    "updated": "2026-11-24"
   },
   {
     "ticker": "SKHY",
@@ -68,11 +68,11 @@
     "conviction": "medium",
     "thesis": "HBM leader supplying Nvidia/AMD.",
     "risks": "DRAM price-fixing suit; Rosen and Kessler Topaz probes; DRAM spot flat.",
-    "price_usd": 124.32,
-    "catalyst": "+20.0% Nov 23 intraday ~$124.32; memory names led (MU +19%); HBM4 volume; Q4 pricing.",
+    "price_usd": 124.28,
+    "catalyst": "+20.0% Nov 23, memory led rally while DRAM spot flat; HBM4 volume; Q4 pricing.",
     "source": "https://stockanalysis.com/stocks/skhy/history/",
     "added": "2026-08-24",
-    "updated": "2026-11-23"
+    "updated": "2026-11-24"
   },
   {
     "ticker": "VRT",
@@ -83,11 +83,11 @@
     "conviction": "medium",
     "thesis": "Power and liquid cooling for AI data centres.",
     "risks": "BofA dropped from US 1 List Nov 19; data-centre backlash in some states.",
-    "price_usd": 189.03,
-    "catalyst": "+13.7% Nov 23 intraday ~$189.03; off BofA US 1 List.",
+    "price_usd": 186.35,
+    "catalyst": "+12.2% Nov 23, erasing Nov 20 drop; off BofA US 1 List.",
     "source": "https://stockanalysis.com/stocks/vrt/history/",
     "added": "2026-09-29",
-    "updated": "2026-11-23"
+    "updated": "2026-11-24"
   },
   {
     "ticker": "BE",
@@ -98,11 +98,11 @@
     "conviction": "medium",
     "thesis": "On-site fuel-cell power for data centres short on grid.",
     "risks": "Kahn Swick & Foti probe of officers; -2.2% Nov 17.",
-    "price_usd": 169.38,
-    "catalyst": "+19.0% Nov 23 intraday ~$169.38 after -15.3% Nov 20; fuel-cell orders.",
+    "price_usd": 168.15,
+    "catalyst": "+18.1% Nov 23, fully reversed -15.3% Nov 20; fuel-cell orders.",
     "source": "https://stockanalysis.com/stocks/be/history/",
     "added": "2026-08-24",
-    "updated": "2026-11-23"
+    "updated": "2026-11-24"
   },
   {
     "ticker": "GEV",
@@ -113,11 +113,11 @@
     "conviction": "high",
     "thesis": "Gas turbines and grid gear sold out years ahead.",
     "risks": "Erste cut to Hold Nov 18 on slower new-order pace; SoftBank cut US DC plans.",
-    "price_usd": 757.0,
-    "catalyst": "+8.3% Nov 23 intraday ~$757.00; Dec investor update.",
+    "price_usd": 756.71,
+    "catalyst": "+8.2% Nov 23, erasing Nov 20 drop; Dec investor update.",
     "source": "https://stockanalysis.com/stocks/gev/history/",
     "added": "2026-08-24",
-    "updated": "2026-11-23"
+    "updated": "2026-11-24"
   },
   {
     "ticker": "HOOD",
@@ -128,11 +128,11 @@
     "conviction": "medium",
     "thesis": "Retail brokerage and crypto platform expanding abroad.",
     "risks": "Kalshi adding stock trading; Evercore PT $100; crypto slump; -4.0% Nov 17.",
-    "price_usd": 67.64,
-    "catalyst": "+8.8% Nov 23 intraday ~$67.64; monthly metrics.",
+    "price_usd": 67.37,
+    "catalyst": "+8.4% Nov 23 after -9.4% Nov 20; monthly metrics.",
     "source": "https://stockanalysis.com/stocks/hood/history/",
     "added": "2026-08-24",
-    "updated": "2026-11-23"
+    "updated": "2026-11-24"
   },
   {
     "ticker": "MELI",
@@ -143,11 +143,11 @@
     "conviction": "medium",
     "thesis": "LatAm e-commerce and fintech compounder.",
     "risks": "Brazil fears; UBS and BofA PT cuts.",
-    "price_usd": 1425.92,
-    "catalyst": "+5.2% Nov 23 intraday ~$1,425.92; holiday GMV.",
+    "price_usd": 1425.08,
+    "catalyst": "+5.2% Nov 23 to a fresh rebound high; holiday GMV.",
     "source": "https://stockanalysis.com/stocks/meli/history/",
     "added": "2026-08-24",
-    "updated": "2026-11-23"
+    "updated": "2026-11-24"
   },
   {
     "ticker": "NET",
@@ -158,11 +158,11 @@
     "conviction": "high",
     "thesis": "Edge network and Workers AI inference platform.",
     "risks": "Valuation; -3.0% Nov 17.",
-    "price_usd": 292.48,
-    "catalyst": "+6.4% Nov 23 intraday ~$292.48; Workers AI usage.",
+    "price_usd": 291.13,
+    "catalyst": "+5.9% Nov 23 after -9.5% Nov 20; Workers AI usage.",
     "source": "https://stockanalysis.com/stocks/net/history/",
     "added": "2026-08-24",
-    "updated": "2026-11-23"
+    "updated": "2026-11-24"
   },
   {
     "ticker": "SE",
@@ -173,11 +173,11 @@
     "conviction": "low",
     "thesis": "SE Asia e-commerce, gaming, fintech.",
     "risks": "Run of PT cuts (Phillip $130, JPM $132, Barclays $150); -3.1% Nov 17.",
-    "price_usd": 65.74,
-    "catalyst": "+5.0% Nov 23 intraday ~$65.74; Q4 margin path; buyback.",
+    "price_usd": 65.53,
+    "catalyst": "+4.6% Nov 23 after -5.0% Nov 20; Q4 margin path; buyback.",
     "source": "https://stockanalysis.com/stocks/se/history/",
     "added": "2026-08-24",
-    "updated": "2026-11-23"
+    "updated": "2026-11-24"
   },
   {
     "ticker": "6861",
@@ -188,11 +188,11 @@
     "conviction": "high",
     "thesis": "Factory automation sensors with very high margins.",
     "risks": "Manufacturing cycle; yen.",
-    "price_usd": 91.79,
-    "catalyst": "JPY 14,025 Nov 20 last close; Tokyo shut Nov 23 (holiday); 1:5 split effective; results late Jan.",
+    "price_usd": 97.32,
+    "catalyst": "Tokyo +6.0% Nov 24 to JPY 14,870 (delayed, 2:51pm JST) after holiday; USD at prior run's FX; results late Jan.",
     "source": "https://stockanalysis.com/quote/tyo/6861/history/",
     "added": "2026-08-24",
-    "updated": "2026-11-23",
+    "updated": "2026-11-24",
     "note": "USD at ~152.8 JPY, implied from prior entry."
   },
   {
@@ -204,11 +204,11 @@
     "conviction": "high",
     "thesis": "EUV lithography monopoly.",
     "risks": "Chip capex pause if AI trade unwinds; export curbs.",
-    "price_usd": 1381.02,
-    "catalyst": "+9.1% Nov 23 intraday ~$1,381.02; 2027 order intake.",
+    "price_usd": 1383.78,
+    "catalyst": "+9.3% Nov 23, erasing Nov 20 drop; 2027 order intake.",
     "source": "https://stockanalysis.com/stocks/asml/history/",
     "added": "2026-08-24",
-    "updated": "2026-11-23"
+    "updated": "2026-11-24"
   },
   {
     "ticker": "TER",
@@ -219,10 +219,10 @@
     "conviction": "medium",
     "thesis": "Semi test gaining AI compute share.",
     "risks": "Nvidia dependence.",
-    "price_usd": 233.72,
-    "catalyst": "+14.2% Nov 23 intraday ~$233.72; ex-div Nov 23.",
+    "price_usd": 233.51,
+    "catalyst": "+14.1% Nov 23 after -10.0% Nov 20; test demand from AI chips.",
     "source": "https://stockanalysis.com/stocks/ter/history/",
     "added": "2026-08-24",
-    "updated": "2026-11-23"
+    "updated": "2026-11-24"
   }
 ]

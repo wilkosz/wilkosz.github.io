@@ -1,42 +1,42 @@
 {
-  "as_of": "2026-11-23",
+  "as_of": "2026-11-24",
   "explainer": "The single best AI-bubble bellwether is the rental price of an installed Nvidia GPU, measured in dollars per GPU-hour, and specifically the H100: it is the daily marginal clearing price for AI compute, it is published by independent indexes (Silicon Data's SDH100RT, SemiAnalysis's one-year contract index), and a CME futures contract on it is pending: the CFTC extended its review to November 9, 2026, so a forward curve is coming but not yet listed. Right now it is saying the opposite of discounting: the Silicon Data index sits at $2.75/hr (Sep 30), a new high, one-year contract rates rose about 40% from $1.70 to $2.35 between October 2025 and March 2026, spot has run at roughly twice contract, and a four-year-old chip is renting for more than it did a year ago while CoreWeave says it has contracted 2020-vintage GPUs out to 2029 at full price. Pair it with three things: neocloud credit spreads (CoreWeave's July loan cleared at SOFR+550 for a 10.44% yield with maintenance covenants, and its CDS implies roughly a coin-flip default probability), which is the financing leg and the one signal already flashing red; server DRAM and HBM contract-price momentum (+13-18% QoQ in 3Q26 after +93-98% in 1Q26, with 4Q26 guided to only +3-8%), because memory is the first physical input that will roll over; and hyperscaler backlog growth versus capex growth (Microsoft commercial RPO +84%, Oracle RPO +363%, roughly $2.4 trillion of committed cloud backlog against about $1 trillion of 2026 capex), because the bubble only deflates if the buyers stop signing. Over the next one to two quarters watch Nvidia's August 26 print for gross margin and customer concentration (three direct customers were already 54% of revenue), the shape of the CME H100/B200 curve if the CFTC clears it in November (a steep backwardation would be the first public forecast of discounting), whether 4Q26 memory contract talks and 2027 HBM4 pricing turn negative, and what ERCOT's December audit says about how much of Texas's 474 GW interconnection queue is phantom demand. The threshold that would flip the call is simple: the H100 index sustained below about $2.00/hr, or spot trading below the one-year contract rate, while Blackwell and Rubin volumes keep arriving; until then compute is being sold at a premium, not a discount, and the risk lives in who is borrowing to build it rather than in the price of the product.",
   "indicators": [
     {
       "key": "h100_rental",
       "name": "H100 rental price, $/GPU-hour (Silicon Data SDH100RT)",
-      "value": "$3.10/hr Nov 22 (flat vs Nov 15)",
-      "trend": "flat",
+      "value": "$3.09/hr Nov 23 (+6.9% over 7 days)",
+      "trend": "up",
       "signal": "bullish",
       "why": "Rents near highs while chip stocks crash: the selloff is in equity, not compute demand.",
-      "watch": "Monday print after US reopen; below $2.00 flips call.",
-      "note": "Held at highs through the rout; Monday print pending.",
+      "watch": "Below $2.00 flips call; page FAQ still shows a stale $2.53.",
+      "note": "Nov 23 print in: rents firm through the rout and rebound.",
       "source": "https://www.silicondata.com/products/silicon-index/h100",
-      "updated": "2026-11-23"
+      "updated": "2026-11-24"
     },
     {
       "key": "b200_rental",
       "name": "B200 rental price, $/GPU-hour (Silicon Data) and B200/H100 ratio",
-      "value": "$6.94/hr; ratio ~2.2x",
-      "trend": "flat",
+      "value": "$6.94/hr Nov 23 (+5.2% 7d); ratio ~2.2x",
+      "trend": "up",
       "signal": "bullish",
       "why": "Blackwell rents rising faster than Hopper.",
       "watch": "Ratio vs H100.",
-      "note": "Unchanged read; page undated.",
+      "note": "Dated Nov 23 read; Blackwell rents still climbing.",
       "source": "https://www.silicondata.com/products/silicon-index/h100",
-      "updated": "2026-11-23"
+      "updated": "2026-11-24"
     },
     {
       "key": "hopper_residual",
       "name": "Hopper residual value: A100 floor, H200 rents",
-      "value": "A100 $1.64, H200 $3.59",
-      "trend": "flat",
+      "value": "A100 $1.64 (+5.1% 7d), H200 $3.51 (+1.2% 7d), Nov 23",
+      "trend": "up",
       "signal": "bullish",
       "why": "Old GPUs still earn; supports depreciation assumptions.",
       "watch": "H200 stalling.",
-      "note": "Unchanged read; page undated.",
+      "note": "Even A100 rents rising; H200 eased vs $3.59 prior read.",
       "source": "https://www.silicondata.com/products/silicon-index/h100",
-      "updated": "2026-11-23"
+      "updated": "2026-11-24"
     },
     {
       "key": "dc_cost_per_gw",
@@ -46,33 +46,33 @@
       "signal": "neutral",
       "why": "Flight to safety pulled the 10-yr back under 5%, easing build financing at the margin.",
       "watch": "Holding below 5.0%; above 5.2% bites.",
-      "note": "No fresh Treasury read sourced Nov 23; carried from Nov 20.",
+      "note": "No Nov 23 Treasury close sourced; still carried from Nov 20.",
       "source": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026",
-      "updated": "2026-11-23"
+      "updated": "2026-11-24"
     },
     {
       "key": "memory_prices",
       "name": "Memory prices: DRAM spot (TrendForce), contract, HBM",
-      "value": "DDR5 16Gb 60.70 (+0.05%); DDR5 eTT 31.00 (0.00%); DDR4 16Gb 78.50 (-0.16%); DDR4 eTT 12.50 (-0.60%) (Nov 23)",
+      "value": "DDR5 16Gb 60.83 (+0.22%); DDR5 eTT 31.00 (0.00%); DDR4 16Gb 78.38 (-0.16%); DDR4 eTT 12.48 (-0.20%) (Nov 24)",
       "trend": "flat",
       "signal": "neutral",
       "why": "Spot stalled at highs; DDR4 eTT slipping first.",
-      "watch": "Spot breaking down; SKHY -10.8% Nov 20 says equity already pricing a turn.",
-      "note": "Spot flat; memory equities ripped Nov 23 (MU +19%, SKHY +20%).",
+      "watch": "Spot breaking down; Q1 contract talks.",
+      "note": "Spot still flat while SKHY +20% Nov 23; equity ahead of prices.",
       "source": "https://www.trendforce.com/price/dram/dram_spot",
-      "updated": "2026-11-23"
+      "updated": "2026-11-24"
     },
     {
       "key": "power_bottleneck",
       "name": "Power and permitting bottleneck for AI data centres",
-      "value": "Binding; power names rebounded Nov 23: BE +19%, VRT +14%, GEV +8%",
+      "value": "Binding; Nov 23 closes: BE +18.1%, VRT +12.2%, GEV +8.2%",
       "trend": "flat",
       "signal": "bullish",
       "why": "Scarcity unchanged; stocks sold as AI beta, not on order news.",
       "watch": "State moratoria; GEV Dec investor update.",
-      "note": "Rebound confirms Nov 20 was AI-beta selling, not order news.",
+      "note": "All three erased their Nov 20 drops in one session.",
       "source": "https://stockanalysis.com/stocks/be/history/",
-      "updated": "2026-11-23"
+      "updated": "2026-11-24"
     },
     {
       "key": "capex_vs_backlog",
@@ -82,21 +82,21 @@
       "signal": "bullish",
       "why": "Buyers still signing and now raising public capital to pay for it.",
       "watch": "Anthropic share price as funding gauge; hyperscaler 2027 capex guides.",
-      "note": "Anthropic -1.8% Nov 23 while AI rallied (ABC).",
+      "note": "No new backlog data since Nov 23; carried.",
       "source": "https://abcnews.com/Business/stock-market-rebounds-sharply-after-selloff/story?id=138373790",
-      "updated": "2026-11-23"
+      "updated": "2026-11-24"
     },
     {
       "key": "neocloud_credit",
       "name": "Neocloud credit: CoreWeave CDS and bonds",
-      "value": "CRWV ~$47.95 Nov 23 intraday (+21.4%) from $39.51 Nov 20",
+      "value": "CRWV $48.33 Nov 23 close (+22.3%); last CDS read ~1,155bp (Nov 6)",
       "trend": "up",
       "signal": "neutral",
       "why": "Equity sliding fast; financing access is the key AI-build risk.",
       "watch": "CDS past 1,200bp; bond prices below 79c (Oct low).",
-      "note": "Equity bounced hard with Nvidia; CDS bp not refreshed, so not yet an all-clear.",
+      "note": "Equity bounce; CDS not refreshed since early Nov, so no all-clear.",
       "source": "https://stockanalysis.com/stocks/crwv/history/",
-      "updated": "2026-11-23"
+      "updated": "2026-11-24"
     },
     {
       "key": "nvidia_dc",
@@ -106,9 +106,9 @@
       "signal": "bullish",
       "why": "Numbers strong; stock sold on leadership vacuum and AI-spend doubts.",
       "watch": "GM 71-72% guide; China curbs; Huang governance follow-ups.",
-      "note": "Leadership vacuum closed; board says no national-security risk per US govt input.",
+      "note": "No new data this run; carried from Nov 23.",
       "source": "https://abcnews.com/Business/stock-market-rebounds-sharply-after-selloff/story?id=138373790",
-      "updated": "2026-11-23"
+      "updated": "2026-11-24"
     }
   ]
 }
