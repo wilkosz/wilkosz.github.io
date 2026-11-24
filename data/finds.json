@@ -1,11 +1,11 @@
 {
-  "as_of": "2026-11-24T00:07",
-  "summary": "Quiet market overnight. Every live find re-checked and still listed at the same price. Two new loader tractors turned up: a 2010 New Holland T5060 at Tumut for $52k and a 2014 MF 5430 going to Pickles auction at Dubbo on 7 Dec. Nothing new worth listing for discs, ripper, diesel storage or portable homes inside 400km.",
+  "as_of": "2026-11-24T12:30",
+  "summary": "A quiet market. Every live find is still listed at the same price. The only new tractor that clears the list is a 2018 MF 5610 at Moss Vale, which is over the distance limit. The new Grays tractor lots are in QLD and have no loaders, and Slattery has nothing in range.",
   "headlines": [
-    "New: 2010 New Holland T5060 with Howard loader, cab, 3,450 hours, $52,000, Tumut, about 270km.",
-    "Watch: 2014 MF 5430 with loader, 2,559 hours, Pickles Dubbo auction opens 7 Dec; missed the six-tractor cut.",
-    "All 28 existing finds still listed, no price changes; Kubota M108S at $79,990 drops off the tractor top six.",
-    "No new discs, rippers, diesel tanks or portable homes worth listing within 400km."
+    "New: 2018 MF 5610, 100hp, 3,999 hrs, new Euro-hitch loader, $79,900, Moss Vale (470km).",
+    "Pickles Fuelcube 1,000 L tank now bid $550 after 8 bids, closes 25 Nov, but it is in Tasmania.",
+    "Every other live find is unchanged. Nothing sold since the last run.",
+    "Grays has 15 Case and Kubota tractors in one sale, all at Elimbah QLD and none with a loader."
   ],
   "finds": [
     {
@@ -320,9 +320,9 @@
       "key": "pickles-62486586",
       "want": "diesel-storage",
       "title": "Fuelcube 1,000 L self-bunded steel diesel tank (2016)",
-      "price_aud": null,
-      "price_note": "online auction opens 24 Nov 2026; Pickles buyer fees apply",
-      "location": "Pickles VIC/TAS national sale (yard not stated)",
+      "price_aud": 550,
+      "price_note": "current bid, 8 bids, GST included; buyer premium applies",
+      "location": "Glenorchy, TAS",
       "distance_km": null,
       "detail": [
         "1,000 L",
@@ -335,7 +335,7 @@
       "verdict": "decent",
       "why": "Self-bunded 1,000 L is the right spec; no price yet and the yard location needs checking.",
       "status": "live",
-      "ends": "2026-11-24",
+      "ends": "2026-11-25",
       "first_seen": "2026-11-20",
       "updated": "2026-11-24",
       "photo": "img/finds/pickles-62486586.jpg",
