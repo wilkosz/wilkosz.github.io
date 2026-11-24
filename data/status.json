@@ -1,138 +1,138 @@
 {
-  "as_of": "2026-11-24T06:45",
-  "market_summary": "Monday closed with the Nasdaq up 6.5% and the S&P 500 up 4.7%, the best day since April 2025, after Nvidia reinstated Jensen Huang as CEO. NVDA closed up 31.5%; memory and AI chips led (MU +19%, MRVL +18%, TSM +14%). Tuesday in Asia, Taiwan rose over 9% and the Kospi over 7%, while the Hang Seng slipped 0.4%. GPU rental rates kept rising through the selloff, H100 up about 7% in a week. Rates remain the headwind: a Fed hike on Dec 9 is still priced as likely and the 10-year sits near 5%.",
+  "as_of": "2026-11-24T18:30",
+  "market_summary": "Midday Tuesday (US close not yet in) chips gave back part of Monday's Huang-return rally: Nasdaq down 1.5-2.4% depending on source, SOX -6.2%, NVDA about -7%, MU about -10%, while the Dow edged higher. Reports cited a chip tariff story and AI-spend doubts. The 10-year eased to about 4.92% even with futures pricing about 95% odds of a 25bp Fed hike on Dec 9. GPU rents and DRAM spot held flat, so the selloff is in equities, not compute pricing.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "Up 3.5% Monday, lagging the Nasdaq's 6.5%; re:Invent from Nov 30 is the next catalyst.",
-      "price_usd": 255.39,
+      "reason": "Down about 1% with megacaps; no material news.",
+      "price_usd": 252.86,
       "updated": "2026-11-24",
-      "pe_forward": 25.82,
+      "pe_forward": 25.57,
       "source": "https://stockanalysis.com/stocks/amzn/statistics/"
     },
     "AXOS": {
       "take": "hold",
-      "reason": "Up 2% Monday; no company news. Forward PE under 9 stays cheap.",
-      "price_usd": 86.12,
+      "reason": "Up about 1% as the Dow and small caps rose; no material news.",
+      "price_usd": 87.0,
       "updated": "2026-11-24",
-      "pe_forward": 8.55,
+      "pe_forward": 8.61,
       "source": "https://stockanalysis.com/stocks/ax/statistics/"
     },
     "BABA": {
-      "take": "hold",
-      "reason": "Up 6.1% Monday and 1.4% after hours, though Hang Seng slipped 0.4% Tuesday. Forward PE near 10.",
-      "price_usd": 86.04,
+      "take": "watch",
+      "reason": "Down about 2% with the tech pullback; no confirmed company news. Forward PE near 10.",
+      "price_usd": 84.44,
       "updated": "2026-11-24",
-      "pe_forward": 10.09,
+      "pe_forward": 10.1,
       "source": "https://stockanalysis.com/stocks/baba/statistics/"
     },
     "ENPH": {
-      "take": "watch",
-      "reason": "Up 6.3% Monday on the bounce but still far below highs; no company news.",
+      "take": "hold",
+      "reason": "Flat on the day; no material news.",
       "price_usd": 20.87,
       "updated": "2026-11-24",
-      "pe_forward": 19.86,
+      "pe_forward": 19.84,
       "source": "https://stockanalysis.com/stocks/enph/statistics/"
     },
     "FIGR": {
-      "take": "hold",
-      "reason": "Up 9.8% Monday with fintech and crypto rebound; slightly lower after hours.",
-      "price_usd": 26.17,
+      "take": "watch",
+      "reason": "Down about 5% in a risk-off fintech tape; no company news.",
+      "price_usd": 24.82,
       "updated": "2026-11-24",
-      "pe_forward": 18.14,
+      "pe_forward": 17.26,
       "source": "https://stockanalysis.com/stocks/figr/statistics/"
     },
     "GOOGL": {
       "take": "hold",
-      "reason": "Up 6.3% Monday in line with the Nasdaq; no company-specific news.",
-      "price_usd": 282.1,
+      "reason": "Down about 1% as Nasdaq slipped; no material news.",
+      "price_usd": 279.18,
       "updated": "2026-11-24",
-      "pe_forward": 20.51,
+      "pe_forward": 20.28,
       "source": "https://stockanalysis.com/stocks/googl/statistics/"
     },
     "LDI": {
       "take": "watch",
-      "reason": "Up 7.9% Monday but a sub-dollar stock with no forward earnings; rate-hike risk weighs on mortgages.",
-      "price_usd": 0.3775,
+      "reason": "Up about 8% on thin volume; still a sub-dollar listing at delisting risk.",
+      "price_usd": 0.4096,
       "updated": "2026-11-24",
       "source": "https://stockanalysis.com/stocks/ldi/statistics/"
     },
     "META": {
       "take": "hold",
-      "reason": "Up 6.6% Monday in AI rebound; no company-specific news.",
-      "price_usd": 597.6,
+      "reason": "Down about 0.5%, holding up better than chips; no material news.",
+      "price_usd": 594.61,
       "updated": "2026-11-24",
-      "pe_forward": 18.14,
+      "pe_forward": 18.29,
       "source": "https://stockanalysis.com/stocks/meta/statistics/"
     },
     "MRVL": {
-      "take": "hold",
-      "reason": "Up 18% Monday with AI chips, ~1% higher after hours; rebound follows a sharp November drawdown.",
-      "price_usd": 144.74,
+      "take": "watch",
+      "reason": "Down about 9% with the chip selloff; no company news, pure AI-trade de-risking.",
+      "price_usd": 132.28,
       "updated": "2026-11-24",
-      "pe_forward": 25.66,
+      "pe_forward": 23.45,
       "source": "https://stockanalysis.com/stocks/mrvl/statistics/"
     },
     "MU": {
       "take": "hold",
-      "reason": "Closed up 19% Monday with memory names; flat after hours. Forward PE near 4 still low.",
-      "price_usd": 707.7,
+      "reason": "Fell about 10% as memory names unwound Monday's rally; forward multiple still very low.",
+      "price_usd": 634.47,
       "updated": "2026-11-24",
-      "pe_forward": 4.01,
+      "pe_forward": 3.6,
       "source": "https://stockanalysis.com/stocks/mu/statistics/"
     },
     "NFLX": {
       "take": "hold",
-      "reason": "Up 2.4% Monday, lagging the tech rebound; no company news.",
-      "price_usd": 58.1,
+      "reason": "Up about 2% as money rotated out of chips; no material news.",
+      "price_usd": 59.2,
       "updated": "2026-11-24",
-      "pe_forward": 16.18,
+      "pe_forward": 16.49,
       "source": "https://stockanalysis.com/stocks/nflx/statistics/"
     },
     "NVDA": {
       "take": "hold",
-      "reason": "Closed up 31.5% Monday on Huang's return, +1% after hours; SEC accounting probe and Dec 1 congressional appearance still open.",
-      "price_usd": 165.05,
+      "reason": "Down about 7% midday, giving back part of Monday's 31% jump; Senate testimony Dec 3 keeps governance risk live.",
+      "price_usd": 153.18,
       "updated": "2026-11-24",
-      "pe_forward": 11.38,
+      "pe_forward": 10.56,
       "source": "https://stockanalysis.com/stocks/nvda/statistics/"
     },
     "RKT": {
-      "take": "watch",
-      "reason": "Up 1% Monday, lagging; high odds of a December Fed hike weigh on mortgage volumes.",
-      "price_usd": 13.89,
+      "take": "hold",
+      "reason": "Up about 3% with small caps despite December hike bets; no company news.",
+      "price_usd": 14.28,
       "updated": "2026-11-24",
-      "pe_forward": 23.8,
+      "pe_forward": 24.44,
       "source": "https://stockanalysis.com/stocks/rkt/statistics/"
     },
     "TSM": {
       "take": "hold",
-      "reason": "Up 14% Monday, another ~2% after hours as Taiwan's index jumped over 9% Tuesday.",
-      "price_usd": 363.6,
+      "reason": "Down about 4% with chips, milder than peers; fundamentals unchanged.",
+      "price_usd": 348.96,
       "updated": "2026-11-24",
-      "pe_forward": 17.27,
+      "pe_forward": 16.6,
       "source": "https://stockanalysis.com/stocks/tsm/statistics/"
     },
     "STRIPE": {
       "take": "hold",
-      "reason": "No new round or tender reported.",
+      "reason": "No new round or tender reported; mark unchanged.",
       "price_usd": null,
       "updated": "2026-11-24",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "No new round or tender reported since the reported 1.25T raise.",
+      "reason": "No new round or tender reported; mark unchanged.",
       "price_usd": null,
       "updated": "2026-11-24",
       "mark_multiple": 7.96
     }
   },
   "headlines": [
-    "Monday close: Nasdaq +6.5%, S&P +4.7%, best day since April 2025; NVDA closed +31.5%.",
-    "Chips carried it: MU +19%, MRVL +18%, TSM +14%; Taiwan +9% and Kospi +7% Tuesday.",
-    "GPU rents firm through the selloff: H100 index up about 7% in a week.",
-    "Dell and HP report Tue after US close = Wed morning AEDT.",
-    "US GDP and PCE Wed 8:30am ET = Thu 12:30am AEDT; Fed decides Dec 9 = Thu Dec 10 6am AEDT."
+    "Chips unwind part of Monday's surge midday Tue: NVDA about -7%, MU -10%, MRVL -9%, SOX -6%.",
+    "AI hardware watchlist hit hardest: ALAB -12%, AMD -9%, SKHY -9%; NET and MELI flat.",
+    "Fed hike Dec 9 priced at about 95%; 10-year eased to about 4.92%.",
+    "H100 rent flat week on week at highs; the earlier +7% read was overstated.",
+    "US GDP and PCE Wed 8:30am ET = Thu 12:30am AEDT; Dell, HP, Workday results land Wed morning AEDT."
   ]
 }

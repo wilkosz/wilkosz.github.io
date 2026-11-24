@@ -202,6 +202,16 @@
       "link": "https://axios.com/2026/11/17/nvidia-jensen-huang-congress-testify-dates"
     },
     {
+      "key": "2026-12-01-okta-q3",
+      "date": "2026-12-01",
+      "time": "After close; webcast 2:00pm PT / 5:00pm ET (Wed 9:00am AEDT)",
+      "ticker": "OKTA",
+      "title": "Okta fiscal Q3 2027 results",
+      "type": "earnings",
+      "why": "Identity-security spend; read with CRWD same night.",
+      "link": "https://finviz.com/news/413169/okta-to-announce-third-quarter-fiscal-year-2027-financial-results-on-december-1-2026"
+    },
+    {
       "key": "2026-12-02-crm-q3",
       "date": "2026-12-02",
       "time": "After close; call 5:00pm ET (Thu 9:00am AEDT)",
@@ -230,6 +240,16 @@
       "type": "other",
       "why": "Second leg of the House chip-smuggling inquiry.",
       "link": "https://axios.com/2026/11/17/nvidia-jensen-huang-congress-testify-dates"
+    },
+    {
+      "key": "2026-12-02-snow-q3",
+      "date": "2026-12-02",
+      "time": "After close (Thu morning AEDT); call time per IR",
+      "ticker": "SNOW",
+      "title": "Snowflake fiscal Q3 2027 results",
+      "type": "earnings",
+      "why": "AI data-platform consumption; read with CRM same night.",
+      "link": "https://www.snowflake.com/en/news/press-releases/fy27-q3-earnings-date-announcement/"
     },
     {
       "key": "2026-12-02-zs-q1",
@@ -298,8 +318,8 @@
       "ticker": "FED",
       "title": "FOMC decision (Dec 8-9) with new projections",
       "type": "central_bank",
-      "why": "Hike to 4.00-4.25% widely priced after Oct's 10-2 hold; 25 vs 50bp and dot plot matter for rate-sensitive LDI, RKT, AXOS.",
-      "link": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+      "why": "Futures price ~95% for a 25bp hike, 5% for 50bp (Nov 24). Dot plot matters for LDI, RKT, AXOS.",
+      "link": "https://www.tradingnews.com/news/stock-market-today-nasdaq-ixic-drops-2-4-dow-dji-green-sp-500-spx-eyes-7400-usd-target-nvda-sheds-8"
     }
   ]
 }

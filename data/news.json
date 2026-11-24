@@ -2,6 +2,30 @@
   {
     "date": "2026-11-24",
     "ticker": "NVDA",
+    "headline": "Nvidia gives back about 7% after Huang comeback rally",
+    "summary": "Shares slid a day after the record gain on Jensen Huang's reinstatement. BofA warned reinstatement is not the end of scrutiny; Huang testifies to the Senate Banking Committee on Dec 3.",
+    "source": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-24",
+    "ticker": "MU",
+    "headline": "Memory stocks drop more than 10%",
+    "summary": "Micron and SK Hynix fell over 10%, with SanDisk, Seagate and Western Digital down at least 5%, unwinding Monday's gains.",
+    "source": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-24",
+    "ticker": "ALAB",
+    "headline": "AI hardware gives back Monday rally",
+    "summary": "Intraday Nov 24: ALAB -12%, AMD -9%, SKHY -9%, BE -8%, TER -8%, CLS -8%, VRT -7% after big Nov 23 gains; software and MELI flat.",
+    "source": "https://stockanalysis.com/stocks/alab/history/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-24",
+    "ticker": "NVDA",
     "headline": "Nasdaq's best day since April 2025; Asian chip stocks follow",
     "summary": "Nasdaq closed up 6.5% and S&P 500 up 4.7% Monday as Nvidia rose 31% and added about $950B in value. Taiwan's index rose over 9% and Kospi over 7% Tuesday; US futures slightly higher. US also added Megaspeed and six other Southeast Asian firms to its trade blacklist over chip diversion.",
     "source": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
@@ -614,29 +638,5 @@
     "summary": "Bloomberg-sourced reports say orders are several times the 825M shares on offer at $70-78; up to $90.4B raised including a private placement; pricing Nov 18, Nasdaq trading as ANT Nov 19. Talk of a valuation above the range.",
     "source": "https://qz.com/anthropic-ipo-oversubscribed-roadshow-demand-111126",
     "impact": "positive"
-  },
-  {
-    "date": "2026-11-12",
-    "ticker": "CURSOR",
-    "headline": "OpenAI's direct model supply to Cursor due to end today",
-    "summary": "OpenAI proposed Nov 12 as the date to wind down its direct model-supply deal with Cursor, which SpaceX now owns. Not confirmed by a primary source.",
-    "source": "https://blog.mean.ceo/cursor-news-november-2026/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-11",
-    "ticker": "NVDA",
-    "headline": "Options price about 10.6% Nvidia earnings move",
-    "summary": "Consensus Q3 revenue about $109B, up 91%; Q4 guide expected to drive the reaction amid governance probe.",
-    "source": "https://www.marketpulse.com/markets/nvidia-nvda-q3-earnings-preview-ai-spending-risks-and-governance-concerns-threaten-major-uptrend/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-11-11",
-    "ticker": "NVDA",
-    "headline": "WSJ: Nvidia board preparing to oust Huang",
-    "summary": "Board could meet Wednesday night; no successor or board chair. NYT also reported a second relationship, with an executive. Shares down over 7% after hours. No decision reported yet.",
-    "source": "https://fortune.com/2026/11/11/nvidia-oust-jensen-huang-spy-affairs/",
-    "impact": "negative"
   }
 ]
