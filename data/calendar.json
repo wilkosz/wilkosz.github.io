@@ -32,16 +32,6 @@
       "link": "https://investor.workday.com/"
     },
     {
-      "key": "2026-11-25-us-gdp-pce",
-      "date": "2026-11-25",
-      "time": "8:30am ET (Thu 12:30am AEDT)",
-      "ticker": "",
-      "title": "US Q3 GDP second estimate and October PCE inflation",
-      "type": "macro",
-      "why": "Last inflation print before the December FOMC; minutes show nearly all officials expect more hikes.",
-      "link": "https://fedratecalc.com/pce-inflation-release-date/"
-    },
-    {
       "key": "2026-11-25-de-q4",
       "date": "2026-11-25",
       "time": "Before open; call 9:00am CT (Thu 2:00am AEDT)",
@@ -50,6 +40,16 @@
       "why": "Machinery bellwether; farm demand and tariff costs",
       "type": "earnings",
       "link": "https://investor.deere.com/"
+    },
+    {
+      "key": "2026-11-25-us-gdp-pce",
+      "date": "2026-11-25",
+      "time": "8:30am ET = 12:30am AEDT Thu",
+      "ticker": "MACRO",
+      "title": "US Q3 GDP second estimate and October PCE inflation",
+      "type": "macro",
+      "why": "Hot on both counts. Q3 GDP revised up to 4.3% annualised (first estimate 3.4%, consensus 3.5%), the fastest in three years. October core PCE 3.3% y/y (Sep 3.1%, consensus 3.2%), the highest since late 2023; headline 3.8%; both 0.3% m/m. Personal income +0.7%. Markets now price about 98% odds of a 25bp Fed hike on Dec 9.",
+      "link": "https://longbridge.com/en/news/306802027"
     },
     {
       "key": "2026-11-25-au-cpi-oct",
@@ -114,11 +114,11 @@
     {
       "key": "2026-12-01-jolts",
       "date": "2026-12-01",
-      "time": "10:00am ET (Wed 2:00am AEDT) - BLS confirmed",
+      "time": "10am ET = 2am AEDT Wed",
       "ticker": "MACRO",
       "title": "JOLTS job openings, October",
       "type": "macro",
-      "why": "Labour read ahead of the Dec 9 Fed meeting.",
+      "why": "Labour demand check before the Dec 9 FOMC. Date confirmed on the BLS schedule.",
       "link": "https://www.bls.gov/schedule/2026/12_sched_list.htm"
     },
     {
@@ -244,11 +244,21 @@
     {
       "key": "2026-12-04-us-jobs-nov",
       "date": "2026-12-04",
-      "time": "8:30am ET (Sat 12:30am AEDT)",
+      "time": "8:30am ET = 12:30am AEDT Sat",
       "ticker": "MACRO",
       "title": "US jobs report, November",
       "type": "macro",
-      "why": "Last payrolls print before the December FOMC, where a quarter-point hike is ~92% priced.",
+      "why": "Last payrolls before the Dec 9 decision. Jobless claims were 189k last week, so a strong print could push the debate from 25bp to 50bp. Date confirmed on the BLS schedule.",
+      "link": "https://www.bls.gov/schedule/2026/12_sched_list.htm"
+    },
+    {
+      "key": "2026-12-08-us-productivity",
+      "date": "2026-12-08",
+      "time": "8:30am ET = 12:30am AEDT Wed",
+      "ticker": "MACRO",
+      "title": "US Q3 productivity and unit labour costs, revised",
+      "type": "macro",
+      "why": "Unit labour costs feed the Fed's view of wage-driven inflation, released the day the FOMC meeting starts.",
       "link": "https://www.bls.gov/schedule/2026/12_sched_list.htm"
     },
     {
@@ -280,6 +290,26 @@
       "type": "central_bank",
       "why": "Futures price ~95% for a 25bp hike, 5% for 50bp (Nov 24). Dot plot matters for LDI, RKT, AXOS.",
       "link": "https://www.tradingnews.com/news/stock-market-today-nasdaq-ixic-drops-2-4-dow-dji-green-sp-500-spx-eyes-7400-usd-target-nvda-sheds-8"
+    },
+    {
+      "key": "2026-12-10-us-cpi-nov",
+      "date": "2026-12-10",
+      "time": "8:30am ET = 12:30am AEDT Fri",
+      "ticker": "MACRO",
+      "title": "US CPI, November",
+      "type": "macro",
+      "why": "First inflation print after the expected Dec 9 hike. It will shape the odds of a follow-up hike in January.",
+      "link": "https://www.bls.gov/schedule/2026/12_sched_list.htm"
+    },
+    {
+      "key": "2026-12-10-orcl-q2",
+      "date": "2026-12-10",
+      "time": "TBC (estimated after close ET = morning AEDT Fri)",
+      "ticker": "ORCL",
+      "title": "Oracle fiscal Q2 2027 results (date not yet confirmed)",
+      "type": "earnings",
+      "why": "A read on AI cloud backlog and capex while AI credit spreads are widening (CoreWeave 5-year CDS about 1,314bp). Calendars estimate Dec 10; Oracle usually confirms about two weeks ahead.",
+      "link": "https://days.to/oracle-earnings"
     }
   ]
 }

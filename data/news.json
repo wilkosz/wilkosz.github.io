@@ -1,6 +1,70 @@
 [
   {
     "date": "2026-11-25",
+    "ticker": "NVDA",
+    "headline": "Chip rout extends for a second day, erasing most of the Huang-reinstatement rally",
+    "summary": "Nvidia fell 6-8% intraday after the semis index dropped 7.9% Tuesday. Causes cited: AI return doubts, wider tech credit spreads, new tariff findings and December hike odds of 96%.",
+    "source": "https://za.investing.com/news/stock-market-news/us-chip-stocks-tumble-as-ai-spending-concerns-resurface-4597103",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-25",
+    "ticker": "NVDA",
+    "headline": "Trump says he considered a US government stake in Nvidia; House sets Huang interviews",
+    "summary": "Trump told the New York Post a stake modelled on the Intel deal was considered and left a Huang pardon open. House Republican chairs will interview Huang and Nvidia's general counsel Dec 1-2.",
+    "source": "https://finance.biggo.com/news/3666ab4b-585f-40b8-96d4-2afc2a755af8",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-25",
+    "ticker": "MU",
+    "headline": "Micron down about 9% after BNP downgrade and NAND oversupply warning",
+    "summary": "BNP Paribas cut Micron to Neutral on oversupply risk; TrendForce forecasts NAND contract prices could start falling in early 2027. Monday's 19% gain is fully erased.",
+    "source": "https://finance.yahoo.com/markets/stocks/articles/micron-falls-7-nvidia-pullback-140733539.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-25",
+    "ticker": "MACRO",
+    "headline": "Q3 GDP revised up to 4.3%; October PCE inflation 3.8%, core 3.3%",
+    "summary": "Strong growth and hot inflation reinforce a December Fed hike, priced at 96% by money markets.",
+    "source": "https://www.stocktitan.net/articles/stock-market-today-live-november-25-2026",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-25",
+    "ticker": "ANTHROPIC",
+    "headline": "Anthropic trades below its IPO price as AI names sell off",
+    "summary": "Anthropic was down about 4% early, roughly 4% below its $83 IPO price.",
+    "source": "https://abcnews.com/Business/stocks-tumble-tech-sell-off-resumes-nvidia-falls/story?id=138442070",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-25",
+    "ticker": "SKHY",
+    "headline": "AI selloff deepens; Kospi -6.2%",
+    "summary": "Chips led a third day of losses on AI spend doubts and pending tariffs on 16 economies; Nasdaq was -4.6% at lows before paring.",
+    "source": "https://cnn.com/2026/11/25/business/ai-sell-off-despite-huang-nvidia-return",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-25",
+    "ticker": "MACRO",
+    "headline": "Q3 GDP revised to 4.3%, core PCE 3.3%",
+    "summary": "Growth was revised up from 3.4% and core PCE inflation rose from 3.1% to the highest since 2023. A December Fed hike is now close to fully priced.",
+    "source": "https://longbridge.com/en/news/306802027",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-25",
+    "ticker": "MACRO",
+    "headline": "Up to 20% tariffs proposed on China, EU and 12 others",
+    "summary": "Follows an excess-capacity probe and would stack on existing duties, taking some Chinese goods above 40%. Hearings and a comment period come first, so January at the earliest.",
+    "source": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-25",
     "ticker": "MACRO",
     "headline": "Australian inflation jumps to 4.9% in October",
     "summary": "ABS monthly CPI rose 4.9% y/y from 4.3% in September; trimmed mean 3.8% from 3.6%; +0.7% m/m seasonally adjusted. Raises odds of an RBA hike on Dec 8.",
@@ -573,70 +637,6 @@
     "headline": "Robinhood among six brokers selling Anthropic IPO shares to retail",
     "summary": "Robinhood joins Schwab, Fidelity, SoFi, E*TRADE and others in the retail allocation; HOOD rose 4% on Nov 12.",
     "source": "https://financefeeds.com/robinhood-hood-stock-84-58-thursday-anthropic-ipo-retail-allocation-targets-100-135/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-11-12",
-    "ticker": "NVDA",
-    "headline": "Nvidia closes down 4.3% after Huang resigns; Kress interim CEO",
-    "summary": "Fell as much as 14% intraday before paring. CFO Colette Kress is interim CEO; Harvey Jones becomes first board chair. Bernstein halved its target. Q3 results still due Nov 17.",
-    "source": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-12",
-    "ticker": "NVDA",
-    "headline": "Nvidia down 11% since Nov 6 and 31% below its Oct 6 record",
-    "summary": "Market value finished about $4.0T. Index funds fell about 0.35%; small caps (IWM) fell 1.6%.",
-    "source": "https://www.stocktitan.net/articles/stock-market-today-live-november-12-2026",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-12",
-    "ticker": "MACRO",
-    "headline": "10-year yield jumps 13bp to 5.125%; December Fed hike fully priced",
-    "summary": "2-year up 15bp to 4.879%. Goldman added a March hike. WTI +2% to $88.74, Brent +3% to $95.82 after Trump said no Iran deal needed.",
-    "source": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-12",
-    "ticker": "HOOD",
-    "headline": "Robinhood October: $383B platform assets, 28.9M funded customers",
-    "summary": "Monthly operating data released; shares fell 3.8% on the day.",
-    "source": "https://stockanalysis.com/stocks/hood/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-11-12",
-    "ticker": "NVDA",
-    "headline": "Jensen Huang resigns; CFO Colette Kress named interim CEO",
-    "summary": "Huang left as CEO and director effective immediately. Harvey Jones becomes first board chair and the board is searching inside and outside for a permanent CEO.",
-    "source": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-12",
-    "ticker": "FIGR",
-    "headline": "Figure Q3: marketplace volume +135%, EBITDA margin 58%",
-    "summary": "Adjusted EBITDA rose 91%. Management flagged seasonal and acquisition costs pressuring Q4 margins; shares rose about 10%.",
-    "source": "https://stockanalysis.com/stocks/figr/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-11-12",
-    "ticker": "BABA",
-    "headline": "Alibaba drops about 7% on China AI chip worries",
-    "summary": "ADRs fell midday as Nvidia's leadership shock revived chip-supply concerns; T-Head has filed for a Hong Kong IPO and results land Nov 19.",
-    "source": "https://stockanalysis.com/stocks/baba/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-12",
-    "ticker": "AMD",
-    "headline": "AMD up ~5% as rivals gain on Nvidia exit; BofA target $700",
-    "summary": "William Blair upgraded to Outperform; AMD to invest in PsiQuantum.",
-    "source": "https://stockanalysis.com/stocks/amd/",
     "impact": "positive"
   }
 ]

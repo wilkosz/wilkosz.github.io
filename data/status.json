@@ -1,138 +1,139 @@
 {
-  "as_of": "2026-11-25T06:30",
-  "market_summary": "Tuesday close: Nasdaq -1.5%, S&P 500 -0.5%, Dow +0.85% to a record above 50,000, SOX -7.9% as chips unwound Monday's Huang-return rally. Money rotated into healthcare, consumer and value names. The 10-year held near 4.92%; Dec 9 Fed hike odds were last read about 91% (mid-Nov). Australian October CPI jumped to 4.9% y/y, trimmed mean 3.8%, putting an RBA hike on Dec 8 in play. GPU rents and DRAM spot held flat, so the selloff is in equities, not compute pricing.",
+  "as_of": "2026-11-25T18:30",
+  "market_summary": "Wednesday's data came in hot: Q3 GDP was revised up to 4.3% and October core PCE rose to 3.3%, so futures now price about a 98% chance of a 25bp Fed hike on Dec 9 (the range is now 3.75-4.00%). Stocks fell into Thanksgiving. Intraday snapshots had the S&P 500 down 1.0-2.7% and the Nasdaq down 1.8-4.1%, the Nasdaq-100 near bear-market territory, the chip index down more than 6% at one point, Nvidia down 6-8%, and the VIX near 29.5; final closes were not confirmed. The 10-year yield fell about 7bp to roughly 4.82% as money moved into bonds. Adding to the selling, the administration proposed tariffs of up to 20% on China, the EU and 12 other partners after an excess-capacity probe, most likely from January; the China truce ends Jan 10. At home, October CPI jumped to 4.9% y/y, keeping pressure on the RBA ahead of its Dec 8 decision.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "Down 1.2% Tue in the tech pullback; no company news.",
-      "price_usd": 252.29,
+      "reason": "Down 3% on AI capex return doubts and tech credit spreads widening; no company news.",
+      "price_usd": 244.0,
       "updated": "2026-11-25",
-      "pe_forward": 25.51,
+      "pe_forward": 24.68,
       "source": "https://stockanalysis.com/stocks/amzn/statistics/"
     },
     "AXOS": {
       "take": "hold",
-      "reason": "Up 1.1% Tue as value rotation helped banks. Forward PE under 9.",
-      "price_usd": 87.1,
+      "reason": "Down 0.6%, steady through the selloff; forward PE under 9.",
+      "price_usd": 86.61,
       "updated": "2026-11-25",
-      "pe_forward": 8.65,
+      "pe_forward": 8.6,
       "source": "https://stockanalysis.com/stocks/ax/statistics/"
     },
     "BABA": {
       "take": "hold",
-      "reason": "Down 1.4% Tue; tariff threats cited in the selloff. Forward PE near 10.",
-      "price_usd": 84.86,
+      "reason": "Up 0.6% as Hang Seng rose 1.1% against an Asia-wide selloff; new US tariff findings on China are a risk.",
+      "price_usd": 85.38,
       "updated": "2026-11-25",
       "pe_forward": 9.96,
       "source": "https://stockanalysis.com/stocks/baba/statistics/"
     },
     "ENPH": {
       "take": "watch",
-      "reason": "Down 2.4% Tue; no company news. Rates near 4.9% still weigh on solar financing.",
-      "price_usd": 20.37,
+      "reason": "Up 3% against the tape; tariff findings on excess capacity could hit solar supply chains.",
+      "price_usd": 20.95,
       "updated": "2026-11-25",
-      "pe_forward": 19.39,
+      "pe_forward": 19.73,
       "source": "https://stockanalysis.com/stocks/enph/statistics/"
     },
     "FIGR": {
-      "take": "watch",
-      "reason": "Down 6.0% Tue, moving with growth and AI-adjacent names; no company news.",
-      "price_usd": 24.59,
+      "take": "hold",
+      "reason": "Up 4% midday despite the tech rout; no company news.",
+      "price_usd": 25.5,
       "updated": "2026-11-25",
-      "pe_forward": 17.05,
+      "pe_forward": 17.67,
       "source": "https://stockanalysis.com/stocks/figr/statistics/"
     },
     "GOOGL": {
       "take": "hold",
-      "reason": "Down 1.1% Tue in the tech pullback; no company news.",
-      "price_usd": 279.05,
+      "reason": "Down 3% in the Nasdaq slide of about 4%; no company news.",
+      "price_usd": 270.43,
       "updated": "2026-11-25",
-      "pe_forward": 20.28,
+      "pe_forward": 19.65,
       "source": "https://stockanalysis.com/stocks/googl/statistics/"
     },
     "LDI": {
       "take": "watch",
-      "reason": "Up 5.8% Tue but still a sub-dollar stock; no forward PE available. Small position, high risk.",
-      "price_usd": 0.3994,
+      "reason": "Up 15% on no clear news; penny-stock swings, December hike odds of 96% weigh on mortgage volumes.",
+      "price_usd": 0.461,
       "updated": "2026-11-25",
       "source": "https://stockanalysis.com/stocks/ldi/statistics/"
     },
     "META": {
       "take": "hold",
-      "reason": "Down 1.3% Tue in the tech pullback; no company news.",
-      "price_usd": 589.82,
+      "reason": "Up 2% while Nasdaq fell about 4%, one of few megacaps green; no company news.",
+      "price_usd": 602.38,
       "updated": "2026-11-25",
-      "pe_forward": 18.15,
+      "pe_forward": 18.52,
       "source": "https://stockanalysis.com/stocks/meta/statistics/"
     },
     "MRVL": {
-      "take": "watch",
-      "reason": "Down 9.1% Tue with the SOX; no company-specific news. Highest forward PE of the chip holdings.",
-      "price_usd": 131.57,
+      "take": "hold",
+      "reason": "Down 5% with the semis index after its 7.9% drop Tuesday; no company news.",
+      "price_usd": 125.25,
       "updated": "2026-11-25",
-      "pe_forward": 23.32,
+      "pe_forward": 22.23,
       "source": "https://stockanalysis.com/stocks/mrvl/statistics/"
     },
     "MU": {
-      "take": "hold",
-      "reason": "Down 11.0% Tue, worst of the chip rout; memory names hit hardest. Forward PE very low, but DRAM pricing suit still pending.",
-      "price_usd": 629.79,
+      "take": "watch",
+      "reason": "Down 9% after BNP downgrade on oversupply and TrendForce warning NAND contract prices may fall early 2027; memory cycle risk rising.",
+      "price_usd": 573.1,
       "updated": "2026-11-25",
-      "pe_forward": 3.57,
+      "pe_forward": 3.28,
       "source": "https://stockanalysis.com/stocks/mu/statistics/"
     },
     "NFLX": {
       "take": "hold",
-      "reason": "Up 1.3% Tue as money rotated to consumer names; no company news.",
-      "price_usd": 58.87,
+      "reason": "Flat on a day Nasdaq fell about 4%; defensive relative to AI names.",
+      "price_usd": 58.77,
       "updated": "2026-11-25",
-      "pe_forward": 16.4,
+      "pe_forward": 16.37,
       "source": "https://stockanalysis.com/stocks/nflx/statistics/"
     },
     "NVDA": {
       "take": "hold",
-      "reason": "Fell 5.9% Tue, giving back part of Monday's 31.5% jump on Huang's return; SOX down 7.9%. Volatile, thesis intact.",
-      "price_usd": 155.38,
+      "reason": "Down 6% midday, second chip rout day, giving back most of the Huang-reinstatement jump; Trump stake talk and Dec 1-2 House interviews add noise.",
+      "price_usd": 146.17,
       "updated": "2026-11-25",
-      "pe_forward": 10.71,
+      "pe_forward": 10.08,
       "source": "https://stockanalysis.com/stocks/nvda/statistics/"
     },
     "RKT": {
-      "take": "hold",
-      "reason": "Up 2.6% Tue with the 10-year steady at 4.92%; no company news.",
-      "price_usd": 14.25,
+      "take": "watch",
+      "reason": "Up 6% midday, but markets price 96% odds of a December hike after hot PCE; mortgage rates a headwind.",
+      "price_usd": 15.09,
       "updated": "2026-11-25",
-      "pe_forward": 24.42,
+      "pe_forward": 25.66,
       "source": "https://stockanalysis.com/stocks/rkt/statistics/"
     },
     "TSM": {
       "take": "hold",
-      "reason": "Down 4.0% Tue, held up better than the SOX's 7.9% drop. No company news.",
-      "price_usd": 349.2,
+      "reason": "Down 4% as Taiwan market fell about 8%; selloff is sector-wide, not TSMC-specific.",
+      "price_usd": 334.97,
       "updated": "2026-11-25",
-      "pe_forward": 16.73,
+      "pe_forward": 16.2,
       "source": "https://stockanalysis.com/stocks/tsm/statistics/"
     },
     "STRIPE": {
       "take": "hold",
-      "reason": "No new tender or round found since the Feb 2026 tender at $159B. Mark unchanged.",
+      "reason": "No new round or tender reported.",
       "price_usd": null,
       "updated": "2026-11-25",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "No new round found; latest print is the Aug 2026 employee tender at $852B. Mark unchanged.",
+      "reason": "No new round or tender reported; AI capex doubts hitting public peers.",
       "price_usd": null,
       "updated": "2026-11-25",
       "mark_multiple": 7.96
     }
   },
   "headlines": [
-    "SOX -7.9% Tue close as chips unwound Monday's rally: MU -11%, MRVL -9%, NVDA -6%, TSM -4%.",
-    "Watchlist hardware hit hardest: ALAB -14%, SKHY -10%, AMD -9%; CoreWeave -12%.",
-    "Compute pricing steady: H100 rent $3.10/hr, DDR5 spot flat. Selloff is equities, not demand.",
-    "AU October CPI 4.9% y/y, trimmed mean 3.8%: RBA Dec 8 hike now a live risk.",
-    "US GDP and PCE Wed 8:30am ET = Thu 12:30am AEDT; Deere reports Thu morning AEDT."
+    "Chip selloff extends a second day midsession: MU -9%, NVDA -6%, MRVL -5%, TSM -4%; Nasdaq down about 3-4%.",
+    "US Q3 GDP revised to 4.3%; Oct core PCE 3.3% y/y. Dec 9 Fed hike odds now near 98%.",
+    "US readies tariffs up to 20% on China, EU and others, likely from January.",
+    "Compute pricing still steady: H100 rent $3.10/hr; DDR5 spot dips 0.1%, first slip in weeks.",
+    "META +2%, RKT +6%, LDI +15% buck the selloff; no company news behind them.",
+    "US closed Thu for Thanksgiving, half day Fri. Next: ISM and Marvell results Tue Dec 1 = Wed AEDT."
   ]
 }
