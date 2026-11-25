@@ -1,11 +1,12 @@
 {
-  "as_of": "2026-11-25T00:07",
-  "summary": "Quiet market. Every live find re-checked and still listed at the same price; nothing sold or delisted overnight. Loader tractors in band and within 400km remain scarce; the dealer and auction yards are mostly big row-crop tractors or ex-council units in WA, SA and QLD.",
+  "as_of": "2026-11-25T12:07",
+  "summary": "Two new tractors that clear every must. A 2025 Lovol P4110 with loader, 4-in-1 bucket and implements is a fixed $70,000 buy-now at Dubbo. A one-owner 2021 John Deere 6140M with a 663R loader and 964 hours goes to AuctionsPlus tomorrow at 4pm, no price shown yet. Discs, rippers, portable homes and the remaining diesel tanks are unchanged.",
   "headlines": [
-    "Quiet run: all 27 live finds still listed, no price moves, nothing sold.",
-    "Near miss: 2018 MF 5610 100hp, 3,999 hrs, new loader, $79,900, Moss Vale, 480km - over range, not listed.",
-    "Passed: 2015 NH T6050 loader tractor at Hanwood, $60,500 - 8,615 hours, over the limit.",
-    "Pickles fuel cube 1,000 L now $550 bid, closes tonight, Glenorchy TAS."
+    "2025 Lovol P4110, 110hp cab, loader with 4-in-1 bucket, 143 hours, $70,000 buy now, Dubbo, about 400km.",
+    "2021 John Deere 6140M with 663R loader, 964 hours, one owner, Binalong. AuctionsPlus auction closes Thu 26 Nov 4pm AEDT, no price shown.",
+    "Pickles Fuelcube 1,000 L tank: auction ended, marked gone.",
+    "New benchmark: unused 1,000 L tank with 12V pump on Pickles at a $1 bid, but it is in Toowoomba.",
+    "All other live finds were re-checked. All still listed at the same prices."
   ],
   "finds": [
     {
@@ -334,12 +335,37 @@
       "url": "https://www.pickles.com.au/used/details/general-goods/fuelcube-1000l-self-bunded-diesel-tank/62486586",
       "verdict": "decent",
       "why": "Self-bunded 1,000 L is the right spec; no price yet and the yard location needs checking.",
-      "status": "live",
+      "status": "gone",
       "ends": "2026-11-25",
       "first_seen": "2026-11-20",
       "updated": "2026-11-25",
       "photo": "img/finds/pickles-62486586.jpg",
       "photo_url": "https://www.pickles.com.au/images/transform/w_detail/4434d759-adf7-4388-b121-3a611cba3e69/8c3c07fb-d071-4031-b26a-7219f941a00f.jpeg"
+    },
+    {
+      "key": "pickles-62486199",
+      "want": "diesel-storage",
+      "title": "Unused 1,000 L fuel tank, 12V pump, hose and nozzle",
+      "price_aud": 1,
+      "price_note": "Current bid; online auction, premium applies",
+      "location": "Toowoomba, QLD",
+      "distance_km": 1100,
+      "detail": [
+        "1,000 L",
+        "12V pump, 40 L/min",
+        "4m hose, auto shut-off nozzle",
+        "lockable lid, fork pockets, baffle balls"
+      ],
+      "source": "Pickles",
+      "url": "https://www.pickles.com.au/used/details/general-goods/unused-1000-litre-fuel-tank-model-dd1000/62486199",
+      "verdict": "stretch",
+      "why": "Good pump kit and useful as a price benchmark, but it needs freight from Toowoomba.",
+      "status": "live",
+      "ends": "2026-11-26",
+      "first_seen": "2026-11-25",
+      "updated": "2026-11-25",
+      "photo": "img/finds/pickles-62486199.jpg",
+      "photo_url": "https://www.pickles.com.au/images/transform/w_detail/f7bea15e-5a16-48ca-9d85-0d7c320e00ac/a93c0c3c-eed3-4553-91cc-858e728f5d6a.jpeg"
     },
     {
       "key": "gumtree-1344159827",
@@ -763,6 +789,32 @@
       "photo": "img/finds/fb-1450344739854512.jpg"
     },
     {
+      "key": "rbauction-16312203",
+      "want": "tractor",
+      "title": "2025 Lovol P4110 4WD cab tractor with TZ10D loader and 4-in-1 bucket",
+      "price_aud": 70000,
+      "price_note": "Buy now on Ritchie Bros/IronPlanet, offers accepted; taxes and fees added at checkout",
+      "location": "Dubbo, NSW",
+      "distance_km": 400,
+      "detail": [
+        "143 hours",
+        "110hp",
+        "enclosed cab, air con",
+        "12x12 shuttle",
+        "TZ10D loader, joystick, 1,960mm 4-in-1 bucket",
+        "includes 1,840mm slasher and grader blade"
+      ],
+      "source": "Ritchie Bros",
+      "url": "https://www.rbauction.com.au/pdp/2025-lovol-p4110-4wd-tractor/16312203",
+      "verdict": "strong",
+      "why": "Nearly new 110hp cab loader tractor with implements thrown in, at the top of the band but under the new-dealer price.",
+      "status": "live",
+      "first_seen": "2026-11-25",
+      "updated": "2026-11-25",
+      "photo": "img/finds/rbauction-16312203.jpg",
+      "photo_url": "https://cdn.ironpla.net/i/23579/540/b1c7b3be-ee44-3e96-b3ed-16cf0a7e540a-med.jpg"
+    },
+    {
       "key": "auctionsplus-129206-1480974",
       "want": "tractor",
       "title": "2011 John Deere 6830 with JD683 loader, 1,823 hours",
@@ -840,31 +892,6 @@
       "ends": "2026-11-19",
       "first_seen": "2026-11-18",
       "updated": "2026-11-20"
-    },
-    {
-      "key": "m4u-1022255",
-      "want": "tractor",
-      "title": "New Lovol 110hp powershift 4WD cab tractor with 4-in-1 loader",
-      "price_aud": 67990,
-      "price_note": "inc GST ($61,809 ex GST); dealer delivers nationally, freight not stated",
-      "location": "Nicola's Machinery (delivers nationally)",
-      "distance_km": null,
-      "detail": [
-        "new, 0 hours",
-        "110hp",
-        "cab with A/C",
-        "4-in-1 bucket loader",
-        "5-year parts and labour warranty"
-      ],
-      "source": "Machines4u",
-      "url": "https://www.machines4u.com.au/view/advert/LOVOL-110HP-POWERSHIFT-4WD-A-C-CABIN-TRACTOR-WITH-4IN1-BUCKET-COMBO-DEAL-5-YEARS-WARRANTY/1022255/",
-      "verdict": "decent",
-      "why": "New-price benchmark for a 110hp Lovol with loader and warranty, under the 80k ceiling; same brand as the loaner P5130.",
-      "status": "live",
-      "first_seen": "2026-11-19",
-      "updated": "2026-11-25",
-      "photo": "img/finds/m4u-1022255.jpg",
-      "photo_url": "https://media.machines4u.com.au/machinery/55/1022255/LOVOL-110HP-POWERSHIFT-4WD-A-C-CABIN-TRACTOR-WITH-4IN1-BUCKET-COMBO-DEAL-5-YEARS-WARRANTY_72855555.h.jpg"
     },
     {
       "key": "fb-1121534220613925",
