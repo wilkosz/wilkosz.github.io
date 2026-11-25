@@ -1,46 +1,6 @@
 {
-  "as_of": "2026-11-24",
+  "as_of": "2026-11-25",
   "events": [
-    {
-      "key": "2026-11-23-fed-williams",
-      "date": "2026-11-23",
-      "time": "4:00pm ET (Tue 8:00am AEDT)",
-      "ticker": "FED",
-      "title": "NY Fed's Williams speaks",
-      "type": "central_bank",
-      "why": "Last major Fed voice before blackout (Nov 28 - Dec 10); 25 vs 50bp hike.",
-      "link": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
-    },
-    {
-      "key": "2026-11-23-hpe-q4",
-      "date": "2026-11-23",
-      "time": "After close; call 5:00pm ET (Tue 9:00am AEDT)",
-      "ticker": "HPE",
-      "title": "HPE fiscal Q4 2026 results",
-      "type": "earnings",
-      "why": "AI server demand check after the chip rout; Q4 guide $13.9-14.8B revenue.",
-      "link": "https://www.hpe.com/us/en/newsroom/press-release/2026/11/hpe-to-present-live-audio-webcast-of-fiscal-2026-fourth-quarter-earnings-conference-call.html"
-    },
-    {
-      "key": "2026-11-23-flash-pmi",
-      "date": "2026-11-23",
-      "time": "9:45am ET (Tue 1:45am AEDT)",
-      "ticker": "MACRO",
-      "title": "S&P Global US flash PMIs, November",
-      "type": "macro",
-      "why": "First November activity and price read; date confirmed on Newsquawk/Kiplinger week-ahead.",
-      "link": "https://www.newsquawk.com/headlines/newsquawk-weekly-economic-calendar---23rd-27th-november-2026"
-    },
-    {
-      "key": "2026-11-23-zm-q3",
-      "date": "2026-11-23",
-      "time": "After close; webinar 5:00pm ET (Tue 9:00am AEDT)",
-      "ticker": "ZM",
-      "title": "Zoom fiscal Q3 results",
-      "type": "earnings",
-      "why": "Read on AI add-on demand in seat software.",
-      "link": "https://news.ifyouspent.com/en/news/thanksgiving-week-earnings-dell-workday-zoom-hp-deere-november-2026"
-    },
     {
       "key": "2026-11-24-dell-q3",
       "date": "2026-11-24",
@@ -94,12 +54,12 @@
     {
       "key": "2026-11-25-au-cpi-oct",
       "date": "2026-11-25",
-      "time": "11:30am AEDT",
+      "time": "11:30am AEDT (released)",
       "ticker": "MACRO",
-      "title": "Australia monthly CPI, October",
+      "title": "Australia monthly CPI, October: 4.9% y/y (Sep 4.3%), trimmed mean 3.8%",
       "type": "macro",
-      "why": "Last CPI before RBA Dec 8 decision, after five hikes.",
-      "link": "https://www.abs.gov.au/release-calendar/future-releases/202611"
+      "why": "Headline up 0.6pt in a month, trimmed mean 3.6% to 3.8%, monthly +0.7% s.a. Puts a hike live at the Dec 8 RBA meeting and keeps AU yields under pressure.",
+      "link": "https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/oct-2026"
     },
     {
       "key": "2026-11-25-beige-book",

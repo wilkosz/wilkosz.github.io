@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-11-25",
+    "ticker": "MACRO",
+    "headline": "Australian inflation jumps to 4.9% in October",
+    "summary": "ABS monthly CPI rose 4.9% y/y from 4.3% in September; trimmed mean 3.8% from 3.6%; +0.7% m/m seasonally adjusted. Raises odds of an RBA hike on Dec 8.",
+    "source": "ABS",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-24",
+    "ticker": "NVDA",
+    "headline": "Chip stocks give back Monday's rally; SOX falls 7.9%",
+    "summary": "Nvidia fell 5.9% a day after its 31.5% jump on Huang's return. Coverage cited profit-taking, tariff threats and stress in AI debt markets.",
+    "source": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-today-nov-24-tech-sell-off-drags-nasdaq-as-dow-gains-on-value-rotation/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-24",
+    "ticker": "MU",
+    "headline": "Memory and networking chips lead the decline",
+    "summary": "Micron fell 11.0% and Marvell 9.1%, among the worst in the SOX. Qualcomm was the only index member to close higher.",
+    "source": "https://finance.biggo.com/news/efa4550f-327b-4612-b151-77555e7d62dd",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-24",
+    "ticker": "SKHY",
+    "headline": "SK Hynix ADR falls 9.9%",
+    "summary": "Closed $111.98 after +20% Nov 23; DRAM spot prices flat.",
+    "source": "https://stockanalysis.com/stocks/skhy/history/",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-24",
+    "ticker": "MELI",
+    "headline": "MercadoLibre up 1.8% as chips fall",
+    "summary": "Closed $1,450.31; rotation away from AI hardware.",
+    "source": "https://stockanalysis.com/stocks/meli/history/",
+    "impact": "positive"
+  },
+  {
     "date": "2026-11-24",
     "ticker": "NVDA",
     "headline": "Nvidia gives back about 7% after Huang comeback rally",
@@ -597,46 +637,6 @@
     "headline": "AMD up ~5% as rivals gain on Nvidia exit; BofA target $700",
     "summary": "William Blair upgraded to Outperform; AMD to invest in PsiQuantum.",
     "source": "https://stockanalysis.com/stocks/amd/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-11-12",
-    "ticker": "AVGO",
-    "headline": "Broadcom up ~5% on rotation from Nvidia",
-    "summary": "Custom-chip makers bid as Nvidia shares fell.",
-    "source": "https://stockanalysis.com/stocks/avgo/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-11-12",
-    "ticker": "ALAB",
-    "headline": "Astera sees Scorpio X above $1B run rate by end-2026",
-    "summary": "Said at BMO conference; rising silicon content per XPU.",
-    "source": "https://stockanalysis.com/stocks/alab/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-11-12",
-    "ticker": "VRT",
-    "headline": "Vertiv launches PowerNexus medium-voltage UPS for AI sites",
-    "summary": "Outdoor-rated MV system; shares +2.7%.",
-    "source": "https://stockanalysis.com/stocks/vrt/",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-11-12",
-    "ticker": "SE",
-    "headline": "Four brokers cut Sea targets after Q3 EPS miss",
-    "summary": "BofA $110, TD Cowen $90, StoneX $155, Barclays $150.",
-    "source": "https://stockanalysis.com/stocks/se/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-12",
-    "ticker": "ANTHROPIC",
-    "headline": "Anthropic IPO reportedly several times oversubscribed",
-    "summary": "Bloomberg-sourced reports say orders are several times the 825M shares on offer at $70-78; up to $90.4B raised including a private placement; pricing Nov 18, Nasdaq trading as ANT Nov 19. Talk of a valuation above the range.",
-    "source": "https://qz.com/anthropic-ipo-oversubscribed-roadshow-demand-111126",
     "impact": "positive"
   }
 ]
