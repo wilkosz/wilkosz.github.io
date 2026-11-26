@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-11-26",
+    "ticker": "BABA",
+    "headline": "Hang Seng rises about 2%, ending a 7-day slide; Alibaba up 3%",
+    "summary": "Hong Kong tech and chip names led a rebound after Wall Street pared losses. Alibaba rose 3.1% and Tencent 2.4% in the afternoon session.",
+    "source": "https://longbridge.com/en/news/306868734",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-26",
+    "ticker": "TSM",
+    "headline": "Asian shares rebound; Taiex up 2.6% but TSMC up only 0.2%",
+    "summary": "Kospi rose 1.2% and Nikkei 1.3% after Wednesday falls of 6.2% and 2.8%. Investors are watching the planned US tariff hikes on China, Japan and the EU.",
+    "source": "https://finance.yahoo.com/markets/stocks/articles/asian-shares-rebound-led-ai-052153058.html",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-11-26",
+    "ticker": "AAPL",
+    "headline": "Apple pulls MiniMax AI chatbot from the App Store over child safety",
+    "summary": "Reuters reported the removal. Shares closed up 0.4% Wed; UBS says iPhone Duo wait times shortened by 32 days week on week.",
+    "source": "https://stockanalysis.com/stocks/aapl/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-11-26",
+    "ticker": "MACRO",
+    "headline": "Asia rebounds on chips; Bank of Korea hikes to 3.25%",
+    "summary": "Nikkei, Kospi, Hang Seng up 1-2% after Wednesday's rout; ASX flat.",
+    "source": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-25",
+    "ticker": "NVDA",
+    "headline": "S&P puts Nvidia's AA rating on negative watch",
+    "summary": "S&P Global Ratings warned of a possible one-notch downgrade within 90 days, citing dependence on Huang and board independence after his brief exit. Shares closed down 3.9% after a near-9% intraday fall.",
+    "source": "https://finance.biggo.com/news/30542728-f3f2-43b3-a743-cadd611c27b1",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-25",
+    "ticker": "MARKET",
+    "headline": "S&P 500 recovers most of a 3.2% drop to close down 0.25%",
+    "summary": "Nasdaq closed down 0.6% after being down 4.6%; Dow up 0.3%. Core PCE was 3.3% vs 3.2% expected; CME odds of a December hike at 97.8%. USTR proposed Section 301 tariffs on 14 partners, up to 20% on China and 15% on the EU and Japan.",
+    "source": "https://cappnotes.substack.com/p/closing-look-wednesday-november-25",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-25",
+    "ticker": "ANTHROPIC",
+    "headline": "Anthropic dips below its $83 IPO price before closing up 1%",
+    "summary": "A report that unreleased models may be too hard to control safely, and insider sales by the Amodeis, pushed it to a session low near 11% below the IPO price. Wedbush started coverage at Outperform. It closed up 1.1%, and was up 1.8% after hours.",
+    "source": "https://www.investing.com/news/stock-market-news/why-is-anthropic-stock-sliding-today-93CH-5051099",
+    "impact": "negative"
+  },
+  {
+    "date": "2026-11-25",
+    "ticker": "HOOD",
+    "headline": "Wedbush starts Robinhood at Outperform",
+    "summary": "Shares closed up 0.2% Wed and rose 2.6% after hours.",
+    "source": "https://stockanalysis.com/stocks/hood/",
+    "impact": "positive"
+  },
+  {
+    "date": "2026-11-25",
+    "ticker": "NVDA",
+    "headline": "Chips close well off lows",
+    "summary": "NVDA -3.9%, AMD -1.75%, AVGO flat at close after steep intraday drops.",
+    "source": "https://stockanalysis.com/stocks/nvda/history/",
+    "impact": "neutral"
+  },
+  {
+    "date": "2026-11-25",
+    "ticker": "MELI",
+    "headline": "MELI and SE gain again",
+    "summary": "MELI +1.2%, SE +2.9% as internet names diverge from chips.",
+    "source": "https://stockanalysis.com/stocks/se/history/",
+    "impact": "positive"
+  },
+  {
     "date": "2026-11-25",
     "ticker": "NVDA",
     "headline": "Chip rout extends for a second day, erasing most of the Huang-reinstatement rally",
@@ -558,85 +638,5 @@
     "summary": "Commerce rule targets offshore data-centre workarounds; interim CEO Kress leads Nvidia's Tue call. Anthropic debut eyed Nov 19.",
     "source": "https://marketspeaker.com/us-stocks-chip-selloff-nvidia-earnings-november-16-2026/",
     "impact": "negative"
-  },
-  {
-    "date": "2026-11-16",
-    "ticker": "NVDA",
-    "headline": "Nvidia crisis drags chips; board not bringing back Huang",
-    "summary": "Huang exit tied to national security probe; export curbs widened to five more countries. NVDA -4%, chip names -4 to -7%.",
-    "source": "https://stockanalysis.com/stocks/nvda/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-16",
-    "ticker": "SKHY",
-    "headline": "SK Hynix ADR -5.8% on Nvidia turmoil and DRAM price-fixing suit",
-    "summary": "Lawsuit adds legal risk to memory leader.",
-    "source": "https://stockanalysis.com/stocks/skhy/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-16",
-    "ticker": "BE",
-    "headline": "Law firm opens investigation into Bloom Energy officers",
-    "summary": "BE -7.6%; moved to watch.",
-    "source": "https://stockanalysis.com/stocks/be/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-16",
-    "ticker": "MARKET",
-    "headline": "Asia mostly lower Monday after weak Japan and China data; Kospi -2.8%, Nikkei -1.6%",
-    "summary": "Japan's preliminary Q3 GDP showed a surprise 0.1% annualised contraction and China's October industrial output and retail sales disappointed. Tech led losses in Tokyo and Seoul. The Hang Seng rose 0.9% on consumer and EV names.",
-    "source": "https://newsquawk.com/headlines/market-analysis-asia-pac-stocks-are-mostly-lower-to-start-the-week-after-disappointing-data-from-japan-and-china-while-participants-also-await-key-events-this-week-including-nvidia-earnings-and-teh-trump-xi-putin-trilateral-meeting",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-13",
-    "ticker": "NVDA",
-    "headline": "Nvidia ends week down 12.75% ahead of Tuesday earnings",
-    "summary": "Nvidia fell about 2% Friday, 12.75% for the week; Tuesday's report is the first read on demand since the CEO change.",
-    "source": "https://eurasiabusinessnews.com/2026/11/14/stock-market-today-november-13-2026-tech-stocks-fall-as-nvidia-earnings-and-anthropic-ipo-loom/",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-13",
-    "ticker": "NVDA",
-    "headline": "HSBC downgrades Nvidia to Hold after Huang exit",
-    "summary": "HSBC cut its target to $170 from $365, saying investor confidence is shaken. The stock fell again Friday, extending Thursday's 4% drop.",
-    "source": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-13",
-    "ticker": "OPENAI",
-    "headline": "OpenAI reportedly raising $15B at $1.25T valuation",
-    "summary": "Half the $30B initially sought and below a $1.4T target, per CNBC sources. About 47% above the March round's $852B post-money.",
-    "source": "https://techfundingnews.com/openai-reportedly-raises-15b-at-1-25t-valuation-as-anthropic-ipo-approaches/",
-    "impact": "neutral"
-  },
-  {
-    "date": "2026-11-13",
-    "ticker": "META",
-    "headline": "Meta rises about 2% against falling Nasdaq",
-    "summary": "Meta traded higher midday Friday on light volume while chips dragged the index lower.",
-    "source": "https://marketbeat.com/instant-alerts/options-meta-platforms-inc-nasdaq-meta-sees-large-increase-in-short-interest-2026-11-13",
-    "impact": "positive"
-  },
-  {
-    "date": "2026-11-13",
-    "ticker": "MACRO",
-    "headline": "10y yield hits 5.17%, Fed hike bets build",
-    "summary": "October PPI rose 0.3% vs 0.4% expected, but yields stayed above 5.1% and December hike odds rose.",
-    "source": "https://www.koreatimes.co.kr/world/20261114/stocks-sway-as-wall-street-heads-for-winning-week-after-several-turbulent-days",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-12",
-    "ticker": "HOOD",
-    "headline": "Robinhood among six brokers selling Anthropic IPO shares to retail",
-    "summary": "Robinhood joins Schwab, Fidelity, SoFi, E*TRADE and others in the retail allocation; HOOD rose 4% on Nov 12.",
-    "source": "https://financefeeds.com/robinhood-hood-stock-84-58-thursday-anthropic-ipo-retail-allocation-targets-100-135/",
-    "impact": "positive"
   }
 ]

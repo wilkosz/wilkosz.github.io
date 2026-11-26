@@ -1,139 +1,139 @@
 {
-  "as_of": "2026-11-25T18:30",
-  "market_summary": "Wednesday's data came in hot: Q3 GDP was revised up to 4.3% and October core PCE rose to 3.3%, so futures now price about a 98% chance of a 25bp Fed hike on Dec 9 (the range is now 3.75-4.00%). Stocks fell into Thanksgiving. Intraday snapshots had the S&P 500 down 1.0-2.7% and the Nasdaq down 1.8-4.1%, the Nasdaq-100 near bear-market territory, the chip index down more than 6% at one point, Nvidia down 6-8%, and the VIX near 29.5; final closes were not confirmed. The 10-year yield fell about 7bp to roughly 4.82% as money moved into bonds. Adding to the selling, the administration proposed tariffs of up to 20% on China, the EU and 12 other partners after an excess-capacity probe, most likely from January; the China truce ends Jan 10. At home, October CPI jumped to 4.9% y/y, keeping pressure on the RBA ahead of its Dec 8 decision.",
+  "as_of": "2026-11-26T06:30",
+  "market_summary": "Wed Nov 25: S&P 500 -0.25% to 7,182.78 and Nasdaq -0.62% to 23,585.80 after being down 3.2% and 4.6% intraday on AI-spend fears; semis down over 6% at the lows, Nvidia -3.9%; 10-year down about 7bp to 4.82%; VIX +7% to 28.3. Core PCE ran 3.3% y/y, slightly hot, and CME FedWatch prices about 98% odds of a 25bp hike on Dec 9. The White House proposed new tariffs of up to 20% on China, the EU and 12 other partners, stacking on existing rates, likely from January as the China truce ends Jan 10. Oil near $84 with Hormuz risk still in play. Thu Nov 26 Asia bounced while the US is shut for Thanksgiving: Nikkei about +1.2-1.6%, Kospi +1.5% after a 6% drop, Hang Seng +1.5-1.9%, ASX 200 flat; Bank of Korea hiked to 3.25%.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "Down 3% on AI capex return doubts and tech credit spreads widening; no company news.",
-      "price_usd": 244.0,
-      "updated": "2026-11-25",
-      "pe_forward": 24.68,
+      "reason": "Closed down 3.1% Wed as AI capex doubts and record tech credit spreads hit megacaps; no company news.",
+      "price_usd": 244.43,
+      "updated": "2026-11-26",
+      "pe_forward": 24.71,
       "source": "https://stockanalysis.com/stocks/amzn/statistics/"
     },
     "AXOS": {
       "take": "hold",
-      "reason": "Down 0.6%, steady through the selloff; forward PE under 9.",
-      "price_usd": 86.61,
-      "updated": "2026-11-25",
-      "pe_forward": 8.6,
+      "reason": "Flat Wed (-0.1%); forward PE under 9, but a December hike now near-certain keeps funding costs high.",
+      "price_usd": 87.05,
+      "updated": "2026-11-26",
+      "pe_forward": 8.64,
       "source": "https://stockanalysis.com/stocks/ax/statistics/"
     },
     "BABA": {
       "take": "hold",
-      "reason": "Up 0.6% as Hang Seng rose 1.1% against an Asia-wide selloff; new US tariff findings on China are a risk.",
-      "price_usd": 85.38,
-      "updated": "2026-11-25",
-      "pe_forward": 9.96,
+      "reason": "Up 1.7% Wed in US; Hong Kong shares up about 3% Thu as Hang Seng rose about 2% to end a 7-day slide. New 20% Section 301 tariff proposal on China is the risk.",
+      "price_usd": 86.26,
+      "updated": "2026-11-26",
+      "pe_forward": 10.14,
       "source": "https://stockanalysis.com/stocks/baba/statistics/"
     },
     "ENPH": {
       "take": "watch",
-      "reason": "Up 3% against the tape; tariff findings on excess capacity could hit solar supply chains.",
-      "price_usd": 20.95,
-      "updated": "2026-11-25",
-      "pe_forward": 19.73,
+      "reason": "Up 2.4% Wed against the tape; proposed Section 301 tariffs on 14 partners could raise solar supply costs.",
+      "price_usd": 20.86,
+      "updated": "2026-11-26",
+      "pe_forward": 19.85,
       "source": "https://stockanalysis.com/stocks/enph/statistics/"
     },
     "FIGR": {
       "take": "hold",
-      "reason": "Up 4% midday despite the tech rout; no company news.",
-      "price_usd": 25.5,
-      "updated": "2026-11-25",
-      "pe_forward": 17.67,
+      "reason": "Closed up 5.6% Wed despite the tech rout; no company news.",
+      "price_usd": 25.96,
+      "updated": "2026-11-26",
+      "pe_forward": 18.0,
       "source": "https://stockanalysis.com/stocks/figr/statistics/"
     },
     "GOOGL": {
       "take": "hold",
-      "reason": "Down 3% in the Nasdaq slide of about 4%; no company news.",
-      "price_usd": 270.43,
-      "updated": "2026-11-25",
-      "pe_forward": 19.65,
+      "reason": "Closed down 2.1% Wed after Nasdaq clawed back from a 4.6% drop to -0.6%; Google CDS hit a record high. Up 0.7% after hours.",
+      "price_usd": 273.1,
+      "updated": "2026-11-26",
+      "pe_forward": 19.84,
       "source": "https://stockanalysis.com/stocks/googl/statistics/"
     },
     "LDI": {
       "take": "watch",
-      "reason": "Up 15% on no clear news; penny-stock swings, December hike odds of 96% weigh on mortgage volumes.",
-      "price_usd": 0.461,
-      "updated": "2026-11-25",
+      "reason": "Up 18% Wed on no clear news; penny-stock swings while 98% December hike odds weigh on mortgage volumes.",
+      "price_usd": 0.4711,
+      "updated": "2026-11-26",
       "source": "https://stockanalysis.com/stocks/ldi/statistics/"
     },
     "META": {
       "take": "hold",
-      "reason": "Up 2% while Nasdaq fell about 4%, one of few megacaps green; no company news.",
-      "price_usd": 602.38,
-      "updated": "2026-11-25",
-      "pe_forward": 18.52,
+      "reason": "Up 3.4% Wed, best of the megacaps as the AI selloff rotated away from capex-heavy names; no company news.",
+      "price_usd": 609.89,
+      "updated": "2026-11-26",
+      "pe_forward": 18.76,
       "source": "https://stockanalysis.com/stocks/meta/statistics/"
     },
     "MRVL": {
       "take": "hold",
-      "reason": "Down 5% with the semis index after its 7.9% drop Tuesday; no company news.",
-      "price_usd": 125.25,
-      "updated": "2026-11-25",
-      "pe_forward": 22.23,
+      "reason": "Recovered to close down only 0.5% Wed after a 5% midday drop; up 2.1% after hours. No company news.",
+      "price_usd": 130.93,
+      "updated": "2026-11-26",
+      "pe_forward": 23.21,
       "source": "https://stockanalysis.com/stocks/mrvl/statistics/"
     },
     "MU": {
       "take": "watch",
-      "reason": "Down 9% after BNP downgrade on oversupply and TrendForce warning NAND contract prices may fall early 2027; memory cycle risk rising.",
-      "price_usd": 573.1,
-      "updated": "2026-11-25",
-      "pe_forward": 3.28,
+      "reason": "Closed down 4.5% Wed, halving an 8-9% morning drop; BNP oversupply downgrade and NAND price warnings keep memory-cycle risk high. SK Hynix fell 11% in Seoul.",
+      "price_usd": 601.25,
+      "updated": "2026-11-26",
+      "pe_forward": 3.43,
       "source": "https://stockanalysis.com/stocks/mu/statistics/"
     },
     "NFLX": {
       "take": "hold",
-      "reason": "Flat on a day Nasdaq fell about 4%; defensive relative to AI names.",
-      "price_usd": 58.77,
-      "updated": "2026-11-25",
-      "pe_forward": 16.37,
+      "reason": "Up 0.9% Wed; defensive relative to AI names, no company news.",
+      "price_usd": 59.41,
+      "updated": "2026-11-26",
+      "pe_forward": 16.55,
       "source": "https://stockanalysis.com/stocks/nflx/statistics/"
     },
     "NVDA": {
       "take": "hold",
-      "reason": "Down 6% midday, second chip rout day, giving back most of the Huang-reinstatement jump; Trump stake talk and Dec 1-2 House interviews add noise.",
-      "price_usd": 146.17,
-      "updated": "2026-11-25",
-      "pe_forward": 10.08,
+      "reason": "Closed down 3.9% Wed after a near-9% intraday drop, down 27% in November; S&P put its AA rating on negative watch over governance and key-person risk after the Huang exit and return.",
+      "price_usd": 149.3,
+      "updated": "2026-11-26",
+      "pe_forward": 10.3,
       "source": "https://stockanalysis.com/stocks/nvda/statistics/"
     },
     "RKT": {
       "take": "watch",
-      "reason": "Up 6% midday, but markets price 96% odds of a December hike after hot PCE; mortgage rates a headwind.",
-      "price_usd": 15.09,
-      "updated": "2026-11-25",
-      "pe_forward": 25.66,
+      "reason": "Up 7.4% Wed on no clear news; a near-certain December hike is a headwind for refinance volumes.",
+      "price_usd": 15.3,
+      "updated": "2026-11-26",
+      "pe_forward": 26.42,
       "source": "https://stockanalysis.com/stocks/rkt/statistics/"
     },
     "TSM": {
       "take": "hold",
-      "reason": "Down 4% as Taiwan market fell about 8%; selloff is sector-wide, not TSMC-specific.",
-      "price_usd": 334.97,
-      "updated": "2026-11-25",
-      "pe_forward": 16.2,
+      "reason": "ADR down 2% Wed; Taipei shares fell 3.6% Wed then rose only 0.2% Thu while the Taiex gained 2.6%. Tariff proposal adds risk.",
+      "price_usd": 342.34,
+      "updated": "2026-11-26",
+      "pe_forward": 16.67,
       "source": "https://stockanalysis.com/stocks/tsm/statistics/"
     },
     "STRIPE": {
       "take": "hold",
-      "reason": "No new round or tender reported.",
+      "reason": "No new valuation mark or material news since the last run.",
       "price_usd": null,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "No new round or tender reported; AI capex doubts hitting public peers.",
+      "reason": "No new mark; the $15B raise at a $1.25T valuation is still closing. Anthropic trading below its $83 IPO price this week makes a 2027 OpenAI IPO harder.",
       "price_usd": null,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "mark_multiple": 7.96
     }
   },
   "headlines": [
-    "Chip selloff extends a second day midsession: MU -9%, NVDA -6%, MRVL -5%, TSM -4%; Nasdaq down about 3-4%.",
-    "US Q3 GDP revised to 4.3%; Oct core PCE 3.3% y/y. Dec 9 Fed hike odds now near 98%.",
-    "US readies tariffs up to 20% on China, EU and others, likely from January.",
-    "Compute pricing still steady: H100 rent $3.10/hr; DDR5 spot dips 0.1%, first slip in weeks.",
-    "META +2%, RKT +6%, LDI +15% buck the selloff; no company news behind them.",
-    "US closed Thu for Thanksgiving, half day Fri. Next: ISM and Marvell results Tue Dec 1 = Wed AEDT."
+    "Wed close far better than feared: Nasdaq -0.6% after -4.6% intraday; NVDA -3.9%, MU -4.5%, TSM -2.0%.",
+    "S&P put Nvidia's AA rating on negative watch over governance and reliance on Huang.",
+    "Core PCE 3.3% vs 3.2% expected; Dec 9 Fed hike odds near 98%.",
+    "Rebound names: LDI +18%, RKT +7.4%, FIGR +5.6%, META +3.4%, ENPH +2.4%.",
+    "Asia Thu: Hang Seng up about 2%, BABA about +3%; Taiex +2.6% but TSM flat.",
+    "US shut Thu for Thanksgiving, half day Fri. Next: ISM and Marvell results Tue Dec 1 = Wed AEDT."
   ]
 }
