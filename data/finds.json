@@ -1,12 +1,12 @@
 {
-  "as_of": "2026-11-26T00:07",
-  "summary": "Quiet market for loader tractors in range: most new listings are under 90hp or past 7,000 hours. Auctions are where the low-hour 100-140hp loader tractors are turning up, all with no price guide. Offset discs, rippers, diesel tanks and cabins had no new listings that beat what is already on the list.",
+  "as_of": "2026-11-26T12:07",
+  "summary": "Quiet market. No tractor under 4,500 hours with a loader turned up within 400km this run; Grays tractors are all in QLD and fork-only, dealer stock under $80k is over hours. Diesel tanks and single-tyne rippers keep surfacing cheaply on Facebook. Portable homes inside the band are still the same Cobram, Seymour, Dubbo and Young units; Grays has two more but both are 600km+ away.",
   "headlines": [
-    "Auction lead, not on the list (six tractors already better priced): 2021 JD 6140M, 663R loader, 964 hrs, Binalong 310km, AuctionsPlus closes 4pm AEDT today.",
-    "Also off-list: 2021 NH TD5.100 with loader, 2,086 hrs, Pickles Bowral 480km, bidding opens 7 Dec.",
-    "Pickles unused 1,000 L fuel tank with pump at $201 bid, closes today, Toowoomba.",
-    "All 30 live finds still listed at the same prices. Nothing sold since the last run.",
-    "Nothing new for discs, ripper or portable home worth a call."
+    "New: 1,000 L steel diesel tank with hand pump, $150, Wallaroo, 370km. Condition not stated.",
+    "New: single-tyne 3PL ripper, $500, Young, 280km.",
+    "No new tractor clears the list. 2011 JD 6830 (1,823hr, loader) re-ran on AuctionsPlus, closed 26 Nov, price hidden.",
+    "All 27 live finds re-checked and still listed at the same prices.",
+    "Grays: unused expandable container house with ensuite at $16,000 bid, but Pooraka SA, about 900km."
   ],
   "finds": [
     {
@@ -103,6 +103,28 @@
       "updated": "2026-11-26"
     },
     {
+      "key": "fb-1798730004673593",
+      "want": "deep-ripper",
+      "title": "Single-tyne 3PL tractor ripper, Young",
+      "price_aud": 500,
+      "location": "Young, NSW",
+      "distance_km": 280,
+      "detail": [
+        "single tyne on 3PL frame (photo)",
+        "seller says works well",
+        "no shear bolt or spring release visible",
+        "hp rating not stated"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1798730004673593/",
+      "verdict": "decent",
+      "why": "Right format at $500 and 280km, but the frame looks light for root work; check shank section before driving over.",
+      "status": "live",
+      "first_seen": "2026-11-26",
+      "updated": "2026-11-26",
+      "photo": "img/finds/fb-1798730004673593.jpg"
+    },
+    {
       "key": "fb-1376645941299287",
       "want": "deep-ripper",
       "title": "Jarrett single-tyne ripper with pipe layer, 3PL",
@@ -125,32 +147,6 @@
       "first_seen": "2026-10-14",
       "updated": "2026-11-26",
       "photo": "img/finds/fb-1376645941299287.jpg"
-    },
-    {
-      "key": "tradefarm-855857",
-      "want": "deep-ripper",
-      "title": "Daken 86000DC single-tine ripper, up to 100hp (new)",
-      "price_aud": 995,
-      "price_note": "inc GST, freight extra",
-      "location": "Coopers Plains, QLD (ships)",
-      "distance_km": null,
-      "detail": [
-        "up to 100hp, Cat 1/2",
-        "150 x 50 mm leg",
-        "800 mm max depth",
-        "reversible point",
-        "no shear bolt listed"
-      ],
-      "source": "Trade Farm Machinery",
-      "url": "https://farm-supplies-machinery-equipment.tradefarmmachinery.com.au/detail/daken-single-tine-ripper-up-to-100hp-galvanized--86000dc-855857",
-      "verdict": "decent",
-      "why": "800 mm rip for $995, deepest of the new units, but rated only to 100hp and freight is extra.",
-      "status": "live",
-      "ends": null,
-      "first_seen": "2026-10-29",
-      "updated": "2026-11-26",
-      "photo": "img/finds/tradefarm-855857.jpg",
-      "photo_url": "https://assets.primecreative.com.au/imagegen/max/cr/93/70/s3/digital-cougar-assets/momoads/2021/08/10/091255/60hp-ripper.JPG"
     },
     {
       "key": "pickles-62478729",
@@ -248,6 +244,28 @@
       "first_seen": "2026-10-22",
       "updated": "2026-11-19",
       "photo": "img/finds/fb-913292798511535.jpg"
+    },
+    {
+      "key": "fb-2298515717597896",
+      "want": "diesel-storage",
+      "title": "1,000 L steel diesel tank with hand pump, Wallaroo",
+      "price_aud": 150,
+      "location": "Wallaroo, NSW",
+      "distance_km": 370,
+      "detail": [
+        "1,000 L per title",
+        "horizontal steel tank, hand pump and hose in photo",
+        "condition: used - fair",
+        "no stand; clean and leak-free not confirmed"
+      ],
+      "source": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/item/2298515717597896/",
+      "verdict": "decent",
+      "why": "Cheapest 1,000 L tank on the list at $150, but 370km away with no stand and no word on condition inside.",
+      "status": "live",
+      "first_seen": "2026-11-26",
+      "updated": "2026-11-26",
+      "photo": "img/finds/fb-2298515717597896.jpg"
     },
     {
       "key": "gumtree-1345556315",
