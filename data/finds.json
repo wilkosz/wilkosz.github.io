@@ -1,12 +1,11 @@
 {
-  "as_of": "2026-11-27T00:07",
-  "summary": "Quiet week. Loader tractors in 90-140hp under 4,500 hours are still scarce within 400km; most new auction stock (Grays, Pickles, Manheim, H&P) is over 5,000 hours or has no loader. One new Lovol 90hp with loader at $51,990 is the cheapest qualifying tractor seen. Discs, rippers, fuel tanks and cabins unchanged.",
+  "as_of": "2026-11-27T12:07",
+  "summary": "Quiet week. Loader tractors in the 90-140hp band under $80k and 4,500 hours are still scarce within 400km; most dealer stock is either over 5,000 hours or over $100k. Diesel tanks, rippers and offset discs are steady with no price moves. Container cabins remain new imports at $18-24k.",
   "headlines": [
-    "New Lovol 90hp cab tractor with loader and 4-in-1, $51,990 inc GST, 0 hours, delivered.",
-    "All 28 other live finds re-checked and still listed at the same prices.",
-    "Pickles unused 1,000 L fuel tank auction closed, outcome pending; marked sold.",
-    "Passed: 2018 MF 5610 with new loader, 3,999 hours, $87,890 inc GST, Moss Vale, over budget and range.",
-    "Passed: H&P Hanwood 2015 NH T6050 with loader, $60,500, but 8,615 hours."
+    "Quiet run: nothing sold, no price changes across 28 live finds.",
+    "Young container home ($15,000) now marked Pending.",
+    "Near miss: 2014 MF 5430 with loader, 2,559 hours, Pickles Dubbo (370km), auction opens 7 Dec, no guide.",
+    "Near miss: 2014 JD 6125R with H340 loader, 3,098 hours, Zeerust VIC, price not stated."
   ],
   "finds": [
     {
@@ -579,12 +578,13 @@
         "kitchenette with lounge and dining",
         "toilet and shower",
         "sold as transportable",
-        "size not stated"
+        "size not stated",
+        "listing marked Pending on 27 Nov"
       ],
       "source": "Facebook Marketplace",
       "url": "https://www.facebook.com/marketplace/item/4498847773713057/",
       "verdict": "decent",
-      "why": "Clears the bathroom and two-room bar for $19k inside 250km, but it is homemade and the listing is thin, so inspect it.",
+      "why": "Clears the bathroom and two-room bar for $15k inside 250km, but now shows Pending, so it may be gone; homemade and thinly described.",
       "status": "live",
       "first_seen": "2026-10-27",
       "updated": "2026-11-27",
