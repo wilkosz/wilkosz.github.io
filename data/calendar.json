@@ -1,46 +1,6 @@
 {
-  "as_of": "2026-11-26",
+  "as_of": "2026-11-27",
   "events": [
-    {
-      "key": "2026-11-25-de-q4",
-      "date": "2026-11-25",
-      "time": "Before open; call 9:00am CT (Thu 2:00am AEDT)",
-      "ticker": "DE",
-      "title": "Deere fiscal Q4 results and FY27 outlook",
-      "why": "Machinery bellwether; farm demand and tariff costs",
-      "type": "earnings",
-      "link": "https://investor.deere.com/"
-    },
-    {
-      "key": "2026-11-25-us-gdp-pce",
-      "date": "2026-11-25",
-      "time": "8:30am ET = 12:30am AEDT Thu",
-      "ticker": "MACRO",
-      "title": "US Q3 GDP second estimate and October PCE inflation",
-      "type": "macro",
-      "why": "Hot on both counts. Q3 GDP revised up to 4.3% annualised (first estimate 3.4%, consensus 3.5%), the fastest in three years. October core PCE 3.3% y/y (Sep 3.1%, consensus 3.2%), the highest since late 2023; headline 3.8%; both 0.3% m/m. Personal income +0.7%. Markets now price about 98% odds of a 25bp Fed hike on Dec 9.",
-      "link": "https://longbridge.com/en/news/306802027"
-    },
-    {
-      "key": "2026-11-25-au-cpi-oct",
-      "date": "2026-11-25",
-      "time": "11:30am AEDT (released)",
-      "ticker": "MACRO",
-      "title": "Australia monthly CPI, October: 4.9% y/y (Sep 4.3%), trimmed mean 3.8%",
-      "type": "macro",
-      "why": "Headline up 0.6pt in a month, trimmed mean 3.6% to 3.8%, monthly +0.7% s.a. Puts a hike live at the Dec 8 RBA meeting and keeps AU yields under pressure.",
-      "link": "https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/oct-2026"
-    },
-    {
-      "key": "2026-11-25-beige-book",
-      "date": "2026-11-25",
-      "time": "2:00pm ET (Thu 6:00am AEDT)",
-      "ticker": "MACRO",
-      "title": "Fed Beige Book",
-      "type": "central_bank",
-      "why": "Regional prices and hiring before December FOMC.",
-      "link": "https://www.federalreserve.gov/newsevents/2026-november.htm"
-    },
     {
       "key": "2026-11-26-us-thanksgiving",
       "date": "2026-11-26",
@@ -280,6 +240,16 @@
       "type": "earnings",
       "why": "A read on AI cloud backlog and capex while AI credit spreads are widening (CoreWeave 5-year CDS about 1,314bp). Calendars estimate Dec 10; Oracle usually confirms about two weeks ahead.",
       "link": "https://days.to/oracle-earnings"
+    },
+    {
+      "key": "2026-12-11-uk-gdp",
+      "date": "2026-12-11",
+      "time": "7:00am GMT = 6:00pm AEDT Fri",
+      "ticker": "MACRO",
+      "title": "UK monthly GDP (October)",
+      "type": "macro",
+      "why": "Only scheduled macro print Dec 11-12; minor for holdings. No BLS releases Dec 11-12 (PPI is Dec 15).",
+      "link": "https://www.financecalendar.com/events/category/economic-indicators/day/2026-12-11/"
     }
   ]
 }

@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-11-27",
+    "ticker": "MU",
+    "headline": "Chips lead Black Friday rebound",
+    "summary": "Micron rose more than 7% as semiconductors rebounded and worries about AI profitability eased. The Nasdaq gained 2.3% in the shortened session.",
+    "source": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html",
+    "impact": "positive"
+  },
+  {
     "date": "2026-11-26",
     "ticker": "BABA",
     "headline": "Hang Seng rises about 2%, ending a 7-day slide; Alibaba up 3%",
@@ -629,14 +637,6 @@
     "headline": "Board not considering Huang's return, CNBC source says",
     "summary": "A person familiar told CNBC the board is focused on a national security probe into Huang and is not in talks to reinstate him; some investors want options kept open.",
     "source": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
-    "impact": "negative"
-  },
-  {
-    "date": "2026-11-16",
-    "ticker": "TSM",
-    "headline": "US interim rule curbs remote access to advanced chips via third countries",
-    "summary": "Commerce rule targets offshore data-centre workarounds; interim CEO Kress leads Nvidia's Tue call. Anthropic debut eyed Nov 19.",
-    "source": "https://marketspeaker.com/us-stocks-chip-selloff-nvidia-earnings-november-16-2026/",
     "impact": "negative"
   }
 ]
