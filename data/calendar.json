@@ -1,16 +1,6 @@
 {
-  "as_of": "2026-11-27",
+  "as_of": "2026-11-28",
   "events": [
-    {
-      "key": "2026-11-26-us-thanksgiving",
-      "date": "2026-11-26",
-      "time": "All day",
-      "ticker": "",
-      "title": "US Thanksgiving: markets closed; Fri 27 half day (1pm ET close)",
-      "type": "other",
-      "why": "Thin trading around holiday.",
-      "link": "https://www.nyse.com/markets/hours-calendars"
-    },
     {
       "key": "2026-11-28-fed-blackout",
       "date": "2026-11-28",

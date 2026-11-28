@@ -1,138 +1,138 @@
 {
-  "as_of": "2026-11-27T18:30",
-  "market_summary": "S&P 500 +1.6% and Nasdaq +2.3% in Friday's half-day session, led by chips: MU and MRVL both +7%. GPU rents held (H100 $3.07/hr, B200 $7.02/hr); DRAM spot slipped again. Neocloud credit is still the weak leg. Fed decision Dec 9 (hike expected), with Marvell earnings and AWS re:Invent first, on Tue Dec 1.",
+  "as_of": "2026-11-28T06:10",
+  "market_summary": "Weekend: US markets closed after Friday's half-day rally (S&P +1.6%, Nasdaq +2.3%, chips led). No material company news overnight. H100 on-demand median $3.95/hr, up 32% in a year. Next tests: Marvell Q3 and the AWS re:Invent keynote Tue Dec 1, then the Fed on Dec 9, where a hike is expected.",
   "takes": {
     "AMZN": {
       "take": "hold",
-      "reason": "+4.0% Friday as megacaps rebounded on Black Friday. No company news since Nov 26.",
+      "reason": "Weekend, no trading since Friday's half day. +4.0% Friday as megacaps rebounded on Black Friday. No company news since Nov 26.",
       "price_usd": 254.21,
-      "updated": "2026-11-27",
+      "updated": "2026-11-28",
       "pe_forward": 25.7,
       "source": "https://stockanalysis.com/stocks/amzn/statistics/"
     },
     "AXOS": {
       "take": "hold",
-      "reason": "+1.2% Friday. Cheap at about 9x forward. No news since Nov 26.",
+      "reason": "Weekend, no trading since Friday's half day. +1.2% Friday. Cheap at about 9x forward. No news since Nov 26.",
       "price_usd": 88.11,
-      "updated": "2026-11-27",
+      "updated": "2026-11-28",
       "pe_forward": 8.74,
       "source": "https://stockanalysis.com/stocks/ax/statistics/"
     },
     "BABA": {
       "take": "hold",
-      "reason": "+4.1% Friday on the tech rebound. Forward PE around 10. No new company news.",
+      "reason": "Weekend, no trading since Friday's half day. +4.1% Friday on the tech rebound. Forward PE around 10. No new company news.",
       "price_usd": 89.79,
-      "updated": "2026-11-27",
+      "updated": "2026-11-28",
       "pe_forward": 10.12,
       "source": "https://stockanalysis.com/stocks/baba/statistics/"
     },
     "ENPH": {
       "take": "watch",
-      "reason": "+3.8% Friday in a broad risk-on session. No company news. Still a turnaround story.",
+      "reason": "Weekend, no trading since Friday's half day. +3.8% Friday in a broad risk-on session. No company news. Still a turnaround story.",
       "price_usd": 21.66,
-      "updated": "2026-11-27",
+      "updated": "2026-11-28",
       "pe_forward": 20.54,
       "source": "https://stockanalysis.com/stocks/enph/statistics/"
     },
     "FIGR": {
       "take": "hold",
-      "reason": "+2.9% Friday. No news since Nov 26.",
+      "reason": "Weekend, no trading since Friday's half day. +2.9% Friday. No news since Nov 26.",
       "price_usd": 26.71,
-      "updated": "2026-11-27",
+      "updated": "2026-11-28",
       "pe_forward": 18.46,
       "source": "https://stockanalysis.com/stocks/figr/statistics/"
     },
     "GOOGL": {
       "take": "hold",
-      "reason": "+0.7% Friday, behind the Nasdaq's +2.3%. No new company news.",
+      "reason": "Weekend, no trading since Friday's half day. +0.7% Friday, behind the Nasdaq's +2.3%. No new company news.",
       "price_usd": 274.88,
-      "updated": "2026-11-27",
+      "updated": "2026-11-28",
       "pe_forward": 19.97,
       "source": "https://stockanalysis.com/stocks/googl/statistics/"
     },
     "LDI": {
       "take": "watch",
-      "reason": "+2.9% Friday on light volume. No forward PE is available. Mortgage rates are elevated with the 10-year near 4.9%.",
+      "reason": "Weekend, no trading since Friday's half day. +2.9% Friday on light volume. No forward PE is available. Mortgage rates are elevated with the 10-year near 4.9%.",
       "price_usd": 0.4846,
-      "updated": "2026-11-27",
+      "updated": "2026-11-28",
       "source": "https://stockanalysis.com/stocks/ldi/statistics/"
     },
     "META": {
       "take": "hold",
-      "reason": "+3.3% Friday as AI names bounced. No company news since Nov 26.",
+      "reason": "Weekend, no trading since Friday's half day. +3.3% Friday as AI names bounced. No company news since Nov 26.",
       "price_usd": 630.0,
-      "updated": "2026-11-27",
+      "updated": "2026-11-28",
       "pe_forward": 19.38,
       "source": "https://stockanalysis.com/stocks/meta/statistics/"
     },
     "MRVL": {
       "take": "hold",
-      "reason": "+7.4% Friday, among the strongest chip names as AI-profitability worries eased.",
+      "reason": "Weekend, no trading since Friday's half day. +7.4% Friday, among the strongest chip names as AI-profitability worries eased.",
       "price_usd": 140.63,
-      "updated": "2026-11-27",
+      "updated": "2026-11-28",
       "pe_forward": 24.93,
       "source": "https://stockanalysis.com/stocks/mrvl/statistics/"
     },
     "MU": {
       "take": "hold",
-      "reason": "+7.3% Friday, leading the semiconductor rebound. The forward PE of about 4 implies a steep jump in earnings.",
+      "reason": "Weekend, no trading since Friday's half day. +7.3% Friday, leading the semiconductor rebound. The forward PE of about 4 implies a steep jump in earnings.",
       "price_usd": 644.87,
-      "updated": "2026-11-27",
+      "updated": "2026-11-28",
       "pe_forward": 3.68,
       "source": "https://stockanalysis.com/stocks/mu/statistics/"
     },
     "NFLX": {
       "take": "hold",
-      "reason": "+2.6% Friday. No news since Nov 26.",
+      "reason": "Weekend, no trading since Friday's half day. +2.6% Friday. No news since Nov 26.",
       "price_usd": 60.94,
-      "updated": "2026-11-27",
+      "updated": "2026-11-28",
       "pe_forward": 16.97,
       "source": "https://stockanalysis.com/stocks/nflx/statistics/"
     },
     "NVDA": {
       "take": "hold",
-      "reason": "+0.8% Friday, lagging the chip rebound. Volatile after Huang's return as CEO; reports say S&P Global put the credit rating on negative watch over governance.",
+      "reason": "Weekend, no trading since Friday's half day. +0.8% Friday, lagging the chip rebound. Volatile after Huang's return as CEO; reports say S&P Global put the credit rating on negative watch over governance.",
       "price_usd": 150.47,
-      "updated": "2026-11-27",
+      "updated": "2026-11-28",
       "pe_forward": 10.38,
       "source": "https://stockanalysis.com/stocks/nvda/statistics/"
     },
     "RKT": {
       "take": "watch",
-      "reason": "-1.4% Friday, one of the few decliners. The 10-year yield near 4.9% and talk of Fed hikes weigh on mortgage names.",
+      "reason": "Weekend, no trading since Friday's half day. -1.4% Friday, one of the few decliners. The 10-year yield near 4.9% and talk of Fed hikes weigh on mortgage names.",
       "price_usd": 15.08,
-      "updated": "2026-11-27",
+      "updated": "2026-11-28",
       "pe_forward": 26.12,
       "source": "https://stockanalysis.com/stocks/rkt/statistics/"
     },
     "TSM": {
       "take": "hold",
-      "reason": "+3.3% Friday as the chip rally broadened. No new company news.",
+      "reason": "Weekend, no trading since Friday's half day. +3.3% Friday as the chip rally broadened. No new company news.",
       "price_usd": 353.64,
-      "updated": "2026-11-27",
+      "updated": "2026-11-28",
       "pe_forward": 16.95,
       "source": "https://stockanalysis.com/stocks/tsm/statistics/"
     },
     "STRIPE": {
       "take": "hold",
-      "reason": "No new valuation mark or tender found since Nov 26.",
+      "reason": "Weekend check: no new valuation mark or tender found. Multiple unchanged.",
       "price_usd": null,
-      "updated": "2026-11-27",
+      "updated": "2026-11-28",
       "mark_multiple": 2.27
     },
     "OPENAI": {
       "take": "hold",
-      "reason": "No new valuation mark or tender found since Nov 26.",
+      "reason": "Weekend check: no new valuation mark or tender found. Multiple unchanged.",
       "price_usd": null,
-      "updated": "2026-11-27",
+      "updated": "2026-11-28",
       "mark_multiple": 7.96
     }
   },
   "headlines": [
-    "Chips led a Black Friday bounce: MU +7.3%, MRVL +7.4%, Nasdaq +2.3% in the half day.",
-    "Every holding but RKT rose Friday; AMZN +4.0%, BABA +4.1%, NVDA lagged at +0.8%.",
-    "GPU rents steady: H100 $3.07/hr, B200 $7.02/hr; DRAM spot down on all four lines.",
-    "Marvell Q3 Tue Dec 1 after US close = Wed 8:30am AEDT; AWS re:Invent keynote same day.",
-    "Fed decision Dec 9 = Thu Dec 10 6am AEDT; a hike is expected."
+    "Quiet weekend: no material news for any holding since Friday's chip-led bounce.",
+    "Marvell Q3 call Tue Dec 1 1:30pm PT = Wed 7:30am AEST.",
+    "AWS re:Invent keynote Tue Dec 1 = Wed early morning AEST; watch Trainium and capex talk.",
+    "H100 on-demand median $3.95/hr, up 32% in a year: compute still tight.",
+    "Fed decision Dec 9 = Thu Dec 10 AEST; a hike is expected."
   ]
 }
